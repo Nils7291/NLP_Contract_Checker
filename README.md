@@ -2,10 +2,13 @@
 
 Bei erster installation oder nuestart:
 1. Virtuelle Umgebung aktivieren:
+Virtuelle Umgebung erstellen:
+uv venv
 Windows (PowerShell):
 .venv\Scripts\Activate.ps1
 macOS/Linux:
-source .venv/bin/activate
+
+
 
 2. Abhängigkeiten installieren:
 uv pip sync requirements.txt
