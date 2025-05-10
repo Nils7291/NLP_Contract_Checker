@@ -1,6 +1,6 @@
 # NLP_Contract_Checker
 
-Bei erster installation:
+Bei erster installation oder nuestart:
 1. Virtuelle Umgebung aktivieren:
 Windows (PowerShell):
 .venv\Scripts\Activate.ps1
