@@ -12,5 +12,7 @@ uv pip sync requirements.txt
 
 Neue Python-Pakete installieren und zur requirements.txt hinzufügen:
     - Neue Pakete in requirements.in schreiben
-    - im Terminal: uv pip compile requirements.in > requirements.txt
-    - umgebung syncronisieren: uv pip sync requirements.txt
+    - im Terminal: 
+        uv pip compile requirements.in > requirements.txt
+    - umgebung syncronisieren: 
+        uv pip sync requirements.txt
