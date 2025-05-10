@@ -1,0 +1,574 @@
+Dräger Software as a Service - Nutzungsbedingungen - Deutschland
+Diese Nutzungsbedingungen (nachfolgend
+„Bedingungen“) gelten für die Nutzung Cloud-basierter
+Softwarelösungen (nachfolgend „Service“), angeboten
+von Dräger Medical Deutschland GmbH und/oder Dräger
+Safety AG & Co. KGaA (nachfolgend „Anbieter“), durch
+die Unternehmung, welche die Nutzung dieses Service
+beauftragt hat (nachfolgend „Kunde“). Anbieter und
+Kunde werden zusammen als die „Parteien“ bezeichnet.
+Die folgenden Dokumente und ihre Inhalte sind
+Bestandteil dieser Bedingungen:
+- Leistungsbeschreibung des gebuchten Service
+wie auf der Produktwebseite, im
+zugrundeliegenden Angebot (nachfolgend
+„Order Form“) und den unter
+https://www.draeger.com/termsandconditions
+aufgeführten Dokumenten (zusammen
+nachfolgend „Leistungsbeschreibung“)
+beschrieben,
+- Service-spezifische Service Level Agreement in
+der jeweils aktuellen Fassung (nachfolgend
+„Service-spezifische SLA“), abrufbar unter
+https://www.draeger.com/termsandconditions.
+Die Bedingungen, die Leistungsbeschreibung, die
+Service-spezifischen SLA sowie andere Bedingungen
+und Verträge, auf die in diesen Bedingungen Bezug
+genommen wird, bilden zusammen den „Vertrag“.
+Die für den Kunden handelnde Person erklärt, dass: (i) sie
+befugt ist, rechtswirksam diesen Vertrag mit Wirkung für
+den Kunden abzuschließen und (ii) mit der Geltung dieses
+Vertrags einverstanden ist.
+1. Vertragsgegenstand
+1.1. Gegenstand des Vertrags ist die zeitlich befristete
+Nutzung des Service wie nachfolgend spezifiziert.
+1.2. Der Anbieter stellt dem Kunden den Service wie in
+der jeweils aktuellen Leistungsbeschreibung beschrieben
+zur Verfügung. Der Kunde kann auf den Service über
+einen gängigen Web-Browser zugreifen.
+1.3. Soweit nicht in den Service-spezifischen SLA
+abweichend geregelt, leistet der Anbieter Support nach
+Maßgabe der Regelungen in Ziff. 2.
+1.4. Wenn der Kunde zusätzliche Quantitäten, Module
+und/oder Funktionen zum Service hinzufügen möchte,
+werden diese gegen gesonderte Vergütung vereinbart.
+1.5. Die kostenfreie Nutzung des Service oder
+bestimmter Komponenten zu Testzwecken kann im
+Einzelfall befristet und ggf. mit eingeschränktem
+Funktionsumfang nach Maßgaben dieses Vertrags vom
+Anbieter gewährt werden (nachfolgend „Testversion“).
+1.6. Der Anbieter behält sich das Recht vor, diese
+Bedingungen jederzeit mit Wirkung für die Zukunft
+anzupassen. Dies gilt insbesondere im Falle einer
+veränderten Gesetzeslage oder wenn und soweit dies
+aus Gründen der IT-Sicherheit erforderlich ist. Die jeweils
+aktuellen Bedingungen sind unter
+https://www.draeger.com/termsandconditions abrufbar.
+2. Verfügbarkeit und Support
+2.1. Soweit nicht in service-spezifischen SLA
+abweichend geregelt, stellt der Anbieter den Service mit
+einer Verfügbarkeit von zumindest 98% im Jahresmittel
+(nachfolgend „Mindestverfügbarkeit“) zur Verfügung.
+2.2. Nicht als Ausfallzeiträume bei der Ermittlung der
+Erreichung der Mindestverfügbarkeit gelten:
+− Ausfälle aufgrund von Faktoren, die außerhalb der
+angemessenen Kontrolle des Anbieters liegen, wie
+insbesondere Naturkatastrophen, Krieg, Terrorakte,
+Unruhen, Regierungsmaßnahmen oder Ausfälle der
+allgemeinen Netz-Infrastruktur,
+− Netzwerk- oder Geräteausfälle an dem Standort des
+Kunden oder zwischen dem Standort des Kunden
+und den Komponenten, die für die Bereitstellung des
+Service genutzt werden und
+− turnusmäßige Wartungsarbeiten und
+Notfallwartungen.
+2.3. Der technische Support kann per E-Mail
+info@draeger.com und per Telefon +49 0800 882 882 0
+kontaktiert werden.
+2.4. Soweit nicht in den Service-spezifischen SLA
+abweichend geregelt, umfasst der Umfang des Supports
+im Wesentlichen die folgenden Komponenten:
+− Unterstützung des Kunden bei Problemen bei der
+Nutzung des Service,
+− Annahme, Klassifizierung und ggf. Weiterleitung
+von Störmeldungen an nachgelagerte Supportlevel
+sowie
+− Eingrenzung der Störungsursache, Fehlerdiagnose
+sowie Leistungen, die auf die Behebung der Störung
+in einem angemessenen zeitlichen Rahmen
+gerichtet sind.
+3. Änderungen des Leistungsumfangs
+3.1. Der Anbieter ist berechtigt, den Service zu
+aktualisieren oder in anderer Form zu ändern, soweit die
+Änderung unter Berücksichtigung der Interessen des
+Anbieters für den Kunden zumutbar ist. Zumutbar sind
+hierbei insbesondere alle Änderungen, die den
+wesentlichen Leistungsumfang des Service unberührt
+lassen oder aus Gründen der IT-Sicherheit oder aufgrund
+geänderter regulatorischer Rahmenbedingungen
+geboten sind.
+3.2. Bei Änderungen, die den wesentlichen
+Leistungsumfang des Service betreffen, informiert der
+Anbieter den Kunden über die anstehenden Änderungen
+mit einer angemessenen Frist im Voraus. Sofern die
+Interessen des Kunden im Einzelfall durch die
+Änderungen so nachteilig berührt werden, dass ein
+Festhalten am Vertrag nicht zugemutet werden kann, ist
+der Kunde berechtigt, den Vertrag mit einer Frist von der
+drei (3) Monaten zum Ende des Monats zu kündigen, in
+dem die Kündigung beim Anbieter eingegangen ist.
+3.3. Wird der Vertrag nicht gemäß Ziff. 3.2. fristgemäß
+gekündigt, wird der veränderte Leistungsumfang
+Vertragsbestandteil.
+3.4. Neue Funktionalitäten, die aus
+medizinprodukterechtlichen Gründen einer Einweisung
+bedürfen, wird der Kunde erst nach erfolgter Einweisung
+nutzen.
+4. Geistiges Eigentum und Nutzungsrechte an
+Daten
+4.1. Sämtliches geistiges Eigentum am Service verbleibt
+ausschließlich beim Anbieter. Ein Recht zur Nutzung des
+Service steht dem Kunden nur zu, soweit dieser Vertrag
+oder ggf. darüber hinausgehende, zwingende gesetzliche
+Vorschriften dies ausdrücklich vorsehen.
+4.2. Der Kunde erhält das nicht ausschließliche Recht,
+auf den Service als Dienstleistung über das Internet
+zuzugreifen und den Service entsprechend dieses
+Vertrags zu nutzen. Diese Berechtigung ist zeitlich
+begrenzt auf die jeweils vereinbarte Nutzungsdauer und
+inhaltlich auf dasjenige, was zur vertragsgemäßen
+Nutzung des Service erforderlich oder zwingend
+gesetzlich freigestellt ist.
+4.3. Darüber hinausgehende Nutzungsrechte bestehen
+nicht. Der Kunde ist insbesondere nicht berechtigt, den
+Service oder Komponenten hiervon
+− Dritten zugänglich zu machen;
+− zu vervielfältigen, zu veräußern, zu modifizieren, zu
+ändern, zu manipulieren, zu reparieren oder
+abgeleitete Werke zu erstellen;
+− zurückzuentwickeln, zu disassemblieren oder zu
+dekompilieren oder andere Verfahren anzuwenden,
+um den Quellcode der dem Service zugrunde
+liegenden Software abzuleiten;
+− in Anspruch zu nehmen oder so zu nutzen, dass
+keine Gebühren anfallen oder
+Nutzungsbeschränkungen oder -quoten
+überschritten werden;
+− in Verbindung mit einem Fork oder einem
+abgeleiteten Werk zu nutzen oder in automatisierter
+Weise zuzugreifen, sofern dies nicht in der
+Leistungsbeschreibung vorgesehen ist;
+− unter Umgehung der verwendeten
+Sicherheitsmechanismen zu nutzen; oder
+− zur Durchführung einer für Dritte schädlichen oder
+anderweitig rechtswidrigen Aktivität zu nutzen.
+4.4. Der Kunde stellt sicher, dass in den Service
+eingebrachte Daten nicht gegen diesen Vertrag,
+geltendes Recht oder das geistige Eigentum eines Dritten
+verstoßen.
+4.5. Während der Laufzeit des Vertrags gestattet der
+Kunde dem Anbieter die nicht-personenbezogenen
+Daten, die der Kunde in den Service einbringt,
+unentgeltlich zu nutzen, soweit dies für die Bereitstellung
+und Weiterentwicklung des Service erforderlich ist.
+4.6. Soweit Medizinprodukte betroffen sind, besteht eine
+gesetzliche Verpflichtung zur Datennutzung gem.
+Ziff. 4.5. im Zuge der Produktvigilanz. Daten, deren
+Personenbezug durch Anonymisierungsverfahren
+aufgehoben werden kann, dürfen vom Anbieter
+anonymisiert und zu den vorgenannten Zwecken
+verwendet werden. Der Kunde gewährleistet, dass er zur
+Einräumung dieser Nutzungsrechte befugt ist.
+5. Vergütung
+5.1. Die maßgebliche Gebühr (nachfolgend
+„Servicegebühr“) hängt von dem vereinbarten
+Leistungsumfang sowie von den aus der zugehörigen
+Order Form bzw. dem SAP-Angebot oder vergleichbaren
+Dokument ersichtlichen Einzelheiten ab.
+5.2. Die Abrechnung erfolgt, sofern nicht in der jeweiligen
+Order Form abweichend geregelt, jährlich im Voraus. Die
+Servicegebühr ist innerhalb von vierzehn Tagen zu
+zahlen.
+5.3. Die Preisangaben erfolgen exklusive anfallender
+Steuern und ähnlicher Gebühren, einschließlich
+Verkaufs-, Nutzungs-, Verbrauchs-, Quellen- und
+Mehrwertsteuern. Soweit das geltende Recht verlangt,
+dass der Kunde einen Betrag einbehält, ist der Kunde für
+die Zahlung der Quellensteuer verantwortlich. Die
+Servicegebühr gilt als entsprechend erhöht, sodass im
+Ergebnis alle in diesen Bedingungen bzw. der jeweiligen
+Order Form vereinbarten Gebühren Netto-Zahlbeträge
+darstellen.
+5.4. Sofern der Service kostenlos zur Verfügung gestellt
+wird, finden die Ziffern 5.1. bis 5.3. keine Anwendung. Der
+Kunde darf die Software kostenlos für den in der Order
+Form angegebenen Zeitraum nutzen.
+6. Registrierung und Kundenkonto
+6.1. Der Kunde muss während des
+Registrierungsprozesses vollständige und genaue
+Informationen angeben und diese stets korrekt und
+aktuell halten. Angaben zu Anzahl und Umfang der
+Nutzung müssen zutreffend sein. Etwaige vom Anbieter
+im Vorfeld erhaltenen Informationen zur Legitimation sind
+im Registrierungsprozess entsprechend zu verwenden
+(etwa zum Umfang der Nutzungsbefugnisse).
+6.2. Der Kunde darf seinen Benutzernamen, Passwort
+und/oder Zwei-Faktor-Authentifizierung oder sonstigen
+Login-Informationen nicht an Unbefugte weitergeben und
+muss diese mit angemessenen Vorkehrungen geheim
+halten.
+6.3. Der Kunde ist für alle Aktivitäten verantwortlich, die
+in seinem Konto stattfinden. Dies gilt unabhängig davon,
+ob sie von seinen Mitarbeitern oder einem Dritten
+(einschließlich Auftragnehmern oder Vertretern)
+durchgeführt werden. Der Anbieter und verbundene
+Unternehmen des Anbieters sind nicht für den unbefugten
+Zugriff auf das Kundenkonto verantwortlich. Der Kunde
+hat den Anbieter unverzüglich zu kontaktieren, wenn er
+Kenntnis von Anzeichen dafür erlangt, dass unbefugte
+Aktivitäten in seinem Konto stattgefunden haben könnten
+oder wenn Kontoinformationen verloren gehen oder
+gestohlen werden.
+7. Cloud-Infrastruktur
+7.1. Hinsichtlich seiner Infrastruktur-Anteile bestimmt
+sich der Nutzungsumfang des Service nach den zwischen
+dem Anbieter und seinem Cloud-Provider geltenden
+vertraglichen Beziehungen. Der Service wird auf der
+Microsoft Azure-Infrastruktur gehostet.
+7.2. Für die Beschaffung solcher Infrastrukturen und das
+damit verbundene Dienstleistungsniveau gelten
+naturgemäß bestimmte Beschränkungen und
+Bedingungen. Insbesondere richtet sich die Nutzung der
+Cloud-Infrastruktur durch den Kunden nach den
+Konditionen, die zwischen Cloud-Provider und Anbieter
+vereinbart sind. Der Leistungsumfang ergibt sich
+hinsichtlich der zugrunde liegenden IT-Infrastruktur aus
+den Bedingungen des Cloud-Providers. Die
+entsprechenden Lizenzbedingungen und Servicelevel
+sind verfügbar unter https://www.microsoft.com/enus/licensing/product-licensing/products.
+7.3. Die Datensicherung liegt in der Verantwortung des
+Kunden. Der Anbieter übernimmt keine Verantwortung für
+Fehlfunktionen oder Beeinträchtigungen jeder Art, die
+durch die dem Service zu Grunde liegende Cloud-
+Infrastruktur verursacht werden, sofern der Anbieter diese
+nicht im Einzelfall zu vertreten hat.
+8. Rechte Dritter und Open-Source-Software
+8.1. Nach bestem Wissen und Gewissen des Anbieters
+ist der Service frei von Rechten Dritter, die einer
+vertragsgemäßen Nutzung entgegenstehen würden.
+8.2. Stehen Dritten eigene Rechte zu und machen sie
+diese gegen den Kunden geltend, wird der Anbieter den
+Kunden von den geltend gemachten Ansprüche Dritter
+freistellen und sich verteidigen. Der Kunde hat (i) den
+Anbieter von der Geltendmachung solcher Rechte Dritter
+unverzüglich zumindest in Textform zu unterrichten, (ii)
+wird dem Anbieter sämtliche Vollmachten und Befugnisse
+erteilen und/oder dem Anbieter die alleinige Kontrolle
+über die Verteidigung und Geltendmachung von
+Ansprüchen übertragen, die der Anbieter für notwendig
+erachtet, um sich und den Kunden gegen die geltend
+gemachten Ansprüche Dritter zu verteidigen und
+schadlos zu halten, und (iii) hat jede vom Anbieter
+vernünftigerweise geforderte Zusammenarbeit und
+Unterstützung bei der Verteidigung gegen den Anspruch
+zu leisten. Stellt der Kunde die Nutzung des Service ein,
+um einen potentiellen Schaden zu mindern, hat er den
+Dritten darauf hinzuweisen, dass er hierdurch eine
+vorgeworfene Rechtsverletzung nicht anerkennt. Der
+Kunde ist nicht berechtigt, ohne Einwilligung des
+Anbieters Vergleiche wegen einer vorgeworfenen
+Rechtsverletzung abzuschließen.
+8.3. Ziff. 8.2. gilt entsprechend zugunsten des Anbieters,
+soweit Dritte gegen den Anbieter Ansprüche aufgrund
+von durch den Kunden eingebrachte Inhalte geltend
+machen.
+8.4. Von den oben genannten
+Freistellungsverpflichtungen ausgenommen sind
+Ansprüche, die sich aus Folgendem ergeben: (i) Nutzung
+des Service oder seiner Komponenten unter Verstoß
+gegen den Vertrag, (ii) Änderung des Service oder von
+Teilen davon und Nutzung des Service oder von Teilen
+davon, die so geändert wurden, dass ein solcher
+Anspruch ohne solche Änderungen nicht entstanden
+wäre, (iii) Nutzung des Service oder seiner Komponenten
+in Kombination mit Hardware oder Software, die nicht in
+der entsprechenden Dokumentation angegeben oder
+anderweitig vom Anbieter schriftlich genehmigt wurde,
+wenn ein solcher Anspruch ohne diese Kombination nicht
+entstanden wäre, oder (iv) die Nutzung des Service oder
+von Komponenten davon, nachdem der Anbieter den
+Kunden benachrichtigt hat, die Nutzung aufgrund eines
+Verletzungsanspruchs einzustellen.
+8.5. Soweit tatsächlich entgegenstehende Rechte Dritter
+bestehen, ist der Anbieter nach seiner Wahl berechtigt,
+(i) zusätzlich erforderliche Nutzungsrechte auf eigene
+Kosten zu erwerben, (ii) den Service in einer Weise zu
+verändern oder zu ersetzen, dass dieser Rechte Dritter
+nicht mehr verletzt ohne dabei Umfang des geschuldeten
+Service erheblich zu beeinträchtigen, (iii) wenn (i) und
+(ii) nicht wirtschaftlich oder operativ zumutbar umsetzbar
+sind, den Service mit sofortiger Wirkung zu kündigen und
+dem Kunden die Servicegebühr für die hierdurch
+entfallende Vertragslaufzeit zu erstatten.
+8.6. Der Service beinhaltet Free- und Open-SourceSoftware. In Bezug auf diese Open-Source-Elemente
+gelten die jeweils gültigen Open-SourceLizenzbedingungen vorrangig. Eine Auflistung aller
+verwendeten Free- und Open-Source-Software sowie der
+jeweils zugehörigen Lizenzbedingungen, Notices und
+Acknowledgements sind abrufbar unter
+https://www.draeger.com/opensource.
+8.7. Der Service kann proprietäre Inhalte Dritter
+enthalten, die eigenen Nutzungsbedingungen für
+Endnutzer unterliegen können und unmittelbar
+gegenüber dem Kunden gelten. Solche
+Nutzungsbedingungen sind unter
+https://www.draeger.com/termsandconditions abrufbar
+und gehen in ihrem jeweiligen Anwendungsbereich
+diesen Bedingungen vor.
+9. Haftung
+9.1. Der Anbieter haftet gegenüber dem Kunden bei
+Vorsatz, bei grober Fahrlässigkeit, bei schuldhafter
+Verletzung von Leben, Körper oder Gesundheit, bei
+Mängeln, die der Anbieter arglistig verschwiegen oder
+deren Abwesenheit er garantiert hat, sowie nach dem
+Produkthaftungsgesetz oder nach der entsprechenden
+Bestimmungen nach geltendem Recht gemäß Ziff. 14.6.
+9.2. Bei der Verletzung wesentlicher Vertragspflichten
+haftet der Anbieter auch bei grober Fahrlässigkeit und bei
+einfacher Fahrlässigkeit, begrenzt auf den
+vertragstypischen, vorhersehbaren Schaden bei
+Vertragsschluss.
+9.3. Für die einfach fahrlässige Verletzung wesentlicher
+Vertragspflichten ist die Haftung zudem jedenfalls der
+Höhe nach begrenzt auf die nach diesem Vertrag zu
+leistenden Servicegebühren im Zeitraum von zwölf
+Monaten vor Eintritt des schädigenden Ereignisses.
+9.4. Die vorstehenden Haftungsbeschränkungen gelten
+auch im Falle von Schadensersatzansprüchen des
+Kunden gegen die Mitarbeiter, Vertreter oder Organe des
+Anbieters.
+9.5. Der Kunde hat alle erforderlichen und zumutbaren
+Maßnahmen zu ergreifen, um Schäden zu verhindern
+oder zu begrenzen, insbesondere hat der Kunde für die
+regelmäßige Sicherung von Programmen und Daten im
+Rahmen eines angemessenen Back-Up-Konzepts zu
+sorgen, soweit dies nicht vertraglich vom Anbieter
+geschuldet wird. Für die Wiederbeschaffung von Daten
+haftet der Anbieter unter den vorstehend benannten
+Voraussetzungen daher nur, soweit der Kunde
+sichergestellt hat, dass diese Daten aus anderem
+Datenmaterial mit vertretbarem Aufwand rekonstruiert
+werden können und beschränkt auf eine von dem
+jeweiligen Back-up nicht erfasste „Datenspitze“.
+9.6. Weitergehende oder andere als die in dieser Ziff. 9.
+geregelten Schadensersatzansprüche gegen den
+Anbieter sind ausgeschlossen, soweit dies nach dem für
+diesen Vertrag geltenden Recht zulässig ist.
+9.7. Sofern der Service kostenlos zur Verfügung gestellt
+wird, gilt Folgendes: Die Ziffern 9.1. bis 9.6. finden keine
+Anwendung. Der Anbieter haftet allein für Vorsatz und
+grobe Fahrlässigkeit. Der Anbieter haftet für Sach- und
+Rechtsmängel nur, wenn er diese arglistig verschwiegen
+hat. Eine weitergehende Haftung ist ausgeschlossen,
+soweit dies nach dem für diesen Vertrag geltenden Recht
+zulässig ist.
+10. Laufzeit und Kündigung
+10.1. Die Laufzeit der Nutzung des Service ergibt
+sich aus der jeweiligen Order Form. Sofern in der
+jeweiligen Order Form nicht abweichend geregelt, beträgt
+die Laufzeit der Nutzung des Service jeweils ein Jahr ab
+dem in der Order Form vereinbarten Startdatum. Sie
+verlängert sich jeweils um ein weiteres Jahr, sofern sie 
+nicht von einer Partei mit einer Frist von mindestens drei
+Monaten zum Laufzeitende zumindest in Textform
+gekündigt worden ist.
+10.2. Im Falle der kostenlosen Bereitstellung des
+Service können die Parteien den Vertrag jederzeit – auch
+vor Ablauf des vereinbarten Testzeitraums – beenden.
+10.3. Das Kündigungsrecht aus wichtigem Grund
+bleibt unberührt. Ein Grund für eine solche Kündigung ist
+z. B. die Verletzung einer wesentlichen Verpflichtung aus
+dem Vertrag.
+10.4. Weiterhin kann der Anbieter den Zugang zum
+Service sofort aussetzen, wenn der Anbieter den
+begründeten Verdacht hat, dass:
+− von der Nutzung ein Risiko für den Service, den
+Anbieter und/oder einen Dritten ausgehen könnte;
+− die Nutzung des Service durch den Kunden
+rechtswidrig sein könnte;
+− der Kunde zahlungsunfähig oder überschuldet ist
+oder die Zahlungsunfähigkeit droht;
+− die zukünftige Vertragserfüllung des Kunden
+aufgrund der Vermögenssituation gefährdet
+erscheint und der Kunde nicht unverzüglich nach
+Aufforderung die Leistungsfähigkeit schriftlich
+bestätigt oder angemessene Sicherheit leistet.
+10.5. Wenn der Anbieter aus den in Ziff. 10.4.
+genannten Gründen dem Kunden den Zugang zu dem
+Service oder Teilen hiervon aussetzt, bleibt der Kunde für
+alle Gebühren und Entgelte verantwortlich, die während
+der Aussetzung entstanden sind. Der Kunde hat insoweit
+keinen Anspruch auf Gutschrift oder Rückerstattung.
+10.6. Zur Beendigung der Laufzeit des Vertrags
+erlöschen die Rechte zur Nutzung des Service. Der
+Kunde bleibt für alle etwaigen Gebühren und Entgelte
+verantwortlich, die bis zum Datum der Beendigung
+angefallen oder begründet worden sind. Der Anbieter ist
+nach Vertragsende nicht verpflichtet, etwaige in BackupSnapshots oder in der Datenbank enthaltenen Daten des
+Kunden weiterhin zu speichern.
+11. Vertraulichkeit
+11.1. Die Parteien verpflichten sich, alle Vertraulichen
+Informationen (wie unten definiert), die ihnen bei der
+Durchführung dieses Vertrages bekannt werden,
+vertraulich zu behandeln und nur für vertraglich
+vereinbarte Zwecke zu verwenden. Vertrauliche
+Informationen sind „sämtliche Informationen, Unterlagen,
+Angaben und Daten, die als solche bezeichnet sind oder
+ihrer Natur nach bei verständiger Würdigung als
+vertraulich anzusehen sind“.
+11.2. Die Parteien verpflichten sich, nur solchen
+Mitarbeitern Zugang zu Vertraulichen Informationen der
+jeweils anderen Partei zu gewähren, die zur
+Vertraulichkeit verpflichtet worden sind und zur
+Durchführung des Vertrages diese Vertraulichen
+Informationen zur Kenntnis nehmen müssen oder dürfen.
+11.3. Die Vertraulichen Informationen der jeweils
+anderen Partei sind durch angemessene Maßnahmen vor
+unbefugter Kenntnisnahme durch Dritte zu schützen.
+Keine Dritte im Sinne dieser Ziff. 11. sind Rechts- und
+Steuerberater sowie Wirtschaftsprüfer und sonstige
+Berater der jeweiligen Partei. Die Parteien werden nur
+solchen Beratern Zugang zu Vertraulichen Informationen
+gewähren, die einer beruflichen Geheimhaltungspflicht
+unterliegen oder denen zuvor den
+Geheimhaltungsverpflichtungen dieses Vertrags
+entsprechende Verpflichtungen auferlegt worden sind.
+11.4. Von dieser Vertraulichkeitsverpflichtung
+ausgenommen sind solche Vertraulichen Informationen,
+a) die dem Empfänger bei Abschluss dieses Vertrags
+nachweislich bereits bekannt waren oder danach von
+dritter Seite bekannt werden, ohne dass dadurch eine
+Vertraulichkeitsvereinbarung, gesetzliche Vorschriften
+oder behördliche Anordnungen verletzt werden,
+b) die bei Abschluss dieses Vertrags öffentlich bekannt
+sind oder danach öffentlich bekannt gemacht werden,
+soweit dies nicht auf einer Verletzung dieses
+Vertragsberuht, oder
+c) die aufgrund gesetzlicher Verpflichtungen oder auf
+Anordnung eines Gerichtes oder einer Behörde
+offengelegt werden müssen. Soweit zulässig, wird der zur
+Offenlegung verpflichtete Empfänger die andere Partei
+vorab unterrichten und ihr Gelegenheit geben, gegen die
+Offenlegung vorzugehen.
+11.5. Diese Verpflichtung zur Vertraulichkeit besteht für
+einen Zeitraum von fünf (5) Jahren nach Beendigung der
+Laufzeit dieses Vertrags fort.
+12. Datenschutz
+Im Rahmen der Erbringung von Leistungen nach diesem
+Vertrag ist nicht auszuschließen, dass der Anbieter auf
+personenbezogenen Daten aus dem
+Verantwortungsbereich des Kunden Zugriff erhält.
+Insoweit gilt der Rahmenvertrag für die
+Auftragsverarbeitung, abrufbar unter
+https://www.draeger.com/dpa, zwischen den Parteien.
+13. Höhere Gewalt
+13.1. Keine der Parteien ist für Verzögerung oder
+Nichterfüllung einer Verpflichtung aus diesem Vertrag
+verantwortlich, wenn diese Verzögerung oder
+Nichterfüllung direkt oder indirekt durch ein Ereignis
+verursacht wird, das außerhalb der zumutbaren Kontrolle
+der betroffenen Partei liegt.
+13.2. Dies gilt insbesondere für Streiks, Epidemien,
+Überschwemmungen, Unfälle, Erdbeben, Wirbelstürme,
+Aufruhr, zivile Unruhen, terroristische Handlungen,
+bewaffnete Konflikte, Blockaden, Embargos oder andere
+Ereignisse höherer Gewalt (nachfolgend
+„Hinderungsgrund“). Die betroffene Partei unterrichtet
+die andere Partei in Textform innerhalb von zehn (10)
+Tagen nach Eintritt eines solchen Hinderungsgrundes.
+13.3. Verzögert sich die Erfüllung der
+Verpflichtungen einer Partei um mehr als
+einhundertachtzig (180) Tage ab dem Tag, an dem die
+andere Partei die Mitteilung gemäß dieser Ziff. 13.
+erhalten hat, ist jede Partei zur sofortigen Kündigung
+berechtigt. Die kündigende Partei haftet nicht für
+Schäden, die in der Kündigung begründet liegen.
+13.4. Sobald kein Hinderungsgrund mehr besteht,
+nehmen die Parteien die Erfüllung des Vertrags
+unverzüglich wieder auf, sofern nicht gem. Ziff. 13.3.
+gekündigt wurde.
+14. Kein Re-export nach Russland oder Belarus
+14.1. Der Kunde verpflichtet sich, die Lieferungen
+und Leistungen des Anbieters nicht nach Russland oder
+Belarus oder zur Verwendung in Russland oder Belarus 
+zu verkaufen oder auszuführen. Eine solche
+Wiederausfuhr ist grundsätzlich untersagt.
+14.2. Das Verbot nach Ziff. 14.1. umfasst auch den
+Verkauf, die Übertragung oder die Einräumung von
+Nutzungsrechten an geistigem Eigentum und
+Geschäftsgeheimnissen sowie die Gewährung von
+Zugang zu Material und Informationen, die als geistiges
+Eigentum oder Geschäftsgeheimnis geschützt werden,
+jeweils soweit der Kunde diese vom Anbieter erhalten hat.
+Der Kunde ist verpflichtet, diese Beschränkung
+entsprechend auch seinen etwaigen Unterlizenznehmern
+aufzuerlegen. Unterlizenznehmer in diesem Sinne ist
+jeder Dritte, dem die in Satz 1 genannten Nutzungsrechte
+oder Zugangsmöglichkeiten verkauft, übertragen,
+eingeräumt oder gewährt werden.
+14.3. Die Verpflichtungen gemäß den Ziff. 14.1. und
+14.2. und das Verbot zur Ausfuhr gelten nicht, wenn die
+Lieferungen und Leistungen des Anbieters Güter oder
+Technologien beinhalten, die bezüglich der Ausfuhr nach
+Russland nicht von der Verordnung (EU) 833/2014 oder
+bezüglich der Ausfuhr nach Belarus nicht von der
+Verordnung (EU) 765/2006 in der jeweils aktuell gültigen
+Fassung erfasst werden, soweit sich aufgrund der
+Beteiligten oder des Verwendungszwecks keine weiteren
+Verbote ergeben.
+14.4. Bei Verstoß des Kunden gegen die Ziff. 14.1.
+und 14.2., ist der Anbieter gesetzlich dazu verpflichtet,
+sowohl die Geschäftsbeziehung umgehend zu
+überprüfen und angemessene Maßnahmen zu ergreifen
+als auch den Kunden der zuständigen Behörde innerhalb
+der Europäischen Union zu melden. Verstöße gegen oder
+die Umgehung von EU-Embargoregelungen können
+schwerwiegende Sanktionen einschließlich einem
+Blacklisting in der EU nach sich ziehen.
+14.5. Der Kunde verpflichtet sich, dem Anbieter auf
+Anfrage Informationen über den Endverbleib und den
+weiteren Lieferweg der Lieferungen und Leistungen des
+Anbieters umgehend schriftlich zur Verfügung zu stellen.
+15. Schlussbestimmungen
+15.1. Der Service darf nicht in einem Land eingesetzt
+werden, welches hinsichtlich des Gegenstands des
+Service Embargobestimmungen der USA, der UNO oder
+der EU unterliegt. Gleichfalls darf keine Nutzung des
+Service erfolgen, wenn die Organisation des Kunden oder
+dessen Mitarbeiter auf Embargolisten der USA, der UNO
+oder der EU geführt werden.
+15.2. Allgemeine Geschäftsbedingungen des Kunden
+finden keine Anwendung. Dies gilt auch, sofern diesen
+Bedingungen nicht ausdrücklich widersprochen wird.
+Mündliche oder schriftliche Nebenabreden zu diesem
+Vertrag bestehen nicht.
+15.3. Der Kunde kann Aufrechnungs- und
+Zurückbehaltungsrechte nur aufgrund rechtskräftig
+festgestellter oder vom Anbieter anerkannter
+Gegenforderungen geltend machen.
+15.4. Der Kunde darf den Vertrag oder die ihm hierin
+gewährten Rechte oder Pflichten nicht ohne vorherige
+schriftliche Zustimmung des Anbieters die nicht
+unangemessen verweigert oder verzögert werden darf,
+abtreten. Jeder Versuch, den Vertrag ohne diese
+schriftliche Zustimmung zu übertragen oder abzutreten,
+ist unwirksam. Der Anbieter kann diesen Vertrag an jedes
+seiner verbundenen Unternehmen oder im
+Zusammenhang mit einer Fusion, Umstrukturierung,
+Übernahme oder sonstigen Übertragung aller oder im
+Wesentlichen aller Vermögenswerte des Anbieters
+abtreten.
+15.5. Sollten einzelne Bestimmungen dieses Vertrags
+ganz oder teilweise unwirksam sein oder werden, wird die
+Wirksamkeit der übrigen Bestimmungen hierdurch nicht
+berührt. Die Parteien verpflichten sich für diesen Fall, die
+ungültige Bestimmung durch eine wirksame Bestimmung
+zu ersetzen, die dem wirtschaftlichen Zweck der
+ungültigen Bestimmung möglichst nahekommt.
+Entsprechendes gilt für etwaige Lücken dieser
+Bedingungen.
+15.6. Der Vertrag unterliegt deutschem Recht unter
+Ausschluss des UN-Kaufrechts und des internationalen
+Privatrechts. Ausschließlicher Gerichtsstand für
+Ansprüche zwischen dem Anbieter und dem Kunden
+aufgrund des Vertrags oder der Nutzung des Service ist
+Hamburg, Deutschland.

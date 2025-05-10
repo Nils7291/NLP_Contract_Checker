@@ -1,0 +1,374 @@
+Standard-Vertragsbedingungen
+SaaS- und Cloudsoftware
+
+§ 1 Vertragsgegenstand
+
+(1) Dieser Software-as-a-Service-Vertrag ist auf On-
+line-Bestellungen anwendbar.
+
+(2) Die Software wird vom Anbieter als webbasierte SaaS- bzw. Cloud-Lösung betrieben. Dem Kunden
+wird ermöglicht, die auf den Servern des Anbieters
+bzw. eines vom Anbieter beauftragten Dienstleisters
+gespeicherte und ablaufende Software über eine Inter-
+netverbindung während der Laufzeit dieses Vertrags
+für eigene Zwecke zu nutzen und seine Daten mit ihrer
+Hilfe zu speichern und zu verarbeiten und Elemente
+der Software, etwa Anmeldemasken, in seine eigene
+Webseite einzubinden.
+
+(3) Diese Vertragsbedingungen gelten ausschließlich.
+Vertragsbedingungen des Kunden finden keine An-
+wendung. Gegenbestätigungen des Kunden unter Hin-
+weis auf seine eigenen Geschäftsbedingungen wird
+ausdrücklich widersprochen.
+
+§ 2 Registrierung, Zustandekommen des
+Nutzungsvertrags
+
+(1) Indem sich der Kunde auf der Webseite www.3h.so-
+lutions oder www.trit.io mit seinem Namen, seiner E-
+Mail und seinem Unternehmen registriert, gibt er ein
+Angebot auf Abschluss dieses Nutzungsvertrags ab.
+
+(2) Der Anbieter prüft die entsprechende Anmeldung.
+Sodann geht dem Nutzer eine Bestätigungs-E-Mail mit
+seinen Zugangsdaten zu. Mit Zugang der Bestäti-
+gungs-E-Mail gilt der Vertrag als geschlossen.
+
+§ 3 Art und Umfang der Leistung
+(1) Der Anbieter stellt dem Kunden die Software in ihrer
+jeweils aktuellsten Version am Routerausgang des Re-
+chenzentrums, in dem der Server mit der Software
+steht ("Übergabepunkt"), zur Nutzung bereit. Die Soft-
+ware, die für die Nutzung erforderliche Rechenleistung
+und der erforderliche Speicher- und Datenverarbei-
+tungsplatz werden vom Anbieter bereitgestellt. Der An-
+bieter schuldet jedoch nicht die Herstellung und Auf-
+rechterhaltung der Datenverbindung zwischen den IT-
+Systemen des Kunden und dem beschriebenen Über-
+gabepunkt.
+
+(2) Soweit die Software ausschließlich auf den Servern
+des Anbieters oder eines vom Anbieter beauftragten
+Dienstleisters abläuft, bedarf der Kunde keiner urhe-
+berrechtlichen Nutzungsrechte an der Software, und
+der Anbieter räumt auch keine solche Rechte ein. Der
+Anbieter räumt dem Kunden aber für die Laufzeit des
+Vertrags das nicht-ausschließliche, nicht übertragbare
+und zeitlich auf die Dauer des Nutzungsvertrags be-
+schränkte Recht ein, die Benutzeroberfläche der Soft-
+ware zur Anzeige auf dem Bildschirm in den
+Arbeitsspeicher der vertragsgemäß hierfür verwende-
+ten Endgeräte zu laden und die dabei entstehenden
+Vervielfältigungen der Benutzeroberfläche vorzuneh-
+men.
+
+§ 4 Verfügbarkeit der Software
+(1) Der Anbieter weist den Kunden darauf hin, dass
+Einschränkungen oder Beeinträchtigungen der er-
+brachten Dienste entstehen können, die außerhalb des
+Einflussbereichs des Anbieters liegen. Hierunter fallen
+insbesondere Handlungen von Dritten, die nicht im
+Auftrag des Anbieters handeln, vom Anbieter nicht be-
+einflussbare technische Bedingungen des Internets so-
+wie höhere Gewalt. Auch die vom Kunden genutzte
+Hard- und Software und technische Infrastruktur kann
+Einfluss auf die Leistungen des Anbieters haben. So-
+weit derartige Umstände Einfluss auf die Verfügbarkeit
+oder Funktionalität der vom Anbieter erbrachten Leis-
+tung haben, hat dies keine Auswirkung auf die Ver-
+tragsgemäßheit der erbrachten Leistungen.
+
+(2) Der Kunde ist verpflichtet, Funktionsausfälle, -stö-
+rungen oder -beeinträchtigungen der Software unver-
+züglich und so präzise wie möglich beim Anbieter an-
+zuzeigen. Unterlässt der Kunde diese Mitwirkung, gilt
+§ 536c BGB entsprechend.
+
+§ 5 Rechte zur Datenverarbeitung, Datensicherung
+
+(1) Der Anbieter hält sich an die gesetzlichen Daten-
+schutzbestimmungen.
+
+(2) Der Kunde räumt dem Anbieter für die Zwecke der
+Vertragsdurchführung das Recht ein, die vom Anbieter
+für den Kunden zu speichernden Daten vervielfältigen
+zu dürfen, soweit dies zur Erbringung der nach diesem
+Vertrag geschuldeten Leistungen erforderlich ist. Der
+Anbieter ist auch berechtigt, die Daten in einem Aus-
+fallsystem bzw. separaten Ausfallrechenzentrum vor-
+zuhalten. Zur Beseitigung von Störungen ist der Anbie-
+ter ferner berechtigt, Änderungen an der Struktur der
+Daten oder dem Datenformat vorzunehmen.
+
+(3) Der Anbieter sichert die Daten des Kunden auf dem
+vom Anbieter verantworteten Server regelmäßig auf ei-
+nem externen Backup-Server. Der Kunde kann diese
+Daten, soweit technisch möglich, jederzeit zu Siche-
+rungszwecken exzerpieren und ist verpflichtet, dies in
+regelmäßigen üblichen Abständen zu tun. Soweit dies
+nicht möglich ist, stellt der Anbieter dem Kunden die
+Daten einmal monatlich als Backup zur Verfügung.
+
+(4) Wenn und soweit der Kunde auf vom Anbieter tech-
+nisch verantworteten IT-Systemen personenbezogene
+Daten Dritter verarbeitet, ist eine Auftragsdatenverar-
+beitungsvereinbarung abzuschließen.
+
+§ 6 Support
+
+(1) Ein Supportfall liegt vor, wenn die Software die ver-
+tragsgemäßen Funktionen gemäß der Produktbe-
+schreibung nicht erfüllt.
+
+(2) Meldet der Kunde einen Supportfall, so hat er eine
+möglichst detaillierte Beschreibung der jeweiligen
+Funktionsstörung zu liefern, um eine möglichst effizi-
+ente Fehlerbeseitigung zu ermöglichen.
+
+(3) Die Meldung erfolgt per E-Mail bzw. über ein vom
+Anbieter zur Verfügung gestelltes Ticketsystem und
+nur zu den üblichen Bürozeiten (montags bis freitags
+von 9.00 bis 17.00 Uhr).
+
+§ 7 Vergütung
+(1) Zahlungszeitraum und Höhe der Vergütung richten
+sich ebenso wie die Zahlungsweise nach dem jeweils
+gültigen Preisverzeichnis.
+
+(2) Verzögert der Kunde die Zahlung einer fälligen Ver-
+gütung um mehr als vier Wochen, ist der Anbieter nach
+vorheriger Mahnung mit Fristsetzung und Ablauf der
+Frist zur Sperrung des Zugangs zur Software berech-
+tigt. Der Vergütungsanspruch des Anbieters bleibt von
+der Sperrung unberührt. Der Zugang zur Software wird
+nach Begleichung der Rückstände unverzüglich wieder
+freigeschaltet. Das Recht zur Zugangssperrung be-
+steht als milderes Mittel auch dann, wenn der Anbieter
+ein Recht zur außerordentlichen Kündigung hat.
+
+(3) Der Anbieter kann nach Ablauf der Erstlaufzeit ge-
+mäß der Registrierung die Preise wie auch die Sätze
+für eine vereinbarte Vergütung nach Aufwand der all-
+gemeinen Preisentwicklung anpassen. Beträgt die Ent-
+gelterhöhung mehr als 5% kann der Kunde das Ver-
+tragsverhältnis zum Ende des laufenden Vertragsmo-
+nats kündigen.
+
+(4) Die Vergütung sonstiger Leistungen richtet sich
+nach dem jeweils gültigen Preisverzeichnis des Anbie-
+ters.
+
+§ 8 Mitwirkungspflichten des Kunden
+(1) Der Kunde wird den Anbieter bei der Erbringung der
+vertraglichen Leistungen in angemessenem Umfang
+unterstützen.
+
+(2) Die ordnungsgemäße und regelmäßige Sicherung
+seiner Daten obliegt dem Kunden. Das gilt auch für
+dem Anbieter im Zuge der Vertragsabwicklung über-
+lassene Unterlagen.
+
+(3) Für die Nutzung der Software müssen, die sich aus
+der Produktbeschreibung ergebenden Systemvoraus-
+setzungen, beim Kunden erfüllt sein. Der Kunde trägt
+hierfür selbst die Verantwortung.
+
+(4) Soweit der Kunde dem Anbieter geschützte Inhalte
+überlässt (z.B. Grafiken, Marken und sonstige urheber-
+oder markenrechtlich geschützte Inhalte), räumt er
+dem Anbieter sämtliche für die Durchführung der ver-
+traglichen Vereinbarung erforderlichen Rechte ein.
+Das umfasst insbesondere das Recht, die
+entsprechenden Inhalte der Öffentlichkeit zugänglich
+zu machen. Der Kunde versichert in diesem Zusam-
+menhang, dass er alle erforderlichen Rechte an über-
+lassenen Kundenmaterialien besitzt, um dem Anbieter
+die entsprechenden Rechte einzuräumen.
+
+(5) Der Kunde hat die ihm zur Verfügung gestellten Zu-
+gangsdaten geheim zu halten und dafür zu sorgen,
+dass etwaige Mitarbeiter, denen Zugangsdaten zur
+Verfügung gestellt werden, dies ebenfalls tun. Die Leis-
+tung des Anbieters darf Dritten nicht zur Verfügung ge-
+stellt werden, soweit das nicht von den Parteien aus-
+drücklich vereinbart wurde.
+
+§ 9 Gewährleistung
+Es gelten grundsätzlich die gesetzlichen Regelungen
+zur Gewährleistung in Mietverträgen. Die §§ 536b BGB
+(Kenntnis des Mieters vom Mangel bei Vertragsschluss
+oder Annahme), 536c BGB (Während der Mietzeit auf-
+tretende Mängel; Mängelanzeige durch den Mieter) fin-
+den Anwendung. Die Anwendung des § 536a Abs. 2
+BGB (Selbstbeseitigungsrecht des Mieters) ist jedoch
+ausgeschlossen. Ausgeschlossen ist auch die Anwen-
+dung von § 536a Abs. 1 BGB (Schadensersatzpflicht
+des Vermieters), soweit die Norm eine verschuldens-
+unabhängige Haftung vorsieht.
+
+§ 10 Haftung und Schadensersatz
+
+(1) Der Anbieter haftet für Schäden des Kunden, die
+vorsätzlich oder grob fahrlässig verursacht wurden, die
+Folge des Nichtvorhandenseins einer garantierten Be-
+schaffenheit sind, die auf einer schuldhaften Verlet-
+zung wesentlicher Vertragspflichten (so genannte Kar-
+dinalpflichten) beruhen, die Folge einer schuldhaften
+Verletzung der Gesundheit, des Körpers oder des Le-
+bens sind, oder für die eine Haftung nach dem Produkt-
+haftungsgesetz vorgesehen ist, nach den gesetzlichen
+Bestimmungen.
+
+(2) Kardinalpflichten sind solche vertraglichen Pflich-
+ten, deren Erfüllung die ordnungsgemäße Durchfüh-
+rung des Vertrages überhaupt erst ermöglichen und
+auf deren Einhaltung der Vertragspartner regelmäßig
+vertrauen darf, und deren Verletzung auf der anderen
+Seite die Erreichung des Vertragszwecks gefährdet.
+
+(3) Bei Verletzung einer Kardinalpflicht ist die Haftung
+– soweit der Schaden lediglich auf leichter Fahrlässig-
+keit beruht – beschränkt auf solche Schäden, mit deren
+Entstehung beim Einsatz der vertragsgegenständli-
+chen Software typischerweise gerechnet werden
+muss.
+
+(4) Im Übrigen ist die Haftung – gleich aus welchem
+Rechtsgrund – ausgeschlossen.
+
+(5) Resultieren Schäden des Kunden aus dem Verlust
+von Daten, so haftet der Anbieter hierfür nicht, soweit
+die Schäden durch eine regelmäßige und vollständige
+Sicherung aller relevanten Daten durch den Kunden
+vermieden worden wären. Der Kunde wird eine regel-
+mäßige und vollständige Datensicherung selbst oder
+durch einen Dritten durchführen bzw. durchführen las-
+sen und ist hierfür allein verantwortlich.
+
+§ 11 Kundendaten und Freistellung von
+Ansprüchen Dritter
+
+(1) Der Anbieter speichert als technischer Dienstleister
+Inhalte und Daten für den Kunden, die dieser bei der
+Nutzung der Software eingibt und speichert und zum
+Abruf bereitstellt. Der Kunde verpflichtet sich gegen-
+über dem Anbieter, keine strafbaren oder sonst absolut
+oder im Verhältnis zu einzelnen Dritten rechtswidrigen
+Inhalte und Daten einzustellen und keine Viren oder
+sonstige Schadsoftware enthaltenden Programme im
+Zusammenhang mit der Software zu nutzen. Insbeson-
+dere verpflichtet er sich, die Software nicht zum Ange-
+bot rechtswidriger Dienstleistungen oder Waren zu nut-
+zen. Der Kunde ist im Hinblick auf personenbezogene
+Daten von sich und seinen Nutzern verantwortliche
+Stelle und hat daher stets zu prüfen, ob die Verarbei-
+tung solcher Daten über die Nutzung der Software von
+entsprechenden Erlaubnistatbeständen getragen ist.
+
+(2) Der Kunde ist für sämtliche von ihm oder seinen
+Nutzern verwendeten Inhalte und verarbeiteten Daten
+sowie die hierfür etwa erforderlichen Rechtspositionen
+allein verantwortlich. Der Anbieter nimmt von Inhalten
+des Kunden oder seiner Nutzer keine Kenntnis und
+prüft die mit der Software genutzten Inhalte grundsätz-
+lich nicht.
+
+(3) Der Kunde verpflichtet sich in diesem Zusammen-
+hang, den Anbieter von jeder Haftung und jeglichen
+Kosten, einschließlich möglicher und tatsächlicher
+Kosten eines gerichtlichen Verfahrens, freizustellen,
+falls der Anbieter von Dritten, auch von Mitarbeitern
+des Kunden persönlich, infolge von behaupteten Hand-
+lungen oder Unterlassungen des Kunden in Anspruch
+genommen wird. Der Anbieter wird den Kunden über
+die Inanspruchnahme unterrichten und ihm, soweit
+dies rechtlich möglich ist, Gelegenheit zur Abwehr des
+geltend gemachten Anspruchs geben. Gleichzeitig
+wird der Kunde dem Anbieter unverzüglich alle ihm ver-
+fügbaren Informationen über den Sachverhalt, der Ge-
+genstand der Inanspruchnahme ist, vollständig mittei-
+len.
+
+(4) Darüber hinausgehende Schadensersatzansprü-
+che des Anbieters bleiben unberührt.
+
+§ 12 Vertragslaufzeit und Beendigung des Vertrags
+
+(1) Die Vertragslaufzeit richtet sich nach den im jeweils
+gültigen Preisverzeichnis aufgeführten Bedingungen.
+
+(2) Die außerordentliche Kündigung aus wichtigem
+Grund bleibt beiden Parteien bei Vorliegen der gesetz-
+lichen Voraussetzungen vorbehalten. Ein wichtiger
+Grund für den Anbieter liegt insbesondere dann vor,
+wenn der Kunde trotz Mahnung mehr als zwei Monate
+mit der Zahlung einer fälligen Vergütung in Verzug ist.
+Sofern der Kunde den Kündigungsgrund zu vertreten
+hat, ist der Kunde verpflichtet, dem Anbieter die verein-
+barte Vergütung abzüglich von vom Anbieter ersparter
+Aufwendungen bis zu dem Termin zu zahlen, an dem
+der Vertrag bei einer ordentlichen Kündigung frühes-
+tens enden würde.
+
+(3) Kündigungserklärungen bedürfen zu ihrer Wirk-
+samkeit der Textform. Der Textform kommt die Nut-
+zung eines Online-Self-Service-Portals, welches der
+Anbieter zur Verfügung stellt, gleich.
+
+(4) Nach Beendigung des Vertrags hat der Anbieter
+sämtliche vom Kunden überlassenen und sich noch im
+Besitz des Anbieters befindlichen Unterlagen sowie
+Datenträger, die im Zusammenhang mit dem vorlie-
+genden Vertrag stehen, an den Kunden zurückzuge-
+ben und die beim Anbieter gespeicherten Daten zu lö-
+schen, soweit keine Aufbewahrungspflichten oder -
+rechte bestehen.
+
+§ 13 Vertraulichkeit
+
+(1) Die Parteien sind verpflichtet, alle ihnen im Zusam-
+menhang mit diesem Vertrag bekannt gewordenen o-
+der bekannt werdenden Informationen über die jeweils
+andere Partei, die als vertraulich gekennzeichnet wer-
+den oder anhand sonstiger Umstände als Geschäfts-
+und Betriebsgeheimnisse (im Folgenden: "vertrauliche
+Informationen") erkennbar sind, dauerhaft geheim zu
+halten, nicht an Dritte weiterzugeben, aufzuzeichnen o-
+der in anderer Weise zu verwerten, sofern die jeweils
+andere Partei der Offenlegung oder Verwendung nicht
+ausdrücklich und schriftlich zugestimmt hat oder die In-
+formationen aufgrund Gesetzes, Gerichtsentschei-
+dung oder einer Verwaltungsentscheidung offengelegt
+werden müssen.
+
+(2) Die Informationen sind dann keine vertraulichen In-
+formationen im Sinne dieser Ziffer 13, wenn sie
+
+▪ der anderen Partei bereits zuvor bekannt waren, ohne
+dass die Informationen einer Vertraulichkeitsverpflich-
+tung unterlegen hätten,
+
+▪ allgemein bekannt sind oder ohne Verletzung der
+übernommenen Vertraulichkeitsverpflichtungen be-
+kannt werden,
+
+▪ der anderen Partei ohne Verletzung einer Vertraulich-
+keitsverpflichtung von einem Dritten offenbart werden.
+
+(3) Die Verpflichtungen nach dieser Ziffer 13 überdau-
+ern das Ende dieser Vereinbarung.
+
+§ 14 Übertragung der Rechte und Pflichten
+
+Die Abtretung der Rechte und Pflichten aus diesem
+Vertrag ist nur mit vorheriger schriftlicher Zustimmung
+des Anbieters zulässig. Der Anbieter ist berechtigt,
+Dritte mit der Erfüllung der Pflichten aus diesem Ver-
+trag zu betrauen.
+
+§ 15 Nebenabreden und Vertragsänderungen
+
+Mündliche Nebenabreden bestehen nicht. Änderungen
+und Ergänzungen dieses Vertrags bedürfen der
+Schriftform.

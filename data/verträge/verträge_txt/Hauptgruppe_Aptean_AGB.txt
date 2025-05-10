@@ -1,0 +1,1333 @@
+MASTER SOLUTION AGREEMENT 
+Terms and Conditions 
+ 
+These Master Solution Agreement Terms and Conditions are entered into by and between your company (“Customer”) and the 
+applicable Aptean legal entity (“Licensor,” and together with Customer, the “Parties”), both of whose details are set out in the 
+applicable Order Form. These Master Solution Agreement Terms and Conditions, together with all amendments thereto, Statements 
+of Work and Order Forms are collectively referred to as this “Agreement”): 
+ 
+1.  Exhibit A - Professional Services Terms:  Exhibit A sets forth the terms and conditions under which Licensor will provide 
+Professional Services under a Statement of Work or Order Form in connection with the Agreement. 
+2.  Exhibit B - Software License Terms: Exhibit B sets forth the terms and conditions governing Customer’s license of Software as 
+indicated on the applicable Order Form. 
+3.  Exhibit C – Terms Applicable to Subscription Services:  Exhibit C sets forth the terms and conditions governing Customer’s 
+use of Subscription Services, as indicated on the applicable Order Form. 
+4.     Exhibit D – Equipment Terms: Exhibit D sets forth the terms and conditions governing Customer’s purchase of Equipment, as 
+indicated on the applicable Order Form 
+5.     Exhibit E – Data Privacy and appendix 
+ 
+By signing each Order Form you are agreeing that the Agreement governs the Order Form and the purchase and/or license of the 
+Software, Subscription, Maintenance and/or Professional Services thereunder, confirming that you are authorized to do so and 
+agreeing that each Order Form shall incorporate the Agreement, except to the extent (if any) that the Agreement is expressly varied 
+within any Order Form or amendment. 
+ 
+ 
+1.     Definitions. 
+ 
+a.  “Affiliate” means any entity directly or indirectly controlling, controlled by or under common control by 
+another entity.  For purposes of this definition, “control” means the possession, directly or indirectly, of the 
+power to direct or cause the direction of the management and policies of another entity, whether through 
+the ownership of voting securities, by contract or otherwise, and the terms “controlling” and “controlled” 
+have meanings correlative to the foregoing. 
+ 
+b.   “Customer Data” means any data, information or material provided to Licensor or uploaded to the 
+Subscription Services by or on behalf of Customer in the course of Customer using the Subscription Services, 
+which may or may not include personal data, as applicable. 
+ 
+c.  “Customer Equipment” means Customer’s computer hardware, software and network infrastructure 
+used to access the 
+Service. 
+ 
+d.  “Customer Error Incident” means any Service unavailability related to Customer’s applications, Customer 
+Data, Customer’s 
+Equipment, or the acts or omissions of any User of the Service that cause a disruption or error in Service. 
+ 
+e.   “Customer Materials” means any data or materials, provided by Customer, that are used in connection with 
+the Software or Service Deliverables, such as technical information and functional specifications, user data, 
+logos, photographs, compilations of facts, artwork, animations, video or audio files, or source materials for 
+any of the foregoing. 
+ 
+f.   “Documentation” means any technical manuals, training materials, user documentation or other written 
+materials relating to the operation and functionality of the Software that Licensor may provide to Customer. 
+ 
+g.   “Equipment” means those items of third-party hardware, equipment, or accessories specified on an 
+applicable Order Form to be purchased by Customer and sold by Licensor.  The purchase price for the 
+Equipment shall be as set forth on the applicable Order Form. 
+ 
+h.   “Equipment Maintenance” means the equipment maintenance service provided to Customer by Licensor 
+under Exhibit D of the Agreement and according  to Licensor’s maintenance and support policy for the 
+applicable Equipment.  
+ 
+i.   “Intellectual  Property  Rights”  means  copyrights,  trademarks,  service  marks,  patents,  trade  secrets, 
+database rights, design rights and other related proprietary or statutory rights that have been or subsequently 
+exist pursuant to all applicable statutes, laws, regulations, treaties or common law in any country or 
+jurisdiction in the world, now or hereafter existing, and whether or not perfected, filed or recorded. 
+ 
+j.   “Internet Disruptions” means  an action or inactions of an internet  service  provider that produces 
+situations in which Customer’s connections to the internet may be impaired or disrupted, which may affect 
+Customer’s access to the Service or Software. 
+ 
+k.   “License Configuration” means the particular components, license metrics, optional modules and languages 
+of the Software licensed hereunder as set forth in the Order Form. License metrics may include, but are not 
+limited to: 
+ 
+i.    “Concurrent User License” the maximum number of users that may access the Software at any one time.   
+ii.    “Named User License” means any individual for whom there is a unique user login account permitting such 
+individual to access and use a component of the Software. Each Named User must be assigned a user login 
+account and may not permit more than one person to use this user login to access or use the Software. 
+ 
+iii.    “Transaction, Server, Device, Database or Application License” a specified number of transactions, servers, 
+databases, applications, or other metric as set forth in the Order Form that Customer may use with the 
+Software. 
+ 
+l.  “Licensor  Products  and  Services”  means  Software  (including  License  Configuration),  Subscription 
+Services,  Professional Services, Service Deliverables, Equipment Maintenance, Maintenance Services, 
+training services, Documentation, Equipment and other products and services provided by Licensor under 
+the Agreement. 
+ 
+m.  “Licensor Related Parties” means, collectively, Licensor, its Affiliates, and their respective members, 
+shareholders, partners, owners, officers, directors, employees, licensors, agents and representatives. 
+ 
+n.  “Login” means the username and password assigned by Customer for each User. 
+ 
+o.  “Maintained Equipment” means all those items of hardware and equipment that will be maintained by 
+Licensor in accordance with the Agreement. 
+ 
+p.  “Maintenance   Releases”   means   Software   updates   or   version   releases,   including   bug   fixes,  
+maintenance,  support, modifications, additions and enhancements developed after the Effective Date of 
+the applicable Order Form that Licensor generally makes available to its customers as part of Maintenance 
+Services. 
+ 
+q.  “Maintenance  Services”  means  the  maintenance  and  support  services  provided  to  Customer  by  
+Licensor according to Licensor’s maintenance and support policy for the applicable Software. 
+ 
+r.  “Maintenance Term” means the term during which Maintenance Services or Equipment Maintenance will 
+be provided as set forth in an Order Form or applicable renewal agreement. 
+ 
+s.  “Order Form” means Licensor’s order form signed by the Parties whereby Licensor agrees to supply 
+certain  Software, Subscription Services, Maintenance Services, Equipment Maintenance,  Professional 
+Services, Equipment or other products or services pursuant to the terms and conditions of the Agreement. 
+ 
+t.  “Professional  Services”  means  services  provided  to  Customer  by  Licensor  in  accordance  with  the 
+Agreement  and the applicable Statement of Work or Order Form. 
+ 
+u.  “Service Deliverables” means the items to be delivered to Customer in connection with the Professional 
+Services pursuant to a Statement of Work or Order Form, not including Software. 
+ 
+v.  “Software” means those components of proprietary Licensor software and Third Party Software, if any, in 
+either executable code or object code format, as set forth in an Order Form. 
+ 
+w.  “Subscription Services” means the hosted, on-demand or web-based services offered by Licensor as set 
+forth in an Order Form. 
+ 
+x.  “Subscription Term” means the term during which Customer receives Subscription Services. 
+ 
+y.  “Statement of Work” or “SOW” means an agreement between the Parties setting forth the agreed upon 
+scope of the Professional Services, Service Deliverables, estimated hours/work effort, billing rates and other 
+pricing information, project schedule (if applicable) and estimated delivery dates. 
+ 
+z.  “Third Party Servicers” means third parties hired by Customer to provide services, as approved in advance 
+by Licensor in writing. Upon Customer hiring a Third Party Servicer(s), Customer must ensure that the Third 
+Party Servicer(s) has agreed to the following terms: (I) confidentiality terms that are substantially similar to 
+the ones contained herein (ii) language that indicates the Software and Deliverables are owned by Licensor; 
+and (iii) a requirement that the Third-Party Servicer use the Software and Service Deliverables only for 
+providing services to the Customer in accordance with the license granted herein. 
+
+aa.  “Third Party Software”   means software or data supplied by third parties that Licensor resells, distributes 
+or otherwise provides access to as part of the Software. Customer’s use of Third Party Software is governed 
+by (i) the license terms that either come with the Third Party Software, or (ii) are made available to Customer 
+at legal.aptean.com accessed through the following link  https://legal.aptean.com/ which are incorporated 
+herein by reference or (iii) are published by the applicable Third Party Software owner. 
+ 
+bb.  “User” means any individual accessing or using the Software or Subscription Services. 
+ 
+2.  Delivery of Software. The Software shall be deemed accepted by Customer upon electronic availability. Notwithstanding the 
+foregoing, in the event any component of the Software is physically shipped, the Parties hereby agree that delivery of such 
+Software shall be F.O.B. shipping point. 
+ 
+3.     Payment Terms. 
+ 
+a.  Customer agrees to provide Licensor with complete and accurate billing and contact information. This information 
+includes Customer’s legal company name, street address, e-mail address, and name and telephone number of an 
+authorized billing contact. 
+b.  Unless otherwise set forth in an Order Form, all payments are due within thirty (30) days of the invoice date.   
+Except as expressly provided, all such payments are non-refundable. Invoices are not subject to offset or reduction 
+by Customer unless approved in writing by Licensor. Customer agrees to pay a finance charge equal to the lesser of 
+one and one-half percent (1.5%) per month or the maximum rate permitted by law on all past due amounts.  
+Payment terms in the Agreement are subject to credit approval in Licensor’s reasonable discretion and may be 
+changed based on Customer’s financial position or payment history. Customer shall reimburse Licensor for any of 
+Licensor’s reasonable costs of collecting past due amounts. All pricing terms are confidential, and Customer agrees 
+not to disclose them to any third party. 
+ 
+c.  All prices and payments in the Agreement are exclusive of all taxes, and Customer agrees to pay all national, state 
+and local sales, use, value-added, withholding and other taxes, customs duties and similar tariffs and fees based on 
+the Software, and other services provided hereunder, other than taxes imposed on Licensor’s net income. At 
+Licensor’s request, Customer shall furnish Licensor proof of payment of such taxes. 
+ 
+4.     Ownership and Copyright. 
+ 
+a.  Software and Service Deliverables. All right, title and interest (including all Intellectual Property Rights) in and to the 
+Software, Subscription Services, Service Deliverables, Documentation provided by Licensor are owned by Licensor or 
+its suppliers, as applicable, and are protected by intellectual property laws, including copyright, patent, trademark, 
+and/or trade secret laws. The Agreement is not a sale and does not convey to Customer any rights of ownership in 
+or related to the Software, Subscription Services, Documentation, Proprietary Technology or the Intellectual Property 
+Rights owned by Licensor and its suppliers. All Service Deliverables developed by Licensor pursuant to a SOW shall 
+be the property of Licensor provided, however, that Customer is hereby granted a non-exclusive and non-
+transferable license to use the Subscription Services Deliverables solely for its internal business purposes, subject to 
+the restrictions set out in the Agreement and the applicable SOW. Any rights not expressly granted herein are 
+reserved to Licensor and its licensors.   Professional Services and Service Deliverables provided by Licensor to 
+Customer are not performed on a “work for hire” basis. 
+ 
+b.     Customer Materials. Subject to Section 4(a), all right, title and interest (including all Intellectual Property Rights) in 
+and to the Customer Materials are owned by Customer or Customer’s suppliers. 
+ 
+5.     Warranty. 
+ 
+a.  Representations and Warranties.  Each Party represents and warrants that it has the legal power and authority to 
+enter into the Agreement. Customer represents and warrants that Customer has neither falsely identified itself nor 
+provided any false information to Licensor and that Customer’s billing information is correct. 
+ 
+b.  Limited Warranty.  For a period of ninety (90) days following the effective date of the Order Form in which Customer 
+licenses new  Software or  purchases additional  Subscription Services  (“Warranty  Period”),  Licensor warrants 
+that the  Software (excluding Third Party  Software)  and/or Subscription Services, will  in all material respects 
+conform to and perform in accordance with Licensor’s respective published documentation. Customer must report 
+any breach of the foregoing warranty to Licensor pursuant to Section 10(d) within the Warranty Period.  Delivery of 
+revisions, enhancements, upgrades, and new versions of the Software to Customer shall not restart or otherwise 
+affect the Warranty Period. Customer’s exclusive remedy for a breach of this warranty during the Warranty Period 
+is the correction of any material reproducible nonconformity in the Software so that it conforms to this warranty.  
+Customer’s use of the Software and or Subscription Services in breach of the Agreement shall immediately void the 
+Software Warranty.   Notwithstanding anything in the Agreement to the contrary, Licensor does not warrant the 
+Third Party Software, but Licensor will use commercially reasonable efforts to pass on to Customer the benefits of 
+any warranties Licensor has received from the Third Party Software vendors.   Customer acknowledges and agrees 
+that any warranties for Third Party Software, if any, are made solely by the Third Party Software owner. If the provider 
+of a Third Party Software ceases to make the Third Party Software available for interoperation with the Software 
+features, Licensor may cease providing those Software features without entitling the Customer to any refund or 
+other compensation. 
+ 
+c.  Warranty  Disclaimer.    THE  LIMITED  WARRANTY  EXPRESSLY  SET  FORTH  IN  SECTION  5(b)  CONSTITUTES  THE  
+SOLE  AND EXCLUSIVE WARRANTY GIVEN BY LICENSOR WITH RESPECT TO THE LICENSOR PRODUCTS AND SERVICES.  
+LICENSOR HEREBY EXPRESSLY DISCLAIMS FOR ITSELF AND ITS LICENSORS AND THEIR RESPECTIVE SUPPLIERS ALL 
+OTHER WARRANTIES OR CONDITIONS, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO, THE IMPLIED 
+WARRANTIES AND REPRESENTATIONS OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY AND NON-
+INFRINGEMENT. 
+ 
+d.  Customer acknowledges and agrees that the warranty set forth in Section 5(b) shall not apply to any Software 
+or Service Deliverables delivered to Customer prior to the date of the Agreement, if applicable, by Licensor, its 
+Affiliates or any of its respective predecessors. 
+ 
+6.     Indemnification. 
+ 
+a.  Claims Related to Software or Service Deliverables.  Subject to Section 6(b) and Section 6(e), Licensor will, at its 
+expense and under its control (including selection of counsel), defend and/or settle any claim, suit or proceeding 
+brought by a third party (each, a “Claim”) against Customer, its Affiliates, or their respective officers, directors, 
+employees  and agents  alleging  that  the  Software  (excluding  Third  Party  Software),  Subscription  Services, 
+Documentation or any Service Deliverable, as provided by Licensor, infringes any U.S., E.U., U.K. or Canadian 
+copyright, trademark, trade secret or patent, as applicable, issued as of the Effective Date of the Order Form.  In 
+addition, Licensor will pay any final judgment awarded against Customer for such Claim or any settlement amount 
+agreed to by Licensor. 
+ 
+b.  Exclusions.  Licensor will have no obligation under Section 6(a) with respect to any Claim arising out of or based 
+upon: (i) Customer’s modification of the Software or Service Deliverables; (ii) Customer’s combination or use of the 
+Software or Service Deliverable with programs not supplied or explicitly permitted by Licensor in writing; (iii) any use 
+of the Software, Subscription Services or Service Deliverables that is not in accordance with the terms of the 
+Agreement; (iv) Customer’s use, reproduction or distribution of other than the most recent or a modified version of 
+the Software or Service Deliverables provided by Licensor or available to Customer where such infringement would 
+have been avoided by Customer’s use or implementation of the most recent version of the Software or Service 
+Deliverables; (v) Customer Materials used with or incorporated in the Software or a Service Deliverable; (vi) 
+continued use of any infringing Software or Service Deliverable after being provided notice to cease use of such 
+Software or Service Deliverable; (vii) Customer Data or Customer Equipment used with the Service; (viii) continued 
+use of the Subscription Service after being provided notice to cease use of the Service. 
+ 
+c.  Enjoinment.  If Customer’s use of the Software, Subscription Service or Service Deliverables is or, in Licensor’s 
+determination, is likely to be enjoined, Licensor may, at its option and expense, without limiting its indemnity 
+obligations hereunder, procure the right for Customer to continue to use the Software or Service Deliverables or 
+modify the Software or Service Deliverables in a manner that has materially equivalent functionality so as to avoid 
+such injunction. If the foregoing options are not available on commercially reasonable terms and conditions, Licensor 
+may require the return of any such Software or Service Deliverables and refund to Customer amounts paid for such 
+Software or Service Deliverables less a credit for use based on straight line depreciation applied on a quarterly basis 
+over five (5) years from the date of initial delivery of the Software or a Service Deliverable. 
+ 
+d.  Indemnification by Customer. Subject to Section 6(e), Customer shall, at Customer’s expense, defend and/or settle 
+any claim, suit or proceeding brought by a third party against Licensor Related Parties and arising out of or related 
+to: (i)  the  Customer Materials (either alone or as incorporated into a Service Deliverable);  (ii) Customer’s 
+unauthorized use of the Software and/or Service Deliverables; (iii) Customer’s modification of the Software and/or 
+Service Deliverables without Licensor’s explicit written  consent;  (iv)  Third  Party  Servicer’s  negligence,  acts  or 
+omissions  in  connection  with  the  Software  and  Service Deliverables; (v) the Customer Data or Customer 
+Equipment; and (vi) Customer’s unauthorized use of the Subscription Services.   In addition, Customer will pay any 
+judgment awarded against Licensor or any settlement amount agreed to by Customer and any authorized expenses 
+incurred by Licensor. 
+ 
+e.  Procedure.  If a Party (the “Indemnitee”) receives any notice of a Claim or other allegation with respect to which 
+the other Party (the “Indemnitor”) has an obligation of indemnity hereunder, then the Indemnitee will, in order to 
+qualify for Indemnification under this Section 6, within twenty (20) days of receipt of such notice, give the Indemnitor 
+written notice, of such Claim or allegation setting forth in reasonable detail the facts and circumstances surrounding 
+the claim. The Indemnitee will not make any payment or incur any costs or expenses with respect to such Claim, 
+except as requested by the Indemnitor or as necessary to comply with this procedure. The Indemnitee will not make 
+any admission of liability or take any other action that limits the ability of the Indemnitor to defend the Claim.  The 
+Indemnitor shall immediately assume the full control of the defense or settlement of such Claim or allegation, 
+including the selection and employment of counsel, and shall pay all authorized and documented costs and expenses 
+of such defense. 
+
+f.  Exclusive Remedies. THE INDEMNITY AND OTHER REMEDIES SET FORTH IN THIS SECTION 6 SHALL BE THE EXCLUSIVE 
+REMEDIES OF THE PARTIES WITH RESPECT TO ANY CLAIM FOR WHICH A PARTY HAS AN OBLIGATION OR INDEMNITY 
+PURSUANT TO THIS SECTION 6. 
+ 
+7.     Limitation of Liability. 
+ 
+a.  IN NO EVENT SHALL LICENSOR OR LICENSOR RELATED PARTIES BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, 
+EXEMPLARY, CONSEQUENTIAL OR PUNITIVE DAMAGES, OR ANYDAMAGES FOR, OR COSTS INCURRED AS A RESULT 
+OF, LOSS OF TIME, LOSS OR INACCURACY OF DATA, LOSS OF PROFITS OR REVENUE, LOSS OF GOOD WILL, BUSINESS 
+INTERRUPTION, OR COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, HOWEVER ARISING, EVEN IF 
+LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. 
+ 
+b.  EXCEPT FOR PERSONAL INJURY OR DEATH CAUSED BY LICENSOR OR LICENSOR RELATED PARTIES’ NEGLIGENCE, IN 
+NO EVENT SHALL LICENSOR’S OR LICENSOR RELATED PARTIES’ AGGREGATE, CUMULATIVE LIABILITY ARISING OUT OF 
+OR RELATED TO THE AGREEMENT, WHETHER IN CONTRACT, TORT OR UNDER ANY OTHER THEORY OF LIABILITY, 
+EXCEED THE GREATER OF THE AGGREGATE PAYMENTS MADE BY CUSTOMER DURING THE TWELVE (12) MONTH 
+PERIOD IMMEDIATELY PRECEDING THE FIRST EVENT GIVING RISE TO SUCH CLAIM AND THE FEES PAID OR PAYABLE 
+UNDER THE FIRST ORDER FORM. 
+ 
+8.     Confidential Information. 
+ 
+a.  “Confidential Information” means: (i) a Party’s proprietary technology or computer software, in all versions and 
+forms of expression, whether or not the same has been patented or the copyright thereto registered, is the subject 
+of a pending patent or registration application, or forms the basis for a patentable invention (collectively the 
+“Proprietary  Technology”);  (ii)manuals,  notes,  documentation,  technical  information,  drawings,  diagrams, 
+specifications, formulas or know-how related to any of the Proprietary Technology; (iii) information regarding current 
+or proposed products, customers, contracts, the Agreement, business methods, financial data or marketing data, 
+financial results and projections, company and market strategy, product and competitive sales analysis and plans, 
+product or marketing plans, pricing plans or structures, personnel and recruiting matters, and future releases; and 
+(iv) offers or proposals which are provided by a Discloser (as defined below), including the fees charged by Discloser 
+and such Confidential Information is in written or other form. 
+ 
+b.  A Party receiving Confidential Information (“Recipient”) of the other Party (“Discloser”) shall: (i) not disclose the 
+Confidential Information to any third party at any time and Recipient shall limit disclosure of Confidential Information 
+within its own organization to its employees or its legal, financial and accounting advisors having a need to know and 
+who have agreed to be bound by the terms of the Agreement; and (ii) protect the confidentiality of the Confidential 
+Information with at least the same degree of care as Recipient uses to protect its own Confidential Information of a 
+like nature, but no less than a reasonable degree of care.  Recipient shall be entitled to disclose Confidential 
+Information solely to the extent necessary to comply with a court order or as otherwise required by law or by a 
+regulatory agency or government body, provided that Recipient shall first give notice to Discloser so as to allow 
+Discloser a reasonable opportunity to obtain a protective order for protecting the confidentiality of such information 
+(unless such notice would violate applicable law). If such protective order is not obtained, Recipient agrees to disclose 
+only that portion of the Confidential Information which it is legally required to disclose.  Recipient shall immediately 
+notify Discloser of any actual or suspected unauthorized disclosure of Confidential Information. For the avoidance of 
+doubt, the Customer may disclose the Agreement without notice to Licensor in order to comply with applicable law. 
+ 
+c.  The obligations described in Section 8(b) impose no obligation upon Recipient with respect to any Confidential 
+Information that (i) is or becomes a matter of public knowledge through no fault of Recipient; (ii) is rightfully received 
+by Recipient from a third party without a duty of confidentiality to a third party by, or with the authorization of, 
+Discloser; (iii) is disclosed by Discloser without a duty of confidentiality; or (iv) is independently developed by 
+Recipient.  The burden of proving any of the above exemptions is on Recipient. 
+ 
+d.  Upon the written request of Discloser, Recipient shall immediately destroy or return to Discloser, as requested by 
+Discloser, all Confidential Information of Discloser in its possession, together with all records in any manner 
+pertaining to any of Discloser’s Confidential Information and, upon request, provide a certificate from an authorized 
+officer of completion of the foregoing. 
+ 
+e.  The terms set forth in this Section 8 replace any prior non-disclosure or similar confidentiality agreement executed 
+between the Parties. 
+ 
+9.     Term and Termination 
+ 
+a.  Term. The Agreement shall commence on the Effective Date of the Order Form and remain in force until terminated 
+pursuant to Section 9(b). Conversely, the term for Maintenance Services, Subscription Services and any License term 
+shall be limited to the specific period set forth in the Order Form, or other agreement between the Parties, subject 
+to any renewals.   Upon expiration, any term for Maintenance Services, Equipment Maintenance,  Subscription 
+Service or License shall automatically renew for a successive term equal in duration to the immediately-preceding 
+term, unless either Party provides the other Party with at least ninety (90) days advance written notice (on headed 
+
+company paper and signed) prior to the expiration of the then current annual period that such party desires not to 
+renew. Licensor shall invoice Customer on an annual basis in advance for each annual renewal period. Fees for all 
+annual renewal periods will be due within thirty (30) days prior to the beginning of the new annual period and all 
+such payments are non-refundable. Notwithstanding any language to the contrary in the Agreement, Licensor 
+reserves the right to increase the annual fees upon at least sixty  (60) days advance written notice of such increase 
+to Customer. 
+ 
+b.  Termination.  If either Party fails to materially comply with any of the terms and conditions of the Agreement and 
+such Party fails to correct such non-compliance within thirty (30) days following written notice thereof (“Cure Period”) 
+by the other Party (the “Non-Breaching Party”), then such Non-Breaching Party may terminate the Agreement with 
+written notice to the other Party.  Failure to make timely payments is a material breach of the Agreement.  Subject 
+to applicable law, either Party may terminate the Agreement with written notice to the other Party (the “Affected 
+Party”) if: (i) a receiver is appointed for the Affected Party or Affected Party’s property; (ii) Affected Party makes an 
+assignment for the benefit of Affected Party’s creditors; (iii) any proceedings are commenced by, for or against the 
+Affected Party under any bankruptcy, insolvency or debtor’s relief law; or (iv) the Affected Party commences steps 
+to liquidate, dissolve or wind-up its business.  Licensor may, at its sole discretion, temporarily suspend Customer’s 
+rights to any Software, service or deliverable prior to exercising its right to terminate the Agreement pursuant to this 
+Section 9(b). 
+ 
+c.  Effect upon Termination.   Upon termination of the Agreement, all licenses granted herein shall automatically 
+cease and Customer shall discontinue all use of the Software, Subscription Services and Service Deliverables, and 
+destroy any copies of Software or Service Deliverables in Customer’s possession or control.   Upon Licensor’s 
+request, Customer shall deliver to Licensor a certificate executed by an authorized officer of the Customer stating 
+that Customer has destroyed all such copies of the Software and Service Deliverables. Any obligation of either Party 
+which accrued prior to termination, including without limitation, any payment due and owing, and Sections 1 
+(Definitions), 3 (Payment Terms), 4 (Ownership and Copyright), 5 (Warranty), 6 (Indemnification), 7 (Limitation of 
+Liability), 8 (Confidential Information), and 10 (Miscellaneous) shall survive. Termination of the Agreement shall also 
+automatically terminate any active Statements of Work or Maintenance Terms. 
+ 
+d.  Upon termination of the Subscription Term, Customer may request Customer Data within thirty (30) days of 
+termination and Licensor will make available to Customer an electronic copy of the Customer Data for an additional 
+fee.  Subject to applicable law, Licensor will not provide Customer Data unless all amounts due and owing for the 
+Subscription Services, including committed Subscription Services Fee for each Subscription Term, fees for the 
+Professional Services or any other fee or charge associated with Customer’s use of the Subscription Services have 
+been paid by Customer.  After such 30-day period, Licensor shall have no obligation to maintain or provide any 
+Customer Data and may  thereafter, unless legally prohibited, delete all Customer Data in its systems or otherwise 
+in its possession or under its control. 
+ 
+ 
+10.   Miscellaneous. 
+ 
+a.  Audit. During the term of the Agreement and for a period of one (1) year following Termination, upon Licensor’s 
+request, but not more than twice each year and upon reasonable notice, Customer will permit Licensor to perform 
+an audit of Customer’s records and computer systems that are relevant to Customer’s use of the Software or 
+Equipment in order to confirm Customer’s compliance with the Agreement.   Licensor will conduct any audit during 
+Customer’s normal business hours. Customer will immediately pay Licensor the amount of any additional fees that 
+are found to be payable under the Agreement as a result of any audit. If an audit reveals that Customer has underpaid 
+any fees by more than five percent (5%) of the amount properly payable, then Customer will reimburse Licensor for 
+Licensor’s entire cost of conducting the audit. 
+ 
+b.  Information Collection and Use. Notwithstanding anything to the contrary in the Agreement, Licensor may collect and 
+disclose anonymized information about Customer’s use of Licensor Products or Services.   Customer hereby grants 
+to Licensor a perpetual, non-cancelable, worldwide, royalty-free, non-exclusive right to utilize any anonymized 
+Customer Data that arises from the use of the Licensor Products and Services by Customer whether disclosed on or 
+prior to the Effective Date of the Order Form for any legitimate purpose, including the right to sublicense such data 
+to third parties, subject to all legal restrictions regarding the use and disclosure of such information. 
+ 
+c.  Governing Law.  The Agreement shall be governed exclusively by the laws of England and Wales.  The courts of 
+England and Wales shall have exclusive jurisdiction to adjudicate any dispute arising out of or relating to the 
+Agreement. Each Party hereby consents to the exclusive jurisdiction of such courts. 
+ 
+d.  Notices.  All notices under the Agreement shall be in writing and shall be deemed to have been given upon:  (i) 
+personal delivery; (ii) the next business day after mailing via overnight courier; or (iii) the first business day after 
+sending by email, except that notices of termination, breach of the Agreement or an indemnifiable Claim may not 
+be sent by email.  All notices to Customer shall be addressed to the primary contact person as designated by Customer 
+or if no contact person is designated, the current address in Licensor’s customer relationship system.  Notices to 
+Licensor shall be addressed to the attention of its General Counsel at the following address: 
+
+c/o Aptean Limited 
+7 Rushmills 
+Northampton 
+NN4 7YB Attn:  
+Legal 
+Department 
+Email:   EMEA.Legal@aptean.com 
+ 
+e.  Force Majeure.  Except for Customer’s payment obligations and notwithstanding anything to the contrary in the 
+Agreement, neither Party shall be liable for failure to perform or for delay in performance hereunder due to causes 
+beyond its reasonable control, including acts of God, fires, floods, earthquakes, accidents,  Internet service 
+interruptions or slowdowns, vandalism or “hacker” attacks, strikes (other than those involving either Party’s 
+employees), acts of war, acts of terrorism, riot, embargoes, acts of civil or military authorities, or intervention by 
+governmental authority; provided that such Party gives prompt written notice thereof to the other Party.  Any failure 
+occasioned by the foregoing shall be remedied as soon as reasonably possible. 
+ 
+f.  Customer Lists and Press.  Licensor is permitted to use Customer’s name, logo and related marks in i) lists 
+with  other customers, ii) investor presentations, iii) internal presentations, iv) required governmental filings 
+including, but not limited to, SEC filings, earnings announcements or financial presentations, and v) listings of other 
+similar relationships. 
+ 
+g.  Injunctive Relief. Customer acknowledges that the breach or threatened breach of the Agreement could give rise to 
+irreparable injury to Licensor which would be inadequately compensated in monetary damages.   Notwithstanding 
+anything in the Agreement to the contrary, Licensor shall retain the right to seek a restraining order and/or injunctive 
+relief in any court of competent jurisdiction in addition to any other legal remedies which may be available. Customer 
+agrees that Licensor will not be required to post a bond in seeking injunctive relief under the Agreement. 
+ 
+h.     Anti-Bribery Compliance; Trade Controls. Customer agrees to comply with all applicable laws, including, without 
+limitation, (i) laws prohibiting bribery and corruption (e.g. the U.S. Foreign Corrupt Practices Act of 1977 and the UK 
+Bribery Act 2010, both as amended); (ii) export, re-export, transfer and re-transfer control laws and regulations 
+(e.g. the Export Administration Regulations maintained by the U.S. Department of Commerce and the International 
+Traffic in Arms Regulations maintained by the Department of State); and (iii) trade and economic sanctions 
+maintained by the Treasury Department’s Office of Foreign Assets Control, the U.S. Department of State, the 
+European Union, and HM Treasury. Customer hereby indemnifies and holds harmless, subject to Section 6(e), to 
+the fullest extent permitted by law, Licensor Related Parties and its assigns from and against any fines, penalties, 
+judgments, settlements, and reasonable documented costs, including attorneys’ fees, that may arise as a result of 
+Customer’s and Customer’s agents’, officers’, directors’ or employees’ breach of this provision. 
+ 
+i.  Assignment.   Customer may not assign or transfer the Agreement, Customer’s interest herein or the license granted to 
+Customer herein without Licensor’s prior written consent and payment to Licensor of a transfer fee based on Licensor’s then- 
+current prevailing rates and any purported assignment in violation of this Section shall be void. 
+ 
+j.  Relationship of the Parties. The Agreement does not create a partnership, franchise, joint venture, agency, and fiduciary or 
+employment relationship between the Parties. 
+ 
+k.  Non-Solicitation of Employees.  For the term of the Agreement and a period of one (1) year thereafter, neither Party shall 
+solicit or attempt to entice away any person employed or contracted by the other Party or any of its Affiliates who was assigned 
+to and worked with it in furtherance of the Agreement and/or had access to Confidential Information, without first obtaining 
+the prior, written consent of the other Party.  Notwithstanding the forgoing, this provision shall not: i) restrict the right of a 
+Party to solicit or recruit generally in the media; ii) prohibit a Party from hiring an employee of the other Party who answers 
+any advertisement or who voluntarily applies for hire without having been initially solicited or recruited; iii) prevent the hiring 
+of a former employee of the other Party whose employment ended at least six (6) months prior to the hire date. In the event 
+a Party breaches this provision, it shall pay the other Party an amount equivalent to fifty percent (50%) of the hired employee’s 
+annual salary.  In no event shall the hiring of any employee alter or change either Party’s confidentiality obligations as set out 
+in Section 8. 
+ 
+l.  Entire Agreement, Modifications, Severability, Waivers, Reservation of Rights. These General Terms and Conditions, together 
+with all exhibits, schedules, Order Forms, Statements of Work, addenda and other amendments hereto, collectively, contains 
+the entire agreement with respect to the subject matter hereof and supersedes all previous agreements between the Parties. 
+All such ancillary documents are incorporated into the Agreement by reference. The Parties acknowledge that in entering into 
+the Agreement they have not relied on any representation, warranty or undertaking, whether oral or in writing, except for 
+those expressly incorporated herein. The Agreement may not be modified except by written instrument signed by both Parties. 
+All terms, conditions, or provisions which may appear as preprinted language or otherwise be inserted within any purchase 
+order shall be of no force and effect and acceptance of a purchase order will not constitute as a written instrument modifying 
+
+the Agreement.   If any provision of the Agreement is declared invalid or unenforceable the remaining provisions of the 
+Agreement shall remain in full force and effect.  Failure by either Party to enforce any provision of the Agreement will not be 
+deemed a waiver of future enforcement. 
+ 
+m.    Headings, Advice of Counsel, and Drafting. Headings used these Terms and Conditions are provided for convenience only and 
+will not in any way affect the meaning or interpretation of each Section. Wherever the term “including” is used, it shall mean 
+“including, but not limited to.” All references to “Sections” and “Exhibits” refer to the corresponding Sections and Exhibits of 
+the Agreement. The Parties acknowledge that they have been advised by counsel of their own choosing, played equal parts in 
+negotiating these Terms and Conditions which shall be interpreted without any bias against one Party as drafter. 
+ 
+n.  Previous License Agreements. If applicable, the Agreement shall supersede any license agreement previously executed 
+between the Parties and any such previously executed license agreement shall be terminated (the “Previous License 
+Agreement”); provided that any claims Licensor may have against Customer under the Previous License Agreement shall 
+survive such termination. Any Software, Service Deliverables, Professional Services, Maintenance Services or other similar 
+products or services previously delivered or provided by Licensor to Customer shall now be governed by the Agreement. 
+ 
+o.  Data Privacy. Customer and Licensor acknowledge that Aptean may from time to time process personal data provided by the 
+Customer in connection with the Agreement. Customer and Aptean agree that the provisions of Exhibit E (Data Privacy) shall 
+apply in relation to the processing of any such personal data. 
+ 
+p.  Contracts Rights of Third Parties Act. A person who is not a party to the Agreement shall have no right under the Contracts 
+(Rights of Third Parties) Act 1999 to enforce any of its terms.  Notwithstanding any rights that may be conferred upon third 
+parties under the Agreement, the Parties may, by agreement, rescind the Agreement or vary it in any way without the consent 
+of any third party. 
+
+
+EXHIBIT A 
+PROFESSIONAL SERVICES TERMS 
+ 
+ 
+This Exhibit A sets forth the additional terms and conditions under which Licensor will provide Professional Services in connection with the 
+solution(s) provided pursuant to the Agreement. 
+ 
+1.     Performance of Professional Services. 
+ 
+a.  Statements of Work.  Each Professional Services project Licensor undertakes on behalf of Customer shall be described in a 
+Statement of Work or Order Form setting forth the agreed upon scope of the Professional Services, Service Deliverables, 
+estimated hours/work effort, billing rates and other pricing information, project schedule (if applicable) and estimated delivery 
+dates.  Both Parties shall execute each Statement of Work, all of which shall be deemed incorporated into the Agreement.  If 
+there is a conflict between the terms set forth in the Agreement and a Statement of Work, the terms set forth in the applicable 
+Statement of Work will control. 
+ 
+b.     Tasks and Service Deliverables. 
+ 
+i.    Licensor shall perform the Professional Services and provide the Service Deliverables described in the applicable 
+Statement of Work and any Change Order Forms (as defined below) issued pursuant to the applicable SOW.  Licensor 
+and the Customer agree to work together in good faith to mitigate any delay in completion or delivery or in the 
+provision of the Professional Services. 
+ 
+ii.    Licensor shall perform the Professional Services with reasonable skill and care. 
+ 
+iii.    Licensor shall use reasonable endeavors to meet dates specified in a SOW for the delivery of Professional Services and 
+Service Deliverables. Licensor shall use commercially reasonable efforts to schedule resources upon request from the 
+Customer’s representative or their designee. 
+ 
+iv.    It  is  understood and agreed  that  Licensor’s  Professional  Services  may  include  the  provision  of  advice  and 
+recommendations, but adoption of any recommendations are the responsibility of the Customer. Licensor shall be 
+responsible for project management of Licensor’s resources and commitments however Customer shall be responsible 
+for overall management of the project. 
+ 
+v.    Time and schedule estimates are based on Licensor’s experience with other similar change or services requests in the 
+past, and the information available at the time of preparing the estimate. Licensor shall use reasonable endeavors to 
+adhere to any estimate provided, however actual effort may vary and Licensor shall keep Customer notified of effort 
+incurred and planned and progress throughout. 
+ 
+vi.    Licensor agrees to advise Customer in writing at the earliest possible time when postponing or canceling scheduled 
+activity.  In such instances, no liability shall arise, Customer will pay all fees and expenses associated with Professional 
+Services and Service Deliverables provided, and Licensor and Customer shall collaborate with reasonable commercial 
+diligence to resume or reschedule the cancelled activity. 
+ 
+c.     Customer Obligation. 
+ 
+i.    The Customer shall deploy appropriately skilled and qualified personnel in the performance of its obligations under all 
+SOWs, and shall provide information, decisions and approvals in a timely manner to facilitate the agreed delivery 
+schedule. 
+ 
+ii.    The Customer shall make available to Licensor access to all environments as required under a SOW, or as otherwise 
+agreed between the parties. 
+ 
+iii.    Licensor and the Customer will work together in good faith to mitigate any delay in completion or delivery or in the 
+provision of the Professional Services resulting, in the reasonable opinion of Licensor, from Customers failure to 
+perform its obligations as described in the applicable SOW. 
+ 
+d.     Place of Performance, Expenses and Travel Time. 
+ 
+i.    If Licensor’s personnel, agents or representatives are required to travel to a location other than one of Licensor’s 
+facilities, Customer will pay or reimburse Licensor in accordance with the payment terms set forth in the Statement of 
+Work (or Licensor’s standard terms if none are specified in the Statement of Work) for all reasonable and actual travel 
+expenses including airfare, ground transportation, lodging and meals for personnel required to travel.  Licensor will 
+adhere to its corporate travel policies and provide a copy, if requested by Customer, unless otherwise agreed in writing 
+prior to undertaking a project. Professional Services to be provided on-site at Customer’s facilities will be scheduled in 
+advance by written agreement of both parties. Both parties will use reasonable efforts to accommodate any requested 
+
+
+change in the scheduled dates for on-site services, subject to the availability of appropriate personnel.  At Customer’s 
+request, Licensor will provide receipts or other reasonably satisfactory evidence of such expenses. 
+ 
+ii.    If Licensor charges Travel Time the rate and conditions shall be agreed by Licensor and Customer in advance and set 
+out in the applicable Statement of Work. Travel time is defined as follows: (i) consultant’s roundtrip travel time from 
+consultant’s location to the Customer site; and (ii) consultant’s travel time between Customer’s sites and/or any other 
+Customer designated locations. 
+ 
+2.  Payment Terms. Unless otherwise stated in the Statement of Work, Licensor will invoice Customer for the fees on a time and materials 
+basis at the billing rates set forth in the Statements of Work for work performed.  Invoices will include a summary of all time expended 
+by Licensor for the work performed. Customer shall pay Licensor the fees within thirty (30) days from the date of invoice. 
+ 
+3.  Acceptance. Where Service Deliverables are provided as a result of Customization Services then unless otherwise specified in the SOW, 
+the following shall apply: 
+ 
+a.  Following receipt of each Service Deliverable, Customer will have thirty (30) days to perform acceptance testing of that 
+particular Service Deliverable. 
+ 
+b.  If the particular Service Deliverable does not embody the mutually agreed characteristics set forth in the applicable SOW, 
+Customer may reject such Service Deliverable by giving Licensor written notice rejecting the particular Service Deliverable, and 
+the reasons therefore, within the thirty (30) day testing period.  If Customer does not give Licensor written notice rejecting the 
+particular Service Deliverable within the thirty (30) day testing period, such Service Deliverable shall conclusively be deemed 
+accepted. 
+ 
+c.  If Customer gives Licensor written notice rejecting the particular Service Deliverable within the thirty (30) day testing period, 
+then within thirty (30) days after receipt of Customer’s notice Licensor will make any reasonable corrections or changes and 
+resubmit the Service Deliverable to Customer for further acceptance testing. 
+ 
+d.  Upon Customer’s receipt of the revised Service Deliverable, the procedure outlined in subparagraphs 3.a., 3.b. and 3.c., above 
+will be repeated until the Service Deliverable is accepted. The table below defines the severity levels which shall be allocated 
+to any issues raised relating to the Service Deliverable. The severity of the issue will be reviewed and finally determined by 
+Licensor and in some cases the Customer may be asked to provide a brief description of the impact and rationale for ‘urgent’ 
+and ‘critical’ severity levels. The severity level may change during the life of an issue. For instance, severity may be reduced 
+with a viable workaround or the inability to recreate the problem. Severity may also be upgraded based on increased frequency 
+of the issue or project deadlines. An acceptance shall occur if there are no open items with a severity level of ‘critical’ or 
+‘urgent.’ 
+ 
+i.    Severity Definition 
+ 
+1.  Critical:  The entire system or functional component is inoperable and cannot be used until 
+the error is resolved. 
+ 
+2.     Urgent: A serious error in a business critical function where no viable workaround is available. 
+ 
+3.     Standard: An error that does not stop the user progressing or a viable workaround is possible. 
+ 
+4.  Low:Errors that cause no loss of functionality, or which may be considered cosmetic or 
+annoying in nature. 
+ 
+5.  Enhancement: Feature is operating to the agreed specification/requirement however its 
+method of operation may be altered in order to deliver more business benefits. 
+ 
+e.     Customer will cooperate with Licensor to isolate, identify and resolve any problems in the Service Deliverables. 
+ 
+f.  Customer understands and agrees that Licensor makes no representations or warranties that the Service Deliverables provided 
+as a result of Customization Services will be compatible with all future releases of the Software.  Customer may be required 
+to purchase additional Professional Services hours at an agreed to price to resolve any compatibility issues. 
+ 
+4.  Change Procedure. Project costs and durations set forth in a Statement of Work are based on the scope, requirements and assumptions 
+as defined in such Statement of Work. Variance in the scope, requirements or assumptions will have an impact on the project’s time 
+and cost. Licensor utilizes a formal change control procedure to respond to and manage the changes that may occur throughout the 
+duration of a project. The purpose of this procedure is not to inhibit or prevent change, but rather to facilitate change in an orderly 
+manner. Licensor’s change control procedure is summarized below: 
+ 
+a.     Either Customer or Licensor may initiate a change order. 
+ 
+b.  Customer will work with Licensor to document all requested changes in Licensor’s standard change request form (“Change 
+Order Form”). This documentation will include a description of the change, reason for the change, areas affected, estimated 
+hours, costs and completion date. Licensor will then submit each Change Order Form to Customer for review and approval 
+before any work is started on the change. Licensor will, likewise, review and approve the changes before any work is started.
+
+c.  In the event that the Parties disagree about the proposed changes, each Party shall, within forty-eight (48) hours from the 
+report of the issue, identify a Senior Management Officer who has decision making authority for each of the respective Parties. 
+The Senior Management Officers will discuss and arrive at a mutually acceptable decision. The results of the meeting will be 
+documented and filed with the project library and any milestone dates and costs will be adjusted accordingly.
+
+EXHIBIT B 
+SOFTWARE LICENSE TERMS 
+ 
+ 
+1.     Software Licenses 
+ 
+a.  License Grant.  Licensor hereby grants to Customer, subject to the terms and conditions of the Agreement and for the period of 
+time set forth in the applicable Order Form, a personal, limited, non-exclusive, non-transferable, non-assignable license, without right of 
+sublicense, to: (i) install the Software and Service Deliverables on a certain number of servers owned or leased by Customer and maintained 
+for access solely by the Customer; and (ii) permit the Software to be accessed or used according to the License Configuration, solely for 
+Customer’s internal business purposes (the “License”). To the extent set out in the Order Form if applicable, the Software is licensed for use 
+only in connection with the computer specified in the Order Form at the location specified in the Order Form.  The location of the computer 
+may be changed by the Customer subject to agreement between the parties in writing. Temporary use of the Software on another computer 
+is permitted in the event the computer with which the Software is licensed becomes defective.   This temporary use shall be notified in writing 
+to Licensor by the Customer within one working day of the implementation of such change by the Customer and shall be limited to the time 
+reasonably required to repair the defective computer. Customer may make one copy of the Software solely for archival and back up purposes, 
+provided executable copies of the Software may be used for development and testing purposes only. Unless otherwise set forth on the 
+applicable Order Form, the License is granted solely to the Customer and not to any of its Affiliates. In the event Customer’s account becomes 
+more than thirty (30) days past due, Licensor may suspend, upon prior written notice, (x) the License; and (y) Maintenance Services. 
+ 
+b.     Users. Customer shall ensure all Users, including any third-party service providers, shall abide by these Terms and Conditions and 
+Customer shall be responsible for any violation thereof. 
+ 
+c.  Restrictions on Use.  Customer may not: (i) use, copy, modify, translate, merge or create derivative works of the Software, Service 
+Deliverables or Documentation except as expressly provided in the Agreement; (ii) disable or circumvent any licensing control 
+feature in the Software or Service Deliverables; (iii) reverse-engineer, disassemble, or decompile the Software or Service 
+Deliverables, or otherwise attempt to access or determine its underlying source code, underlying ideas,  underlying user interface 
+techniques or algorithms, or permit any such actions; (iv) sell, distribute, lend, sublicense, rent or lease all or any portion of the 
+Software or Service Deliverables; (v) use the Software or Service Deliverables on a service bureau or time-share basis or as an 
+application service provider; (vi) host, virtualize or otherwise provide access to or enable use of the Software or Service Deliverables 
+by any individual(s) not permitted to use the Software pursuant to the Agreement; (vii) disclose the results of any benchmarking of 
+the Software or Service Deliverables (whether or not obtained with Licensor’s assistance) to third parties; (viii) use the Software or 
+Service Deliverables to develop or enhance any product that competes, directly or indirectly, in Licensor’s determination, with the 
+Software or Service Deliverables; (ix) remove the copyright, trademark, or any other proprietary rights or notices included within 
+the Software or Service Deliverables or on and in the Documentation; (x) use the Software in any way that would infringe any 
+Intellectual Property Right of third parties; or (xi) use the Software or Service Deliverables in a manner that would violate any law 
+applicable to Customer or Licensor. 
+ 
+2.     Maintenance and Other Services. 
+ 
+a.  During the Maintenance Term, Licensor will provide Customer with Maintenance Services for the Software. If Customer licenses 
+additional software products during the Term, the Customer hereby agrees to renew the Term for any such additional software 
+products. After the Maintenance Term, Maintenance Services shall automatically renew for successive one-year annual periods, 
+unless either Party provides the other Party with at least ninety (90) days advance written notice (on headed company paper and 
+signed) prior to the expiration of the then current annual period that such party desires not to renew. Licensor shall invoice Customer 
+on an annual basis in advance for each annual renewal period. Fees for all annual renewal periods will be due within thirty (30) days 
+prior to the beginning of the new annual period and all such payments are non-refundable. Notwithstanding any language to the 
+contrary in the Agreement, Licensor reserves the right to increase the annual fees upon at least sixty (60)  days advance written 
+notice of such increase to Customer.  Customer may not reduce the number of licenses covered by Maintenance Services. In 
+exceptional cases, Aptean may agree to decommission licenses subject to Customer paying a reduction fee. 
+ 
+b.     Customer agrees that Maintenance Services shall be provided only by Licensor, its Affiliates or Third Party Servicers. 
+ 
+c.  Licensor’s obligation to provide Maintenance Services for Third Party Software is limited to using commercially reasonable efforts 
+to obtain Maintenance Releases from its third party suppliers.  In the event Customer cancels Maintenance Services at any time 
+prior to the end of the Maintenance Term, Customer agrees to immediately pay the outstanding maintenance fees that Licensor 
+would have received for the entire Maintenance Term. The Parties agree that this payment is to be considered liquidated damages, 
+and not a penalty, and the Parties agree that this amount is a fair and reasonable estimation of Licensor’s damages in the event 
+Customer breaches Customer’s commitment to the Maintenance Term. Customer agrees that Maintenance Services shall be 
+provided only by Licensor, its Affiliates or approved third-party servicers, whose contracts include (i) confidentiality terms that are 
+substantially similar to the ones contained herein (ii) language that indicates the Software and Deliverables are owned by Licensor; 
+and (iii) a requirement that the third-party servicer use the Software and Service Deliverables only for providing services to the 
+Customer in accordance with the license granted herein.
+
+EXHIBIT C 
+ 
+TERMS APPLICABLE TO SUBSCRIPTION SERVICES 
+ 
+Additional terms and conditions for Customers who are licensing GenomeQuest products under the Agreement and Exhibit C can be found 
+in Exhibit C Schedule 1 below. 
+ 
+Additional terms and conditions for Customers who are licensing Respond products under the Agreement and Exhibit C can be found in 
+Exhibit C Schedule 2 below. 
+ 
+1.     Subscription Services 
+ 
+a.  Licensor will provide Customer with use of the Subscription Services, which may include a browser interface and encrypted Login 
+(when required) and transmission of, access to and storage of Customer Data.  Licensor may, at its sole discretion, enhance the 
+Subscription Services from time to time, at no cost or expense to Customer. Licensor will configure the Subscription Services and 
+any Service Deliverables used in conjunction with the Subscription Services, as applicable.  Licensor will begin such configuration 
+following a Statement of Work or Order Form executed by the Parties.  Except as stated herein, Customer may not customize the 
+Subscription Services without Licensor’s prior written consent. Licensor shall provide installation of any Maintenance Releases at 
+its sole discretion, as part of the Subscription Services, at no extra charge to Customer. 
+ 
+b.  Each User may be required to have a Login with unique user identification. Licensor reserves the right to require Customer to alter 
+any password if Licensor believes it is no longer secure. Customer shall not permit more than one User to use each Login to access 
+the Subscription Services or otherwise share Login accounts, User identifications or passwords.  Customer is liable for all access to 
+the Subscription Services and activities conducted by individuals accessing the Subscription Services using the Logins, including such 
+individual’s compliance with the terms herein. 
+ 
+c.  Licensor will maintain the Subscription Services at a reputable third party Internet service provider and hosting facility, where it is 
+subject to commercially reasonable security precautions to prevent unauthorized access to the Subscription Services.  Customer 
+Data and the maintenance of Customer Data and such procedures shall comply with industry standards for the type of information 
+maintained.   However, Customer acknowledges that, notwithstanding such security precautions, use of or connection to the 
+Internet provides the opportunity for unauthorized third parties to circumvent such precautions and illegally gain access to the 
+Subscription Services, and Licensor will not be responsible for such acts, provided such acts do not arise as a direct result of 
+Licensor’s failure to provide appropriate technical and organizational security measures as required by section 1.6(c) of Exhibit E. 
+ 
+2.  Restrictions.   Customer shall use the Subscription Services solely for Customer’s internal business purposes, in compliance with 
+applicable law, and shall not:  (i) make the Subscription Services or Software available to any unauthorized third party; (ii) send or store 
+infringing, unlawful, defamatory or libelous material; (iii) send or store any Malicious Code; (iv) access the Subscription Services by any 
+means other than the Login or otherwise attempt to gain unauthorized access to, or disrupt the integrity or performance of, the 
+Subscription Services or the data contained therein; (v) modify, copy or create derivative works based on the Subscription Services; (vi) 
+reverse engineer the Subscription Services or Software; (vii) access the Subscription Services or Software for the purpose of building, 
+selling, marketing or otherwise, a competitive product or service or copying the Software or Subscription Services’ features or user 
+interface; or (viii) remove the copyright, trademark, or any other proprietary rights or notices included within the Subscription Services 
+or Software and on and in any Documentation.   Customer shall not make any attempt to overwhelm the server resources of the 
+Subscription Services or otherwise induce a denial-of-service attack on the Subscription Services through some combination of search 
+requests. If Customer engages in activity that is not a legitimate use of the Subscription Services, such as security penetration tests, 
+stress tests, spamming activity, or other activity for which the Subscription Services is not intended, such use will be considered a material 
+breach of the Agreement and Licensor may shut down Customer’s access to the Subscription Services until such activity ceases, with such 
+interruption not being counted against the above Service Availability. 
+ 
+3.     Customer Responsibilities. 
+ 
+a.  Customer agrees to abide by all applicable local, state, national and foreign laws, treaties and regulations in connection with 
+Customer’s use of the Subscription Services, including those related to data privacy, international communications and the 
+transmission of technical or personal data. Customer shall: (i) notify Licensor immediately of any unauthorized use of any Login or 
+any other known or suspected breach of security; (ii) report to Licensor immediately and use reasonable efforts to stop immediately 
+any copying or distribution of content that is known or suspected by Customer to be infringing or unlawful; and (iii) not impersonate 
+another Licensor customer or provide false identity information to gain access to or use the Subscription Services. 
+ 
+b.     Customer shall be responsible for any costs in connection with establishment and maintenance of Internet connectivity to the 
+Subscription  Services,  including,  without  limitation,  telephone  communications,  internet  service  provider  costs,  computer
+hardware, fees charged by third parties, insurance, internet access software, or any other costs incurred by Customer in accessing 
+the Subscription Services. 
+ 
+4.     Service Availability 
+ 
+Licensor shall make reasonable efforts to provide production environment service availability of 99% measured on a quarterly basis 
+(“Service Availability”) not including (i) Customer Error Incidents, (ii) Force Majeure and (iii) Internet Disruptions. In order to enable 
+Licensor to troubleshoot problems as necessary, Licensor uses an administrator account on each Customer environment and may 
+utilize manual testing to confirm such failure.  An interruption in the Subscription Services shall not be considered a breach of 
+Licensor’s obligations hereunder if: (i) Licensor promptly takes all reasonable steps to restore the Subscription Services; or (ii) the 
+interruption in Subscription Services results from a Customer Error Incident, a Force Majeure, regularly scheduled or emergency 
+maintenance, or due to an Internet Disruption. 
+ 
+5.     Customer Data. 
+ 
+a.  Licensor does not own any Customer Data. Customer, not Licensor, shall have sole responsibility for the accuracy, quality, integrity, 
+legality, reliability, appropriateness, and intellectual property ownership or right to use all Customer Data, and Licensor shall not 
+be responsible or liable for: (i) damages resulting from Licensor’s reliance on such Customer Data and/or (ii) the deletion, correction, 
+destruction, damage, or loss of any Customer Data that result from Customer’s actions.  Licensor is not responsible for restoring 
+lost Customer Data or damage to Customer’s data that results from Customer’s actions. Customer hereby grants to Licensor a non- 
+exclusive, fully-paid and royalty-free license to reproduce, distribute, perform, display and otherwise use the Customer Data solely 
+to provide the Subscription Services to Customer. Customer represents and warrants that: (i) Customer owns or otherwise has the 
+right to grant the license set forth in this Section 5(a) for the Customer Data, and (ii) the Customer Data does not violate the privacy 
+rights, publicity rights, copyright rights, or other rights of any person or entity.  Licensor has the right (but not the obligation) to 
+review any Customer Data and delete any Customer Data that in the sole judgment of Licensor violates the Agreement, is prohibited 
+content, is illegal, violates the rights, harms, or threatens the safety of any User or any other person, or creates liability for Licensor, 
+its suppliers, or any user.  Licensor reserves the right (but has no obligation) to investigate and take action in its sole discretion 
+against Customer if Customer violates this provision or any other  provision of the Agreement, including without limitation, 
+removing Customer Data from the Subscription Services, terminating the Agreement, reporting Customer to law enforcement 
+authorities, and taking legal action against Customer. 
+ 
+b.  Licensor will maintain the Customer Data on server(s) at Licensor’s designated site and provide backups to Customer’s Data in 
+accordance with Licensor’s then-current data backup policies. Licensor will use commercially reasonable efforts to perform 
+restorations to the Subscription Services in the event of a service failure. Licensor reserves the right to withhold Customer Data 
+without notice for any breach, including, without limitation, Customer’s non-payment. 
+ 
+6.     Payment. 
+ 
+a.  In addition to any other rights granted to Licensor herein, Licensor reserves the right to suspend Customer’s access to the 
+Subscription Services, upon prior written notice, if Customer’s account becomes more than thirty (30) days past due. Customer 
+agrees to pay a finance charge equal to the lesser of one and a half percent (1.5%) per month or the maximum rate permitted by 
+law on all past due amounts.   Customer shall reimburse Licensor for any of Licensor’s reasonable costs of collecting past due 
+amounts. Customer will continue to be charged for committed Users during any period of suspension. If Customer or Licensor 
+initiates termination of the Agreement, Customer will be obligated to pay the balance due on Customer’s account computed in 
+accordance with the terms set forth herein. 
+ 
+b.  Upon execution of this Agreement, Licensor shall invoice Customer, for the first twelve (12) month period of the term set forth in 
+the Order Form, and then yearly, in advance, for each subsequent twelve (12) month period, unless a different billing frequency is 
+explicitly stated in the applicable Order Form.  Customer is responsible for paying all license types that give access to Users, which 
+are ordered for the entire Subscription Term, whether or not such User access is actively used. Customer shall pay for all amounts 
+due and owing for the Subscription Services, including committed fees for Subscription Services for the Subscription Term or any 
+other fee or charge associated with Customer’s use of the Subscription Services. Customer may only reduce the number of Users 
+or other license types set forth in the Order Form at the end of each term for Subscription Services. 
+ 
+c.  Licensor reserves the right to impose a service reinstatement fee in the event Customer is suspended and thereafter request access 
+to the Subscription Services. 
+ 
+d.     Licensor shall have the right, but not the obligation, to verify the number of Users under the Agreement at the end of each month.
+
+EXHIBIT C SCHEDULE 1 
+ 
+GENOMEQUEST 
+ 
+ 
+The additional terms and conditions set forth in this Exhibit C Schedule 1 shall apply to any GenomeQuest Software licensed by Customer 
+under the Agreement. 
+ 
+Customer acknowledges and agrees as follows: 
+ 
+1.     Additional Definitions. 
+ 
+a.  “Database Content” means the databases of text, sequence records and related information exported or downloaded from 
+the Subscription Services. 
+ 
+b.     “Exports” means the result sets, databases, sequence records or related information exported or downloaded from the 
+Service. 
+ 
+c.  “Formatted Reports” means tangible or electronic documents, including Word, Excel, Plain Text, or PDF files, in a static format 
+that contain the results of queries made in Database Content during a Subscription Term. 
+ 
+d.  “IP Nucleotide Databases” means the GQ-Pat Sapphire Nucleotide, GQ-Pat GoldPlus Nucleotide, GQ-Pat Platinum Nucleotide 
+and Geneseq Nucleotide databases. 
+ 
+e.     “IP Protein Databases” means the GQ-Pat Sapphire Protein, GQ-Pat GoldPlus Protein, GQ-Pat Platinum Protein and Geneseq 
+Protein databases. 
+ 
+f.      “Sequence Search” shall mean the count of each sequence successfully searched against (i) all or a subset of the IP Nucleotide 
+Databases or (ii) all or a subset of the IP Protein Databases, including redo searches and search alerts. 
+g.     “Service” shall include Database Content. 
+2.  License Types. Customer’s access to the Software is limited to the number and type(s) of users, databases, transactions, operations 
+or other license types specified in the Order Form and shall be used in accordance with the applicable terms for each license type 
+set forth below. 
+ 
+a.  Commercial Providers – authorizes Customer and Affiliates to access and use the Service for their own internal business 
+operations. 
+ 
+b.  Authorized Services Provider – authorizes Customer to access and use the Service on behalf of specific clients for internal 
+business operations of such specific clients. 
+ 
+3.     Additional Terms; Restrictions. 
+ 
+a.  The content of Formatted Reports may not be edited or aggregated for searching or analysis.  Furthermore, it may not be 
+stored in formats commonly used for such purposes including, without limitation, XML, EMBL, SQL, and databases produced 
+by Licensor’s systems. 
+ 
+b.     For the purpose of clarity, search results containing any Database Content from the Service is not considered Customer Data. 
+All right, title and interest, including all Intellectual Property Rights, in and to the Database Content and search results provided 
+under the Service are owned by Licensor or its suppliers, as applicable. 
+ 
+c.  Export and report generation of Database Content records for edit, storage and retrieval in Customer and/or third party 
+applications and/or database systems (the “Content Exports”) is not allowed unless the applicable Order Form permits Content 
+Exports and such Content Exports are specifically set forth in the applicable Order Form.   If Content Exports are permitted  
+by an Order  Form,  Customer may  distribute  those  Content  Exports provided  the  Content Exports  are only distributed 
+to or made accessible by the Users. Notwithstanding the foregoing, during the Subscription Term, Formatted Reports that 
+contain less than 5,000 records of processed licensed Database Content may, however, be used, and in this case edited, by 
+employees, contractors, agents and/or collaborators of Customer and/or employees of Affiliates authorized by Customer to 
+use such Formatted Reports who are not Users. 
+ 
+d.     Only successful searches are counted; failed or cancelled searches are not counted. 
+ 
+4.  Acknowledgements by Customer. Customer acknowledges and agrees that (a) Licensor does not warrant in any way the contents, 
+topicality and accuracy of information, output, timeliness and results obtained by the use of the Service; (b) the Service is inherently 
+complex and Customer possesses the requisite technical expertise to evaluate any information, output and results obtained from 
+the use of the Service and the assumptions underlying the same; (c) Customer shall bear sole responsibility for the selection of the 
+Service and for determining that the Service is appropriate for use in connection with the operation of Customer’s business; and 
+(d) the Service is designed to be used solely for research purposes and may not be used in connection with the diagnosis or 
+treatment of diseases or other conditions.
+
+EXHIBIT C SCHEDULE 2 
+ 
+Respond Schedule 
+ 
+ 
+The additional terms and conditions set forth in this Schedule shall apply to any Respond Software licensed by Customer under the 
+Agreement.  If there is a conflict between the terms set forth in the Agreement and this Schedule, the terms set forth in this Schedule will 
+control. 
+ 
+Customer acknowledges and agrees as follows: 
+ 
+5.     Additional Definitions. 
+ 
+(a)    An “Application Programming Interface” or “API” is a set of commands, functions, protocols, and objects that programmers can use to 
+create software or interact with an external system. 
+ 
+(b)   “API Request” means, in the context of the Respond software, a request that is sent to an API for the purpose of either (i) sending 
+data originating from the Respond software to an external system (“Server API”) or (ii) sending data originating from an external 
+system to the Respond software (“Web Services API”). 
+ 
+(c)    “Aptean’s Respond SaaS Policies” means, collectively, the security policies and procedures implemented for Respond SaaS within the 
+Amazon Web Services environment and the Respond SaaS disaster recovery process. as amended from time to time, and published on 
+the following URLs: 
+ 
+Security page:  http://apteanrespond.com/SaaS-Security-057/Respond-SaaS-Security-latest.php 
+Disaster Recovery page: http://apteanrespond.com/SaaS-Security-057/Respond-SaaS-DR-latest.php 
+username: security 
+password: CP#FTN8$SITP (this password will be updated on a periodic basis; the Quick Links section will always contain the latest 
+password) 
+ 
+(d)   “Case” means each case record created by a User in the Respond Software (containing one or more issues) and that is identified by a 
+unique reference number. 
+ 
+(e)     A “Case License” or “Per Case License” means a license that entitles Customer to use the Respond Software for which the license is 
+granted including Case Agent, Advanced Case Agent, Case Handler, Team Leader/Advanced Case Handler, Super User, Administrator 
+(for both named and concurrent use) without limitation as to the number of Users, but on a per Case basis, and its use for processing 
+Cases is restricted to a defined maximum number of Cases per annum. For clarity, once the licensed maximum number of Cases has 
+been reached in any annual period, Customer shall be obliged to purchase a license for any additional Cases in excess of that maximum. 
+Customer may not carry forward any unused Cases from one annual period to the next. Customer is not entitled to any refund for any 
+unused Cases. 
+ 
+6.       Data Storage Limits for the Service. 
+ 
+(a)     The maximum limit of active data storage for the Service is defined in the Order Form. This storage limit is calculated from storage 
+requirements for active database files or customer stored static content (for example case attachments). Storage limits are not 
+impacted by Aptean’s disaster recovery or high availability solutions (such as database backups, file backups or volume snapshots). Data 
+will be retained for 3 months for recovery purposes. Non-standard data retention requests may count towards storage limits. 
+ 
+(b)   If the Customer exceeds the storage limit defined in the Order Form, Customer shall purchase additional storage at Aptean’s then- current 
+prevailing rates subject to a minimum order of 5GB. As at the date of signing this Agreement the current prevailing rate is GBP 
+48.00 for EMEA or USD  60.00 for North America per 5GB per year. 
+ 
+(c)    Aptean will maintain the Customer Data on server(s) at Aptean’s designated site and provide backups to Customer’s Data in accordance 
+with Aptean’s SaaS Policies. 
+ 
+7.       Changes to Users/Cases 
+ 
+(a)     At any time, Customer may add Cases/Users via an executed amendment between the Parties, subject to the provisions of the 
+Agreement. Added Cases/Users will be subject to the following: added committed Cases/Users will be coterminous with the preexisting 
+Subscription Term (either Initial Subscription Term or renewal term).  Any such additional Cases/Users will be charged an additional 
+fee.    Customer will pay for any increase in Cases/Users at the time of execution of the amendment setting forth the additional 
+Cases/Users.  Customer may only reduce the number of Cases/Users set forth in the Order Form attached to this Agreement, plus any 
+additional Cases/Users purchased via an amendment to this Agreement, as applicable, at the end of each Subscription Term via an 
+executed amendment between the Parties.  All pricing terms are confidential, and Customer agrees not to disclose them to any third 
+party.  Aptean’s fees are exclusive of all taxes, levies, or duties imposed by taxing authorities, and Customer shall be responsible for 
+payment of all such taxes, levies, or duties, excluding only taxes based solely on Aptean’s income. At Aptean’s request, Customer shall
+furnish Aptean proof of payment of such taxes. Fees are not subject to set-off or reduction by Customer without Aptean’s prior written 
+consent. 
+ 
+(b)     In addition to any other rights granted to Aptean herein, Aptean reserves the right to suspend Customer’s access to the Service if 
+Customer’s account becomes delinquent (falls into arrears). Customer agrees to pay a finance charge equal to the lesser of one and a 
+half percent (1.5%) per month or the maximum rate permitted by law on all overdue amounts.  Customer shall reimburse Aptean for 
+any of Aptean’s reasonable costs of collecting overdue amounts. Customer will continue to be charged for committed Cases/Users 
+during any period of suspension. If Customer or Aptean initiates termination of this Agreement, Customer will be obligated to pay the 
+balance due on Customer’s account computed in accordance with the terms set forth herein. 
+ 
+(c)     Notwithstanding any contrary provision contained herein, Aptean shall have the right, but not the obligation, to verify the number of 
+Cases/Users under this Agreement at the end of each month. 
+ 
+4.       Service Reinstatement. 
+ 
+Aptean reserves the right to impose a service reinstatement fee at its then current rates in force from time to time in the event Customer 
+is suspended and thereafter request access to the Service. As at the Effective Date of this Agreement the service reinstatement fee is 
+GBP 1,500.00 for EMEA and USD 2,000.00 for North America. 
+ 
+5.       Customer Data on Termination. 
+ 
+Customer may request Customer Data within thirty (30) days of termination and Aptean will make available to Customer an electronic 
+copy of the Customer Data for an additional fee calculated at its then current rates in force from time to time. Aptean’s rates at the 
+Effective Date of this Agreement for providing the Customer Data in Aptean’s standard format is the greater of (i) GBP 1,250.00 for 
+EMEA and USD 1,750.00 for North America and (ii) GBP 0.01 per Case for EMEA and USD 0.02 per Case for North America. 
+ 
+6.       IP Restriction. 
+ 
+IP Restriction is an additional security feature which can be purchased by Customer for limiting access to the Customer’s Respond 
+website only to trusted IP address(es).  IP Restriction  prevents access to the Customer’s Respond website from IP address(es) other 
+than those which are  designated as trusted. Trusted IP  addresses consist of the following: (i) Aptean’s own IP  addresses, for 
+maintenance purposes (ii) Aptean’s trusted technology partner IP addresses, for delivery of the Respond SaaS service; and (iii) any 
+trusted IP address(es) or IP range(s) provided by Customer. Customer acknowledges that it is required to submit to Aptean Customer’s 
+trusted IP address(es) or IP range(s) in order to activate this security feature and no IP addresses will be restricted unless and until 
+Customer provides Aptean with such trusted IP address(es) or IP range(s). 
+ 
+7.       APIs 
+ 
+The following terms and conditions govern the extent to which Customer may run API Requests in relation to the Service. 
+ 
+The maximum number of API Requests that Customer is permitted to run per calendar day using the Respond Software (“Total API Request 
+Limits”) is as set forth in the table hereunder and is based on: (i) the API type; (ii) the applicable License Level; and (iii) the API Type, as set 
+forth in the Order Form. 
+
+  License Level 
+API Type  Bronze (free tier)  Silver  Gold  Platinum 
+Server API 
+Case Capture  75  650  1600  4000 
+Component 
+Entity Events  Unlimited  Unlimited  Unlimited  Unlimited 
+Component 
+File Storage Provider  0 (zero)  0 (zero)  0 (zero)  0 (zero) 
+Cost Authorisation  Unlimited  Unlimited  Unlimited  Unlimited 
+Provider 
+Web Services API 
+Web-Services  0 (zero)1  151  401  1001 
+(CreateCase including  or Unlimited2  or Unlimited2  or Unlimited2  or Unlimited2 
+partials, and         
+UpdateCase)         
+Web-Services API (all other web-services) 
+Get Case  0 (zero)1  1001  2501  1,0001 
+or Unlimited2  or Unlimited2  or Unlimited2  or Unlimited2 
+Run Search  1*  5  15  40 
+Meta Data  Unlimited  Unlimited  Unlimited  Unlimited 
+Users  0 (zero)  0 (zero)  0 (zero)  0 (zero) 
+Get Users 
+Manage Users         
+Get attachment(s)  0 (zero)1  1001  2501  1,0001 
+or Unlimited2  or Unlimited2  or Unlimited2  or Unlimited2 
+QA  0 (zero)  0 (zero)  0 (zero)  0 (zero) 
+Get Skills 
+Get Competencies 
+Update 
+Competencies 
+ 
+Limitations 
+ 
+•    Server API integrations must be developed and delivered to Customer exclusively by Aptean Professional Services pursuant to a 
+Statement of Work 
+•    The Total API Requests Limits are aggregated across all Customer environments (production and non-production) 
+•    The Total API Requests Limits are aggregated across all Customer databases (production and non-production) 
+•    Customer may only run a maximum of ten (10) concurrent API Requests with a duration of twenty (20) seconds or longer 
+ 
+ 
+* API Requests must be scheduled between 23:00 and 06:00 UTC 
+¹ Applies where Customer is on User-based licensing model 
+2 Applies where Customer is on Case-based licensing
+  C-6 
+
+EXHIBIT D  
+EQUIPMENT TERMS 
+ 
+A.  Provision of Equipment 
+ 
+1.  The additional terms and conditions set forth in this Exhibit shall apply to any Equipment and Equipment Maintenance provided to 
+Customer under the Agreement.  If there is a conflict between the terms set forth in the Agreement and this Exhibit, the terms set forth 
+in this Exhibit will control. 
+ 
+2.  Licensor will use commercially reasonable efforts to meet the delivery dates agreed upon but shall not be liable for late or delayed 
+shipment. Late or delayed shipment shall not be a basis for Customer’s cancellation of any order. Equipment will be delivered “ex works”. 
+If at the time of delivery Licensor wishes to substitute equipment equivalent to the type specified on the Order Form, then Licensor may 
+do so provided that the price will not be increased and that the substitution does not prejudice the Customer. 
+ 
+3.  Customer shall test all Equipment within five (5) business days of receipt. Equipment shall be deemed accepted after the five (5) days 
+testing period unless Customer notifies Licensor in writing prior to the expiration of such testing period that such Equipment is not 
+functioning properly. 
+ 
+4.     If any of the Equipment is incorrect, nonconforming or damaged, Customer must notify Licensor in writing within ten (10) 
+business days of Customer’s receipt of such Equipment. 
+ 
+5.  For defects in Equipment notified to Licensor in writing by Customer within ten (10) days of Customer receiving such Equipment, 
+Licensor will handle warranty repairs or returns pursuant to its internal policies and the applicable terms and conditions and policies of 
+the third party supplier.  All packaging, user manuals, and accessories must be retained for at least ten (10) days in their original condition 
+should a warranty repair or return, as described herein, be necessary.  No maintenance services are provided for Equipment unless 
+expressly stated in an Order Form. 
+ 
+6.  All Equipment is provided pursuant to the third party supplier’s terms and conditions for such products which accompany the Equipment 
+or are otherwise published by the third party supplier. Customer agrees to use the Equipment in accordance with such applicable third 
+party supplier’s terms and conditions and acknowledges and agrees that any warranties applying to the Equipment, if any, are made 
+solely by the third party supplier and are limited to those offered by the applicable third party supplier terms and conditions which 
+governs the use by Customer of the applicable Equipment and accordingly the Licensor is not liable for the Equipment beyond the terms 
+set out in this Exhibit. 
+ 
+7.  THIS EXHIBIT STATES CUSTOMER’S SOLE REMEDY AND THE SOLE LIABILITY OF LICENSOR ARISING OUT OF ANY DEFECT IN THE 
+EQUIPMENT SUPPLIED HEREUNDER. 
+ 
+ 
+8.  Where the title in Equipment is sold to the Customer as indicated in the third party supplier’s terms and conditions or in the Order 
+Form, any delivery of Equipment is made under retention of ownership. The retention of ownership shall remain applicable until full 
+payment has been made of the total price with interest, costs and any expenses regarding the delivery. The Customer is not entitled to 
+change, pledge, rent, lend or otherwise dispose of the delivery until the termination of the retention of ownership without the Licensor’s 
+prior written consent. 
+ 
+9.    Where Equipment is licensed to Customer, Customer is authorized to use such Equipment for the License term set forth in the Order Form, 
+or other agreement between the Parties, subject to any renewals in accordance with the provisions of section 9(a) of the Agreement. 
+At the end of the License term, Customer shall return the Equipment at its own cost in a good condition. 
+ 
+10.   Upon termination of the Agreement, all licenses granted herein shall automatically cease and Customer shall discontinue all use of 
+licensed Equipment, and return any copies of licensed Equipment in Customer’s possession or control at its own cost and in a good 
+condition in accordance with the third party supplier terms and conditions or Licensor’s instructions.  If Customer fails to return the 
+licensed Equipment in good condition within 14 days of Licensor’s request, Customer agrees to pay for the cost of replacement or repair 
+of such licensed Equipment upon receipt of invoice. Upon Licensor’s request, Customer shall deliver to Licensor a certificate executed 
+by an authorized officer of the Customer stating that Customer has returned all such copies of the licensed Equipment. 
+ 
+ 
+B.  Equipment Maintenance 
+ 
+1.  During the Maintenance Term, Licensor will provide Customer with Equipment Maintenance for the Maintained Equipment. After the 
+Maintenance Term, Equipment Maintenance shall automatically renew for successive one-year annual periods, unless either Party 
+provides the other Party with at least ninety (90)  days advance written notice (on headed company paper and signed) prior to the 
+expiration of the then current annual period that such party desires not to renew. Licensor shall invoice Customer on an annual basis in 
+advance for each annual renewal period. Fees for all annual renewal periods will be due within thirty (30) days prior to the beginning of 
+the new annual period and all such payments are non-refundable. Notwithstanding any language to the contrary in the Agreement, 
+Licensor reserves the right to increase the annual fees upon at least sixty (60)  days advance written notice of such increase to Customer.   
+
+2.  In the event Customer cancels Equipment Maintenance at any time prior to the end of the Maintenance Term, Customer agrees to 
+immediately pay the outstanding maintenance fees that Licensor would have received for the entire Maintenance Term. The Parties agree 
+that this payment is to be considered liquidated damages, and not a penalty, and the Parties agree that this amount is a fair and reasonable 
+estimation of Licensor’s damages in the event Customer breaches Customer’s commitment to the Maintenance Term. Customer agrees 
+that Equipment Maintenance shall be provided only by Licensor, its Affiliates or approved third-party servicers, whose contracts include (i) 
+confidentiality terms that are substantially similar to the ones contained herein and (ii) a requirement that the third-party servicer use the 
+Maintained Equipment only for providing services to the Customer in accordance with the Agreement. 
+
+EXHIBIT E 
+DATA PRIVACY 
+ 
+1.1  Defined Terms. The following new definitions shall be inserted into the Agreement (in place of any existing definition for any such 
+term, where applicable). 
+"Data Protection Laws" means any applicable laws and regulations relating to privacy or the use or processing of data relating to 
+natural persons, including: (a) EU Directive 95/46/EC and any legislation implementing or made pursuant to it; and (b) EU Regulation 
+2016/679 ("GDPR") and any laws or regulations ratifying, implementing, adopting, supplementing or replacing GDPR; and (c) The 
+Data Protection Act 2018; in each case, to the extent in force, and as such are updated, amended or replaced from time to time. 
+Where reference is made to specific articles in GDPR throughout this Exhibit the parties acknowledge that this shall also be deemed 
+to be a reference to the corresponding section in the Data Protection Act 2018. 
+ 
+"DP Regulator" means any governmental or regulatory body or authority with responsibility for monitoring or enforcing compliance 
+with the Data Protection Laws. 
+ 
+The terms “Data Controller”, "Data Subject" and "processing" shall have the meanings set out in the GDPR. 
+ 
+“Personal Data” shall have the meaning set out in the GDPR and relates only to such personal data, or any part of such personal 
+data, of which the Customer or its Affiliates is the Data Controller and in relation to which Licensor is providing services under this 
+Agreement; 
+ 
+1.2            The Parties agree that to the extent that Licensor, in the course of performing its obligations under the Agreement, processes any 
+Personal Data provided by or on behalf of the Customer, the provisions of this Exhibit E shall apply. 
+ 
+1.3  The Parties shall comply with the provisions and obligations imposed on them by the Data Protection Laws at all times when 
+processing Personal Data in connection with the Agreement, which processing, as at the Effective Date, shall be in respect of the 
+types of Personal Data, categories of Data Subjects, nature and purposes, and duration, set out in the Appendix to this Exhibit E as 
+amended from time to time. 
+ 
+1.4  Each Party shall maintain records of all processing operations under its responsibility that contain at least the minimum information 
+required by the Data Protection Laws, and shall make such information available to any DP Regulator on request. 
+ 
+1.5            The Customer shall: 
+ 
+(a)            ensure that any instructions it issues to Licensor shall comply with the Data Protection Laws; and 
+ 
+(b)            have sole responsibility for the accuracy, quality and legality of Personal Data and the means by which the Customer 
+acquired the Personal Data, and shall establish the legal basis for processing under Data Protection Laws, including 
+providing all notices and obtaining all consents as may be required under Data Protection Laws in order for Licensor to 
+process the Personal Data as contemplated by the Agreement. 
+ 
+1.6            To the extent Licensor processes any Personal Data on behalf of the Customer, Licensor shall: 
+ 
+(a)            process such Personal Data (i) only in accordance with the Customer's written instructions from time to time (including 
+those set out in the Agreement) provided such instructions are reasonable and lawful and unless it is otherwise required 
+by applicable law (in which case, unless such law prohibits such notification on important grounds of public interest, 
+Licensor shall notify the Customer of the relevant legal requirement before processing the Personal Data), and (ii) only 
+for the duration of the Agreement; provided that if such processing instructions require Licensor to implement any 
+measures or processes over and above those in place at the time of receiving the processing instructions, Licensor shall 
+not be required to implement such measures and processes unless and until the Customer agrees in writing to bear the 
+cost for implementing such measures and processes. 
+ 
+(b)            take commercially reasonable steps to ensure only Licensor Personnel who need access to the Personal Data to meet 
+Licensor’s obligations under the Agreement are authorised to have access to such Personal Data, and ensure that any 
+such  Licensor  Personnel  are  committed to  confidentiality  or  are  under  an appropriate  statutory  obligation  of 
+confidentiality when processing such Personal Data;
+
+(c)  taking into account the state of the art, the costs of implementation and the nature, scope, context and purposes of the 
+processing, implement technical and organisational measures and procedures to ensure a level of security for such 
+Personal Data appropriate to the risk, including the risks of accidental, unlawful or unauthorised destruction, loss, 
+alteration, disclosure, dissemination or access; 
+ 
+(d)            unless  the  transfer  is  based  on  an  "adequacy  decision",  is  otherwise  "subject  to  appropriate  safeguards"  or  if  a 
+"derogation for specific situations" applies, each within the meanings given to them in Articles 45, 46 and 49 of the GDPR 
+respectively, not transfer, access or process such Personal Data outside the European Union without the prior written 
+consent of the Customer (not to be unreasonably withheld or delayed). 
+ 
+(e)            Inform the Customer without undue delay upon becoming aware of any such Personal Data (while within Licensor's 
+control) being subject to a personal data breach (as defined in Article 4 of GDPR); 
+ 
+(f)             not disclose any Personal Data to any Data Subject or to a third Party other than at the written request of the Customer 
+or as expressly provided for in this Agreement; 
+ 
+(g)            except for Personal Data of which Licensor is also a Data Controller, and except as required by law or in order to defend 
+any actual or possible legal claims, as the Customer so directs, take reasonable steps to return such Personal Data and/or 
+irretrievably delete all Personal Data on termination or expiry of the Agreement, and not make any further use of such 
+Personal Data. 
+ 
+(h)            permit the Customer or its representatives on reasonable written notice to carry out a remote audit of all relevant 
+information relating to the processing of Personal Data by Licensor, which may take the form of conference calls and/or 
+Licensor’s completion of information security or other questionnaires submitted by or on behalf of the Customer in order 
+to verify compliance with this paragraph 1.6 of Exhibit E, subject to the following requirements: 
+(i)             the Customer may perform such audits no more than once per year unless required by Data Protection Laws; 
+(ii)            the Customer may use a third Party to perform the audit on its behalf, provided such third Party executes a 
+confidentiality agreement acceptable to Licensor (“NDA”) before the audit; 
+ 
+(iii)            audits  must  be  conducted  during  regular  business  hours,  subject  to  Licensor's  policies,  and  may  not 
+unreasonably interfere with Licensor's business activities. Due to the multi-tenant nature of some of Licensor’s 
+business systems, Licensor may limit the scope of audit activities and relevant reporting to ensure customer 
+confidentiality; 
+ 
+(iv)            the Customer must provide Licensor with any audit reports generated in connection with any audit at no charge 
+unless prohibited by applicable law. The Customer may use the audit reports only for the purposes of meeting 
+its audit requirements under Data Protection Laws and/or confirming compliance with the requirements of this 
+paragraph 1.6 of Exhibit E. The audit reports shall be confidential; 
+ 
+(v)            to request an audit, the Customer must first submit a detailed audit plan to Licensor at least 6 (six) weeks in 
+advance of the proposed audit date. The audit must describe the proposed scope, duration and start date of the 
+audit.   Licensor will review the audit plan and inform the Customer of any concerns or questions (for example, 
+any request  for  information that could compromise  Licensor's confidentiality obligations or its security, 
+privacy, employment or other relevant policies).  Licensor will work cooperatively with the Customer to agree 
+a final audit plan; 
+ 
+(vi)           the person carrying out the audit shall be supervised by Licensor at all times; 
+ 
+(vii)           nothing in this paragraph 1.6(h) shall require Licensor to breach any duties of confidentiality owed to any of its 
+clients, employees or third parties; 
+ 
+(viii)         all audits are at the Customer's sole cost and expense; and 
+ 
+ 
+(ix)            information  provided  by  or  on  behalf  of  Licensor  pursuant  to  an  audit  will  be  Licensor’s  Confidential 
+Information.    If  Customer’s  Agreement  does  not  include  a  provision  protecting  Licensor’s  Confidential
+Information, then such Confidential Information will be made available to Customer subject to an NDA. 
+Customer hereby agrees to use the Confidential Information in accordance with the terms of the confidentiality 
+provision contained in the Agreement or the NDA as applicable, and agrees to delete such Confidential 
+Information on the earlier of (i) the date when Customer concludes its evaluation of the Licensor Confidential 
+Information and (ii) 30 days after receiving such Confidential Information from Licensor. 
+ 
+1.7            Licensor agrees that it shall: 
+ 
+(i)             take such steps as are reasonably required to assist the Customer in ensuring compliance with its obligations under Articles 
+30 to 36 (inclusive) of GDPR provided that the Customer shall be responsible for Licensor's reasonable costs and expenses 
+arising from such co-operation and assistance; 
+ 
+(j)             notify the Customer as soon as reasonably practicable if it receives a request from a Data Subject to exercise its rights 
+under the Data Protection Laws in relation to that person's Personal Data; and 
+ 
+(k)            provide the Customer with reasonable co-operation and assistance in relation to any request made by a Data Subject to 
+exercise its rights under the Data Protection Laws in relation to that person's Personal Data provided that the Customer 
+shall be responsible for Licensor's reasonable costs and expenses arising from such co-operation and assistance. 
+ 
+1.8  If Customer receives any complaint, notice or communication from a DP Regulator which relates directly to the processing of 
+Personal Data by Licensor, it shall as soon as reasonably practicable notify Licensor and Licensor agrees to provide  Customer with 
+commercially reasonable co-operation and assistance in relation to any such complaint, notice or communication. 
+ 
+1.9  The Customer generally agrees that Licensor may engage third parties to support Licensor in its provision of the Licensor Products 
+and Services where processing of Personal Data is involved ("Sub-Processors"). Sub-Processors for the purpose of this Agreement 
+do not include companies providing ancillary services such as back-ups, telecommunication services, postal/transport services, 
+maintenance and user support services, nor measures to ensure the confidentiality, availability, integrity, and resilience of the 
+hardware and software of processing equipment. 
+ 
+1.10  If Licensor engages a new Sub-Processor ("New Sub-Processor"), Licensor shall inform the Customer of the engagement and the 
+Customer may object to the engagement of such New Sub-Processor by notifying Licensor within 10 Business Days of such 
+notification, provided that such objection must be on reasonable, substantial grounds, directly related to such New Sub-Processor's 
+ability to comply with substantially similar obligations to those set out in this Exhibit E, and must include sufficient detail as Licensor 
+may reasonably request to enable Licensor to consider properly the objection. If the Customer does not so object, the engagement 
+of the New Sub-Processor shall be deemed accepted by the Customer. 
+ 
+1.11  Licensor shall ensure that its contract with each New Sub-Processor shall impose obligations on the New Sub-Processor that are 
+materially equivalent to the obligations to which Licensor is subject to under this Exhibit E. 
+ 
+1.12  Any sub-contracting or transfer of Personal Data pursuant to this Exhibit E shall not relieve Licensor of any of its liabilities, 
+responsibilities and obligations to the Customer under the Agreement and Licensor shall remain liable for the acts and omissions 
+of its Sub-Processor. 
+ 
+1.13  Where Personal Data is processed by Licensor under or in connection with this Agreement on behalf of the Customer, the Customer 
+agrees that Licensor may disclose the Personal Data to such Licensor Personnel and Sub-Processors as Licensor reasonably considers 
+necessary for the performance of its obligations under the Agreement, for compliance with applicable law and is required to defend 
+any actual or possible legal claims.  Licensor shall take reasonable steps to ensure the reliability of any Licensor Personnel or Sub- 
+Processor who has access to the Personal Data and ensure that such persons are aware of Licensor's obligations under this 
+Agreement. 
+ 
+1.14         For the avoidance of doubt, clause 7 of the Terms and Conditions shall apply in relation to this Exhibit .E
+
+APPENDIX TO EXHIBIT E 
+ 
+ 
+ 
+The Personal Data processing activities carried out by Licensor under the Agreement may be described as follows: 
+ 
+ 
+ 
+1.              Subject matter of processing 
+ 
+Processing relating to the Customer during the term of the Agreement. 
+ 
+ 
+ 
+2.              Nature and purpose of processing 
+ 
+Processing  of Personal  Data  incidental to,  and  limited to  the  extent necessary, for  Licensor  to supply  the  Software, provide the 
+Maintenance Services, Professional Services and Service Deliverables, and fulfil its obligations to the Customer under the Agreement. 
+ 
+ 
+ 
+3.              Categories of Personal Data 
+ 
+Personal data including: 
+•    personal details 
+ 
+•    family, lifestyle and social circumstances 
+ 
+•    goods and services 
+ 
+•    financial details 
+ 
+•    education and employment details 
+ 
+ 
+ 
+4.              Categories of data subjects 
+ 
+Customers, complainants and enquirers. 
+ 
+ 
+ 
+5.              Duration 
+ 
+Continuously during the term of the Agreement. 

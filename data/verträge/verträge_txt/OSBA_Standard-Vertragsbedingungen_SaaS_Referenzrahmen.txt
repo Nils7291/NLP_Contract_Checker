@@ -1,0 +1,232 @@
+Standard-Vertragsbedingungen der OSII 
+für die Überlassung von Standardsoftware
+1. Vertragsgegenstand
+1.1 Diese Vertragsbedingungen gelten für die Nutzung der Software des Anbieters gemäß der aktuellen
+Produktbeschreibung und dem Auftragsblatt als Software as a Service („SaaS“) bzw. Cloud-Angebot.
+1.2 Die Software wird vom Anbieter als SaaS- bzw. Cloud-Lösung betrieben. Dem Kunden wird ermöglicht,
+die auf den Servern des Anbieters bzw. eines vom Anbieter beauftragten Dienstleisters gespeicherte und
+ablaufende Software über eine Internetverbindung während der Laufzeit dieses Vertrags für eigene Zwecke
+zu nutzen und seine Daten mit ihrer Hilfe zu speichern und zu verarbeiten.
+1.3 Diese Vertragsbedingungen gelten ausschließlich. Vertragsbedingungen des Kunden 'nden keine Anwendung.
+Gegenbestätigungen des Kunden unter Hinweis auf seine eigenen Geschäftsbedingungen wird
+ausdrücklich widersprochen.
+2. Art und Umfang der Leistung
+Der Anbieter stellt dem Kunden die Software in der jeweils vereinbarten Version am Routerausgang des
+Rechenzentrums, in dem der Server mit der Software steht („Übergabepunkt“), zur Nutzung bereit. Die
+Software, die für die Nutzung erforderliche Rechenleistung und der erforderliche Speicher- und Datenverarbeitungsplatz
+werden vom Anbieter bereitgestellt. Der Anbieter schuldet nicht die Herstellung und Aufrechterhaltung
+der Datenverbindung zwischen den IT-Systemen des Kunden und dem beschriebenen Übergabepunkt.
+3. Verfügbarkeit der Software
+3.1 Der Anbieter weist den Kunden darauf hin, dass Einschränkungen oder Beeinträchtigungen der erbrachten
+Dienste entstehen können, die außerhalb des Ein#ussbereichs des Anbieters liegen. Hierunter fallen
+insbesondere Handlungen von Dritten, die nicht im Auftrag des Anbieters handeln, vom Anbieter nicht beein
+#ussbare technische Bedingungen des Internets sowie höhere Gewalt. Auch die vom Kunden genutzte
+Hard- und Software und technische Infrastruktur kann Ein#uss auf die Leistungen des Anbieters haben.
+Soweit derartige Umstände Ein#uss auf die Verfügbarkeit oder Funktionalität der vom Anbieter erbrachten
+Leistung haben, hat dies keine Auswirkung auf die Vertragsgemäßheit der erbrachten Leistungen.
+3.2 Der Kunde ist verp#ichtet, Funktionsausfälle, -störungen oder –beeinträchtigungen der Software unverzüglich
+und so präzise wie möglich nach den Vereinbarungen im Auftragsblatt beim Anbieter anzuzeigen.
+4. Rechte zur Datenverarbeitung, Datensicherung
+4.1 Der Anbieter hält sich an die gesetzlichen Datenschutzbestimmungen.
+4.2 Der Kunde räumt dem Anbieter für die Zwecke der Vertragsdurchführung das Recht ein, die vom Anbieter
+für den Kunden zu speichernden Daten vervielfältigen zu dürfen, soweit dies zur Erbringung der nach diesem
+Vertrag geschuldeten Leistungen erforderlich ist. Der Anbieter ist auch berechtigt, die Daten in einem
+Ausfallsystem bzw. separaten Ausfallrechenzentrum vorzuhalten. Zur Beseitigung von Störungen ist der
+Anbieter ferner berechtigt, Änderungen an der Struktur der Daten oder dem Datenformat vorzunehmen.
+4.3 Der Anbieter sichert die Daten des Kunden auf dem vom Anbieter verantworteten Server regelmäßig auf
+einem externen Backup-Server. Der Kunde kann diese Daten, soweit technisch möglich, jederzeit zu Sicherungszwecken
+exzerpieren und ist verp#ichtet, dies in regelmäßigen üblichen Abständen zu tun. Soweit dies
+nicht möglich ist, stellt der Anbieter dem Kunden die Daten einmal monatlich als Backup zur Verfügung.
+4.4 Wenn und soweit der Kunde auf vom Anbieter technisch verantworteten IT-Systemen personenbezogenen
+Daten verarbeitet oder verarbeiten lässt, ist eine Auftragsdatenverarbeitungsvereinbarung abzuschließen.
+5. Support
+5.1 Ein Supportfall liegt vor, wenn die Software die vertragsgemäßen Funktionen gemäß der Produktbeschreibung
+nicht erfüllt. Die Art und Weise der Fehlermeldung richtet sich nach dem Auftragsblatt,
+ebenso wie der Umfang der Supportleistungen.
+5.2 Meldet der Kunde einen Supportfall, so hat er eine möglichst detaillierte Beschreibung der jeweiligen
+Funktionsstörung zu liefern, um eine möglichst ef'ziente Fehlerbeseitigung zu ermöglichen.
+5.3 Die Parteien können eine gesonderte Vereinbarung über die Zurverfügungstellung von Support-, Wartungs-
+und Pflegeleistungen treffen.
+6. Vergütung
+6.1 Zahlungszeitraum und Höhe der Vergütung richten sich ebenso wie die Zahlungsweise nach dem Auftragsblatt.
+6.2 Verzögert der Kunde die Zahlung einer fälligen Vergütung um mehr als vier Wochen, ist der Anbieter nach
+vorheriger Mahnung mit Fristsetzung und Ablauf der Frist zur Sperrung des Zugangs zur Software berechtigt.
+Der Vergütungsanspruch des Anbieters bleibt von der Sperrung unberührt. Der Zugang zur Software wird nach
+Begleichung der Rückstände unverzüglich wieder freigeschaltet. Das Recht zur Zugangssperrung besteht als
+milderes Mittel auch dann, wenn der Anbieter ein Recht zur außerordentlichen Kündigung nach Ziffer 11.2 hat.
+6.3 Der Anbieter kann nach Ablauf der Erstlaufzeit gemäß dem Auftragsblatt die Preise wie auch die Sätze für eine
+vereinbarte Vergütung nach Aufwand der allgemeinen Preisentwicklung anpassen. Beträgt die Entgelterhöhung
+mehr als 5% kann der Kunde das Vertragsverhältnis zum Ende des laufenden Vertragsmonats kündigen.
+6.4 Die Vergütung sonstiger Leistungen richtet sich nach dem jeweils gültigen Preisblatt des Anbieters.
+7. Mitwirkungspflichten des Kunden
+7.1 Der Kunde wird den Anbieter bei der Erbringung der vertraglichen Leistungen in angemessenem Umfang
+unterstützen.
+7.2 Die ordnungsgemäße und regelmäßige Sicherung seiner Daten obliegt dem Kunden. Das gilt auch für
+dem Anbieter im Zuge der Vertragsabwicklung überlassene Unterlagen.
+7.3 Für die Nutzung der Software müssen die sich aus der Produktbeschreibung bzw. dem Auftragsblatt
+ergebenden Systemvoraussetzungen beim Kunden erfüllt sein. Der Kunde trägt hierfür selbst die Verantwortung.
+7.4 Der Kunde hat die ihm zur Verfügung gestellten Zugangsdaten geheim zu halten und dafür zu sorgen,
+dass etwaige Mitarbeiter, denen Zugangsdaten zur Verfügung gestellt werden, dies ebenfalls tun. Die
+Leistung des Anbieters darf Dritten nicht zur Verfügung gestellt werden, soweit das nicht von den Parteien
+ausdrücklich vereinbart wurde.
+8. Gewährleistung
+Es gelten grundsätzlich die gesetzlichen Regelungen zur Gewährleistung. Die §§ 536b (Kenntnis des Mieters
+vom Mangel bei Vertragsschluss oder Annahme), 536c (Während der Mietzeit auftretende Mängel; Mängelanzeige
+durch den Mieter) BGB 'nden Anwendung. Die Anwendung des § 536a Abs. 2 (Selbstbeseitigungsrecht
+des Mieters) ist jedoch ausgeschlossen. Ausgeschlossen ist auch die Anwendung von § 536a Abs. 1 BGB
+(Schadensersatzp#icht des Vermieters), soweit die Norm eine verschuldensunabhängige Haftung vorsieht.
+9. Haftung und Schadensersatz
+9.1 Der Anbieter haftet für Schäden des Kunden, die vorsätzlich oder grob fahrlässig verursacht wurden, die
+Folge des Nichtvorhandenseins einer garantierten Beschaffenheit sind, die auf einer schuldhaften Verletzung
+wesentlicher Vertragsp#ichten (so genannte Kardinalp#ichten) beruhen, die Folge einer schuldhaften
+Verletzung der Gesundheit, des Körpers oder des Lebens sind, oder für die eine Haftung nach dem
+Produkthaftungsgesetz vorgesehen ist, nach den gesetzlichen Bestimmungen.
+9.2 Kardinalp#ichten sind solche vertraglichen P#ichten, deren Erfüllung die ordnungsgemäße Durchführung
+des Vertrages überhaupt erst ermöglichen und auf deren Einhaltung der Vertragspartner regelmäßig
+vertrauen darf, und deren Verletzung auf der anderen Seite die Erreichung des Vertragszwecks gefährdet.
+9.3 Bei Verletzung einer Kardinalp#icht ist die Haftung – soweit der Schaden lediglich auf leichter Fahrlässigkeit
+beruht – beschränkt auf solche Schäden, mit deren Entstehung beim Einsatz der vertragsgegenständ-
+lichen Software typischerweise gerechnet werden muss.
+9.4 Im Übrigen ist die Haftung – gleich aus welchem Rechtsgrund – ausgeschlossen.
+9.5 Resultieren Schäden des Kunden aus dem Verlust von Daten, so haftet der Anbieter hierfür nicht, soweit
+die Schäden durch eine regelmäßige und vollständige Sicherung aller relevanten Daten durch den Kunden
+vermieden worden wären. Der Kunde wird eine regelmäßige und vollständige Datensicherung selbst oder
+durch einen Dritten durchführen bzw. durchführen lassen und ist hierfür allein verantwortlich.
+10. Kundendaten und Freistellung von Ansprüchen Dritter
+10.1 Der Anbieter speichert als technischer Dienstleister Inhalte und Daten für den Kunden, die dieser bei
+der Nutzung der Software eingibt und speichert und zum Abruf bereitstellt. Der Kunde verp#ichtet
+sich gegenüber dem Anbieter, keine strafbaren oder sonst absolut oder im Verhältnis zu einzelnen
+Dritten rechtswidrigen Inhalte und Daten einzustellen und keine Viren oder sonstige Schadsoftware
+enthaltenden Programme im Zusammenhang mit der Software zu nutzen. Der Kunde bleibt im
+Hinblick auf personenbezogene Daten verantwortliche Stelle und hat daher stets zu prüfen, ob die
+Verarbeitung solcher Daten über die Nutzung der Software von entsprechenden Erlaubnistatbeständen
+getragen ist.
+10.2 Der Kunde ist für sämtliche von verwendeten Inhalte und verarbeiteten Daten sowie die hierfür etwa
+erforderlichen Rechtspositionen allein verantwortlich. Der Anbieter nimmt von Inhalten des Kunden keine
+Kenntnis und prüft die vom Kunden mit der Software genutzten Inhalte grundsätzlich nicht.
+10.3 Der Kunde verp#ichtet sich in diesem Zusammenhang, den Anbieter von jeder Haftung und jeglichen Kosten,
+einschließlich möglicher und tatsächlicher Kosten eines gerichtlichen Verfahrens, freizustellen, falls der
+Anbieter von Dritten, auch von Mitarbeitern des Kunden persönlich, infolge von behaupteten Handlungen
+oder Unterlassungen des Kunden in Anspruch genommen wird. Der Anbieter wird den Kunden über die
+Inanspruchnahme unterrichten und ihm, soweit dies rechtlich möglich ist, Gelegenheit zur Abwehr des
+geltend gemachten Anspruchs geben. Gleichzeitig wird der Kunde dem Anbieter unverzüglich alle ihm
+verfügbaren Informationen über den Sachverhalt, der Gegenstand der Inanspruchnahme ist, vollständig
+mitteilen.
+10.4 Darüber hinausgehende Schadensersatzansprüche des Anbieters bleiben unberührt.
+11. Vertragslaufzeit und Beendigung des Vertrags
+11.1 Die Vertragslaufzeit richtet sich nach dem Angebotsblatt.
+11.2 Die außerordentliche Kündigung aus wichtigem Grund bleibt beiden Parteien bei Vorliegen der gesetzlichen
+Voraussetzungen vorbehalten. Ein wichtiger Grund für den Anbieter liegt insbesondere dann vor,
+wenn der Kunde trotz Mahnung mehr als zwei Monate mit der Zahlung einer fälligen Vergütung in
+Verzug ist. Sofern der Kunde den Kündigungsgrund zu vertreten hat, ist der Kunde verp#ichtet, dem Anbieter
+die vereinbarte Vergütung abzüglich von vom Anbieter ersparter Aufwendungen bis zu dem Termin
+zu zahlen, an dem der Vertrag bei einer ordentlichen Kündigung frühestens enden würde.
+11.3 Kündigungserklärungen bedürfen zu ihrer Wirksamkeit der Textform. Die Einhaltung dieser Form ist Voraussetzung
+für die Wirksamkeit der Kündigung. Telefax und E-Mail genügen dem Schriftformerfordernis nicht.
+11.4 Nach Beendigung des Vertrags hat der Anbieter sämtliche vom Kunden überlassenen und sich noch im
+Besitz des Anbieters be'ndlichen Unterlagen sowie Datenträger, die im Zusammenhang mit dem vorliegenden
+Vertrag stehen, an den Kunden zurückzugeben und die beim Anbieter gespeicherten Daten zu
+löschen, soweit keine Aufbewahrungsp#ichten oder –rechte bestehen.
+12. Vertraulichkeit
+12.1 Die Parteien sind verp#ichtet, alle ihnen im Zusammenhang mit diesem Vertrag bekannt gewordenen
+oder bekannt werdenden Informationen über die jeweils andere Partei, die als vertraulich gekennzeichnet
+werden oder anhand sonstiger Umstände als Geschäfts- und Betriebsgeheimnisse (im Folgenden: „vertrauliche
+Informationen“) erkennbar sind, dauerhaft geheim zu halten, nicht an Dritte weiterzugeben,
+aufzuzeichnen oder in anderer Weise zu verwerten, sofern die jeweils andere Partei der Offenlegung oder
+Verwendung nicht ausdrücklich und schriftlich zugestimmt hat oder die Informationen aufgrund Gesetzes,
+Gerichtsentscheidung oder einer Verwaltungsentscheidung offengelegt werden müssen.
+12.2 Die Informationen sind dann keine vertraulichen Informationen im Sinne dieser Ziffer 12, wenn sie
+der anderen Partei bereits zuvor bekannt waren, ohne dass die Informationen einer Vertraulichkeitsverpflichtung unterlegen hätten,
+allgemein bekannt sind oder ohne Verletzung der übernommenen Vertraulichkeitsverpflichtungen bekannt werden,
+der anderen Partei ohne Verletzung einer Vertraulichkeitsverpflichtung von einem Dritten offenbart werden.
+12.3 Die Verp#ichtungen nach dieser Ziffer 12 überdauern das Ende dieser Vereinbarung.
+13. Übertragung der Rechte und Pflichten
+Die Abtretung der Rechte und P#ichten aus diesem Vertrag ist nur mit vorheriger schriftlicher Zustimmung des Anbieters
+zulässig. Der Anbieter ist berechtigt, Dritte mit der Erfüllung der P#ichten aus diesem Vertrag zu betrauen.
+14. Sonstiges
+14.1 Diese Vereinbarung und ihre Änderungen sowie alle vertragsrelevanten Erklärungen, Mitteilungs- und
+Dokumentationsp#ichten bedürfen der Schriftform, soweit nicht eine andere Form vereinbart oder gesetzlich
+vorgeschrieben ist.
+14.2 Der Vertrag untersteht dem Recht der Bundesrepublik Deutschland unter Ausschluss des Übereinkommens
+der Vereinten Nationen über Verträge über den internationalen Warenkauf. Gerichtsstand ist der
+Sitz des Anbieters, soweit der Kunde Kaufmann, juristische Person des öffentlichen Rechts oder öffentlich-
+rechtliches Sondervermögen ist.
+14.3 Sollten einzelne Bestimmung dieser Vereinbarung unwirksam sein, wird hierdurch die Wirksamkeit der übrigen
+Bestimmungen nicht berührt. Die Parteien werden in diesem Fall zusammenwirken, um unwirksame Regelungen
+durch solche Regelungen zu ersetzen, die den unwirksamen Bestimmungen soweit wie möglich entsprechen.
+
+
+Muster-Auftragsblatt der OSII 
+für SaaS- und Cloudleistungenzum Vertrag Nr. [einfügen]
+1. Vertragsgegenstand und Vertragsbestandteile
+1.1 Die Software _______________________ (die „Software“) wird als zur Nutzung und Speicherung von
+Daten ber das Internet bereitgestellt. Eine Beschreibung der Funktionalitäten, der zugelassenen Nutzer,
+der CPU und des zur Verfügung gestellten Speichervolumens 'ndet sich in Anlage 1.1.
+1.2 Die folgenden Vertragsbestandteile sind in der untenstehenden Reihenfolge anwendbar:
+das Auftragblatt
+Die Standard Vertragsbedingungen der OSII für Saas- und Cloudsoftware
+1.3 Die Verfügbarkeit der Software beträgt _____ % pro Monat abzüglich der für das Einspielen von Updates,
+Upgrades, neuen Releases und/oder sonstigen Modi'kationen und Wartungsarbeiten notwendigen Zeit.
+Die vorgenannten Arbeiten werden nach Möglichkeit in einem Zeitraum zwischen _____ Uhr und ____ Uhr
+vorgenommen und übersteigen in der Regel eine Dauer von _____ Minuten pro Unterbrechung nicht.
+2. Nutzungsrechte
+2.1 Da die Software ausschließlich auf den Servern des Anbieters oder von diesem beauftragten Dienstleistern
+abläuft, bedarf der Kunde keiner urheberrechtlichen Nutzungsrechte an der Software, und der
+Anbieter räumt auch keine solchen Rechte ein. Der Anbieter räumt dem Kunden aber für die Laufzeit des
+Vertrags das nichtausschließliche, nicht übertragbare und zeitlich auf in diesem Auftragsblat vereinbarte
+Dauer beschränkte Recht ein, die Benutzerober#äche der Software zur Anzeige auf dem Bildschirm in
+den Arbeitsspeicher der vertragsgemäß hierfür verwendeten Endgeräte zu laden und die dabei entstehenden
+Vervielfältigungen der Benutzerober#äche vorzunehmen sowie die Software für die vertragsgemäßen
+Zwecke gemäß der Produktbeschreibung zu nutzen. Vorbehaltlich einer anderen Vereinbarung zwischen
+den Parteien ist es unzulässig, Dritten die Nutzung der Software zu ermöglichen. Als Dritte gelten auch
+mit dem Kunden konzernverbundene Unternehmen.
+2.2 Einige Komponenten der Software sind unter der Affero General Public License Version ___ lizenziert.
+Diese Teile sowie die anwendbaren Lizenztexte sind in Anlage 2.2(a) zu diesem Auftragsblatt aufgeführt.
+Für diese Teile gilt Folgendes:
+Der Sourcecode dieser Komponenten wird dem Kunden zusammen mit den entsprechenden Urhebervermerken,
+Disclaimern und etwaigen weiteren Hinweise zum Download unter ________________
+bereitgestellt.
+Der Kunde kann an diesen Komponenten weitergehende Nutzungsrechte von den jeweiligen Rechteinhabern
+erwerben, wenn er mit diesen Lizenzverträge unter den Bedingungen der AGPL abschließt.
+In diesem Fall richtet sich die Nutzung der AGPL-lizenzierten Komponenten alleine nach der AGPL.
+Einige Komponenten der Software sind unter anderen Open Source Lizenzen lizenziert, die eine
+Bereitstellung des Sourcecodes erfordern. Diese Teile sowie die anwendbaren Lizenztexte sind in
+  Anlage 2.2(b) zu diesem Auftragsblatt aufgeführt. Für diese Teile gilt Folgendes:
+Der Sourcecode dieser Komponenten wird dem Kunden zusammen mit den entsprechenden Urhebervermerken,
+Disclaimern und etwaigen weiteren Hinweise zum Download unter ________________
+bereitgestellt.
+Der Kunde kann an diesen Komponenten weitergehende Nutzungsrechte von den jeweiligen Rechteinhabern
+erwerben, wenn er mit diesen Lizenzverträge unter den Bedingungen der jeweiligen Open
+Source Lizenzen abschließt. In diesem Fall richtet sich die Nutzung der Komponenten alleine nach
+diesen Lizenzbedingungen
+3. Laufzeit
+3.1 Der Vertrag läuft für ____ Monate ab Vertragsbeginn („Erstlaufzeit“). Vertragsbeginn ist der __________.
+3.2 Der Vertrag verlängert sich automatisch um jeweils weitere ____ Monate, wenn er nicht spätestens
+____ Wochen vor seinem Ende schriftlich von einer der Parteien gekündigt wird. Das Recht zur
+außerordentlichen Kündigung nach Ziffer 11.2 der Standardvertragsbedingungen der OSII für SaaSund
+Cloud-Dienstleistungen bleibt hiervon unberührt.
+4. Vergütung
+Die Vergütung ist
+einmalig
+monatlich
+quartalsweise
+jährlich
+zu entrichten. Endet der Vertrag innerhalb einer Abrechnungsperiode, ist die vereinbarte Vergütung nur anteilig
+zu leisten. Die Höhe der Vergütung richtet sich nach dem als Anlage 4 beigefügten Preisblatt.
+5. Verantwortlicher Ansprechpartner
+5.1 Verantwortlicher Ansprechpartner des Anbieters ist:
+_______________________________________________
+5.2 Verantwortlicher Ansprechpartner des Kunden ist:
+_______________________________________________
+Ein Ansprechpartner wird nicht benannt.
+6. Störungsmeldung
+6.1 Die Meldung von Störungen in Bezug auf die Software erfolgt
+schriftlich oder per Fax auf einem Formular entsprechend Anlage 6.1 zu diesem Vertrag
+im Rahmen eines von Anbieter zur Verfügung gestellten Ticketsystems
+per E-Mail an ____________________________________
+6.2 Störungsmeldungen werden während folgender üblicher Geschäftszeiten des Verkäufers angenommen:
+Montags bis freitags ____ Uhr bis ____ Uhr.
+6.3 Telefonische Unterstützung bei Störungen der Software erfolgt während der vorgenannten Geschäftszeiten.
+7. Sonstige Vereinbarungen
+Es gelten die in Anlage 7 getroffenen weiteren Vereinbarungen.
+

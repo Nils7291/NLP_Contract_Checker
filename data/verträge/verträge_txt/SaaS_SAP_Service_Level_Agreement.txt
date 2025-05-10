@@ -1,0 +1,226 @@
+SERVICE-LEVEL-VEREINBARUNG FÜR PRIVATE CLOUD EDITION SERVICES UND TAILORED
+OPTION SERVICES
+
+Die vorliegende Service-Level-Vereinbarung für RISE with SAP S/4HANA Cloud, Private Edition (vormals
+SAP S/4HANA, Private Cloud Edition); SAP ERP, Private Cloud Edition (zusammen „Private Cloud Edition
+Services“); RISE with SAP S/4HANA Cloud, Private Edition, Tailored Option und SAP ERP, Private Cloud
+Edition, Tailored Option (zusammen „Tailored Option Services“) (jeweils ein „Cloud Service“) regelt die
+Service-Level für die Private Cloud Edition Services, Tailored Option Services und die
+Serverbereitstellung, die der Auftraggeber im Rahmen einer Order Form mit SAP vereinbart hat.
+
+1. DEFINITIONEN
+Hervorgehobene Begriffe, die in diesem Dokument verwendet, aber nicht definiert werden, sind in der
+Vereinbarung definiert.
+1.1. „Vereinbarte Ausfallzeiten“ bezeichnet jegliche von SAP oder vom Auftraggeber angeforderten Ausfallzeiten, die zwischen den Parteien vereinbart werden.
+1.2. „Werktag“ bezeichnet jeden Wochentag von Montag bis Freitag mit Ausnahme der am Hauptstandort des
+Auftraggebers für den Zugriff geltenden in der Order Form ausgewiesenen gesetzlichen Feiertage.
+1.3. „IT-Umgebung“ bezeichnet die Rechenzentren, Server, Netzwerkausrüstungen, Betriebssysteme und
+Datenspeicherungsmechanismen, die von SAP zur Bereitstellung des Cloud Service für den Auftraggeber
+ausgewählt wurden und genutzt werden; dazu gehören die Produktivumgebung („PRD“) und alle anderen
+IT-Umgebungen, die für nicht produktive Zwecke („NICHT-PRD“) genutzt werden, wie in der Order Form
+vereinbart.
+1.4. „Gutschrift“ bezeichnet gemäß Abschnitt 5 dieser Service-Level-Vereinbarung Folgendes:
+1.4.1. für Private Cloud Edition Services und Tailored Option Services 2 % der monatlichen Servicevergütung
+für jeweils 1 % unterhalb des Service-Levels für die Serviceverfügbarkeit; und
+1.4.2. für die Serverbereitstellung (IaaS Basic): insgesamt 1.500 € pro Monat für alle Instanzen, die den ServiceLevel für die Systemverfügbarkeit unterschreiten.
+1.5. „Ausfallzeiten“ bezeichnet die Gesamtzahl der monatlichen Minuten, in denen der Cloud Service (oder
+Server für die Serverbereitstellung) nicht auf Anforderungen vom SAP-Übergabepunkt an das Rechenzentrum, in dem der Cloud Service (oder Server für die Serverbereitstellung) erbracht wird, reagiert, ausgenommen Ausgeschlossene Ausfallzeiten.
+1.6. „Ausfallzeit in Notfällen“ bezeichnet eine Ausfallzeit, die während Notfall-Patch-Implementierungen und
+Notfall-Betriebssystem-Upgrades auftritt, wie in den Ergänzenden Bedingungen beschrieben.
+1.7. „Ausgeschlossene Ausfallzeit“ bezeichnet die Gesamtzahl der monatlichen Minuten, die sich aus
+folgenden Gründen ergibt: Planmäßige Ausfallzeit; Vereinbarte Ausfallzeit; Ausfallzeit in Notfällen; Ausfallzeit aufgrund von Faktoren, die sich der Kontrolle von SAP entziehen, z. B. aufgrund unvorhersehbarer Ereignisse, die sich selbst unter Anwendung angemessener Sorgfalt nicht hätten verhindern lassen (siehe
+Beispiele in Abschnitt 2); oder eine Ausfallzeit eines NICHT-PRD-Systems durch Nutzung dieses Systems
+als Failover-System bzw. zur Reparatur eines PRD-Systems.
+1.8. „Störung“ bezeichnet ungeplante Unterbrechungen oder von Autorisierten Nutzern gemeldete
+Minderungen der Servicequalität der IT-Umgebung.
+1.9. „Reaktionszeit“ bezeichnet die Zeit (z. B. in Stunden oder Minuten), die vom Zeitpunkt der Benachrichtigung der Organisation SAP Support Level 1 über eine durch den Auftraggeber gemeldete Störung und der ersten Aktion eines SAP-Supportmitarbeiters zur Störungsbehebung, der mit der Umgebung des
+Auftraggebers vertraut ist, vergeht.
+1.10. „Ortszeit“ bezeichnet die Zeitzone am in der Order Form ausgewiesenen Hauptstandort des Auftraggebers.
+1.11. „Monat“ bezeichnet einen Kalendermonat.
+1.12. „Monatliche Servicevergütung“ bezeichnet die monatliche Subskriptionsvergütung (bzw. 1/12 der
+Jahresvergütung), die für den betroffenen Cloud Service entrichtet wird, für den das SLA zur Systemverfügbarkeit nicht eingehalten wurde.
+1.13. „Planmäßige Ausfallzeit“ bezeichnet eine Ausfallzeit, die zu einem zwischen den Parteien vereinbarten
+Zeitpunkt eingeplant ist, wie in der Order Form aufgeführt oder in den Ergänzenden Bedingungen
+beschrieben.
+1.14. „Subskriptionssoftware“ hat (i) die in den Ergänzenden Bedingungen für Tailored Option Services
+dargelegte Bedeutung und bezeichnet (ii) die in den Ergänzenden Bedingungen für Private Cloud Edition
+Services dargelegte Cloud-Services-Software.
+1.15. „System“ bezeichnet eine oder mehrere zusammenhängende und voneinander abhängige Komponenten
+wie Datenbanken, Server, Netzwerke, Load Balancer, Web Dispatcher usw., die zusammen verwendet
+werden, um eine Schicht (Tier) zu betreiben. Jede Kombination von Komponenten, die innerhalb einer
+Schicht verwendet werden, entspricht einem (1) System. Die Systemverfügbarkeit wird nach Schichten
+bemessen. Im Falle von Tailored Option Services wird jedes System durch die Spalte „Tier-Nr.“ in der
+System-Setup-Tabelle in der Order Form identifiziert, und im Falle von Private Cloud Edition Services wird
+jedes System durch den Systemschichttyp identifiziert, wie im „Service Description Guide“ der
+Ergänzenden Bedingungen angegeben. Für die Serverbereitstellung steht die Bezeichnung „System“ im
+Sinne dieser Vereinbarung für „Server“, wie in der Order Form beschrieben.
+1.16. Der „Prozentuale Anteil der Systemverfügbarkeit“ für die einzelnen Systeme wird wie folgt berechnet
+und definiert:
+= (
+𝐺𝑒𝑠𝑎𝑚𝑡𝑧𝑎ℎ𝑙 𝑑𝑒𝑟 𝑀𝑖𝑛𝑢𝑡𝑒𝑛 𝑖𝑚 𝑀𝑜𝑛𝑎𝑡 − 𝐴𝑢𝑠𝑓𝑎𝑙𝑙𝑧𝑒𝑖𝑡𝑒𝑛
+𝐺𝑒𝑠𝑎𝑚𝑡𝑧𝑎ℎ𝑙 𝑑𝑒𝑟 𝑀𝑖𝑛𝑢𝑡𝑒𝑛 𝑖𝑚 𝑀𝑜𝑛𝑎𝑡 ) ∗ 100
+1.17. „Service-Level für die Systemverfügbarkeit“ bezeichnet den unten angegebenen anwendbaren
+prozentualen Anteil der Systemverfügbarkeit während eines Monats für die IT-Umgebung (und die Server
+für die Serverbereitstellung, soweit zutreffend) nach der Systemübergabe an den Auftraggeber:
+1.17.1. Systemverfügbarkeit von 99,5 % für Produktivumgebungen (PRD), es sei denn, in den Ergänzenden
+Bedingungen oder der Order Form ist ein höherer prozentualer Anteil der Systemverfügbarkeit
+angegeben;
+1.17.2. Systemverfügbarkeit von 95,0 % für Nicht-Produktivumgebungen (NICHT-PRD), es sei denn, in der Order
+Form ist ein höherer prozentualer Anteil der Systemverfügbarkeit angegeben;
+1.17.3. Systemverfügbarkeit von 99,5 % für die Serverbereitstellung.
+1.18. Die „Gesamtzahl der Minuten im Monat“ wird 24 Stunden an 7 Tagen pro Woche innerhalb eines (1)
+Monats erfasst.
+2. SYSTEMVERFÜGBARKEIT
+2.1. Sofern nicht in der Order Form anderweitig festgelegt, gilt der Service-Level für die Systemverfügbarkeit
+nicht für vom Auftraggeber bereitgestellte Software.
+2.2. Zur Ausfallzeit aufgrund von Faktoren, die sich der Kontrolle von SAP entziehen, gehören unter anderem:
+2.2.1. Nichteinhaltung der in der Vereinbarung angegebenen Verantwortlichkeiten des Auftraggebers
+(einschließlich Verwendung einer Version oder eines Release der Subskriptionssoftware mit aktuellem
+Softwarepflegevertrag).
+2.2.2. Durch den Auftraggeber verursachte Ausfallzeiten.
+2.2.3. Unterbrechungen aufgrund von Anforderungen eines Drittherstellers der vom Auftraggeber bereitgestellten Software.
+2.2.4. Unterbrechungen oder Abschaltungen der IT-Umgebung oder von Teilen derselben (oder Server für die
+Serverbereitstellung), die sich durch die Qualität der vom Auftraggeber bereitgestellten Software und/oder
+durch Anpassungen oder Modifikationen der vom Auftraggeber bereitgestellten Software, der Subskriptionssoftware oder IT-Umgebung (oder Server für die Serverbereitstellung) seitens des Auftraggebers
+ergeben, sofern diese im Rahmen der vorliegenden Vereinbarung nicht in der Verantwortung von SAP
+liegen.
+2.2.5. Wiederherstellungszeiten für Nutzerdaten (Wiederherstellungen der Daten in der Datenbank von einem
+Sicherungsmedium), wenn die Ursache der angeforderten Wiederherstellung nicht von SAP verschuldet
+wurde.
+3. SICHERUNG UND REAKTIONSZEIT FÜR STÖRUNGEN DER IT-UMGEBUNG
+(gilt nicht für die Serverbereitstellung)
+
+Beschreibung IT-Umgebung Service-Level
+
+Sicherungshäufigkeit und Aufbewahrungsfrist für Datenbanken:
+PRD: Vollständige Sicherung und Protokolldateisicherung
+gemäß SAP-Produktstandard: täglich.
+Aufbewahrungszeit: dreißig (30) Tage. Die Sicherung der
+Produktivumgebung wird in ein alternatives
+Rechenzentrum oder an einen alternativen Standort
+repliziert.
+
+NICHT-PRD: Vollständige Sicherung und Protokolldateisicherung
+gemäß SAP-Produktstandard: wöchentlich.
+Aufbewahrungszeit: vierzehn (14) Tage. Die Sicherung
+der Nicht-Produktivumgebung wird in ein alternatives
+Rechenzentrum oder an einen alternativen Standort
+repliziert.
+
+Langfristige Sicherungskopien*:
+PRD und/oder NICHT PRD:
+Monatliche vollständige Sicherung – Aufbewahrungszeit:
+1 Jahr
+Vierteljährliche vollständige Sicherung –
+Aufbewahrungszeit: 1 Jahr
+Jährliche vollständige Sicherung – Aufbewahrungszeit:
+bis zu 5 Jahre
+
+Sicherungshäufigkeit und Aufbewahrungsfrist für Dateisysteme:
+PRD: Vollständige Sicherung: monatlich; inkrementelle
+Sicherung: täglich. Aufbewahrungszeit: zwei (2) Monate.
+Die Sicherung der Produktivumgebung wird in ein
+alternatives Rechenzentrum oder an einen alternativen
+Standort repliziert.
+NICHT-PRD: Vollständige Sicherung: monatlich; inkrementelle
+Sicherung: täglich. Aufbewahrungszeit: zwei (2) Monate.
+Die Sicherung der Nicht-Produktivumgebung wird in ein
+alternatives Rechenzentrum oder an einen alternativen
+Standort repliziert.
+Reaktionszeit für Incident Management:
+Störungspriorität „Sehr hoch“:
+20 Minuten (7x24) und (i) eine Lösung oder (ii) eine
+Behelfslösung oder (iii) einen Aktionsplan innerhalb von
+4 Stunden für die Produktivumgebung
+
+Störungspriorität „Hoch“:
+2 Stunden (7x24) für die Produktivumgebung
+4 Stunden [werktags, Ortszeit] für die NichtProduktivumgebung
+
+Störungspriorität „Mittel“:
+4 Stunden [werktags, Ortszeit] für die
+Produktivumgebung und die Nicht-Produktivumgebung
+
+Störungspriorität „Niedrig“:
+1 Werktag für die Produktivumgebung und die NichtProduktivumgebung
+* Gilt, wenn dieser optionale Service in einer Order Form erworben wird. Die Aufbewahrungszeiten für
+Langfristige Sicherungskopien enden mit der frühesten im Rahmen dieses Dokuments festgelegten
+Aufbewahrungszeit oder mit Ablauf der Laufzeit des Cloud Service des Auftraggebers.
+
+3.1. Störungsprioritäten. Die folgenden Prioritätsstufen gelten für alle Störungen (die Priorität wird vom
+Auftraggeber zugeordnet und kann von SAP anhand der folgenden Kriterien und angemessener Maßstäbe
+neu zugeordnet werden):
+3.1.1. Sehr hoch: Eine Störung ist mit der Priorität „Sehr hoch“ einzustufen, wenn die Störung sehr
+schwerwiegende Auswirkungen auf normale Geschäfts- oder IT-Prozesse hat, die in Verbindung mit
+Kerngeschäftsprozessen stehen, und dringende Arbeiten nicht ausgeführt werden können. Dies wird in
+der Regel durch folgende Umstände verursacht:
+3.1.1.1. Ein Produktivsystem ist vollständig ausgefallen. 
+3.1.1.2. Unmittelbar bevorstehende Produktivstarts oder Upgrades sind gefährdet.
+3.1.1.3. Die Kerngeschäftsprozesse des Auftraggebers sind ernsthaft beeinträchtigt.
+3.1.1.4. Es ist keine Behelfslösung verfügbar.
+3.1.1.5. Die Störung bedarf der sofortigen Bearbeitung, da die Fehlfunktion gravierende Verluste zur Folge
+haben kann.
+3.1.2. Hoch: Eine Störung ist mit der Priorität „Hoch“ einzustufen, wenn normale Geschäftsprozesse stark
+beeinträchtigt werden. Notwendige Aufgaben können nicht durchgeführt werden. Dies wird durch
+fehlerhafte oder nicht ausführbare Funktionen in der IT-Umgebung verursacht, die unmittelbar benötigt
+werden. Die Störung muss so schnell wie möglich bearbeitet werden, da eine anhaltende Fehlfunktion
+schwerwiegende Auswirkungen auf den gesamten produktiven Geschäftsablauf haben kann.
+3.1.3. Mittel: Eine Störung ist mit der Priorität „Mittel“ einzustufen, wenn normale Geschäftsprozesse
+beeinträchtigt werden. Das Problem wird durch fehlerhafte oder nicht ausführbare Funktionen in der ITUmgebung verursacht. Eine Meldung sollte die Priorität „Mittel“ erhalten, wenn normale Geschäftsvorgänge beeinträchtigt werden.
+3.1.4. Niedrig: Eine Störung ist mit der Priorität „Niedrig“ einzustufen, wenn das Problem keine oder nur geringe
+Auswirkungen auf die normalen Geschäftsprozesse hat. Das Problem wird durch fehlerhafte oder nicht
+ausführbare Funktionen in der IT-Umgebung verursacht, die nicht täglich oder nur sehr selten benötigt
+werden.
+4. SERVICE-LEVEL-REPORTING
+4.1. SAP erfasst die hierin geregelten Service-Level und erstellt einen monatlichen zusammenfassenden
+Bericht, der dem Auftraggeber übermittelt wird.
+4.2. Für den Fall, dass ein oder mehrere der Service-Level in der Vereinbarung nicht erreicht werden, kann
+der Auftraggeber den zuständigen SAP Account Manager informieren und ihn um eine Analyse der
+Service-Level-Metrikstatistik auf der Grundlage der von SAP bereitgestellten monatlichen Übersichtsberichte bitten.
+4.3. SAP wird daraufhin umgehend:
+4.3.1. die Ursache oder die mögliche Ursache der Störung (falls bekannt) ermitteln, um den Service-Level
+einzuhalten, und
+4.3.2. sofern von einer Verfolgung der Störung nicht abgesehen wird, einen Korrekturmaßnahmenplan
+entwickeln, diesen dem Auftraggeber zur schriftlichen Bestätigung (die nicht in unangemessener Weise
+zurückzuhalten oder zu verzögern ist) vorlegen und ihn nach der schriftlichen Bestätigung durch den
+Auftraggeber in einem angemessenen Zeitraum (und gemäß den vereinbarten Fristen) umsetzen.
+4.4. Falls zutreffend, gewährt SAP die im Abschnitt 5 festgelegten jeweiligen Gutschriften.
+4.5. SAP wird ihrer Verpflichtung zur Gewährung der entsprechenden Gutschriften entbunden und hat das
+Nichterreichen des Service-Levels nicht verschuldet, wenn die Ursachenanalyse (sachgerecht von SAP
+ausgeführt) ergibt, dass die Nichteinhaltung des entsprechenden Service-Levels vom Auftraggeber
+verschuldet wurde und daher als Ausgeschlossene Ausfallzeit behandelt wird. Sollte der Auftraggeber der
+Ursachenanalyse nicht zustimmen, besprechen die Parteien die Ursachenanalyse.
+5. NICHTEINHALTUNG DER SERVICE-LEVEL
+5.1. Servicegutschriften
+5.1.1. Sofern SAP den geltenden Service-Level für die Systemverfügbarkeit nicht erreicht, hat der Auftraggeber
+Anspruch auf eine Gutschrift, die sich aus der Summe der Gutschriften für Nicht-Produktivsysteme
+(NICHT-PRD), für das Produktivsystem (PRD) und die Serverbereitstellung (soweit zutreffend)
+zusammensetzt und sich infolge der Nichteinhaltung des entsprechenden Service-Levels für die
+Systemverfügbarkeit seitens SAP ergibt. Ansprüche auf eine Gutschrift müssen nach Treu und Glauben
+durch eine dokumentierte Einreichung eines Supportfalls innerhalb von dreißig (30) Werktagen nach Erhalt
+des monatlichen Service-Level-Berichts zur Systemverfügbarkeit gestellt werden. Die Gutschriften dürfen
+unter keinen Umständen höher sein als monatlich zusammen 100 % der monatlichen Servicevergütung
+für den jeweiligen Monat über alle Service-Level für die Systemverfügbarkeit.
+5.1.2. Wird der Anspruch des Auftraggebers auf die Gutschrift durch SAP schriftlich (E-Mail ist zulässig) bestätigt,
+verrechnet SAP die entsprechende Gutschrift mit einer künftigen Rechnung für den Cloud Service oder
+entrichtet eine Rückvergütung, falls gemäß der Vereinbarung keine künftige Rechnung fällig ist.
+5.1.3. Der Auftraggeber stimmt zu, dass die Gutschriften im Falle der Nichteinhaltung des festgelegten ServiceLevels den einzigen und ausschließlichen Abhilfeanspruch darstellen, soweit dies nicht durch geltende
+Gesetze untersagt ist.
+5.1.4. Auftraggeber, die den Cloud Service nicht direkt bei SAP erworben haben, müssen den Anspruch auf die
+Gutschrift bei ihrem jeweiligen SAP-Partner geltend machen.
+5.2. Kündigung
+Falls SAP den Service-Level für die Systemverfügbarkeit für die PRD-IT-Umgebungen (i) drei (3) Monate
+in Folge oder (ii) fünf (5) oder mehr Monate in einem Zeitraum von zwölf (12) Monaten nicht erreicht, kann
+der Auftraggeber seine Subskription für den betroffenen Cloud Service mit einer Frist von dreißig (30)
+Tagen nach Eingang des entsprechenden monatlichen zusammenfassenden Berichts schriftlich per
+Mitteilung an SAP kündigen. Die Kündigung tritt einen (1) Monat nach Eingang einer solchen Mitteilung
+bei SAP (oder an einem späteren, vom Auftraggeber in seiner Mitteilung festgelegten Datum) in Kraft. Es
+wird ausdrücklich klargestellt, dass dieses Kündigungsrecht Vorrang vor allen anderen Kündigungsbestimmungen in den AGB für die Nichteinhaltung der Service-Level für die Systemverfügbarkeit hat und
+entsprechende Kündigungsrechte aus den AGB keine Anwendung finden.
+6. SERVICEANFORDERUNGEN
+Der Auftraggeber kann bestimmte Arbeiten an der IT-Umgebung über die SAP Service Request Platform
+anfragen („Serviceanforderung“). Soweit sich Serviceanforderungen von einer Störung unterscheiden,
+bearbeitet SAP Serviceanforderungen während der folgenden Betriebszeiten:
+PRD: Rund um die Uhr, vorbehaltlich der Ausgeschlossenen Ausfallzeit.
+NICHT-PRD: Rund um die Uhr an Werktagen (Mo–Fr) vorbehaltlich der Ausgeschlossen Ausfallzeit.
+Die Services werden nur in englischer Sprache bereitgestellt.

@@ -1,0 +1,1045 @@
+General Terms and Conditions of acadon AG
+1. Scope, Form
+1.1 These General Terms and Conditions (GTC) apply to all business relationships between acadon
+AG (hereinafter referred to as "acadon") and its customers. They only apply if the customer is a
+business (§ 14 BGB) or a legal entity under public law. acadon's offers are exclusively for business
+and not for consumers.
+1.2 Unless otherwise agreed, the GTC in the version valid at the time of the customer's order or in
+any case in the version last communicated to him in text form shall also apply as a framework
+agreement for similar future contracts without acadon having to refer to them again in each
+individual case.
+1.3 Deviating, conflicting or supplementary general terms and conditions of the customer shall
+only become part of the contract if and to the extent that acadon has expressly agreed to their
+validity. This consent requirement applies in any case, for example even if acadon performs the
+contractually owed service to the customer without reservation in knowledge of the customer's
+GTC.
+1.4 In addition to these GTC, acadon's Special Terms of Contract (STC) apply. The GTC and STC are
+available at https://www.acadon.net/agb.pdf. Insofar as the provisions in the GTC deviate from the
+provisions in these STC, the provisions in the STC shall take precedence.
+1.5 Individual agreements made with the customer in individual cases (including collateral
+agreements, supplements and amendments) shall in any case take precedence over these GTC and
+the STC. Subject to proof to the contrary, a written contract or the written confirmation of acadon
+shall be authoritative for the content of such agreements.
+1.6 Legally relevant declarations and notifications by the customer with regard to the contract (e.g.
+setting of deadlines, notification of defects, withdrawal or reduction) must be made in writing, i.e.
+in written or text form (e.g. letter, e-mail, fax). Legal formal requirements and further proof, in
+particular in the case of doubts about the legitimacy of the declarant, remain unaffected.
+2. Conclusion of contract
+2.1 The offers of acadon are subject to change and non-binding. This also applies if acadon has
+provided the customer with catalogs, technical documentation (e.g. drawings, plans, calculations,
+calculations, references to DIN standards), other product or service descriptions or documents -
+also in electronic form - to which it reserves property rights and copyrights. 
+2.2 The order of the respective service by the customer is considered a binding contractual offer.
+Unless otherwise stated in the order, acadon is entitled to accept this contractual offer within 14
+days after its receipt by acadon.
+2.3 Acceptance can be declared either in writing (e.g. by sending an order confirmation) or by
+providing the service to the customer.
+2.4 The above regulations under this clause do not apply to the order of software or services via
+acadon's online store. The special contractual conditions for orders via the online store apply here.
+3. Subject matter of the contract and time of performance
+3.1 The subject matter of the contract, scope of services or description of services are primarily
+derived from the respective individual contract or its annexes or other special agreements. acadon
+is entitled to provide the services through third parties.
+3.2 Information on the time of performance is non-binding, unless acadon has agreed in writing to
+a date or deadline as binding.
+3.3 If acadon cannot meet binding performance times for reasons for which it is not responsible
+(non-availability of the service), it will inform the customer of this immediately and at the same
+time inform him of the expected new performance time. If the service is also not available within
+the new service period, acadon is entitled to withdraw from the contract in whole or in part; acadon
+will immediately refund any payment already provided by the customer.
+3.4 The occurrence of default in performance shall be determined in accordance with the statutory
+provisions. In any case, however, a reminder by the customer is required.
+4 General cooperation obligations of the customer
+4.1 The customer shall support acadon in the provision of the services by reasonable cooperation,
+as far as necessary. In particular, the customer is responsible for providing the functioning
+technical infrastructure required for the use of acadon's services. In addition, the customer shall
+provide acadon with the information and data required for the performance of the services (e.g.,
+regarding the IT infrastructure available at the customer's premises) as well as allow acadon access
+to its IT infrastructure to the extent required. Insofar as acadon is dependent on the cooperation of
+other service providers of the customer within the scope of the service provision, the customer
+shall provide acadon with the contract data and powers of attorney required for the corresponding
+communication in a timely manner.
+4.2 The customer is obligated to notify acadon immediately of any malfunctions, error messages or
+changes in operation relevant to acadon's services.
+4.3 Insofar as the customer should have received passwords from acadon that are used to access
+acadon's services, the customer is obligated to change them regularly. If the customer becomes 
+aware that an unauthorized third party has obtained knowledge of a password, the customer must
+inform acadon immediately and change the password immediately.
+4.4 A prerequisite for the provision of services by acadon is that the customer designates qualified
+employees to acadon upon conclusion of the contract who are exclusively permitted to request the
+contractual service from acadon, in particular to make service and support calls, and who are
+authorized to make the decisions necessary for the execution of the contract. The customer has to
+inform acadon immediately about any personnel changes in this context. The customer shall
+ensure that the qualifications of the employees are maintained or built up in the event of a change
+in personnel.
+4.5 In case of support, the customer is obliged to ensure in due time before the start of acadon's
+activities that the recorded data can be reconstructed with reasonable effort on machine-readable
+data carriers in case of destruction or falsification (data backup).
+4.6 If acadon's access to a data backup or to the customer's IT system by way of remote
+maintenance or other work is required for troubleshooting or for the provision of other contractual
+services, which enables acadon to gain knowledge of the customer's personal data, the customer is
+obligated to conclude a contract processing agreement with acadon regulating the protection of
+personal data (Art. 28 DS-GVO) before using these services. Prior to the conclusion of such a
+contract regulating data protection, acadon is not obligated to begin with the provision of the
+named services.
+4.7 If the customer does not fulfill his aforementioned duties to cooperate in whole or in part and
+this leads to the fact that acadon can no longer meet any agreed upon deadlines for the provision
+of services, the corresponding deadline agreements lose their validity. In this case, new
+performance dates are to be agreed upon, taking into account acadon's resource planning. In
+addition, the customer is obligated to compensate acadon for additional expenses incurred due to
+the violation of the cooperation obligations. acadon will request the customer in writing, setting an
+appropriate deadline, to make up for or rectify the respective cooperation obligations. If this period
+expires fruitlessly, acadon is entitled to terminate the contract without notice, provided that
+acadon has previously threatened this in writing with the setting of a grace period. The assertion of
+further rights remains unaffected by the above regulations.
+5. Remuneration and terms of payment
+5.1 The amount of the remuneration results primarily from the respective individual contract. If this
+is not the case, acadon's current pricelist at the time of the conclusion of the contract shall apply,
+plus statutory VAT.
+5.2 Unless otherwise specified in the respective individual contract or the relevant STC, acadon will
+invoice the respective remuneration due on a regular basis. An agreed monthly or annual lump sum
+remuneration shall be due in advance in each case; one-time fees, variable fees as well as other
+remunerations shall be due after performance of the service. 
+5.3 If the parties agree payment by direct debit, the customer authorizes acadon upon conclusion
+of the contract to debit the payments to be made by him by direct debit authorization from an
+account specified by him. The customer is obligated to ensure sufficient coverage of the account. If
+the direct debit from the customer's account is not possible due to lack of funds or if the direct
+debit is reversed at the instigation of the customer, acadon is entitled to additionally claim the
+costs incurred (e.g. return debit fees) as minimum damages. In addition, acadon is entitled to
+charge a processing fee in the amount of € 8.00 per direct debit, unless the customer proves that
+no or significantly lower damages were actually incurred.
+5.4 If the customer does not use or only partially uses a usage option made available to him on a
+flat-rate basis, the agreed remuneration shall not be reduced unless the customer is entitled to a
+statutory right of reduction.
+5.5 The customer is only entitled to set-off if his counterclaim has been legally established, is not
+disputed or acknowledged by acadon or is in a close synallagmatic relationship to acadon's claim.
+5.6 If it becomes apparent after the conclusion of the contract (e.g. by filing for insolvency
+proceedings) that acadon's claim for payment is endangered by the customer's lack of ability to
+pay, acadon is entitled to demand an appropriate guarantee and/or security for the fulfillment of
+the contract. If this does not happen within a reasonable period of time, acadon is entitled to refuse
+performance according to the legal regulations and - if necessary after setting a deadline - to
+withdraw from the contract (§ 321 BGB). In the case of contracts for the production of unjustifiable
+items (custom-made products), acadon can declare the withdrawal immediately; the statutory
+regulations regarding the dispensability of setting a deadline remain unaffected.
+5.7 If the customer declares withdrawal from the contract without legal grounds prior to receipt of
+the goods or prior to performance of the service or if the customer finally refuses acceptance of the
+goods or service without legal grounds, acadon can claim damages in the amount of one third of
+the order sum due to non-performance. The proof of higher damages by acadon remains
+unaffected; however, the lump sum is to be offset against further monetary claims. The customer is
+permitted to prove that acadon has not incurred any damages at all or only significantly lower
+damages than the aforementioned lump sum.
+6. Liability of acadon
+6.1 Unless otherwise provided in these GTC including the following provisions as well as the
+relevant STC, acadon is liable for a breach of contractual and non-contractual obligations in
+accordance with the statutory provisions.
+6.2 acadon is liable for damages - regardless of the legal grounds - within the scope of fault liability
+in case of intent and gross negligence. In the case of simple negligence, acadon is liable, subject to
+statutory limitations of liability (e.g. care in own affairs; insignificant breach of duty), only
+a) for damages resulting from injury to life, body or health,
+b) for damages resulting from the violation of an essential contractual obligation (obligation, the
+fulfillment of which enables the proper execution of the contract in the first place and on the 
+compliance with which the contractual partner regularly relies and may rely); in this case, however,
+acadon's liability is limited to the compensation of the foreseeable, typically occurring damage.
+6.3 The limitations of liability resulting from 6.2 also apply to breaches of duty by or in favor of
+persons whose fault acadon is responsible for according to statutory provisions. They do not apply
+insofar as acadon has fraudulently concealed a defect or has assumed a guarantee for the quality
+and for claims of the customer under the Product Liability Act.
+6.4 acadon is not liable for the loss of data insofar as the damage is due to the customer's failure to
+perform data backups and thereby ensure that lost data can be restored with reasonable effort.
+7. Contract term/Termination for continuing obligations
+7.1 Unless otherwise stipulated in the respective individual contract or the relevant STC, the
+contractual term for continuing obligations shall be one year. The contractual relationship shall be
+automatically extended by one year in each case if it is not terminated in writing by one of the
+contracting parties no later than six months before its expiry.
+7.2 However, the right of both parties to extraordinary termination within the scope of continuing
+obligations shall remain unaffected in all cases. In particular, good cause shall be deemed to exist
+if the customer is in arrears with more than two instalments (in the case of monthly payment) or (in
+the case of annual payment) is more than 14 days in arrears and this arrears continues for more
+than two weeks after receipt of a reminder from acadon, in which the latter has threatened
+termination or reserved the right to do so.
+8. Confidentiality
+8.1 "Confidential Information" shall mean all information and documents of a Party which are
+marked as confidential or which are to be regarded as confidential under the circumstances, in
+particular information about products of the respective Party, including object codes,
+documentation and other records, operational processes, business relationships and know-how.
+8.2 The parties undertake to keep confidential information of the other party strictly and
+unconditionally secret and to protect it by appropriate technical and organizational precautions.
+8.3 Such confidential information shall be exempt from the confidentiality obligation in para. 2,
+a) which were demonstrably already known to the recipient at the time the contract was concluded
+or subsequently become known to it from a third party, without this violating a confidentiality
+agreement, statutory regulations or official orders;
+(b) which are public knowledge at the time of the conclusion of the contract or are made public
+thereafter, unless this is due to a breach of this contract;
+c) which must be disclosed due to legal obligations or by order of a court or authority. To the extent
+permissible and possible, the recipient obligated to disclose shall inform the other party in advance
+and give it the opportunity to object to the disclosure. 
+8.4 The parties shall only grant access to Confidential Information to those consultants who are
+subject to professional secrecy or to whom obligations corresponding to the confidentiality
+obligations of this Agreement have previously been imposed. Furthermore, the parties shall only
+disclose the Confidential Information to those employees who need to know it for the performance
+of this Agreement and shall also oblige such employees to maintain confidentiality to the extent
+permissible under employment law for the period after their departure.
+9. Choice of law and place of jurisdiction
+9.1 The laws of the Federal Republic of Germany apply to these GTC, the STC and the contractual
+relationship between acadon and the customer, excluding international uniform law, in particular
+the UN Convention on Contracts for the International Sale of Goods.
+9.2 The place of performance is acadon's place of business.
+9.3 If the customer is a merchant within the meaning of the German Commercial Code, a legal
+entity under public law or a special fund under public law, the exclusive - also international - place
+of jurisdiction for all disputes arising directly or indirectly from the contractual relationship is
+acadon's place of business. acadon is, however, also entitled in all cases to file suit at the
+customer's place of business. Overriding statutory provisions, in particular regarding exclusive
+jurisdiction, remain unaffected.
+10. Final provisions
+10.1 There are no verbal ancillary agreements.
+10.2 The customer may transfer rights and obligations arising from or in connection with this
+contract to third parties only with acadon's written consent.
+10.3 The customer may only assert a right of retention due to counterclaims arising from the
+respective contractual relationship. 
+
+Special Terms and Conditions of acadon AG for the Purchase of Software
+1. Scope
+1.1 These Special Terms and Conditions (STC) apply to all contracts between acadon AG
+(hereinafter referred to as "acadon") and the customer for the provision of software for permanent
+use (purchase), regardless of whether it is software developed by acadon or software from thirdparty providers (e.g. Microsoft) (hereinafter uniformly referred to as "software"). They only apply if
+the customer is a business (§ 14 BGB), a legal entity under public law or a special fund under public
+law. The offers are directed exclusively at businesses and not at consumers. These STC apply in
+addition to the General Terms and Conditions (GTC) of acadon. Insofar as the regulations in these
+GTC deviate from the regulations in the GTC, the regulations in the GTC shall take precedence.
+1.2 Deviating, conflicting or supplementary general terms and conditions of the customer shall
+only become part of the contract if and insofar as acadon has expressly agreed to their validity. This
+consent requirement applies in any case, for example even if acadon performs the contractually
+owed service to the customer without reservation in knowledge of the customer's GTC.
+2. Subject matter of the contract/Scope of services
+2.1 The subject matter of the contract is the provision of the software listed in the respective offer
+or the respective order confirmation for permanent use within the customer's own IT infrastructure
+(on-premises). Unless otherwise specified in the respective individual agreement, the software
+shall be made available to the customer in object code and with the associated user documentation
+to the extent specified in the respective offer or the respective order confirmation at the prices
+stated therein.
+2.2 The quality of the software is conclusively determined by the description in the offer or the
+order confirmation and, if applicable, the associated license certificate. The information contained
+therein shall be understood as descriptions of performance and not as warranties. A warranty shall
+only be granted if it has been expressly designated as such and agreed in writing. The customer had
+the opportunity to examine the scope of performance of the software listed in the offer in
+workshops and test installations. acadon does not owe a quality of the software that goes beyond
+this. In particular, the customer cannot derive such an obligation from other representations of the
+software in public statements or in the advertising of acadon and/or the respective third-party
+providers, as well as their employees or sales partners, unless acadon has expressly confirmed the
+quality going beyond this in writing.
+2.3 The customer has informed himself about the essential functional features of the software and
+bears the risk as to whether this corresponds to his wishes and needs; he has sought advice on
+questions of doubt from acadon employees or from expert third parties before concluding the
+contract. The customer is solely responsible for setting up a functional hardware and software
+environment for the software - which is also sufficiently dimensioned taking into account the
+additional load caused by the software. 
+2.4 The source code of the software is not part of the scope of services. It may happen that the
+source code of the software is supplied for technical reasons. However, this does not give the
+customer any right to delivery, access or use of the same.
+2.5 Documentation: For software of the Dynamics product family from Microsoft, the customer
+receives program documentation as online help. A user documentation (user manual) does not
+exist. User documentation (user manuals) therefore only become part of the contract if they are
+expressly mentioned in the offer. The customer receives a DIN A4 sheet of "Installation
+Instructions" as installation documentation. Further information, as well as acadon's support for
+the installation, can be obtained from acadon at the usual conditions. Any documentation may be
+available electronically and/or in English, especially for software of the Dynamics family from
+Microsoft. Any documentation will only be delivered in the form in which it is provided by the
+respective third-party supplier.
+2.6 Installation: The customer is responsible for the installation of the software. acadon provides
+installation instructions in the size of one DIN A4 sheet and, if not expressly included in the offer, is
+prepared, at the customer's request, to provide the installation of the software on the basis of an
+agreement to be concluded separately at the then valid prices or to provide corresponding
+assistance services to the customer.
+2.7 Instruction: Instruction of the customer's employees in the operation of the software is only
+owed by acadon if this has been expressly agreed between the parties in writing. At the customer's
+request, instruction can be ordered at the agreed hourly rates according to the offer or, if such an
+hourly rate has not been agreed, at acadon's respective usual hourly rates.
+2.8 Software Maintenance/Maintenance: acadon owes the maintenance and care of the software
+only if this has been expressly agreed in writing between the parties by corresponding separate
+contracts. In order to keep the software up to date, to support the customer and to eliminate
+occurring errors, acadon recommends the conclusion of the contract "Full Service Maintenance".
+The customer is advised that if a maintenance contract is not concluded, the customer will not
+receive any updates to Microsoft Dynamics NAV and the industry solution from acadon and
+furthermore that the third-party supplier Microsoft will demand increased maintenance payments
+for the period in which maintenance services were not used if maintenance is ordered later,
+because updates created and delivered to other customers during this contract-free period will
+then also be delivered later. This can lead to substantial additional payments by the customer
+under the maintenance contract.
+3. Delivery / provision of the software
+3.1 Unless otherwise agreed, acadon effects the delivery of the software by providing the customer
+with a download link.
+3.2 The customer is recommended to install the software in a test system first, since the immediate
+use in real operation can lead to sensitive disturbances up to a standstill of the operational
+processes. The decision whether to install in the test system or in the real system is the sole
+responsibility of the customer. 
+3.3 If the Customer has ordered instruction of its employees in the operation of the software, the
+parties shall agree on dates for this in good time. At the Customer's option, only its key users or all
+employees from the specialist departments shall be instructed. The number of participants in an
+instruction may not exceed 8 employees so that the comprehensibility of the instruction remains
+guaranteed.
+4. Rights of use
+4.1 Upon full payment of the purchase price, the Customer shall receive a non-exclusive right to
+use the Software for an unlimited period of time to the extent granted in the respective offer or in
+the respective order confirmation and the license certificate. Territorially, the corresponding right
+of use shall only apply to the country of destination agreed between the parties in which the
+software is to be used. In the absence of an express agreement, the right of use shall be granted
+exclusively for the country in which the customer has its place of business.
+4.2 Types of Use:
+4.2.1 Concurrent User: If the offer specifies a maximum number of users who may access the
+software simultaneously, any use in excess of this is prohibited. In the event of additional use, the
+Customer shall pay a remuneration corresponding to the price of the authorization of a single
+person in relation to the price of the offer.
+4.2.1 Named User: If use by named user is agreed, the following applies: acadon grants the
+customer the right to use the software for each employee named by the customer. Any use by
+another person, in particular by exploiting their designation or password in the program, is
+prohibited. In the event of a violation of this, the additional remuneration shall be based on the
+rules for exceeding the number of concurrent users in accordance with the above provision.
+4.3 Permitted use includes installation of the software, loading into the working memory and use
+by the customer as intended. The number of licenses and the type and scope of use shall otherwise
+be determined in accordance with the description in the respective offer or in the respective order
+confirmation and the license certificate. The customer is not entitled to lease or otherwise
+sublicense the purchased software, to publicly reproduce or make it accessible by wire or wireless
+means, or to make it available to third parties against payment or free of charge, e.g. by way of
+application service providing or as "software as a service". The transfer of a copy of the software to
+a third party for permanent use is only permitted under the following conditions: In this case, the
+customer will completely give up the use of the software, remove all installed copies of the
+software from his hardware and delete all copies located on other data carriers or hand them over
+to acadon, unless he is legally obligated to keep them for a longer period of time. Upon acadon's
+request, the customer shall confirm to acadon in writing that the aforementioned measures have
+been carried out in full or, if applicable, explain to acadon the reasons for longer retention.
+Furthermore, the customer shall expressly agree with the third party to observe the scope of the
+granting of rights in accordance with this clause 4. A splitting of purchased license volume
+packages is not permitted. In the event of a change of hardware, the customer shall also be obliged
+to remove the software from the data carriers and other hardware used to date. 
+4.4 The Customer shall be entitled to make a backup copy if this is necessary to secure future use.
+The customer shall visibly affix the note "Backup Copy" as well as a copyright notice of the
+manufacturer to the created backup copy. The customer shall only be entitled to decompile and
+reproduce the contractual software if this is provided for by law. However, this only applies under
+the condition that acadon has not made the necessary information available to the customer upon
+request within a reasonable period of time.
+4.5 If the customer uses the software to an extent that exceeds the acquired rights of use
+qualitatively (with regard to the type of permitted use) or quantitatively (with regard to the number
+of acquired licenses), he will immediately acquire the rights of use necessary for the permitted use.
+If he fails to do so, acadon will assert the rights to which it is entitled.
+4.6 In the case of third-party software, the authorization is based on the license terms of the
+respective third-party manufacturer, which must be observed by the customer. acadon assumes no
+responsibility that the software from third-party manufacturers is suitable for the customer's
+purposes and that the scope of the license granted by the third-party manufacturers is sufficient for
+the customer's purposes.
+4.7 The transfer of the rights of use takes place only at the time of the complete payment of the
+purchase price by the customer. Until the complete payment of the remuneration, acadon
+revocably tolerates the use of the software by the customer. acadon can revoke the use of such
+software for the duration of the default if the customer is in default with the payment of the
+remuneration.
+4.8 Copyright notices, serial numbers and other features serving to identify the program may not be
+removed or changed from the contractual software.
+4.9 Insofar as source code is supplied, this shall only be for technical reasons. This shall not
+constitute any right of the Customer to deliver, inspect, copy, transfer to third parties, process or
+otherwise use the source code.
+4.10 Documentation is supplied for the exclusive personal use of the customer. The right to copy,
+edit and transfer to third parties for other than the aforementioned purposes is prohibited. This
+does not apply to documentation written by the customer regarding the customer's adjustments.
+These may be further used by the customer, but likewise may not be passed on to third parties,
+because they may also contain know-how or intellectual property (copyrights) of acadon or the
+software manufacturers that is worthy of protection.
+4.11 Duplication or reworking of the online help or other documents is not permitted. This does not
+apply to such documents that were produced by the customer itself. Reference is made to the
+prohibition on passing on.
+5. Safeguards, audit right
+5.1 The Customer shall take appropriate measures to secure the software and, if applicable, the
+access data for online access against access by unauthorized third parties. In particular, all copies
+of the software as well as the access data shall be kept in a protected place.
+5.2 Upon acadon's request, the customer shall enable acadon to verify the proper use of the
+software, in particular whether the customer is using the program qualitatively and quantitatively
+within the scope of the licenses purchased by him. For this purpose, the customer shall provide
+acadon with information, grant access to relevant documents and records, and enable an audit of 
+the hardware and software environment used by acadon or by an auditing company named by
+acadon and acceptable to the customer. Acadon may carry out the audit on the customer's
+premises during regular business hours or have it carried out by third parties bound to secrecy.
+acadon will ensure that the customer's business operations are disturbed as little as possible by its
+activities on site. If the inspection reveals that the purchased number of licenses has been
+exceeded by more than 5% (five percent) or that the license has otherwise been used in a way that
+is not in accordance with the contract, the customer shall bear the costs of the inspection,
+otherwise the costs shall be borne by acadon. All other rights remain reserved.
+6. Remuneration, due date
+The remuneration for acadon's services is specified in the offer or the order confirmation. It is due
+and payable according to the specifications in the offer or the order confirmation. If nothing is
+specified therein, 30 % of the total purchase price shall be due upon placement of the order and
+the remaining 70 % of the total purchase price shall be due upon delivery of the software (section
+3.1 of these GT&C).
+7. Warranty
+7.1 acadon warrants the agreed quality and that the customer can use the software without
+infringing the rights of third parties. The warranty for material defects does not apply to defects
+based on the fact that the software is used in a hardware and software environment that does not
+meet the requirements specified in the license certificate or for changes and modifications that the
+customer has made to the software without being authorized to do so by law, the contract or based
+on prior written consent from acadon.
+7.2 The customer must check the contractual software for obvious defects immediately upon
+receipt and notify acadon of these immediately if they are present, otherwise a warranty for these
+defects is excluded. The same applies if such a defect becomes apparent later § 377 HGB applies.
+7.3 In the event of a material defect, acadon is initially entitled to subsequent performance, i.e. at
+its own discretion to remedy the defect ("rectification") or replacement delivery. Within the scope of
+the replacement delivery, the customer will accept a new version of the software, if applicable,
+unless this leads to unreasonable impairments. In the case of defects of title, acadon will, at its
+own discretion, provide the customer with a legally unobjectionable possibility of using the
+software or modify it in such a way that the rights of third parties are no longer infringed.
+7.4 The customer shall support acadon in determining and eliminating the defect and shall
+immediately grant acadon access to the documents from which the more detailed circumstances of
+the occurrence of the defect result.
+7.5 Before asserting claims for supplementary performance, the customer shall verify with due
+diligence whether a defect subject to supplementary performance exists. If an alleged defect is not
+subject to the obligation of subsequent performance (pseudo defect), the customer may be charged
+for acadon's services rendered for verification and error correction at acadon's respective valid
+rates of remuneration plus the expenses incurred, unless the customer could not have recognized
+the pseudo defect even by exercising due diligence. 
+7.6 The place of performance for the supplementary performance is the registered office of acadon.
+The supplementary performance can be carried out by telecommunicative transmission of
+software, unless the telecommunicative transmission is not reasonable for the customer, for
+example for reasons of IT security.
+7.7 If the customer sets acadon a deadline for performance or supplementary performance, he can
+only use the unsuccessful expiration to withdraw from the contract or to claim damages instead of
+performance if he has informed acadon when setting the deadline that he does not want to use
+acadon's performance after the unsuccessful expiration of the deadline. If the customer has to
+issue a warning instead of setting a deadline, he must also inform acadon at the same time as the
+warning that he no longer wishes to make use of the service after the warning has not been
+successful.
+7.8 With the exception of claims for damages, warranty claims based on material defects shall
+become statute-barred after one year. In the case of sale on a data carrier, the limitation period
+shall begin with the delivery of the contractual software, in the case of sale by means of download
+from the Internet after notification and activation of the access data for the download area. 
+
+Special Terms and Conditions of acadon AG for License Maintenance
+1. Scope
+1.1 These Special Terms and Conditions (STC) apply to all contracts between acadon AG
+(hereinafter referred to as "acadon") and the customer for the ongoing provision of updates and
+upgrades (license maintenance) for software purchased under a separate contract, regardless of
+whether it is software developed by acadon or software from third-party providers (e.g. Microsoft)
+(hereinafter uniformly referred to as "software"). They only apply if the customer is a business (§ 14
+BGB), a legal entity under public law or a special fund under public law. The offers are directed
+exclusively at entrepreneurs and not at consumers. These STC apply in addition to the General
+Terms and Conditions (GTC) of acadon. Insofar as the regulations in these STC deviate from the
+regulations in the GTC, the regulations in the STC shall take precedence.
+1.2 Deviating, conflicting or supplementary general terms and conditions of the customer shall
+only become part of the contract if and insofar as acadon has expressly agreed to their validity. This
+consent requirement applies in any case, for example even if acadon performs the contractually
+owed service to the customer without reservation in knowledge of the customer's GTC.
+2. Subject matter of the contract/scope of services
+2.1 The subject matter of the license maintenance agreement offered by acadon is the ongoing
+provision of updates and upgrades for the Software listed in the respective offer or the respective
+order confirmation.
+2.2 acadon will deliver the updates and upgrades for third-party software to the customer within a
+reasonable period of time after they have been released by the respective third-party provider.
+2.3 Microsoft alone decides on changes or extensions with the MS-Dynamics license. acadon has
+no influence on the changes of this software by Microsoft. In particular, the following changes may
+occur:
+2.3.1 Changes to the software due to changes in legal requirements or a change in accounting
+practice
+2.3.2 Changes to the Software with regard to the general technical development of the end-users
+of the Software to achieve a better software status.
+2.3.3 Changes for the purpose of troubleshooting; in the process, individual functionalities may be
+omitted or become more cumbersome
+2.3.4 Introduction of new functionalities that entail a chargeable extension of the license.
+2.4 Third-party providers reserve the right vis-à-vis acadon to determine the content of the license
+themselves. Likewise, the respective third-party provider alone determines when updates and
+upgrades are generally released for marketing. The respective third party provider also reserves the
+right to decide in which deployment environment the maintained license is used and the updates
+and upgrades may be used and, if necessary, to change the permitted hardware and software
+prerequisites or configurations for licenses for updates and upgrades. 
+ The changes to these prerequisites and to the updates and upgrades are generally necessary as
+part of the adaptation to the progressive technological development in order to keep the third-party
+software up to date. In this case, it is the customer's responsibility to create the system
+requirements necessary for the use of the updates and upgrades.
+2.5 The third-party software is a standard software product that is not tailored to the individual
+needs of individual software users. The Customer may only make individual adaptations of updates
+and upgrades if it is entitled to do so under the license agreement with which it acquired the right
+to use the third-party software. In this case, the customer assumes full responsibility for the
+commissioning of the modifications and updates. This also applies if acadon has made these
+changes for the customer.
+2.6 The above restrictions are specified by the respective third-party provider. acadon has no
+influence on this. Changes to the software and change expenses subject to a charge resulting from
+changes to the standard software by the respective third-party provider shall be borne by the
+customer.
+2.7 Data reconstruction and data backup: The customer is obligated to ensure sufficient data
+backup himself before acadon performs the services. If such a backup has not been made, the
+customer must inform acadon of this before the start of the maintenance work. In this case,
+acadon's employees will perform the data backup. The effort incurred in this process is to be
+additionally remunerated. The obligation to check whether the data backup was successful is
+incumbent on the customer.
+3. Services not included:
+The following services are not included in the license maintenance agreement, i.e. the customer
+has no claim against acadon for these services without a separate agreement expressly made in the
+individual case.
+3.1 Troubleshooting: acadon is not obligated to troubleshoot the contractual software outside of its
+statutory supplementary performance obligations from the license maintenance agreement as well
+as the separately concluded software delivery agreement. Such troubleshooting will be performed
+by acadon at the customer's request on the basis of a separate agreement to be concluded at the
+then valid prices.
+3.2 Customer-specific adaptation: acadon is not obligated to customer-specific adaptations of the
+updates and upgrades provided with the respective license maintenance agreement. These will be
+provided by acadon at the customer's request on the basis of a separate agreement to be concluded
+at the then valid prices.
+3.3 Hotline: A license maintenance contract does not include a hotline service on the part of
+acadon towards the customer. For such services acadon offers the conclusion of a help service
+contract, which must be concluded separately between the parties.
+3.4 Release change and migration: The scope of services of the License Maintenance Agreement
+does not include support of the Customer in case of a release change or correction status as well as
+migration of changed systems to a system in the standard scope of delivery. 
+3.5 The above list is not exhaustive. It cannot be concluded from the lack of naming of services that
+these services are the subject of acadon's contractual obligations. The rights of the customer based
+on the liability for service disruptions owed by acadon under the contract remain unaffected.
+4. Provision of updates/upgrades
+The customer is obliged to install the updates and upgrades provided to him within a reasonable
+period of time. If the customer fails to do so, the possibility to escalate support requests to the
+respective third-party provider expires.
+5. Rights of use
+5.1 acadon grants the customer the rights to use the updates and upgrades provided within the
+scope of the license maintenance agreement to the extent they were granted to the customer by
+acadon for the originally provided software.
+5.2 For independently executable software, the customer shall receive the rights pursuant to
+paragraph 1 subject to the condition subsequent to the time of the transfer of further software
+versions. With the transfer of any further executable software within the scope of the license
+maintenance agreement, the rights to the previously transferred version expire. Until the
+installation of the provided software, acadon tolerates the use of the previous version to the extent
+described in paragraph 1.
+5.3 The customer may not continue to use software that has become surplus to requirements as a
+result of services under this contract and is obligated to permanently uninstall it, to confirm this
+uninstallation in writing and to return to acadon any original data carriers including backup copies
+that may be available for this purpose.
+5.4 The provisions of paragraphs 1 to 3 also apply to services provided by acadon within the scope
+of subsequent performance or as a gesture of goodwill.
+6. Remuneration, due date
+6.1 The remuneration for acadon's services is specified in the offer or the order confirmation. It is
+due and payable in accordance with the specifications in the offer or the order confirmation. If
+nothing is specified there, the customer must make the payment within 30 days from the
+conclusion of the contract.
+6.2 acadon is entitled to increase the remuneration with a notice period of two months to the
+beginning of the third month. If the price increase amounts to more than 8% within a period of 2
+years, acadon will inform the customer of the intended price increase in writing. In this case, the
+customer is entitled to terminate this contract extraordinarily in writing with a notice period of one
+month before the price increase takes effect.
+7. Warranty
+7.1 The statutory warranty rights shall apply to the updates and upgrades provided. The warranty
+for material defects does not apply to defects based on the fact that the software is used in a
+hardware and software environment that does not meet the requirements specified in the license
+certificate or for changes and modifications that the customer has made to the software without
+being authorized to do so by law, the contract or on the basis of acadon's prior written consent. 
+7.2 The customer must check the updates and upgrades immediately upon receipt for obvious
+defects and notify acadon of these immediately if they are present, otherwise a warranty for these
+defects is excluded. The same applies if such a defect becomes apparent later. § 377 HGB is
+applicable.
+7.3 In the event of a material defect, acadon is initially entitled to subsequent performance, i.e. at
+its own discretion to remedy the defect ("rectification") or replacement delivery. Within the scope of
+the replacement delivery, the customer will accept a new version of the software, if applicable,
+unless this leads to unreasonable impairments. In the case of defects of title, acadon will, at its
+own discretion, provide the customer with a legally unobjectionable possibility of using the
+software or modify it in such a way that the rights of third parties are no longer infringed.
+7.4 The customer shall support acadon in determining and eliminating the defect and shall
+immediately grant acadon access to the documents from which the more detailed circumstances of
+the occurrence of the defect result.
+7.5 Before asserting claims for supplementary performance, the customer shall verify with due
+diligence whether a defect subject to supplementary performance exists. If an alleged defect is not
+subject to the obligation of subsequent performance (pseudo defect), the customer may be charged
+for acadon's services rendered for verification and error correction at acadon's respective valid
+rates of remuneration plus the expenses incurred, unless the customer could not have recognized
+the pseudo defect even by exercising due diligence.
+7.6 The place of performance for the supplementary performance is the registered office of acadon.
+The supplementary performance can be carried out by telecommunicative transmission of
+software, unless the telecommunicative transmission is not reasonable for the customer, for
+example for reasons of IT security.
+7.7 If the customer sets acadon a deadline for performance or supplementary performance, he can
+only use the unsuccessful expiration to withdraw from the contract or to claim damages instead of
+performance if he has informed acadon when setting the deadline that he does not want to use
+acadon's performance after the unsuccessful expiration of the deadline. If the customer has to
+issue a warning instead of setting a deadline, he must also inform acadon at the same time as the
+warning that he no longer wishes to make use of the service after the warning has not been
+successful.
+7.8 With the exception of claims for damages, warranty claims based on material defects shall
+become statute-barred after one year, unless the defect was fraudulently concealed. The limitation
+period shall begin with the provision of the respective update or upgrade. Insofar as the software
+provided is identical to the software already in use, the previously existing rights and the
+corresponding limitation period shall apply to the software parts already in use. 
+
+Special Terms and Conditions of acadon AG for Managed Service
+1.1 These Special Terms and Conditions (STC) apply to all contracts between acadon AG
+(hereinafter referred to as "acadon") and the customer for the provision of "Managed Service"
+services. They only apply if the customer is a business (§ 14 BGB), a legal entity under public law or
+a special fund under public law. The offers are directed exclusively at entrepreneurs and not at
+consumers. These STC apply in addition to the General Terms and Conditions (GTC) of acadon.
+Insofar as the regulations in these STC deviate from the regulations in the GTC, the regulations in
+the STC shall take precedence.
+1.2 Deviating, conflicting or supplementary general terms and conditions of the customer shall
+only become part of the contract if and insofar as acadon has expressly agreed to their validity. This
+consent requirement applies in any case, for example even if acadon performs the contractually
+owed service to the customer without reservation in knowledge of the customer's GTC.
+2. Subject matter of the contract/scope of services
+2.1 The subject matter of the contract is the provision of Managed Service performances for a
+limited period of time in the scope of services listed in the respective offer or the respective order
+confirmation for a limited period of use via the Internet as well as the granting of storage space on
+servers provided by acadon.
+2.2 Unless otherwise agreed in the offer, acadon shall provide the following services to the
+customer during the term of the contract:
+2.2.1 Temporary provision of hardware / data center capacities / cloud services (hereinafter
+collectively "Infrastructure");
+2.2.2 Installation / commissioning of the infrastructure, if agreed;
+2.2.3 if applicable, monitoring and other operational/support services related to the infrastructure
+according to the offer.
+2.3 The installation and commissioning of the Cloud Services shall be the responsibility of the
+Customer, unless otherwise stipulated in the offer.
+2.4 acadon always performs operating/support services within the scope of Managed Services
+during the service hours specified in the offer/price list. Unless otherwise agreed in the offer,
+Customer has no claim that acadon will perform activities outside the service hours, not even in the
+context of the installation of updates. Acadon may perform these activities outside the service
+hours at its own discretion and charge agreed surcharges for this.
+2.5 The services provided according to these STC - apart from the service part of the temporary
+provision of the infrastructure - represent services, i.e. acadon owes only the activity, but not the
+success intended by the customer, unless acadon has contractually assured a specific success. 
+2.6 In case of imminent danger, for example in case of a serious security breach with regard to the
+infrastructure and/or in case of a virus attack of the customer's IT systems, acadon is entitled to
+perform activities necessary to avert the danger and to charge for them according to time and
+effort, even without a corresponding order. acadon will inform the customer about corresponding
+measures in advance, if possible.
+3. Provision of infrastructure
+3.1 Unless otherwise agreed in the offer, acadon shall only provide the respective infrastructures
+and the Internet access thereto within the scope of the Managed Services. The connection of the
+customer to the Internet, the maintenance of the network connection as well as the quality and
+provision of the hardware and software required on the part of the customer is not part of the
+contract.
+3.2 Within the scope of Managed Services, acadon can provide Cloud Services in the form of its own
+data centers / infrastructures or via data centers / infrastructures of third party providers. Unless
+otherwise agreed in the offer, acadon is not subject to any restrictions related to third-party
+providers and/or regions when selecting the data center / infrastructure.
+4. Support / service level agreement
+4.1 acadon provides support for the Managed Services. Unless otherwise agreed in the offer, the
+service commitments pursuant to this clause shall apply.
+4.2 Availability regulations
+4.2.1 Downtime means the total time in hours in a year during which the infra structure is unable to
+respond to interaction requests from customers and/or users. Availability determines the
+percentage of a year during which the provided service runs without unplanned disruption. The
+year is a period of 365 calendar days or 8,760 hours during which the infrastructure is provisioned.
+The year begins on the day the infrastructure is provided and ends 365 days later. Availability per
+year in percent is calculated as:
+(8,760 hours - downtime) / 8,760 hours.
+4.2.2 The infrastructure shall be provided in each case with an availability of at least 99% as an
+annual average.
+4.2.3 Downtime shall be excluded from the calculation of Downtime under Section 4.2.1 under the
+following circumstances:
+- Scheduled maintenance and announced downtime, including backup intervals and scheduled
+maintenance and announced downtime performed by acadon / the third party provider;
+- Abuse of access rights by the Customer and/or the User or other use of the Cloud Service in
+violation of the Cloud Service Contract Terms;
+- Other issues beyond acadon's reasonable control, including: working on the system at the
+customer's request, restoring a current database status from a backup media or using database
+transaction logs, customer's failure to comply with technical usage requirements.
+4.3 Helpdesk
+4.3.1 acadon shall set up a helpdesk for the support of the Managed Services within the support
+hours, which is staffed with professionally qualified and experienced personnel. Only insofar as this
+has been expressly agreed, a telephone on-call service is available outside the support hours.
+Support times and media are agreed in the offer.
+4.3.2 Outside the support hours, the Customer may only report errors by telephone if this is
+contractually agreed. If error reports are initiated outside the support hours via e-mail or other
+telephone numbers, these shall only be deemed to have been made at the beginning of the
+following supervised support hours.
+4.4 Interference suppression
+4.4.1 Faults are assigned to the following fault classes:
+- Fault class 1 comprises serious faults that prevent or unreasonably restrict the use of essential
+parts of the service in an expedient, economically meaningful manner ("everything is in place,
+nothing works"). This presupposes that the customer / user is not capable of working.
+- Error class 2 comprises functional interruptions which severely restrict the application of
+essential parts of the service for economically reasonable use. This requires that the customer /
+user is restricted in his work.
+- Failure class 3 includes limitations in functionality, so that the services can be used in an
+economically reasonable way, with some exceptions.
+- Failure class 4 comprises weaknesses in the services which do not restrict use. The impairment is
+so slight that the services can essentially be used until further notice and the work results are
+usable.
+4.4.2 Each error message shall be assigned to an error class by acadon at its reasonable discretion.
+A suggestion of the customer shall be taken into account. If acadon does not deviate from the
+customer's suggestion by more than one defect class, the classification shall be deemed to be
+mutually agreed. The customer shall be responsible for proving the lower classification.
+4.4.3 The subsequent reclassification of a defect report to another defect class is only possible by
+mutual agreement.
+4.4.4 In the event of an error, acadon will respond to the customer's error message within the
+support times within the agreed response time. Unless expressly agreed otherwise, the response
+time for error messages of error class 1 is a period of four (4) hours, for error class 2 a period of
+eight (8) hours, for error class 3 a period of one week and for error class 4 a period of two weeks.
+4.4.5 Successful elimination of the functional impairment within the response times is not owed.
+4.4.6 Decisive for the initiation of the response times is the receipt of a qualified error message
+from the customer by the helpdesk via the agreed contact channels. 
+4.4.7 An error message is only to be evaluated as qualified if the described error is reproducible, i.e.
+the operating situation and the working environment are described so precisely that a qualified
+acadon employee can trigger the error himself at any time.
+4.4.8 Each error message shall also contain as precise a description as possible of the functional
+impairment and the time at which it was first detected. If the error occurs only at individual
+workstations, these shall be designated.
+4.4.9 If the customer has made a change to its own system before the error occurred, this must also
+be reported.
+4.4.10 In the case of serious errors of error classes 1 and 2, acadon begins to limit the
+consequences of the error immediately after the initial reaction and continues its activity outside
+the support time. As long as the error has not been eliminated, the service is considered
+unavailable, unless it turns out that the customer is responsible for the error or that the error
+should have been assigned to error class 3 or 4. Errors of error classes 3 and 4 shall not be
+considered as non-availability of the Service.
+4.5 Dealing with non-compliance with service levels
+As far as acadon complies with service levels or only in individual cases, i.e. does not repeatedly /
+sustainably violate service levels, claims of the customer are excluded. In the event that service
+levels are not complied with, the parties shall determine the following procedure:
+4.5.1 acadon notifies the customer, or the customer asks acadon to analyze the service level data.
+4.5.2 acadon will immediately determine the (possible) cause of the malfunction (if known) in order
+to comply with the service level.
+4.5.3 Unless pursuit of the failure is waived, acadon shall develop a corrective action plan, submit it
+to Customer for written confirmation (which shall not be unreasonably withheld or delayed), and
+implement it within a reasonable period of time (and in accordance with the agreed deadlines) after
+confirmation is given.
+4.5.4 acadon has not violated service levels as far as the root cause analysis (properly performed by
+acadon) shows that the non-compliance with the respective service level was caused by the
+customer.
+5. Rights of use for cloud services
+5.1 acadon grants the customer the non-exclusive and non-transferable right to use the Cloud
+Services provided to the extent granted in the respective offer or in the respective order
+confirmation and the license certificate for the duration of the contract within the scope of the
+Managed Services as intended.
+5.2 The number of licenses as well as the type and scope of use are determined by the description
+in the respective offer or in the respective order confirmation and the license certificate. The
+Customer is not entitled to lease or otherwise sublicense the Cloud Services, to publicly reproduce
+or make them accessible by wire or wireless means or to make them available to third parties
+against payment or free of charge. 
+5.3 If the customer uses the Cloud Services to an extent that exceeds the acquired rights of use
+qualitatively (with regard to the type of permitted use) or quantitatively (with regard to the number
+of acquired licenses), he will immediately acquire the rights of use necessary for permitted use. If
+he fails to do so, acadon will assert the rights to which it is entitled.
+5.4 In the case of cloud services from third-party providers, the authorization is based on the
+license terms of the respective third-party provider, which must be observed by the customer.
+6. Special obligations of the customer
+6.1 If acadon contractually assumes the installation of hardware, the customer shall provide the
+necessary power and network connections within reach of the operating environment at its own
+expense. Unless otherwise agreed or a manufacturer's specification provided by acadon upon
+conclusion of the contract provides otherwise, at least one conventional single-phase AC power
+connection with 240 volts and one Ethernet network connection shall be provided per independent
+computing unit (e.g. per server or workstation computer).
+6.2 The customer will independently ensure a complete backup of his data files and up-to-date
+virus protection before acadon starts to set up hardware.
+6.3 The customer shall provide acadon with access to the IT systems on which acadon provides its
+services at its own expense. The necessary identifiers and passwords for access with administrator
+rights shall be kept ready and entered upon acadon's request at the customer's discretion or
+handed over to acadon in writing. The customer shall provide acadon with access to data carriers
+and the Internet. Waiting times of acadon are to be compensated according to expenditure.
+6.4 The Customer shall protect the usage and access authorizations for the infrastructure assigned
+to it or to the Users as well as identification and authentication safeguards against access by third
+parties and shall not pass them on to unauthorized users. He shall change passwords at regular
+intervals and secure access by means of multi-factor authentication wherever possible. The
+aforementioned obligations must also be fulfilled if the customer receives a password that serves
+to identify him/her to acadon when making declarations concerning the contractual relationship.
+Persons who use the customer's password when submitting such a declaration are deemed to be
+authorized by the customer to submit the respective declaration. If, due to the customer's fault,
+third parties use acadon's services by misusing the passwords, the customer is liable to acadon for
+this.
+6.5 The customer shall indemnify acadon upon first request against all claims of third parties that
+are based on an illegal use of the infrastructure by him or that occur with his approval or that result
+in particular from data protection law, copyright law or other legal disputes that are connected
+with the use of the Standard Software. If the customer recognizes or must recognize that such a
+violation is imminent, there is an obligation to inform acadon immediately.
+6.6 The Customer shall oblige the Users authorized by it to comply for their part with the provisions
+listed for the use of the infrastructure, in particular Sections 6.1 and 6.2.
+6.7 To the extent necessary and reasonable, the Customer shall cooperate in any changes, e.g. by
+re-entering access data or by simple conversions of its systems. 
+6.8 The customer shall comply with / implement instructions for action, recommendations, etc. of
+acadon without delay.
+6.9 The customer will avoid an excessive load on the infrastructure, e.g. by scripts / commands that
+require an excessive amount of computing power or use an above-average amount of RAM. acadon
+is entitled to block access to content that does not meet the above requirements. acadon will
+inform the customer immediately of such a measure and make the content in question accessible
+again as soon as the customer proves to acadon that it has been redesigned to meet the above
+requirements.
+6.10 The customer will use acadon's services only to the extent required for proper business
+operations. The customer will avoid excessive use of acadon's services and capacities in order not
+to impair acadon's IT systems and to ensure the security of acadon's network.
+6.11 If a customer endangers the security, integrity or availability of Cloud Services of acadon or if
+such suspicion arises at acadon due to objective evidence that serious disruptions of Cloud
+Services will occur, acadon may temporarily block or restrict access. The times of blocking or
+restriction are excluded from the calculation of downtime. This regulation also applies to so-called
+"Denial of Service" attacks (hereinafter "DoS attacks"), which the customer carries out via Cloud
+Services. The same shall apply if the threat originates via the customer's system without the
+customer being responsible for this. It is clarified that this provision also applies to DoS attacks for
+which the customer's IT systems are used by third parties.
+6.12 If cloud services of acadon are used by the customer for illegal purposes (sending spam mails,
+online services for providing illegal content etc.), acadon can block the cloud service.
+7. Data security
+Insofar as acadon provides cloud services in the form of its own infrastructures within the scope of
+Managed Services, the following regulations apply to data security:
+7.1 The data stored on acadon systems are backed up daily. The backups are stored redundantly on
+different computers. Backup copies of the last 14 days are kept. These backups are to be
+understood as system backups and are not used for versioning customer data. In particular, it is not
+possible to perform a targeted restore for a customer on a specific data set in the past.
+7.2 The customer must therefore ensure that all data, in particular data stored on acadon's servers,
+is backed up at least once a day by means of copies on the customer's own systems, as this data can
+be lost, for example, during training, repair, installation and other interventions. Data backup on
+servers of acadon is not sufficient to fulfill this obligation.
+7.3 The customer is fully responsible for the security of the data transmitted by him to the Internet
+and stored at acadon. For an additional charge, which must be agreed individually, acadon can
+provide secured connections.
+8. Return of the hardware
+8.1 After the end of the contract, the customer will completely return hardware in all components
+to acadon in a condition corresponding to the contractual use. The customer shall completely
+delete or destroy data inventories. The customer is obligated to confirm the complete return and
+deletion in writing to acadon upon request. 
+8.2 Upon return of the Hardware, the parties shall prepare a protocol in which any existing damage
+and defects of the Hardware shall be recorded. The Customer shall reimburse the costs of
+restoration in the event of damage or defects for which it is responsible.
+8.3 The Customer shall carry out the dismantling and return transport of the Hardware. The
+Customer shall bear the costs for the dismantling, packaging and return transport of the Hardware.
+The Customer shall insure the Hardware against loss, destruction and damage in transit at its own
+expense.
+9. Responsibility for content / labeling / personal data
+9.1 acadon is not obligated to check the data stored by the customer on systems provided to him for
+legal violations. The customer bears full responsibility for all content processed within the
+framework of the Cloud Services. The customer guarantees not to process and store any illegal
+content, in particular not to deposit or use any copyrighted works on acadon's servers without the
+consent of the author, nor any content that violates criminal provisions.
+9.2 If the customer notices illegal content, he is obligated to immediately block and notify acadon.
+9.3 acadon is entitled to block potentially illegal content on the Cloud Services used by the
+customer at its own discretion and to inform the customer about the blocking. If the customer does
+not fulfill his obligation to delete the content within ten (10) days or if he proves to acadon within
+this period that the content does not violate protective laws, acadon is entitled to delete it without
+the customer's consent.
+9.4 If the customer processes personal data of third parties within the scope of this contractual
+relationship, the customer itself is responsible for compliance with data protection regulations.
+acadon will process the data processed by the customer within the scope of the cloud data only
+within the scope of the customer's instructions on the customer's behalf. 
+
+Special Terms and Conditions of acadon AG for the Provision of Software as part of a "Software as a
+Service" (SaaS) Model
+1. Scope
+1.1 These Special Terms and Conditions (STC) apply to all contracts between acadon AG
+(hereinafter referred to as "acadon") and the customer for the provision of software for time-limited
+use within the framework of a "Software-as-a-Service" (SaaS) model, regardless of whether it is
+software developed by acadon or software from third-party providers (e.g. Microsoft) (hereinafter
+uniformly referred to as "Software"). They only apply if the customer is a business (§ 14 BGB), a
+legal entity under public law or a special fund under public law. The offers are directed exclusively
+at entrepreneurs and not at consumers. These STC apply in addition to the General Terms and
+Conditions (GTC) of acadon. Insofar as the regulations in these STC deviate from the regulations in
+the GTC, the regulations in the STC shall take precedence.
+1.2 Deviating, conflicting or supplementary general terms and conditions of the customer shall
+only become part of the contract if and insofar as acadon has expressly agreed to their validity. This
+consent requirement applies in any case, for example even if acadon performs the contractually
+owed service to the customer without reservation in knowledge of the customer's GTC.
+2. Subject matter of the contract/scope of services
+2.1 The subject matter of the contract is the provision of the software listed in the respective offer
+or the respective order confirmation for time-limited use via the Internet as well as the granting of
+storage space on servers provided by acadon.
+2.2 The quality of the software is conclusively determined by the description in the offer or the
+order confirmation and, if applicable, the associated license certificate. The information contained
+therein shall be understood as descriptions of performance and not as warranties. A warranty shall
+only be granted if it has been expressly designated as such and agreed in writing. The customer had
+the opportunity to examine the scope of performance of the software listed in the offer in
+workshops and test installations. acadon does not owe a quality of the software that goes beyond
+this. In particular, the customer cannot derive such an obligation from other representations of the
+software in public statements or in the advertising of acadon and/or the respective third-party
+providers, as well as their employees or sales partners, unless acadon has expressly confirmed the
+quality going beyond this in writing.
+2.3 The customer has informed himself about the essential functional features of the software and
+bears the risk as to whether the software meets his wishes and needs; he has sought advice on
+questions of doubt from acadon employees or expert third parties before concluding the contract.
+2.4 Documentations: In the case of software from Microsoft's Dynamics product family, the
+customer has the option of installing a Visual Studio code locally and then accessing the technical
+documentation for his system after logging in accordingly. There is no user documentation (user
+manual). The manufacturer only provides an online help. User documentation (user manuals)
+therefore only become part of the contract if they are explicitly mentioned in the offer. 
+Any documentation may be available, in particular for software of the Dynamics family of Microsoft,
+electronically and/or in English. Any documentation shall only be supplied in the form in which it is
+made available by the respective third-party supplier.
+2.5 Instruction: Instruction of the customer's employees in the operation of the software is owed by
+acadon only if this has been expressly agreed between the parties in writing. At the customer's
+request, instruction can be ordered at the agreed hourly rates according to the offer or, if such an
+hourly rate has not been agreed, at acadon's respective usual hourly rates.
+3. Provision of the software
+3.1 acadon provides the customer with the software in the respective current version via the
+Internet against payment for the duration of the contract. For this purpose, acadon sets up the
+software on a server that is accessible to the customer via the Internet.
+3.2 If the Customer has ordered instruction of its employees in the operation of the software, the
+parties shall agree on dates for this in good time. At the Customer's option, only its key users or all
+employees from the specialist departments shall be instructed. The number of participants in an
+instruction shall not exceed 8 employees so that the comprehensibility of the instruction remains
+guaranteed.
+4. Rights of use
+4.1 acadon grants the customer the non-exclusive and non-transferable right to use the software as
+intended in the scope granted in the respective offer or in the respective order confirmation and the
+license certificate for the duration of the contract within the scope of the SaaS services. Spatially,
+the corresponding right of use shall only apply to the country of destination agreed between the
+parties in which the software is to be used. In the absence of an express agreement, the right of use
+shall be granted exclusively for the country in which the customer has its place of business.
+4.2 Types of Use:
+4.2.1 Concurrent User: If the offer specifies a maximum number of users who may access the
+software simultaneously, any use in excess of this is prohibited. In the event of additional use, the
+Customer shall pay a remuneration corresponding to the price of the authorization of a single
+person in relation to the price of the offer.
+4.2.2 Named User: If use by named user is agreed, the following applies: acadon grants the
+customer the right to use the software for each employee named by the customer. Any use by
+another person, in particular by exploiting their designation or password in the program, is
+prohibited. In case of a violation of this, the additional remuneration is based on the rules for
+exceeding the number of concurrent users according to the above provision.
+4.3 Permitted use includes loading the software into the working memory on the server provided by
+acadon, but not even temporary installation or saving of the software on data carriers of the
+hardware used by the customer. The number of licenses as well as the type and scope of use are
+otherwise determined by the description in the respective offer or in the respective order
+confirmation and the license certificate. 
+The customer is not entitled to rent out or otherwise sublicense the software, to publicly reproduce
+or make it accessible by wire or wireless means, or to make it available to third parties against
+payment or free of charge.
+4.4 If the customer uses the software to an extent that exceeds the acquired rights of use
+qualitatively (with regard to the type of permitted use) or quantitatively (with regard to the number
+of acquired licenses), he will immediately acquire the rights of use necessary for the permitted use.
+If he fails to do so, acadon will assert the rights to which it is entitled.
+4.5 In the case of third-party software, the authorization shall be based on the license terms of the
+respective third-party provider, which must be complied with by the Customer.
+5. Granting of storage space
+5.1 acadon provides the customer with storage space on a server for storing his data.
+5.2 acadon shall ensure that the stored data can be retrieved via the Internet.
+5.3 the customer shall not be entitled to transfer this storage space to a third party for use, in part
+or in full, against payment or free of charge.
+5.4 The customer undertakes not to store any content on the storage space, the provision,
+publication or use of which violates applicable law or agreements with third parties. acadon is
+entitled to immediately block the storage space if there is reasonable suspicion that the stored data
+is unlawful and/or infringes the rights of third parties. A justified suspicion of illegality and/or
+infringement of rights exists in particular if courts, authorities or other third parties inform acadon
+of this. acadon must inform the customer immediately of the block and the reason for this. The
+block is to be lifted as soon as the suspicion is invalidated.
+6. Availability
+6.1 acadon guarantees the availability of the Software Service at least 99% (ninety-nine percent)
+on an annual basis. The Software Service is thereby not considered unavailable if the unavailability
+is partly or entirely caused by:
+a) own actions or negligence on the part of the customer;
+b) the customer's Internet connection;
+c) scheduled maintenance dates of which the Customer will be notified seven (7) days in advance;
+d) malfunctions of upstream providers caused, for example, by power interruptions, network
+failures, fire or other similar circumstances.
+6.2 Unless proven otherwise, acadon's log data is authoritative for determining the degree of
+availability of the Software Service.
+7. Maintenance and support
+7.1 acadon is entitled to update the software to newer versions if acadon deems this necessary for
+the security and functionality of the software service. 
+7.2 acadon does not warrant that the Software is free from errors and will function without
+interruption. acadon will correct errors in the acadon Software (which includes customizations) in
+accordance with paragraphs 3 and 4 of this section, unless such errors are caused by the Third
+Party Provider and/or if such errors are wholly or partially the result of:
+a) human error, negligence, misuse or intent on the part of the customer or a third party; or
+b) external causes, such as, but not limited to, fire, lightning, water damage, explosion or
+destruction.
+7.3 The Customer is obliged to notify defects or inaccuracies in writing or in text form with a
+description of the defects immediately, but not later than 2 (two) weeks after their discovery.
+7.4 Upon receipt of the notice, acadon shall use reasonable efforts to investigate and correct the
+error or inaccuracy (as soon as reasonably possible). If the notified error or inaccuracy cannot be
+found and/or is wholly or partly the result of a cause referred to in paragraph 2, acadon will charge
+the customer separately for the costs of investigating the error.
+7.5 acadon provides a telephone number (the "Hotline") to provide support to Customer regarding
+the acadon Software, which does not include official training.
+7.6 The Hotline is available on weekdays that are not public holidays in North Rhine-Westphalia,
+i.e. continuously from Monday to Friday from 9:00 a.m. to 4:00 p.m. with the exception of December
+24, December 31 and Rosenmontag (Shrove Monday) in Germany.
+7.7 Only the authorized person, as specified by Customer in the Data Sheet, is entitled to receive
+support via the Hotline. Customer shall have the right to change this authorized person subject to
+eight (8) days' notice and provided that the new authorized person attends training related to the
+acadon Software.
+8. Obligations of the customer
+8.1 The Customer undertakes not to store any illegal content or content that violates the law,
+official requirements or the rights of third parties on the storage space provided.
+8.2 The Customer shall be obliged to prevent unauthorized access by third parties to the protected
+areas of the Software by taking appropriate precautions. For this purpose, Customer shall, to the
+extent necessary, instruct its employees to comply with copyright law. In the event that services of
+acadon within the scope of SaaS services are used by unauthorized third parties using the
+customer's access data, the customer shall be liable for any fees incurred thereby within the scope
+of civil liability until receipt of the customer's order to change the access data or notification of the
+loss or theft, provided that the customer is at fault for the access of the unauthorized third party.
+8.3 Notwithstanding acadon's obligation to back up data, the customer itself is responsible for
+entering and maintaining data and information required to use the SaaS services.
+8.4 The Customer is obliged to check information for viruses or other harmful components before
+entering it and to use state-of-the-art virus protection programs for this purpose. 
+8.5 Customer is obligated to regularly change all passwords used to access the SaaS Services. If
+the customer becomes aware that an unauthorized third party has obtained knowledge of a
+password, the customer must inform acadon immediately and change the password immediately.
+8.6 The contents stored by the customer on the storage space designated for him may be protected
+by copyright and data protection laws. The customer hereby grants acadon the right to make the
+contents stored on the server accessible to the customer during the customer's queries via the
+Internet and, in particular, to reproduce and transmit them for this purpose and to be able to
+reproduce them for the purpose of data backup.
+8.7 acadon is not liable for damages that are due to the fact that the customer installs his own apps
+or apps from third party providers that have not been previously approved in writing by acadon. 
+
+Special Terms and Conditions of acadon AG for Helpservice Services
+1. Scope
+1.1 These Special Terms and Conditions (STC) apply to all contracts between acadon AG
+(hereinafter referred to as "acadon") and the customer for helpdesk services with respect to the
+software purchased under a separate contract, regardless of whether the software was developed
+by acadon or software from third-party providers (e.g. Microsoft) (hereinafter uniformly referred to
+as "Software"). They only apply if the customer is a business (§ 14 BGB), a legal entity under public
+law or a special fund under public law. The offers are directed exclusively at entrepreneurs and not
+at consumers. These STC apply in addition to the General Terms and Conditions (GTC) of acadon.
+Insofar as the regulations in these STC deviate from the regulations in the GTC, the regulations in
+the STC shall take precedence.
+1.2 Deviating, conflicting or supplementary general terms and conditions of the customer shall
+only become part of the contract if and insofar as acadon has expressly agreed to their validity. This
+consent requirement applies in any case, for example even if acadon performs the contractually
+owed service to the customer without reservation in knowledge of the customer's GTC.
+2. subject matter of the contract/scope of services
+2.1 The subject matter of the Helpservice contract offered by acadon is the hotline service for the
+software listed in the respective offer or the respective order confirmation .
+2.2 acadon maintains a hotline. The aforementioned hotline is available to customers who have
+concluded a help service contract with acadon at any time from Monday to Friday from 9:00 a.m. to
+4:00 p.m. on working days that are not holidays at the respective acadon locations providing
+support. Excluded from the support are Christmas Eve, New Year's Eve and Shrove Monday. acadon
+makes every effort to answer the customer's calls in the aforementioned period as quickly as
+possible. However, it may happen in individual cases that there are longer waiting times due to an
+increased volume of inquiries. Therefore, acadon does not guarantee immediate availability. Within
+the framework of the hotline acadon is available to the customer for information by telephone,
+regardless of whether the subject of the inquiry is program errors, operating errors or faults from
+third parties.
+2.3 The customer can use the aforementioned services exclusively in relation to the contractually
+agreed, i.e. to the software listed in the respective offer or the respective order confirmation.
+acadon endeavors to support the customer appropriately in his request or problem solution.
+However, acadon does not owe a certain success.
+2.4 At the latest at the beginning of the contract, the customer must name an authorized person in
+writing to acadon who is authorized to use the hotline. When using the hotline, this person must
+then legitimize himself accordingly at the beginning of the call. 
+2.5 Data reconstruction and data backup: The customer is obligated to ensure sufficient data
+backup himself before acadon performs the services. If such a backup has not been made, the
+customer must inform acadon of this before the start of the maintenance work. In this case,
+acadon's employees will perform the data backup. The effort incurred in this process is to be
+additionally remunerated. The obligation to check whether the data backup was successful is
+incumbent on the customer.
+3. Services not included:
+The following services are not included in the Helpservice contract, i.e. the customer has no claim
+against acadon for these services without a separate agreement expressly made in the individual
+case.
+3.1 The services of Helpservice are not available for malfunctions or damages caused by the
+following circumstances:
+ Intentional action by the user or third parties commissioned by the user
+ Short circuit, overvoltage or inductions
+ Accident, fire, lightning, explosion, implosion or extinguishing, knocking down, clearing out
+or loss in these events.
+ Interventions by unauthorized persons
+ Smoldering and braising
+ Water, moisture or flooding
+ Burglary, theft, robbery, looting or sabotage
+ War events of any kind or internal unrest
+ Nuclear energy
+ Earthquakes and other cases of force majeure.
+ Repair work/replacement caused by the fact that repair work or modifications have been
+carried out on the equipment by the user or by third parties without the written consent of
+acadon.
+ User services that are attributable to the fact that the cause of the defect was a product
+that is not the subject of this Agreement
+3.2 Release change and migration: The scope of services of the help service contract does not
+include the support of the customer in case of a release change or correction status as well as the
+migration of changed systems to a system in the standard scope of delivery.
+3.3 The above list is not exhaustive. It cannot be concluded from the lack of naming of services that
+these services are the subject of acadon's contractual obligations. The customer's rights based on
+acadon's liability for service disruptions owed under the contract remain unaffected. 
+4. Remuneration, due date
+4.1 The remuneration for acadon's services is specified in the offer or the order confirmation. It is
+due and payable in accordance with the specifications in the offer or the order confirmation. If
+nothing is specified there, the customer must make the payment within 30 days from the
+conclusion of the contract.
+4.2 acadon is entitled to increase the remuneration with a notice period of two months to the
+beginning of the third month. If the price increase amounts to more than 8% within a period of 2
+years, acadon will inform the customer of the intended price increase in writing. In this case, the
+customer is entitled to terminate this contract extraordinarily in writing with a notice period of one
+month before the price increase takes effect. 

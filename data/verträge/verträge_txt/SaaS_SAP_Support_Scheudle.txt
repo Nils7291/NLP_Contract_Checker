@@ -1,0 +1,372 @@
+SUPPORT SCHEDULE FÜR CLOUD SERVICES
+Dieses Support Schedule ist Bestandteil der Vereinbarung für Cloud Services zwischen SAP und dem
+Auftraggeber.
+1. DEFINITIONEN
+1.1. „Go-Live“ bezeichnet den Zeitpunkt, ab dem, nach der Einrichtung der Cloud Services für einen Auftraggeber,
+die Cloud Services von diesem Auftraggeber gemäß seiner Vereinbarung über diese Cloud Services zur
+Verarbeitung von echten Daten im Produktivmodus und für die Ausführung seiner internen Geschäftsvorgänge
+genutzt werden können.
+1.2. „Lokale Geschäftszeiten“ bedeutet montags bis freitags von 08:00 bis 18:00 Uhr (ausgenommen lokale
+Feiertage) gemäß der lokalen Zeitzone, die für die Adresse des Auftraggebers gilt.
+1.3. „Kunden-Support-Website von SAP“ bezeichnet die an Auftraggeber gerichtete Support-Website von SAP
+(siehe https://support.sap.com, es sei denn, in der Vereinbarung oder unter https://support.sap.com/contactus
+ist eine andere Support-Website aufgeführt). In ausgewählten Cloud Services kann auf den Support auch über
+die Anwendung selbst zugegriffen werden.
+2. SCOPE VON SUPPORT- UND SUCCESS-ANGEBOTEN
+2.1. Allgemeines
+2.1.1. SAP bietet folgende Support-Optionen an:
+a) SAP Enterprise Support, Cloud Editions: Grundlegender Projektsupport als Teil des Cloud Service mit
+Schwerpunkt auf Kundeninteraktion und Falllösung.
+b) SAP Preferred Success: Add-on für SAP Enterprise Support, Cloud Editions, das strategische
+Anleitungen, lösungsspezifische Best Practices sowie Success-Programme umfasst, die zur Förderung
+der Nutzung und der Wertrealisierung beitragen sollen.
+c) SAP Enterprise Support, Cloud Editions ist in den Subskriptionsvergütungen für die Cloud Services
+enthalten, die in der Order Form angegeben sind, sofern nicht alternative Support-Bedingungen vereinbart
+wurden. SAP Preferred Success kann für in Frage kommende Cloud Services gegen eine zusätzliche
+Vergütung als Add-on zu SAP Enterprise Support, Cloud Editions erworben werden. Für DrittanbieterCloud-Services, die über SAP erworben wurden, ist SAP Preferred Success nicht verfügbar und wird auch
+nicht bereitgestellt.
+2.1.2. Ab dem Wirksamkeitsdatum der Vereinbarung des Auftraggebers über Cloud Services kann der Auftraggeber
+sich an die SAP-Supportorganisation als direkten Ansprechpartner für Support-Services wenden.
+2.1.3. Sprachen des Customer Interaction Center: SAP bietet telefonischen Erst-Support für Ansprechpartner des
+Auftraggebers über die SAP-One-Support-Telefonnummer „CALL-1-SAP“ (zu finden im SAP Support Portal
+unter https://support.sap.com/contactus) bzw. über andere lösungsspezifische Hotlines in folgenden Sprachen
+an: Englisch (wochentags rund um die Uhr) sowie, je nach lokalen Geschäftszeiten und Verfügbarkeit,
+Deutsch, Französisch, Italienisch, Spanisch, Polnisch, Russisch (zu europäischen Geschäftszeiten),
+Japanisch, Chinesisch, Koreanisch, Indonesisch (zu asiatisch-pazifischen Geschäftszeiten), Portugiesisch
+und Spanisch (zu lateinamerikanischen Geschäftszeiten). Probleme, die zu einem Supportfall führen, der von
+spezialisierten technischen oder externen Supportmitarbeitern weltweit bearbeitet wird, werden nur auf
+Englisch bearbeitet.
+2.2. Mission-Critical Support (Support für geschäftskritische Prozesse)
+Feature SAP Enterprise Support, Cloud Editions SAP Preferred Success
+Mission-Critical Support
+rund um die Uhr sieben
+(7) Tage die Woche für
+Störungen mit Priorität P1
+und P2 (nur auf Englisch)
+Globale Fallbearbeitung durch SAP bei
+supportrelevanten Störungen, einschließlich
+Service-Level-Vereinbarungen über Zielwerte
+für Erstreaktionszeiten, laufende
+Kommunikation und Korrekturmaßnahmen
+(wie im folgenden Abschnitt 3 festgelegt).
+Bearbeitung priorisierter Fälle rund um die
+Uhr und erweiterte Zielwerte für
+Erstreaktion und Korrekturmaßnahmen
+(wie im folgenden Abschnitt 3 festgelegt).
+Non-Mission Critical
+Support (Support für nicht
+geschäftskritische
+Prozesse) für Fälle mit der
+Priorität P3 und P4 (nur
+auf Englisch)
+Verfügbar während der Lokalen
+Geschäftszeiten (wie im folgenden
+Abschnitt 3 festgelegt).
+Erweiterte angestrebte Erstreaktionszeit
+(wie im folgenden Abschnitt 3 festgelegt).
+Feature SAP Enterprise Support, Cloud Editions SAP Preferred Success
+Rund um die Uhr
+erreichbares Customer
+Interaction Center
+Support Center, an das Auftraggeber über die
+in Abschnitt 2.1.3 beschriebenen Kanäle
+allgemeine supportbezogene Anfragen stellen
+können.
+Wird als Teil von SAP Enterprise Support,
+Cloud Editions ausgeliefert.
+Global Support Backbone Die Wissensdatenbank und das Extranet von
+SAP, in denen SAP ausschließlich
+Auftraggebern und Partnern Inhalte und
+Services zur Verfügung stellt. Dazu gehört
+auch die Kunden-Support-Website von SAP.
+Durchgängige
+Supportfähigkeit
+Support für Fälle, die in integrierten
+Geschäftsszenarios auftreten, die aus
+SAP Cloud Services und/oder aus SAP Cloud
+Services und anderer SAP-Software mit einer
+gültigen Support-Vereinbarung bestehen.
+2.3. Schulungen und Empowerment
+Feature SAP Enterprise Support, Cloud Editions SAP Preferred Success
+Remote-Inhalte und -
+Services des SAP-Support
+Remote-Inhalte und -Services des Support
+(z. B. Meet-the-Expert-Sitzungen) in
+verschiedenen Formaten, u. a. Live-Webinare
+und aufgezeichnete Webinare, Tutorials, Best
+Practices, Lernmaterialien zum Selbststudium
+und interaktive Remote-Sitzungen im
+Workshop-Stil. Die Inhalte und Zeitpläne zu
+den Sitzungen finden Sie auf der KundenSupport-Website von SAP im Abschnitt SAP
+Enterprise Support Academy. Planung,
+Verfügbarkeit und
+Bereitstellungsmethodologie liegen im
+Ermessen von SAP.
+Zugriff auf Demosysteme, Live-Sitzungen
+mit Kursleitern, Prüfungen und
+Zertifizierungen, die für den Cloud Service
+spezifisch sind, für bis zu fünf (5)
+Ansprechpartner beim Auftraggeber.
+Exklusive Lerninhalte zu SAP Preferred
+Success im Zusammenhang mit dem
+Cloud Service in verschiedenen
+Formaten, die Live-Webinare und
+aufgezeichnete Webinare, Best Practices
+und interaktive Remote-Sitzungen im
+Workshop-Format umfassen können.
+Planung, Verfügbarkeit und
+Bereitstellungsmethodologie liegen im
+Ermessen von SAP.
+Release-UpdateInformationen
+Allgemein verfügbare dokumentierte
+Zusammenfassungen, Webinare und Videos,
+die SAP bereitstellt, um Auftraggeber über
+Änderungen in neuen Produktreleases zu
+informieren und ihnen entsprechende
+Anleitungen zu geben.
+Self-Service über das Internet und die
+Community.
+Für den Cloud Service spezifische
+Release-Hilfestellung.
+2.4. Zusammenarbeit
+Feature SAP Enterprise Support, Cloud Editions SAP Preferred Success
+SAP Support Advisory
+Services
+Zugang zu Experten, die Auftraggeber bei
+supportbezogenen Anfragen unterstützen und
+sie im Hinblick auf für ihre Anforderungen
+geeignete SAP-Enterprise-Support-Inhalte
+und -Services beraten.
+Wird als Teil von SAP Enterprise Support,
+Cloud Editions ausgeliefert.
+Support per Chat Verfügbar während der Geschäftszeiten in
+englischer Sprache für Supportprobleme bei
+nicht geschäftskritischen Prozessen, sofern
+für den Cloud Service verfügbar.
+Feature SAP Enterprise Support, Cloud Editions SAP Preferred Success
+Support über das Internet
+und die Plattform für
+Zusammenarbeit in
+sozialen Netzwerken
+Zugriff auf die Kunden-Support-Website von
+SAP, einschließlich Social-Media-basiertem
+Empowerment und Zusammenarbeit mit
+Kollegen und SAP-Experten.
+Zugriff auf die exklusive
+Kooperationsplattform SAP Preferred
+Success.
+Support und Success
+Reporting
+SAP Enterprise Support Reporting: Ein
+Report oder Dashboard, der bzw. das den
+Status von Support-Services und hierin
+vereinbarten Leistungen analysiert und
+dokumentiert.
+Reports, Dashboards und andere
+Reporting-Komponenten und -Funktionen
+in Bezug auf das gesamte Projekt, den
+gesamten Kundenlebenszyklus und die
+produktive Nutzung der Lösung,
+einschließlich Einführung der relevanten
+Funktionen, Technik- und
+Produktnutzung, Status von SupportServices und hierin vereinbarten
+Leistungen, die für den Cloud Service
+spezifisch sind.
+Preferred Success –
+Ressourcen und
+Hilfestellung
+Zugriff auf Erfolgsressourcen, um
+Hilfestellung in den Bereichen
+Onboarding, Produktakzeptanz und -
+nutzung, Best Practices und operative
+Exzellenz zu geben. Dies kann ein
+Customer Success Partner als
+Hauptansprechpartner für das
+kontinuierliche Erfolgsmanagement, die
+Erfolgsplanung, die technische Beratung
+und Betreuung sowie die Aufsicht über
+Supportfälle während des gesamten
+Kundenlebenszyklus sein. Die Benennung
+eines Customer Success Partner liegt im
+Ermessen der SAP.
+Regulärer Checkpoint Regelmäßige Überprüfung des Cloud
+Service, des Erfolgsplans, der kritischen
+Probleme, des Reportings und der Best
+Practices. Kann nach Ermessen von SAP
+eine persönliche Bereitstellung
+einschließen.
+Erfolgsplan In einem Erfolgsplan werden die Schritte
+zum Erreichen wichtiger
+Geschäftsmeilensteine und -ziele
+während des gesamten 
+Kundenlebenszyklus skizziert.
+Schwerpunktthemen sind
+Herausforderungen, Nutzung, Einführung
+und Zyklusplanung.
+2.5. Innovation und Wertschöpfung
+Feature SAP Enterprise Support, Cloud Editions SAP Preferred Success
+Von SAP vorgeschlagene
+proaktive Prüfungen
+Support Services für Empfehlungen zur
+jeweiligen spezifischen Situation des
+Auftraggebers. Diese Services werden auf
+Anfrage des Auftraggebers remote erbracht.
+Von Experten geleitete Prüfungen, die
+Empfehlungen auf der Grundlage von
+SAP Best Practices oder empfohlenen
+Konfigurationen geben.
+Produkt-Roadmaps Self-Service über das Internet. Wird als Teil von SAP Enterprise Support,
+Cloud Editions ausgeliefert.
+Aktualisierung der
+Testinstanzen
+Self-Service oder Anfrage über das Internet
+zur Initiierung der Aktualisierung wie für die
+jeweilige Lösung angeboten und erforderlich.
+Zugang zu Unterstützung durch SAP bei
+der Verwaltung der Aktualisierung von
+Testinstanzen bis zu zwei (2) Mal pro
+Jahr, sofern zutreffend.
+2.6. Application Lifecycle Management
+Feature SAP Enterprise Support, Cloud Editions SAP Preferred Success
+Application Lifecycle
+Management („ALM“)
+Software oder Online-Services für das
+Application Lifecycle Management, die von
+SAP bereitgestellt werden. Details zum
+Funktionsumfang und zur Verfügbarkeit sind
+auf der Kunden-Support-Website von SAP
+(siehe https://support.sap.com/en/alm) und in
+den Nutzungsrechten (siehe
+https://support.sap.com/en/alm/usage-rights)
+angegeben.
+Wird als Teil von SAP Enterprise Support,
+Cloud Editions ausgeliefert.
+3. REAKTIONSSTUFEN BEI VOM AUFTRAGGEBER ÜBERMITTELTEN SUPPORTFÄLLEN
+3.1. SAP reagiert auf übermittelte Supportfälle wie in der folgenden Tabelle beschrieben.
+Priorität Definition Reaktionsstufe
+P1 Sehr hoch
+Ein Supportfall ist mit der Priorität Sehr hoch
+einzustufen, wenn das Problem sehr ernste
+Konsequenzen für die normalen
+Geschäftsprozesse oder für die IT-Prozesse der
+Kerngeschäftsprozesse hat. Dringende Tätigkeiten
+können nicht durchgeführt werden.
+Dies wird in der Regel durch folgende Umstände
+verursacht:
+a) Ein produktiver Service ist vollständig
+ausgefallen.
+b) Unmittelbar bevorstehende
+Produktivstarts oder Upgrades
+können nicht abgeschlossen werden.
+c) Die Kerngeschäftsprozesse des
+Kunden sind ernsthaft beeinträchtigt.
+Erstreaktion: Innerhalb von einer (1) Stunde ab
+Eingang des Supportfalls.
+Laufende Kommunikation: Einmal pro Stunde, sofern
+von SAP nicht anders mitgeteilt.
+Korrekturmaßnahmenziel: SAP muss innerhalb von
+vier (4) Stunden entweder eine Lösung, eine
+Behelfslösung oder einen Aktionsplan für den
+Supportfall bereitstellen.
+Priorität Definition Reaktionsstufe
+Eine Behelfslösung (Workaround) ist nicht für jeden
+Umstand verfügbar.
+Der Fall erfordert eine sofortige Bearbeitung, weil
+es durch die Fehlfunktion zu erheblichen Verlusten
+kommen kann.
+P2 Hoch 
+Ein Supportfall ist mit der Priorität Hoch
+einzustufen, wenn normale Geschäftsprozesse
+ernsthaft beeinträchtigt werden. Notwendige
+Aufgaben können nicht durchgeführt werden. Die
+Störung wird durch fehlerhafte oder nicht
+ausführbare Funktionen im SAP-Service
+verursacht, die unmittelbar benötigt werden.
+Der Fall muss so schnell wie möglich bearbeitet
+werden, weil es durch die anhaltende Fehlfunktion
+zu ernsthaften Unterbrechungen des gesamten
+produktiven Geschäftsablaufs kommen kann.
+Erstreaktion: Innerhalb von vier (4) Stunden nach
+Eingang des Supportfalls für Auftraggeber mit SAP
+Enterprise Support, Cloud Edition und innerhalb von
+zwei (2) Stunden nach Eingang des Supportfalls für
+Auftraggeber mit SAP Preferred Success.
+Laufende Kommunikation: Einmal alle sechs
+(6) Stunden, sofern von SAP nicht anders mitgeteilt.
+Korrekturmaßnahmenziel: SAP muss innerhalb von
+drei (3) Werktagen entweder eine Lösung, eine
+Behelfslösung oder einen Aktionsplan für den
+Supportfall bereitstellen (gilt nur für Auftraggeber mit
+SAP Preferred Success).
+P3 Mittel
+Ein Supportfall ist mit der Priorität Mittel
+einzustufen, wenn normale Geschäftsprozesse
+beeinflusst werden. Das Problem wird durch
+fehlerhafte oder nicht ausführbare Funktionen im
+SAP-Service verursacht.
+Erstreaktion: Innerhalb von einem (1) Geschäftstag
+ab Eingang des Supportfalls für Auftraggeber mit
+SAP Enterprise Support, Cloud Edition und innerhalb
+von vier (4) Geschäftsstunden nach Erhalt des
+Supportfalls für Auftraggeber mit SAP Preferred
+Success.
+Laufende Kommunikation: Sofern von SAP nicht
+anders mitgeteilt, einmal alle drei (3) Werktage bei
+nichttechnischen Problemen und einmal alle zehn
+(10) Werktage bei Problemen, die auf Produktfehler
+zurückzuführen sind.
+Ein nichttechnisches Problem (Non-Defect Issue)
+bezeichnet einen gemeldeten Supportfall, dem kein
+Fehler im betreffenden Cloud Service zugrunde liegt
+und zu dessen Behebung kein Projektierungs-
+/Entwicklungs- oder IT-Personal benötigt wird.
+P4 Niedrig
+Ein Supportfall ist mit der Priorität Niedrig
+einzustufen, wenn das Problem wenig oder keine
+Auswirkungen auf die normalen
+Geschäftsprozesse hat. Das Problem wird durch
+fehlerhafte oder nicht ausführbare Funktionen im
+SAP-Service verursacht, die nicht täglich oder nur
+selten benötigt werden.
+Erstreaktion: Innerhalb von zwei (2) Werktagen ab
+Eingang des Supportfalls für Auftraggeber mit SAP
+Enterprise Support, Cloud Editions und innerhalb
+von einem (1) Werktag ab Eingang des Supportfalls
+für Auftraggeber mit SAP Preferred Success.
+Laufende Kommunikation: Einmal pro Woche, sofern
+von SAP nicht anders mitgeteilt.
+3.2. Folgende Arten von Supportfällen sind von den oben beschriebenen Reaktionsstufen ausgeschlossen:
+a) Fälle mit Bezug auf ein Release, eine Version oder Funktionen von SAP Cloud Services, die speziell für
+den Auftraggeber entwickelt wurden (einschließlich solcher, die von SAP Custom Development oder von
+SAP-Tochtergesellschaften oder einzelnen Content-Services entwickelt wurden);
+b) Fälle, bei denen die Grundursache keine Störung ist, sondern eine fehlende Funktion
+(Entwicklungsantrag);
+c) Fälle, bei denen es sich um eine Beratungsanforderung („How-to“) handelt.
+4. VERANTWORTLICHKEITEN DES AUFTRAGGEBERS
+4.1. Ansprechpartner beim Auftraggeber
+4.1.1. Der Auftraggeber benennt mindestens zwei (2) und bis zu fünf (5) qualifizierte englischsprachige
+Ansprechpartner pro Cloud Service (jeweils ein „Ansprechpartner des Auftraggebers“). Zu den
+Ansprechpartnern des Auftraggebers gehören u. a. benannter Support-Ansprechpartner, autorisierter SupportAnsprechpartner, Key-User, Anwendungsadministrator oder Systemadministratoren, deren Rollen im Rahmen
+bestimmter Cloud Services über die Berechtigung verfügen, das Customer Interaction Center, die SAP Support
+Advisory Services und den Mission-Critical Support zu kontaktieren bzw. darauf zuzugreifen.
+4.1.2. Der Ansprechpartner des Auftraggebers ist für die Koordinierung aller Aufgaben des Cloud Service im
+Zusammenhang mit dem Geschäftsbetrieb des Auftraggebers zuständig. Hierzu gehören insbesondere
+folgende Aufgaben:
+a) Unterstützung der Endnutzer und Bearbeitung der von ihnen gemeldeten Fälle. Dies umfasst das Suchen
+nach bekannten Lösungen in der verfügbaren Dokumentation und die Kontaktaufnahme mit SAP im Falle
+von neuen Problemen;
+b) die Verwaltung von Hintergrundjobs und Verteilung von geschäftsbezogenen Aufgaben auf die Nutzer
+(sofern vorhanden);
+c) Verwaltung und Überwachung der Verbindungen zu den Drittanbietersystemen des Auftraggebers (sofern
+vorhanden);
+d) Unterstützung der Einführung des Cloud Service.
+4.2. Kontaktinformationen
+Der Auftraggeber übermittelt die Kontaktangaben (insbesondere die E-Mail-Adresse und die Telefonnummer),
+über die sein Ansprechpartner bzw. sein bevollmächtigter Vertreter jederzeit erreichbar ist. Der Auftraggeber
+aktualisiert seine Ansprechpartner für einen Cloud Service über die Kunden-Support-Website von SAP. Nur
+autorisierte Ansprechpartner des Auftraggebers dürfen die SAP-Supportorganisation kontaktieren.
+4.3. Zusammenarbeit
+Der Ansprechpartner des Auftraggebers muss bei der Lösung von Supportfällen in angemessenem Umfang
+mit SAP kooperieren und über ausreichende technische Kenntnisse und Fähigkeiten hinsichtlich der
+Konfiguration der Cloud Services verfügen, um SAP relevante Informationen zum Reproduzieren und
+Beheben des aufgetretenen Fehlers liefern zu können.

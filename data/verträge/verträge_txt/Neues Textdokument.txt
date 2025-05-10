@@ -1,0 +1,1070 @@
+Allgemeine Geschäftsbedingungen
+Software as a Service (SaaS)
+§ 1 Geltungsbereich, Besondere SaaS-Vertragsbedingungen
+1.1 Die Allgemeinen Geschäftsbedingungen für
+Software as a Service (SaaS) (nachfolgend
+„AGB-Cloud“) der Gesellschaft für Organisationsberatung
+und Softwareentwicklung mbH
+(nachfolgend „GFOS“) gelten für die Bereitstellung
+von GFOS Software als Software as a
+Service (SaaS) in der GFOS knownCloud.
+1.2 Diese AGB-Cloud gelten ausschließlich gegenüber
+Unternehmern im Sinne von § 14 des Bürgerlichen
+Gesetzbuches (BGB), das heißt gegenüber
+natürlichen oder juristischen Personen,
+die bei Abschluss eines Rechtsgeschäfts
+in Ausübung ihrer gewerblichen oder selbständigen
+beruflichen Tätigkeit handeln. Als
+„Kunde“ wird nachfolgend jedes Unternehmen
+bezeichnet, welches mit GFOS unter Einbeziehung
+dieser AGB-Cloud einen SaaS-Vertrag
+über die Bereitstellung von GFOS Software als
+Software as a Service (SaaS) in der GFOS
+knownCloud abschließt (nachfolgend „SaaSVertrag“
+genannt).
+1.3 Diese AGB-Cloud und die hierin in Bezug genommenen
+Dokumente gelten ausschließlich.
+Abweichende, entgegenstehende oder ergänzende
+AGB des Kunden werden nur dann und
+insoweit SaaS-Vertragsbestandteil, als die
+Parteien ihrer Geltung ausdrücklich und
+schriftlich vereinbart haben. Dieses Zustimmungserfordernis
+gilt in jedem Fall, beispielsweise
+auch dann, wenn GFOS in Kenntnis der
+AGB bzw. der Einkaufsbedingungen des Kunden
+mit der Leistungserbringung an ihn vorbehaltlos
+beginnt.
+1.4 Im Einzelfall zwischen GFOS und dem Kunden
+getroffene, individuelle Vereinbarungen (einschließlich
+Nebenabreden, Ergänzungen und
+Änderungen) haben in jedem Fall Vorrang vor
+diesen AGB-Cloud. Für den Inhalt derartiger
+Vereinbarungen ist ein schriftlicher Vertrag
+bzw. die schriftliche Bestätigung von GFOS
+maßgebend.
+1.5 Die in diesen AGB-Cloud in Bezug genommenen
+Dokumente, insbesondere die Produktbeschreibung,
+sind integrale Bestandteile des
+zwischen den Parteien geschlossenen SaaSVertrages.
+Bezugnahmen auf Dokumente betreffen,
+soweit nicht ausdrücklich etwas anderes
+bestimmt ist, die jeweils geltende Fassung
+der Dokumente.
+§ 2 Begriffsbestimmungen
+2.1 „GFOS knownCloud“: Hard- und Software im
+Rechenzentrum von GFOS inkl. Betriebssysteme,
+Datenbanken und Infrastruktur, die
+GFOS dem Kunden für die Nutzung des SaaSService
+zur Verfügung stellt.
+2.2 „SaaS-Service“: Jeweilige vom Kunden bestellte
+gfos Software, inkl. Anwendungs-dokumentationen
+in elektronischer Form, welche
+als Software as a Service (SaaS) bereitgestellt
+wird, zuzüglich der in der jeweiligen Produktbeschreibung
+festgelegten IT-Services.
+2.3 „GFOS-Gruppe“ bezeichnet GFOS und alle mit
+GFOS im Sinne von §§ 15 ff. AktG verbundenen
+Unternehmen.
+2.4 „Konzerngesellschaften“ bezeichnet in Bezug
+auf das Unternehmen des Kunden ein anderes
+Unternehmen, das mit dem Unternehmen des
+Kunden im Sinne von §§ 15 ff. AktG verbunden
+ist.
+§ 3 Vertragsschluss, Leistungsfristen und Leistungsumfang
+3.1 Alle Angebote von GFOS erfolgen freibleibend
+und unverbindlich, es sei denn, sie wurden als
+verbindlich gekennzeichnet. Sie sind lediglich
+Aufforderungen an den Kunden zu Bestellungen.
+Erteilt der Kunde auf der Grundlage der
+freibleibenden Angebote einen Auftrag, so
+kommt ein SaaS-Vertrag – auch im laufenden
+Geschäftsverkehr – erst durch die schriftliche
+Auftragsbestätigung von GFOS zustande
+(ausreichend auch per E-Mail). In allen anderen
+Fällen erfolgt der Abschluss des SaaS-Vertrags
+spätestens durch Ausführung der SaaSServices.
+Sofern eine Auftragsbestätigung
+durch GFOS erfolgt, ist für den Inhalt des
+SaaS-Vertrages, insbesondere für den Umfang
+der SaaS-Services sowie die Lieferzeit bzw.
+sonstige Leistungsfristen, allein diese maßgebend.
+3.2 Termine und Fristen sind unverbindlich, es sei
+denn, sie sind ausdrücklich und schriftlich als
+verbindlich vereinbart. GFOS kommt mit einer
+Leistungspflicht erst dann in Verzug, wenn der
+Kunde GFOS zuvor schriftlich abgemahnt und
+erfolglos eine angemessene Frist zur Leistungserbringung
+gesetzt hat.
+3.3 GFOS stellt dem Kunden die technische Möglichkeit
+und Berechtigung zur Verfügung, auf
+den SaaS-Service mittels Internet zuzugreifen
+und die vereinbarten Funktionalitäten im Rahmen
+des SaaS-Vertrages zu nutzen. Der Funktionsumfang
+des SaaS-Service, die Service Level,
+die technischen Nutzungsvoraussetzungen
+und weitere Details zu den vom Kunden
+erworbenen Zugriffsrechten sind in der Produktbeschreibung
+für den jeweiligen SaaSService
+festgelegt. GFOS wird die SaaS-Services
+gegenüber dem Kunden auf der Grundlage
+der hierin festgelegten Servicequalität
+und Service Level erbringen. Die Angaben in
+der Produktbeschreibung sind indes nicht als
+Beschaffenheitsgarantie für die jeweiligen
+SaaS-Services zu verstehen, soweit diese
+nicht ausdrücklich als solche in der Produktbeschreibung
+bezeichnet werden.
+3.4 Der jeweilige SaaS-Service wird in einem Rechenzentrum
+zur Nutzung und zum Abruf für
+den Kunden bereitgestellt. Der maßgebliche
+Leistungsübergabepunkt für die SaaS-Services
+ist der Routerausgang des von GFOS genutzten
+Rechenzentrums. Für Ausfälle oder die
+Nicht-Verfügbarkeit von Hard- und Softwarekomponenten,
+des Internets oder sonstigen
+Netzwerken nach diesem Leistungsübergabepunkt
+ist GFOS nicht verantwortlich. Die Anbindung
+des Kunden an das Internet, die Aufrechterhaltung
+der Netzverbindung sowie die
+Beschaffung und Bereitstellung der auf Seiten
+des Kunden erforderlichen Hard- und Software
+ist nicht Gegenstand des SaaS-Vertrages
+und liegt allein in der Verantwortung des Kunden.
+3.5 GFOS ist berechtigt, die SaaS-Services an die
+aktuelle technische Entwicklung oder aufgrund
+von Gesetzesänderungen, Änderungen
+der Rechtsprechung, Änderungen bei den
+SaaS-Services von Unterauftragnehmern oder
+Veränderungen der wirtschaftlichen Verhältnisse
+anzupassen und in diesem Rahmen die
+technischen Eigenschaften und Funktionalitäten
+der SaaS-Services zu ändern. Soweit eine
+solche Anpassung die SaaS-Services aus der
+Sicht des Kunden nicht nur verbessert, sondern
+hierdurch der in der Produktbeschreibung
+spezifizierte Leistungsumfang reduziert oder
+für den Kunden in unzumutbarer Weise geändert
+wird, hat GFOS die Anpassung spätestens
+sechs (6) Wochen vor ihrer Durchführung dem
+Kunden schriftlich anzukündigen und dem
+Kunden eine entsprechend angepasste Produktbeschreibung
+zu überlassen. Wenn der
+Kunde gegenüber GFOS der Änderung nicht
+schriftlich binnen sechs (6) Wochen nach Zugang
+der Mitteilung widerspricht, gilt die Änderung
+als genehmigt und es ist für zwischen
+GFOS und dem Kunden bestehende Verträge
+ab diesem Zeitpunkt die geänderte Fassung
+der Produktbeschreibung maßgeblich. Auf
+diese Folge wird GFOS den Kunden bei Mitteilung
+der Änderung ausdrücklich hinweisen. Für
+den Fall, dass der Kunde die Änderung nicht
+akzeptiert, sind sowohl GFOS als auch der
+Kunde dazu berechtigt, den SaaS-Vertrag mit
+Wirkung zum Zeitpunkt des Inkrafttretens der
+Änderung zu kündigen.
+3.6 Soweit nicht ausdrücklich in der Produktbeschreibung
+oder im jeweiligen SaaS-Vertrag
+vereinbart, schuldet GFOS keine weiteren
+SaaS-Services, insbesondere keine
+Installations-, Einrichtungs-, Beratungs-, Anpassungs-
+und/ oder Schulungsleistungen.
+Weitere Angaben zu den SaaS-Services, z.B. in
+Prospekten, auf Internetseiten oder im Rahmen
+von mündlichen Präsentationen, sind
+nicht Bestandteil der vereinbarten SaaS-Services,
+sofern diese Angaben nicht ausdrücklich
+auch in der Produktbeschreibung genannt
+werden.
+§ 4 Zugriffs- und Nutzungsrechte, Sperrung des Zugangs,
+Rechte Dritter
+4.1 GFOS gewährt dem Kunden und seinen Konzerngesellschaften,
+welche die SaaS-Services
+in Anspruch nehmen, für die Dauer des
+SaaS-Vertrages das Recht des Zugangs und
+der vertragsgemäßen Nutzung der jeweiligen
+SaaS-Services für allein interne Geschäftszwecke
+des Kunden bzw. seiner Konzerngesellschaften.
+Die vorgenannten Zugangs- und
+einfachen Nutzungsrechte sind, sofern nicht
+etwas anderes schriftlich vereinbart wurde,
+nicht ausschließlich und nicht übertragbar.
+Die Regelungen gelten entsprechend für
+durch GFOS bereitgestellte Updates und Upgrades
+der SaaS-Services.
+4.2 Der Kunde wird die ihm bzw. seinen Anwendern
+zugeordneten Nutzer- und Zugangsberechtigung
+sowie Identifikations- und Authentifikationssicherungen
+vor dem Zugriff
+durch unberechtigte Dritte schützen und
+nicht an unberechtigte Dritte weitergeben.
+Sobald der Kunde Anzeichen dafür hat, dass
+die Nutzungs- und Zugangsberechtigungen
+von einem Dritten unrechtmäßig erlangt wurden
+oder missbraucht werden könnten, ist der
+Kunde verpflichtet, GFOS umgehend hierüber
+zu informieren. Soweit der Kunde dazu
+berechtigt ist, den Zugang zum jeweiligen
+SaaS-Service seinen Konzernunternehmen zu
+gewähren, hat der Kunde für ein Verschulden
+dieser Konzernunternehmen wie für sein eigenes
+Verschulden einzustehen. Der Kunde
+wird sämtliche Bestimmungen des SaaS-Vertrages
+an solche nutzungsberechtigten Konzernunternehmen
+weiterreichen und diese
+zur Einhaltung der vertraglichen Bestimmungen
+verpflichten, bevor der Kunde den Zugang
+gewährt.
+4.3 Der Kunde wird die SaaS-Services in keiner
+Weise missbräuchlich nutzen oder nutzen lassen,
+insbesondere keine Daten mit rechtswidrigen
+Inhalten übermitteln. Der Kunde wird
+auch jeden Versuch unterlassen, selbst oder
+durch nicht autorisierte Dritte Informationen
+oder Daten unbefugt abzurufen oder auf
+Software, die von GFOS oder GFOS Unterauftragnehmern
+betrieben wird, einzugreifen
+oder eingreifen zu lassen oder in Datennetze
+von GFOS oder GFOS Unterauftragnehmern
+unbefugt einzudringen.
+4.4 Der Kunde verpflichtet sich, seine Daten in
+anwendungsadäquaten Intervallen, mindestens
+einmal täglich, in maschinenlesbarer
+Form zu sichern und gewährleistet, dass die
+Daten mit vertretbarem Aufwand wiederhergestellt
+werden können; dies gilt nicht, soweit
+die Datensicherung eine vertragsgegenständliche
+Leistung von GFOS ist. Der Kunde
+wird die Systeme, mit denen er auf die jeweiligen
+SaaS-Services zugreift, durch angemessene
+technische und organisatorische Maßnahmen
+schützen und diese Maßnahmen regelmäßig
+überprüfen, um sicherzustellen,
+dass die von GFOS für die Leistungserbringung
+genutzten Systeme unversehrt bleiben,
+insbesondere vor Zugriffen von unberechtigten
+Dritten, Viren, Trojanern oder ähnlichen
+Schadprogrammen.
+4.5 GFOS ist berechtigt, den Zugang des Kunden
+zum jeweiligen SaaS-Service vorübergehend
+oder dauerhaft zu sperren, wenn konkrete Anhaltspunkte
+vorliegen, dass der Kunde gegen
+diese AGB-Cloud, den SaaS-Vertrag
+und/oder geltendes Recht verstößt bzw. verstoßen
+hat, oder wenn GFOS ein sonstiges
+berechtigtes Interesse an der Sperrung hat
+(z.B. Wartungsmaßnahme zur Widerherstellung
+IT-Sicherheit, Abwehr Cyberangriff, Verletzung
+von Lizenzbedingungen). Bei der Entscheidung
+über eine Sperrung wird GFOS die
+berechtigten Interessen des Kunden angemessen
+berücksichtigen und eine Sperrung
+vorab mit einem angemessenen Vorlauf
+schriftlich androhen bzw. ankündigen. Im Einzelfall
+kann eine Sperrung auch ohne vorherige
+Androhung/Ankündigung von GFOS vorgenommen
+werden, um die von GFOS mit der
+Sperrung verfolgten berechtigten Interessen
+zu wahren, soweit eine vorherige
+vereinbarten Beschaffenheit entsprechen,
+oder (iii) die entrichtete Vergütung für den
+SaaS-Services für den Zeitraum zurückerstatten,
+für den diese nicht mehr vertragsgemäß
+genutzt werden können. Darüber hinaus
+stellt GFOS den Kunden von rechtskräftig
+festgestellten Ansprüchen Dritter wegen der
+Verletzung von Schutzrechten aufgrund einer
+vertragsgemäßen Nutzung der SaaS-Services
+sowie von den hierdurch verursachten
+Kosten der Rechtsverteidigung in den Grenzen
+der in diesen AGB-Cloud vereinbarten
+Haftungsbeschränkung frei.
+5.6 Der Kunde wird GFOS bei allen Schadensminderungsmaßnahmen
+angemessen unterstützen.
+Die vorstehenden Verpflichtungen von
+GFOS gemäß § 5.5 bestehen nur, soweit der
+Kunde GFOS von der Geltendmachung oder
+Androhung solcher Ansprüche unverzüglich
+schriftlich benachrichtigt, alle außergerichtlichen
+und gerichtlichen Abwehrmaßnahmen
+und Vergleichsverhandlungen GFOS vorbehalten
+bleiben oder nur im schriftlichen Einvernehmen
+mit GFOS geführt werden, der
+Kunde jede von GFOS für die Beurteilung der
+Lage oder Abwehr der Ansprüche gewünschte
+Information unverzüglich zugänglich
+macht und angemessene Unterstützung
+gewährt. Ansprüche des Kunden sind ferner
+ausgeschlossen, soweit die Schutzrechtsverletzung
+durch Vorgaben des Kunden, durch
+eine von GFOS nicht voraussehbare Anwendung
+der SaaS-Services oder dadurch verursacht
+wird, dass die SaaS-Services vom Kunden
+oder von durch den Kunden beauftragte
+Dritte verändert oder zusammen mit nicht
+von GFOS gelieferten Produkten eingesetzt
+werden, es sei denn, dass eine derartige
+Schutzrechtsverletzung auch ohne eine solche
+Anwendung, Änderung oder einen solchen
+Einsatz verursacht worden wäre.
+§ 6 Verfügbarkeit der GFOS knownCloud
+6.1 Die Verfügbarkeit der GFOS knownCloud pro
+Vertragsjahr (12 Monate) beträgt mindestens
+neunundneunzigkommasechs Prozent
+(99,6%) (die „Verfügbarkeit“ oder kurz „V“).
+Die Verfügbarkeit bezieht sich ausschließlich
+auf die am Leistungsübergabepunkt des Servers
+(Ausgang Router des von GFOS genutzten
+Rechenzentrums) geschuldete
+Verfügbarkeit. Beeinträchtigungen im Bereich
+der Datenübertragung von diesem Leistungsübergabepunkt
+zum Kunden und/oder
+im Bereich der IT-Systeme des Kunden selbst
+bleiben außer Betracht.
+6.2 „Verfügbarkeit“ meint das Verhältnis (i) der
+Differenz von Systembetriebszeit und Nichtverfügbarkeit
+während eines SaaS-Vertragsjahres
+zu (ii) der Systembetriebszeit während
+dieses SaaS-Vertragsjahres, angegeben in
+Prozent.
+6.3 Die „Systembetriebszeit“ (kurz „SL“) ist dabei
+die Gesamtsumme an Zeit während eines
+SaaS-Vertragsjahres (in Minuten), während
+der der Kunde vertragsgemäß in der Lage ist,
+auf die GFOS knownCloud gemäß den Zugangsprotokollen
+zuzugreifen. Geschuldet ist
+zunächst eine Systembetriebszeit von 24
+Stunden pro Tag, 365 Tage im Jahr. Bei der
+Bestimmung der Systembetriebszeit sind jedoch
+die nachfolgend bezeichneten Zeiträume
+nicht mit zu berücksichtigen:
+a) Störungen in oder aufgrund des Zustandes
+der nicht von GFOS bereit
+zu stellenden Infrastruktur oder
+Software, insbesondere Störungen,
+die seitens des Kunden zu vertreten
+sind, wie beispielsweise Ausfälle, die
+durch ein-/ausgehende Hackangriffe
+(DDoS/Viren) wegen fehlerhafter
+und/oder unzureichender
+Wartung der kundeneigenen Hardund
+Software verursacht wurden;
+b) Störungen oder sonstige Ereignisse,
+die nicht von GFOS zu vertreten
+sind, insbesondere externe DNSund
+Routing-Störungen, Angriffe auf
+die Netz- bzw. Mail-Infrastruktur
+(DDoS/Viren) und Ausfälle von Teilen
+des Internets außerhalb der Kontrolle
+von GFOS;
+c) Zeiträume der Geplanten Nichtverfügbarkeiten
+gemäß nachfolgendem
+§ 6.5;
+d) in Fällen höherer Gewalt, wobei „höhere
+Gewalt“ jedes außerhalb des
+Einflussbereiches von GFOS liegende
+unvorhergesehene, außergewöhnliche
+Ereignis ist, durch das
+GFOS unvermeidbar ganz oder teilweise
+an der Erfüllung seiner
+vertraglichen Verpflichtungen gehindert
+wird, und das auch durch die
+zumutbare Sorgfalt seitens GFOS
+nicht hätte abgewendet oder unschädlich
+gemacht werden können.
+Als höhere Gewalt in diesem Sinne
+gelten, insb. unvorhergesehene politische
+Ereignisse oder Unruhen, einschließlich
+Krieg, Terror-Anschläge,
+Feuerschäden, Streiks und rechtmäßige
+Aussperrungen sowie nicht verschuldete
+Betriebsschließungen,
+nicht vermeidbare Hacker- und/oder
+Cyber-Angriffe Dritter, wie DDoSAttacken,
+Naturkatastrophen, wie
+Überschwemmungen, behördliche
+Anordnungen, Epidemien und Pandemien,
+wie das Covid19-Virus;
+e) bei Beeinträchtigungen der Datenübertragung
+außerhalb des von
+GFOS oder den GFOS Unterauftragnehmern
+betriebenen Datennetzes,
+z.B. durch Leitungsausfall oder -störungen
+bei anderen Providern oder
+Telekommunikationsanbietern;
+f) Störungen, die darauf beruhen, dass
+Hard- oder Software des Kunden unsachgemäß
+genutzt oder repariert
+wurde, oder Systeme sowie Software
+nicht den Richtlinien bzw. Vorgaben
+des Herstellers entsprechend
+installiert, betrieben und/oder gepflegt
+wurden.
+6.4 „Nichtverfügbarkeit“ (kurz „NV“) bedeutet die
+Zeit während eines SaaS-Vertragsjahres (in
+Minuten), während der der Kunde, obwohl
+Systembetriebszeit gegeben sein sollte, nicht
+in der Lage ist, auf die GFOS knownCloud gemäß
+den Zugangsprotokollen zuzugreifen.
+Die Verfügbarkeit errechnet sich dabei wie
+folgt:
+V (in %) = (SL – NV) : (SL) x 100
+Rechenergebnisse sind auf eine Nachkommastelle
+auf- bzw. abzurunden.
+6.5 Für periodische, geplante oder ungeplante
+Wartungsarbeiten am Serversystem oder der
+Infrastruktur der GFOS knownCloud, die für
+den Erhalt und die Sicherheit des laufenden
+Betriebes erforderlich sind sowie für die
+Durchführung von Datensicherungen und
+dem Einspielen von Updates oder Upgrades
+werden die folgenden Wartungsfenster vereinbart:
+a) Geplante Wartungsfenster: täglich,
+23:00 bis 05:00 Uhr sowie an bis zu
+zwei Sonntagen im Kalenderquartal
+(nach vorheriger Information) ganztägig.
+b) Ungeplante Wartungsfenster: Ferner
+können zwischen GFOS und dem
+Kunden weitere Wartungsfenster
+nach Bedarf vereinbart werden.
+GFOS bleibt zudem im Einzelfall berechtigt,
+auch ohne Vereinbarung
+mit dem Kunden Wartungsarbeiten
+vorzunehmen, wenn diese für den
+Erhalt und die Sicherheit des laufenden
+Betriebes zwingend erforderlich
+sind und eine vorherige Abstimmung
+mit dem Kunden aus Zeitgründen
+nicht möglich ist. GFOS wird den
+Kunden über die Wartungsarbeiten
+spätestens nach Abschluss der Wartungsarbeiten
+informieren.
+Die Zeiträume der Geplanten und der Ungeplanten
+Wartungsfenster werden zusammenfassend
+als „Geplante Nichtverfügbarkeiten“
+bezeichnet.
+6.6 In Zeiten der Geplanten Nichtverfügbarkeit
+hat der Kunde keinen Rechtsanspruch auf
+Nutzung der GFOS knownCloud, selbst wenn
+die GFOS knownCloud zu diesen Zeiten ganz
+oder teilweise zur Verfügung steht. Kommt es
+bei einer Nutzung der GFOS knownClouds in
+Zeiten der Geplanten Nichtverfügbarkeiten
+zu einer Störung oder einem Ausfall, so besteht
+für den Kunden insbesondere kein Anspruch
+auf Gewährleistung oder Schadensersatz.
+§ 7 SaaS-Vertragsdurchführung, Unterauftragnehmer
+7.1 GFOS verpflichtet sich zur Erbringung der im
+SaaS-Vertrag und der Produktbeschreibung
+spezifizierten SaaS-Services.
+7.2 GFOS verpflichtet sich:
+a) über die Kapazität, Befugnisse sowie
+alle erforderlichen Lizenzen, Zulassungen
+und Genehmigungen zu verfügen,
+um ihren Verpflichtungen unter
+dem SaaS-Vertrag nachzukommen,
+und
+b) die SaaS-Services durch entsprechend
+qualifizierte und geschulte
+Mitarbeitende zu erbringen, und
+c) die SaaS-Services unter Einhaltung
+anwendbarer Gesetze zu erbringen,
+und
+d) die SaaS-Services gemäß den in diesem
+SaaS-Vertrag vereinbarten
+Standards zu erfüllen.
+7.3 GFOS bleibt berechtigt, Teile der SaaS-Services
+durch geeignete, fachkundige Unterauftragnehmer
+erbringen zu lassen. GFOS behält
+sich bei der Erbringung der SaaS-Services
+ferner vor, auf personelle Ressourcen
+sowie auf technische, fachliche und/oder administrative
+Unterstützungsleistungen anderer
+Unternehmen der GFOS-Gruppe zurückzugreifen
+und dementsprechend auftragsbezogene
+vertrauliche Informationen des Kunden
+weiterzugeben. Alle Unternehmen der
+GFOS-Gruppe sind zur Verschwiegenheit
+verpflichtet. Unbeschadet dessen verbleibt
+die Verantwortung für die Erbringung der
+SaaS-Services in vollem Umfang bei GFOS.
+Etwaige Erfüllungs- und Haftungsansprüche
+können daher ausschließlich gegen GFOS geltend
+gemacht werden, nicht aber gegen andere
+Unternehmen der GFOS-Gruppe.
+§ 8 Inanspruchnahme der SaaS-Services durch den
+Kunden, Mitwirkungsleistungen
+8.1 Der Kunde unterstützt die zur Leistungserbringung
+erforderlichen Tätigkeiten von
+GFOS. Hierzu gehört insbesondere die rechtzeitige
+und vollständige Erteilung und Beschaffung
+aller notwendigen Informationen
+für eine ordnungsgemäße Leistungserbringung.
+Der Kunde stellt sicher, dass alle für die
+Erbringung der SaaS-Services erforderlichen
+Mitwirkungsleistungen rechtzeitig, vollständig
+und für GFOS unentgeltlich erbracht werden.
+Der Kunde wird dafür Sorge tragen, dass
+die Mitarbeitenden des Kunden, die GFOS bei
+der Leistungserbringung unterstützen, zu den
+vereinbarten Zeiten verfügbar sind. Der
+Kunde ist dafür verantwortlich, dass seine
+Mitarbeitenden die erforderlichen Kenntnisse,
+Fähigkeiten und Erfahrungen besitzen, um die
+ihnen zugeteilten Aufgaben zu erfüllen. Zu
+den Mitwirkungspflichten des Kunden zählt
+vor allem, sämtliche Voraussetzungen im Bereich
+seiner Betriebssphäre zu schaffen, die
+für GFOS zur ordnungsgemäßen Erbringung
+der SaaS-Services erforderlich sind.
+8.2 Der Kunde nutzt die SaaS-Services ausschließlich
+zu seinen internen Geschäftszwecken,
+bzw. ggf. die seiner Konzerngesellschaften.
+8.3 Der Kunde ist für die Überwachung der Nutzung
+der SaaS-Services verantwortlich und
+meldet GFOS unverzüglich schriftlich jede
+Nutzung, die über die vertraglichen Vereinbarungen
+hinausgeht, insbesondere wenn die
+vereinbarten Mitarbeitenden-Lizenzen überstiegen
+werden. Der Kunde ist in diesem Fall
+verpflichtet, eine Erweiterungsvereinbarung
+zu unterzeichnen, welche die zusätzliche
+Nutzung und die zusätzliche Vergütung ausweist.
+Die entsprechende Vergütung entsteht
+von dem Tag an, seitdem die Überschreitung
+besteht. GFOS ist berechtigt, die Vertragsgemäßheit
+der Nutzung der SaaS-Services, insbesondere
+die Einhaltung der vertraglich vereinbarten
+Mitarbeitenden- Lizenzen zu überprüfen.
+8.4 Der Kunde pflegt seine internen Systeme und
+technischen Umgebungen/Ausstattungen
+selbst. Diese haben den von GFOS veröffentlichten
+und auf Anforderung durch GFOS mitzuteilenden
+Mindestspezifikationen zu entsprechen,
+um GFOS die Leistungserbringung
+zu ermöglichen.
+8.5 Der Kunde überwacht die Erbringung der
+SaaS-Services durch GFOS gemäß seinen
+Verpflichtungen aus dem SaaS-Vertrag.
+8.6 Der Kunde bewahrt seine Unterlagen selbst in
+Übereinstimmung mit geltendem Recht auf
+und wird insbesondere alle Originalbelege der
+an GFOS gelieferten Informationen selbst
+verwalten. 
+8.7 Die SaaS-Services der GFOS basieren auf den
+vom Kunden gelieferten Informationen. Der
+Kunde ist für die Richtigkeit und rechtzeitige
+Lieferung dieser Informationen und demnach
+insbesondere für nachteilige Auswirkungen
+durch von ihm zu vertretende Verzögerungen
+sowie seine eigenen Anweisungen verantwortlich.
+8.8 Sofern nicht abweichend vereinbart, ist der
+Kunde verantwortlich für Kommunikationsverbindungen
+einschl. Internet, falls die SaaSServices
+die Nutzung von Kommunikationsverbindungen
+zur Herstellung der Verbindung
+mit GFOS erforderlich machen. Der Kunde
+trägt selbst die Installations-, Benutzungs-,
+Service- und Reparaturkosten für die Kommunikationsverbindungen.
+GFOS ist nicht
+verantwortlich für die Verfügbarkeit oder Zuverlässigkeit
+der Kommunikations-verbindungen,
+die der Kunde nutzt, um Zugriff auf die
+SaaS-Services zu erhalten.
+8.9 Im Rahmen der Nutzung der SaaS-Services
+durch Mitarbeitende des Kunden hat der
+Kunde sicherzustellen, dass die sich für die
+Nutzer aus dem SaaS-Vertrag ergebenen
+Pflichten eingehalten werden. GFOS kann den
+Zugang zu den SaaS-Services durch einen
+Nutzer entsprechend § 4.5 sperren, wenn
+GFOS begründeten Anlass zu der Vermutung
+hat, dass dieser Nutzer gegen diese AGBCloud
+verstoßen hat oder die SaaS-Service
+anderweitig in vertragswidriger Art und Weise
+nutzt.
+8.10 GFOS leistet dem Kunden weder rechtliche
+noch buchhalterische oder steuerliche Beratung
+und der Kunde verlässt sich in Bezug auf
+solche Beratungen ausschließlich auf seine eigenen
+Berater.
+8.11 Der Kunde verfügt jetzt und zukünftig über
+unbeschränkte Vollmacht seiner Konzerngesellschaften,
+die ggf. SaaS-Services der
+GFOS beanspruchen sollen, zur Ausführung
+des SaaS-Vertrages und er verpflichtet seine
+Konzerngesellschaften zur ordnungsgemäßen
+Erfüllung der in diesem SaaS-Vertrag
+enthaltenen Verpflichtungen. Ferner verfügt
+der Kunde über alle notwendigen Lizenzen,
+Erlaubnisse und Genehmigungen zur Erbringung
+seiner Mitwirkungsleistungen.
+8.12 Solange Mitwirkungsleistungen des Kunden
+nicht vertragsgemäß erbracht sind, ist GFOS
+von der betreffenden Leistungspflicht ganz
+oder teilweise insoweit befreit, wie GFOS auf
+die jeweilige Mitwirkung oder Beistellung angewiesen
+ist. GFOS ist nicht verantwortlich
+für Leistungsstörungen, die durch die nicht
+vertragsgemäße Erbringung von Mitwirkungsleistungen
+durch den Kunden entstehen.
+Durch die nicht vertragsgemäße Erbringung
+der Mitwirkungsleistungen entstehender
+Mehraufwand von GFOS kann von GFOS
+gesondert nach Aufwand in Rechnung gestellt
+werden. Ggf. weitergehende Ansprüche
+von GFOS bleiben unberührt.
+§ 9 Vergütung für SaaS-Services
+9.1 Die Abrechnung für die SaaS-Services beginnt
+spätestens mit der technischen Bereitstellung
+und wird mit der im SaaS-Vertrag
+vereinbarten monatlichen Vergütung berechnet.
+Soweit nichts Abweichendes vereinbart
+ist, ist die Vergütung für ein Vertragsjahr im
+Voraus fällig.
+9.2 Alle Preise von GFOS verstehen sich grundsätzlich
+in EURO zuzüglich vom Kunden zu
+tragender Umsatzsteuer in der jeweils gesetzlich
+vorgeschriebenen Höhe. Die Umsatzsteuer
+wird in der Rechnung gesondert ausgewiesen.
+Die Preise sowie Preiszuschläge
+werden nach der im Zeitpunkt des Vertragsabschlusses
+allgemein gültigen Preisliste von
+GFOS ermittelt, soweit nicht schriftlich etwas
+anderes vereinbart wurde.
+9.3 Die Rechnungen von GFOS sind ohne jeden
+Abzug (z.B. Skonto) zahlbar binnen vierzehn
+(14) Kalendertagen nach Rechnungsdatum,
+sofern nicht schriftlich etwas anderes vereinbart
+wurde. Als Tag der Zahlung gilt das Datum
+des Geldeinganges bei GFOS oder der
+Gutschrift auf dem Konto von GFOS.
+9.4 Einmalige Dienst- oder Werkleistungen, insbesondere
+im Rahmen der ggf. erforderlichen
+Implementierung der SaaS-Services, die der
+Kunde wünscht, die aber nicht zu den im
+SaaS-Vertrag vereinbarten SaaS-Services
+gehören, wird GFOS auf Basis einer gesonderten
+Vereinbarung gemäß der jeweils gültigen
+Preisliste gesondert anbieten und in Rechnung
+stellen.
+9.5 Bei veränderten Marktbedingungen, bei erheblichen
+Veränderungen in den Beschaffungskosten,
+Änderungen der Umsatzsteuer
+oder Preiserhöhungen von Unterauftragnehmern
+ist GFOS berechtigt, die Vergütung für
+die SaaS-Services anzupassen. Eine solche
+Preisanpassung ist jedoch frühestens zwölf
+(12) Monate nach SaaS-Vertragsschluss und
+nur einmal jährlich zulässig. GFOS wird dem
+Kunden die Änderung spätestens sechs (6)
+Wochen vor ihrem Wirksamwerden schriftlich
+ankündigen. Für den Fall, dass der Kunde die
+Preiserhöhung nicht akzeptiert, sind sowohl
+GFOS wie der Kunde berechtigt, den SaaSVertrag
+im Ganzen mit einer Frist von einem
+(1) Monat zum Ende des Kalendermonats zu
+kündigen, soweit die Preiserhöhung mehr als
+fünf Prozent (5 %) des bisherigen Preises ausmacht.
+Im Fall der Kündigung gelten die bis
+zum Wirksamwerden der Kündigung nicht erhöhten
+Preise.
+9.6 Der Kunde kann nur mit rechtskräftig festgestellten
+oder unbestrittenen Forderungen
+aufrechnen. Er ist zur Geltendmachung von
+Zurückbehaltungsrechten gegenüber GFOS
+nur berechtigt, wenn der geltend gemachte
+Gegenanspruch unbestritten oder rechtskräftig
+festgestellt ist. Die Abtretung von gegen
+GFOS gerichteter Ansprüche ist ausgeschlossen.
+Vorgenanntes gilt jedoch nicht im Anwendungsbereich
+des § 354a HGB.
+§ 10 Leistungsmängel
+10.1 Ein Mangel der SaaS-Services liegt dann vor,
+wenn diese nicht die vertraglich vereinbarte
+Beschaffenheit aufweisen. Die vertragliche
+Beschaffenheit der SaaS-Services ergibt sich
+aus den Festlegungen in der Produktbeschreibung
+der jeweiligen SaaS-Services. Soweit
+die Beschaffenheit nicht vereinbart wurde, ist
+nach der gesetzlichen Regelung zu beurteilen,
+ob ein Mangel vorliegt oder nicht.
+10.2 Der Kunde hat GFOS Mängel der SaaS-Services
+unverzüglich und schriftlich (E-Mail genügt)
+unter Angabe der ihm bekannten und
+für deren Erkennung zweckdienlichen
+Informationen zu melden. Die Meldung muss
+die aufgetretenen Symptome, die Programmfunktionalität
+sowie die System- und
+Hardwareumgebung detailliert beschreiben
+und die für die Mängelbeseitigung zweckdienlichen
+Informationen, beispielsweise Anzahl
+der betroffenen Nutzer, Schilderung der
+System- und Hardwareumgebung sowie die
+ggf. simultan geladene Drittsoftware beinhalten.
+10.3 Der Kunde hat im Rahmen des Zumutbaren
+die Maßnahmen zu treffen, die eine Feststellung
+der Mängel und der Ursachen erleichtern.
+GFOS wird auf eigene Kosten die Ursache eines
+Mangels ermitteln. Über den jeweiligen
+Stand und Erfolg dieser Bemühungen wird
+GFOS den Kunden regelmäßig berichten.
+Führt die Ursachenermittlung zu dem Ergebnis,
+dass eine Störung der SaaS-Services
+nicht auf einen von GFOS zu vertretenden
+Mangel zurückzuführen ist, muss GFOS die
+Störung nur beseitigen, wenn der Kunde sich
+bereit erklärt, die damit verbundenen Kosten
+zu übernehmen.
+10.4 GFOS kann Mängel der SaaS-Services nach
+Wahl von GFOS durch Beseitigung, Umgehung
+oder Ersatzverschaffung beheben.
+Schließt GFOS die Mängelbehebung nicht innerhalb
+angemessener Frist erfolgreich ab,
+kann der Kunde GFOS eine Nachfrist setzen.
+Nach Ablauf der Nachfrist kann der Kunde
+eine angemessene Minderung der Vergütung
+verlangen oder den SaaS-Vertrag kündigen;
+das Recht zur Selbstvornahme des Kunden
+nach § 536a Abs. 2 BGB ist ausgeschlossen.
+Eine Nachfristsetzung zur Mängelbeseitigung
+ist entbehrlich, wenn diese unmöglich ist,
+wenn sie von GFOS verweigert oder in unzumutbarer
+Weise verzögert wird, wenn begründete
+Zweifel bezüglich der Erfolgsaussichten
+bestehen oder wenn aus anderen
+Gründen eine Unzumutbarkeit für den Kunden
+gegeben ist.
+10.5 Eine sofortige Minderung der laufenden Vergütung
+für die SaaS-Services ist nur zulässig,
+soweit die Minderungsforderung unstreitig
+oder rechtskräftig festgestellt ist; dem Kunden
+bleibt das Recht vorbehalten, etwaig
+überbezahlte Beträge nach den Grundsätzen
+der ungerechtfertigten Bereicherung (§§ 812
+ff. BGB) zurückzufordern.
+10.6 Die Rechte des Kunden wegen Mängeln der
+SaaS-Services sind ausgeschlossen, soweit
+dieser ohne Zustimmung von GFOS Änderungen
+an den SaaS-Services vornimmt oder
+vornehmen lässt, es sei denn, der Kunde weist
+nach, dass die Änderungen keine für GFOS
+unzumutbaren Auswirkungen auf Analyse
+und Beseitigung der Mängel haben.
+10.7 Erbringt GFOS SaaS-Services bei der Mängelermittlung
+oder -beseitigung, ohne hierzu
+verpflichtet zu sein, kann GFOS eine Vergütung
+nach Aufwand verlangen, wenn der
+Kunde das Nichtvorliegen eines Mangels mindestens
+grob fahrlässig verkannt hat.
+§ 11 Haftung
+11.1 GFOS haftet unbeschränkt für Schäden, die
+vorsätzlich oder grob fahrlässig herbeigeführt
+werden, für Schäden aus einer Verletzung von
+Leben, Körper und Gesundheit, sowie für
+Schäden, die eine Ersatzpflicht nach § 1
+ProdHaftG begründen.
+11.2 Im Falle einfacher Fahrlässigkeit haftet GFOS
+nur, soweit es sich um eine Verletzung vertragswesentlicher
+Pflichten handelt, deren Erfüllung
+die ordnungsgemäße Durchführung
+des SaaS-Vertrages überhaupt erst ermöglicht
+und auf deren Einhaltung der Kunde vertrauen
+durfte. Im Übrigen ist die Haftung für
+leicht fahrlässig verursachte Schäden ausgeschlossen.
+§ 11.1 bleibt unberührt.
+11.3 Bei der einfach fahrlässigen Verletzung von
+wesentlichen Vertragspflichten durch GFOS
+ist die Ersatzpflicht auf den vertragstypischen,
+vorhersehbaren Schaden begrenzt.
+Der vertragstypische, vorhersehbare Schaden
+ist der Schaden, den GFOS bei Vertragsschluss
+als mögliche Folge einer Vertragsverletzung
+vorausgesehen hat oder den GFOS
+bei Anwendung verkehrsüblicher Sorgfalt
+hätte voraussehen müssen. Mittelbare Schäden
+und Folgeschäden, die Folge einer nicht
+vertragsgemäßen Leistungserbringung sind,
+sind außerdem nur ersatzfähig, soweit solche
+Schäden bei bestimmungsgemäßer
+Verwendung der SaaS-Services typischerweise
+zu erwarten sind. § 11.1 bleibt unberührt.
+11.4 Die Haftung von GFOS ist in den Fällen von
+§ 11.3 auf zweihundertfünzigtausend Euro (€
+250.000,00) pro Schadensfall beschränkt.
+Falls nach Auffassung des Kunden das voraussehbare
+Vertragsrisiko diesen Haftungshöchstbetrag
+nicht nur unerheblich übersteigt,
+ist GFOS bereit, gegen entsprechende
+Vergütung für die Risikoübernahme eine angemessene
+höhere Haftungssumme zu vereinbaren,
+vorausgesetzt, dass hierfür Versicherungsschutz
+vereinbart werden kann.
+11.5 Bei Datenverlust bzw. Datenvernichtung haftet
+GFOS nur, soweit GFOS die Vernichtung
+vorsätzlich, grob fahrlässig oder aufgrund eines
+Verstoßes gegen eine wesentliche Vertragspflicht
+verursacht hat. Die Haftung von
+GFOS für die einfach fahrlässige Verletzung
+einer wesentlichen Vertragspflicht ist im vorstehenden
+Fall der Höhe nach auf den Schaden
+begrenzt, der auch im Fall einer ordnungsgemäßen
+Datensicherung durch den
+Kunden entstanden wäre.
+11.6 Leiten mehrere Anspruchsteller aus dem
+Kaufvertrag Ansprüche gegen GFOS aus einer
+einfach fahrlässigen Pflichtverletzung von
+wesentlichen Vertragspflichten (§ 11.3) von
+GFOS her, gilt der in § 11.4 bestimmte Haftungshöchstbetrag
+für die betreffenden Ansprüche
+aller Anspruchsteller insgesamt. Die
+Haftungshöchstsumme steht dem Kunden
+und den anderen Anspruchstellern nur gemeinschaftlich
+und einmalig zur Verfügung
+(Gesamtgläubiger, § 428 BGB). § 334 BGB gilt
+entsprechend.
+11.7 Eine Haftung für Schäden wegen eines bereits
+zu Vertragsschluss bestehenden Mangels
+gemäß § 536a BGB ist ausgeschlossen.
+11.8 Die vorstehenden Regelungen zur Haftungsbeschränkung
+gelten auch für die persönliche
+Haftung der Mitarbeitenden, Vertreter und
+Organe von GFOS.
+11.9 Schadensersatzansprüche und Ansprüche
+auf Ersatz vergeblicher Aufwendungen des
+Kunden verjähren innerhalb von einem (1)
+Jahr; hinsichtlich des Beginns der
+Verjährungsfrist findet § 199 Abs. 1 BGB Anwendung.
+Dies gilt nicht für Ansprüche auf
+Schadenersatz und Ansprüche auf Ersatz vergeblicher
+Aufwendungen wegen Verletzung
+des Lebens, des Körpers oder der Gesundheit,
+bei Ansprüchen nach dem Produkthaftungsgesetz
+und bei der Verletzung einer Beschaffenheitsgarantie.
+Dies gilt weiter nicht für Ansprüche,
+die auf einer vorsätzlichen oder grob
+fahrlässigen Pflichtverletzung von GFOS bzw.
+eines gesetzlichen Vertreters oder eines Erfüllungsgehilfen
+von GFOS beruhen.
+11.10 Eine Umkehr der Beweislast ist mit den vorstehenden
+Regelungen nicht verbunden.
+§ 12 Geheimhaltung, Datenschutz, Referenzen
+12.1 Der Kunde verpflichtet sich zur Geheimhaltung
+solcher Tatsachen, Unterlagen und
+Kenntnisse, die ihm im Zuge der Durchführung
+der geschäftlichen Beziehungen mit
+GFOS zur Kenntnis gelangen und technische,
+finanzielle, geschäftliche oder marktbezogene
+Informationen über das Unternehmen
+GFOS beinhalten, sofern GFOS die
+jeweilige Information als geheimhaltungsbedürftig
+bezeichnet oder an ihrer Geheimhaltung
+ein offenkundiges Interesse hat
+(nachfolgend insgesamt „vertrauliche Informationen“).
+Der Kunde wird die vertraulichen
+Informationen ausschließlich zum
+Zwecke der vertragsgemäßen Umsetzung
+und Durchführung der Vertragsbeziehung
+mit GFOS sowie der hierauf beruhenden
+Einzelverträge verwenden.
+12.2 Die Weitergabe von vertraulichen Informationen
+durch den Kunden an Dritte bedarf
+der ausdrücklichen und vorherigen schriftlichen
+Zustimmung durch GFOS.
+12.3 Die Geheimhaltungspflicht gemäß obigem
+§ 9.1 besteht nicht, soweit die jeweilige vertrauliche
+Information nachweislich:
+a) ohne Zutun des Kunden allgemein
+bekannt ist oder wird oder
+b) dem Kunden bereits bekannt war
+oder von einem zur Weitergabe
+berechtigten Dritten bekannt gemacht
+wird oder
+c) von dem Kunden ohne Zutun von
+GFOS und ohne Verwertung anderer
+durch den vertraglichen Kontakt
+erlangter Informationen oder
+Kenntnisse entwickelt wird oder
+d) aufgrund zwingender gesetzlicher
+Vorschriften oder gerichtlicher
+oder behördlicher Anordnungen
+preisgegeben werden muss.
+12.4 Der Kunde ist für die Einhaltung aller einschlägigen
+gesetzlichen Datenschutzbestimmungen,
+insbesondere für die Rechtmäßigkeit
+der Datenweitergabe und Datenverarbeitung
+von personenbezogenen Daten
+seiner Mitarbeitenden und der sonstigen
+Betroffenen im Zusammenhang mit
+der Leistungserbringung durch GFOS verantwortlich.
+GFOS wird die personenbezogenen
+Daten des Kunden nur im Rahmen
+der vertraglich geschuldeten Leistungserbringung
+und gemäß den datenschutzrechtlichen
+Bestimmungen verarbeiten.
+12.5 Die Parteien verarbeiten personenbezogene
+Daten unter Einhaltung der jeweils geltenden
+Bestimmungen zum Datenschutz, insbesondere
+der Verordnung (EU) 2016/679
+(Datenschutz-Grundverordnung,
+„DSGVO“).
+12.6 Personenbezogene Daten des Kunden werden
+von GFOS erhoben, gespeichert, verarbeitet
+und genutzt, wenn, soweit und solange
+dies für die Begründung, die Durchführung
+oder die Beendigung des SaaSVertrages
+mit dem Kunden erforderlich ist.
+Eine weitergehende Erhebung, Speicherung,
+Verarbeitung und Nutzung personenbezogener
+Daten des Kunden erfolgt nur,
+soweit eine Rechtsvorschrift dies erfordert
+oder erlaubt oder der Kunde eingewilligt
+hat. Dem Kunden ist bekannt, dass zur
+Durchführung vorvertraglicher Maßnahmen
+und Erfüllung des Vertrages mit dem Kunden
+die Erhebung, Verarbeitung und Nutzung
+der Kontaktdaten der Ansprechpartner
+des Kunden (Name, E-Mail-Adressen,
+etc.) auf Basis von Art. 6 Abs. 1 lit. b) DSGVO
+erforderlich ist. GFOS ist insbesondere berechtigt,
+die Daten an Dritte zu übermitteln,
+wenn und soweit dies zur Durchführung
+vorvertraglicher Maßnahmen und Erfüllung
+des Vertrages (z.B. für Leistungserbringung,
+Rechnungsstellung oder Kundenbetreuung)
+gemäß Art. 6 Abs. 1 lit. b) DSGVO oder Erfüllung
+einer rechtlichen Verpflichtung im
+Sinne des Art. 6 Abs. 1 lit. c) DSG-VO erforderlich
+ist. GFOS wird diese Daten ferner
+ggf. auch zum Zwecke der Forderungsdurch-
+setzung im Einklang mit Art. 6 Abs. 1
+lit. b) und/oder f) DSGVO an Dritte (z.B. Inkasso-
+Unternehmen) weiterleiten.
+12.7 Die Datenschutzhinweise von GFOS sind
+abrufbar unter
+https://www.gfos.com/de/datenschutz.
+12.8 Soweit GFOS im Rahmen der Erfüllung des
+SaaS-Vertrages personenbezogene Daten
+im Auftrag des Kunden verarbeitet, wird
+GFOS die personenbezogenen Daten nur im
+Rahmen der vertraglich geschuldeten Leistungserbringung
+oder anderer schriftlicher
+Weisungen des Kun-den und gemäß den
+datenschutzrechtlichen Bestimmungen
+verarbeiten. Die Einzelheiten der Auftragsverarbeitung
+werden die Parteien in einer
+gesonderten „Vereinbarung über eine
+Verarbeitung von personenbezogenen Daten
+im Auftrag“ festlegen. Diese geht in ihrem
+Anwendungsbereich den Regelungen
+dieser AGB-Cloud vor.
+12.9 GFOS ist berechtigt, auf die Vertragsbeziehung
+zum Kunden in geeigneter Form in
+Broschüren und Publikationen (bspw. Referenzlisten)
+hinzuweisen, dies schließt die
+Nutzung des Firmenlogos des Kunden mit
+ein. Sollte der Kunde damit nicht einverstanden
+sein, wird er GFOS entsprechend
+darauf schriftlich oder in Textform hinweisen.
+§ 13 SaaS-Vertragslaufzeit, Kündigung, Vertragsbeendigung
+13.1 Soweit die Parteien keine abweichende Regelung
+getroffen haben, hat der SaaS-Vertrag
+eine Mindestlaufzeit von drei (3) Jahren
+(„Mindestlaufzeit“). Danach verlängert sich
+der SaaS-Vertrag um jeweils zwölf (12) Monate,
+wenn er nicht vorher mit einer Frist von
+sechs (6) Monaten zum Ende der Mindestvertragslaufzeit,
+danach zum Ende der jeweiligen
+Verlängerung schriftlich gekündigt wird.
+13.2 Jede Partei ist berechtigt, den SaaS-Vertrag
+jederzeit aus wichtigem Grund zu kündigen.
+Ein wichtiger Grund liegt vor, wenn Tatsachen
+gegeben sind, aufgrund derer dem Kündigenden
+unter Berücksichtigung aller Umstände
+des Einzelfalles und unter Abwägung
+der Interessen der anderen Partei die Fortsetzung
+des SaaS-Vertrages nicht mehr zugemutet
+werden kann („wichtiger Grund“). Besteht
+der wichtige Grund in der Verletzung einer
+vertraglichen Pflicht, ist die Kündigung
+erst nach erfolglosem Ablauf einer zur Abhilfe
+gesetzten Frist oder nach erfolgloser Abmahnung
+zulässig, soweit nicht gemäß § 323 Abs.
+2 BGB eine Fristsetzung entbehrlich ist.
+13.3 GFOS ist insbesondere zur Kündigung aus
+wichtigem Grund berechtigt, falls sich der
+Kunde mit der Zahlung von mindestens zwei
+(2) Monatsrechnungen im Verzug befindet.
+13.4 Nach Beendigung des SaaS-Vertrages gleich
+aus welchem Grund
+a) enden automatisch alle Nutzungsund
+sonstigen Rechte, die dem Kunden
+unter diesem SaaS-Vertrag erteilt
+worden sind:
+b) sind alle vertraulichen Informationen,
+die eine Partei der jeweils anderen
+Partei unter diesem SaaS-Vertrag
+oder in Verbindung mit den beendeten
+SaaS-Services geliefert hat,
+auf Anforderung der jeweiligen Partei
+zurückzugeben; dies gilt nicht für
+den Schriftwechsel zwischen den
+Parteien sowie für andere nach den
+gesetzlichen Vorschriften von der
+jeweiligen Partei aufzubewahrende
+Unterlagen;
+c) werden alle unbezahlten Vergütungen
+und Auslagen sofort zur Zahlung
+fällig.
+13.5 Nach Zugang einer Kündigung von GFOS
+oder nach einer Eigenkündigung des Kunden
+wird der Kunde unverzüglich dafür Sorge tragen,
+dass seine in der GFOS knownCloud
+bzw. im jeweiligen SaaS-Service verwalteten
+Daten spätestens bei Beendigung des SaaSVertrages
+gesichert und auf ein System des
+Kunden migriert werden. Nach Beendigung
+des SaaS-Vertrages wird GFOS die Daten des
+Kunden entsprechend den gesetzlichen Verpflichtungen
+löschen. Auf Anfrage und gegen
+gesonderte Vergütung gemäß den jeweils
+geltenden Dienstleistungssätzen unterstützt
+GFOS den Kunden im Rahmen der Migration.
+13.6 Soweit GFOS vom Kunden mit der Unterstützung
+der Migration beauftragt wird, werden
+die Daten des Kunden in Absprache mit dem
+Kunden durch GFOS in einem Standardformat
+(marktüblichen Format) auf einem Datenträger
+oder digital zum Download bereitgestellt
+§ 14 Schlussbestimmungen
+14.1 Erfüllungsort für alle vertraglichen Verpflichtungen
+ist der Sitz von GFOS.
+14.2 GFOS ist jederzeit berechtigt, die Rechte
+und Pflichten aus dem SaaS-Vertrag auf
+Unternehmen der GFOS-Gruppe zu übertragen.
+14.3 Änderungen und Ergänzungen dieser AGBCloud
+und des SaaS-Vertrages sowie sonstige
+Erklärungen im Zusammenhang mit
+dem SaaS-Vertrag, die eine Rechtsfolge
+auslösen (z.B. Fristsetzungen, Rücktritt), bedürfen
+zu ihrer Wirksamkeit der Schriftform.
+Dies gilt auch für Änderungen oder Ergänzungen
+zu dieser Schriftformklausel. Die telekommunikative
+Übermittlung der betreffenden
+Erklärungen, insbesondere per EMail,
+ist hierfür nicht ausreichend.
+14.4 Gerichtsstand für sämtliche Rechtsstreitigkeiten
+der Parteien aus oder in Zusammenhang
+mit dem SaaS-Vertrag ist, soweit gesetzlich
+zulässig, Essen, Deutschland; GFOS
+ist jedoch auch berechtigt, den Kunden an
+seinem allgemeinen Gerichtsstand zu verklagen.
+Die vorstehende Gerichtsstandvereinbarung
+gilt nicht, soweit sich aus Gesetz
+ein abweichender, ausschließlicher Gerichtsstand
+ergibt.
+14.5 Diese AGB-Cloud und der SaaS-Vertrag unterliegen
+dem Recht der Bundesrepublik
+Deutschland. Die Vorschriften des Internationalen
+Privatrechts und des UN-Kaufrechts
+finden keine Anwendung.

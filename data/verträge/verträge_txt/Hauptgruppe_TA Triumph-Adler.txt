@@ -1,0 +1,672 @@
+Vertragsbedingungen SaaS-Vertrag
+der TA Triumph-Adler Gruppe (Stand 01/2021)
+Vertragsbedingungen SaaS-Vertrag der TA Triumph-Adler Gruppe
+(Stand 01/2021) – Seite 1 von 5
+1. Vertragsgegenstand, Anwendungsbereich
+1.1. Diese „Vertragsbedingungen SaaS-Vertrag TA Triumph-Adler Gruppe“
+(„Vertragsbedingungen“) sind Bestandteil des zwischen Auftragnehmer und
+Auftraggeber (gemeinsam „Parteien“) abgeschlossenen Software as a
+Service-Vertrags („SaaS-Vertrag“).
+1.2. Bestandteil des SaaS-Vertrags sind je nach Vereinbarung im SaaS-Vertrag:
+a) die entgeltliche Überlassung folgender Objekte:
+- Softwareanwendung mittels Internet, soweit keine anderweitige
+Telekommunikation ausdrücklich vereinbart wurde („Services“),
+- und/oder
+- Software („Vertragssoftware“) einschließlich der zugehörigen Beschreibung
+der technischen Funktionalität, des Betriebs, der Installation und der Nutzung,
+b) die Erbringung von Serviceleistungen an den Services,
+c) die Erbringung von Softwarepflege- und -supportleistungen
+(„SPS-Leistungen“) für die Vertragssoftware.
+1.3. Diese Vertragsbedingungen gelten nur gegenüber Unternehmern i.S.v. § 14 BGB,
+juristischen Personen des öffentlichen Rechts sowie öffentlich-rechtlichen
+Sondervermögen.
+1.4. Diese Vertragsbedingungen gelten ausschließlich. Abweichende oder
+ergänzende Bedingungen des Auftraggebers finden auch dann keine
+Anwendung, wenn der Auftragnehmer ihrer Geltung nicht ausdrücklich
+widersprochen hat, es sei denn, der Auftragnehmer hat der Geltung
+ausdrücklich schriftlich zugestimmt.
+2. Untersuchung, Übernahme/Teilübernahme, Rollout-Plan
+2.1. Der Auftraggeber ist verpflichtet, die Services unverzüglich nach Erhalt auf
+Mängelfreiheit zu untersuchen. Offene Mängel hat er unverzüglich gegenüber
+dem Servicedienstleister gemäß Ziffer 6.2. zu rügen und den Auftragnehmer
+hierüber zu informieren. Unterlässt er dies, ist er dem Auftragnehmer zum
+Ersatz des daraus entstehenden Schadens verpflichtet.
+2.2. Durch Unterzeichnung einer Übernahmebestätigung („ÜB“) hat der
+Auftraggeber zu bestätigen, dass die Services bzw. die Vertragssoftware zum
+Zeitpunkt der (Teil-)Bereitstellung bzw. (Teil-)Übernahme keine offenen
+Mängel hatten und die vereinbarten Leistungen vereinbarungsgemäß erbracht
+wurden. Mit Unterzeichnung der ÜB gelten die Services bzw. die
+Vertragssoftware als übernommen. Unterzeichnet der Auftraggeber die ÜB
+trotz Mängelfreiheit der Services bzw. der Vertragssoftware nicht
+unverzüglich, gelten diese mit Einräumung der tatsächlichen
+Nutzungsmöglichkeit als bereitgestellt bzw. übernommen. Entsprechendes
+gilt, wenn die Services bzw. die Vertragssoftware durch den Auftraggeber
+genutzt werden.
+2.3. Soweit erforderlich, werden die Parteien schriftlich einen Bereitstellungsplan
+vereinbaren, der den zeitlichen Ablauf der Bereitstellung der Services bzw. die
+Übernahme der Vertragssoftware definiert. Der Auftraggeber ist zu
+Teilbereitstellungen bzw. -übernahmen gemäß den im Bereitstellungs- bzw.
+Übernahmeplan vereinbarten Teilbereitstellungen bzw. -übernahmen
+verpflichtet.
+2.4. Der Auftraggeber ist in zumutbarem Umfang zu einer vom Bereitstellungsbzw. Übernahmeplan abweichenden Teilübernahme der Services bzw. der
+Vertragssoftware verpflichtet.
+3. Liefer-/Annahmeverzug, Rücktritt vom Bereitstellungsvertrag mit der
+Lieferfirma
+3.1. Wird zwischen den Parteien ein fester Liefertermin vereinbart und werden die
+Services nicht zu diesem vereinbarten Liefertermin zur Verfügung gestellt, ist
+der Auftraggeber nur berechtigt, bezüglich des betroffenen Service vom SaaSVertrag zurückzutreten, wenn er dem Auftragnehmer zuvor eine
+angemessene Frist für die Lieferung gesetzt hat und diese Frist fruchtlos
+verstrichen ist. Dies gilt nicht, soweit der Auftraggeber seinen
+Mitwirkungspflichten nicht nachkommt und hierdurch eine rechtzeitige
+Übernahme verhindert wird. Der Auftraggeber ist zum Rücktritt vom gesamten
+SaaS-Vertrag nur dann berechtigt, wenn er auch an der Nutzung der übrigen
+Services berechtigterweise kein Interesse mehr hat.
+3.2. Hat der Auftragnehmer die verspätete Bereitstellung zu vertreten, kann der
+Auftraggeber Schadensersatz verlangen. Im Falle einfacher Fahrlässigkeit
+des Auftragnehmers ist die Haftung des Auftragnehmers insoweit auf den
+typischerweise entstehenden, vorhersehbaren Schaden begrenzt.
+3.3. Kommt der Auftraggeber bezüglich der Übernahme der Services in
+Annahmeverzug, ist der Auftragnehmer berechtigt, eine angemessene Frist
+zur Übernahme zu setzen und nach fruchtlosem Fristablauf vom SaaS-Vertrag
+zurückzutreten und – falls der Auftraggeber den Annahmeverzug zu vertreten
+hat – Schadensersatz gemäß Ziffer 21 zu verlangen.
+3.4. Soweit der SaaS-Vertrag mit der TA Leasing GmbH als Auftragnehmer
+geschlossen wird und der Bereitstellungsvertrag über die Services bzw. der
+Kaufvertrag über die Vertragssoftware zwischen Auftragnehmer und
+Lieferfirma aus nicht vom Auftragnehmer zu vertretenden Gründen nicht
+zustande kommt oder aus nicht vom Auftragnehmer zu vertretenden Gründen
+ein Rücktritt von diesem Bereitstellungs- bzw. Kaufvertrag erfolgt, ist der
+Auftragnehmer berechtigt, den SaaS-Vertrag außerordentlich fristlos zu
+kündigen. Eine solche Kündigung berechtigt weder den Auftraggeber noch
+den Auftragnehmer zur Forderung von Schadensersatz. Der Auftragnehmer
+tritt insoweit sämtliche etwaigen dem Auftragnehmer zustehenden Ansprüche
+gegen die Lieferfirma wegen Nichtlieferung oder nicht rechtzeitiger Lieferung
+der Services bzw. der Vertragssoftware an den Auftraggeber ab. Der
+Auftraggeber nimmt die Abtretung hiermit bereits jetzt an.
+4. Serviceleistungen
+4.1. Der Auftragnehmer hält die Services bzw. die Vertragssoftware am vertraglich
+vereinbarten Standort funktions- und betriebsfähig und führt die zur
+Beseitigung von Störungen der Services erforderlichen Instandhaltungs- und
+Instandsetzungsarbeiten („Serviceleistungen“) innerhalb der in einem
+Service Level Agreement („SLA“) vereinbarten Frist durch; hierzu gehören
+insbesondere nach Wahl des Auftragnehmers die Zurverfügungstellung einer
+sonstigen Ersatz- oder Umgehungslösung.
+4.2. Die Instandhaltungs- und Instandsetzungspflicht entfällt, soweit sich die
+Störung nicht oder nur mit unvertretbar hohem Aufwand beseitigen lässt.
+Hierüber wird der Auftragnehmer den Auftraggeber schriftlich informieren. In
+diesem Fall ist der Auftraggeber zur außerordentlichen Teilkündigung des
+SaaS-Vertrags bezüglich des betroffenen Service berechtigt.
+4.3. Soweit nicht ausdrücklich schriftlich abweichend vereinbart, sind insbesondere
+folgende Leistungen nicht im Leistungsumfang und in der Vergütung der
+Service-, Implementierungs-, SPS- und sonstigen vertraglichen Leistungen
+(„Vertragsleistungen“) enthalten:
+a) Reparaturen oder sonstige Leistungen, die erforderlich werden wegen
+Beschädigung, funktions- oder vertragswidrigen Gebrauchs, Bedienfehlern,
+Nichtbeachtung von Gebrauchsanweisungen oder einer sonstigen
+Beeinträchtigung der Services, für die der Auftraggeber gemäß Ziffer 15.1.
+haftet
+b) Leistungen, die erforderlich werden, weil eine Servicefunktion oder eine
+Vertragsleistung ohne vorherige schriftliche Zustimmung des Auftragnehmers
+verändert wurde
+c) Leistungen, die erforderlich werden aufgrund von Software- oder
+Hardwareumstellungen des Auftraggebers (insbesondere Treiber- oder
+Firmware-Updates aufgrund von Änderungen in der IT-Infrastruktur) oder
+aufgrund der Verwendung von Software oder Hardware Dritter, die vom
+Auftraggeber ohne vorherige schriftliche Zustimmung des Auftragnehmers
+installiert wurde
+d) Installation, Konfiguration und Integration zusätzlicher IT-Geräte oder
+zusätzlicher Software in das Netzwerk des Auftraggebers
+e) Schulungsleistungen
+5. Servicezeiten
+Der Auftragnehmer erbringt die Serviceleistungen – soweit nicht ausdrücklich
+anderweitig vereinbart – an Arbeitstagen (Montag bis Freitag mit Ausnahme
+bundesweit einheitlicher gesetzlicher Feiertage und des 24.12. und 31.12.
+jedes Jahres) innerhalb folgender Zeiten („Servicezeiten“):
+- Montag bis Donnerstag von 08.00 bis 17.00 Uhr
+- Freitag von 08.00 bis 15.30 Uhr
+6. Servicedienstleister, Störungsanzeige
+6.1. Der Auftragnehmer ist berechtigt, die Vertragsleistungen durch Dritte
+(„Servicedienstleister“) erbringen zu lassen. Die Haftung des
+Auftragnehmers gegenüber dem Auftraggeber für die Leistungserbringung
+bleibt hiervon unberührt. Der Auftragnehmer wird dafür Sorge tragen, dass
+dem Auftraggeber durch die Beauftragung eines Servicedienstleisters keine
+Nachteile in sachlicher oder finanzieller Hinsicht entstehen. Im Falle einer
+Vertragsübertragung auf einen Refinanzierer gemäß Ziffer 13 wird der
+Refinanzierer in der Regel das auf dem Vertragsdeckblatt genannte
+Unternehmen der TA Triumph-Adler Gruppe als Servicedienstleister
+beauftragen. Soweit im SaaS-Vertrag eine Lieferfirma benannt ist, wird diese
+in der Regel als Servicedienstleister beauftragt. Sofern keine
+Vertragsübertragung stattfindet und kein Servicedienstleister bestimmt ist, gilt
+der Auftragnehmer als Servicedienstleister.
+6.2. Der Auftraggeber ist verpflichtet, dem Servicedienstleister Störungen der
+Services bzw. der Vertragssoftware unverzüglich schriftlich anzuzeigen. Dem
+Auftragnehmer ist eine angemessene Frist zur Beseitigung der Störung
+einzuräumen.
+6.3. Der Servicedienstleister kann zur Erfüllung der vertraglichen Verpflichtungen
+erfahrene und geeignete Partner einsetzen.
+7. Standort
+Soweit nicht anderweitig vereinbart, werden die Services an einem Standort in
+der Europäischen Union betrieben und die Vertragssoftware wird in der
+Betriebstätte des Auftraggebers in Deutschland eingesetzt.
+8. Obliegenheiten des Auftraggebers
+8.1. Soweit Vertragssoftware Vertragsbestandteil ist, räumt der Auftragnehmer
+dem Auftraggeber das einfache, nicht ausschließliche, nicht übertragbare,
+zeitlich auf die Laufzeit des SaaS-Vertrags beschränkte Recht ein, die
+Vertragssoftware gemäß der Spezifikation im SaaS-Vertrag ausschließlich für
+die Verarbeitung eigener Geschäftsdaten zu nutzen.
+8.2. Die Vertragssoftware wird im Objektcode überlassen; soweit nicht
+ausdrücklich schriftlich abweichend vereinbart, ist der Quellcode (Source
+Code) nicht Teil der Services bzw. der Vertragssoftware. Die Vertragssoftware
+wird zur vertragsgemäßen Nutzung als Hardcopy auf einem geeigneten
+Datenträger (CD/DVD) oder als Download-Version überlassen. Ist die
+Software-Dokumentation als elektronische Version online oder offline
+verfügbar, ist die Übergabe einer Printversion nicht geschuldet. 
+8.3. Soweit nicht anders vereinbart, ist das Nutzungsrecht an den Services bzw.
+an der Vertragssoftware auf die im SaaS-Vertrag vereinbarte Höchstanzahl
+von Benutzern beschränkt. Die Nutzung der Services bzw. der
+Vertragssoftware für eine darüber hinausgehende Anzahl von Benutzern ist
+dem Auftraggeber nur nach Erweiterung des Nutzungsrechts gegen
+zusätzliche Vergütung gestattet.
+8.4. Für die Services ist eine Internetverbindung erforderlich. Für die Schaffung der
+dafür erforderlichen technischen und infrastrukturellen Voraussetzungen ist
+der Auftraggeber auf eigene Kosten selbst verantwortlich. Der Auftraggeber
+ist verpflichtet, stets dafür zu sorgen, dass alle Services über das Netzwerk
+erreichbar sind.
+8.5. Der Auftraggeber ist in keiner Weise berechtigt, die Services bzw. die
+Vertragssoftware während der Vertragslaufzeit an Dritte zu vermieten, zu
+verpachten, zu verleihen, zu vertreiben oder öffentlich wiederzugeben oder
+dauerhaft oder zeitlich beschränkt zugänglich zu machen. Der Auftraggeber
+ist verpflichtet, den unbefugten Zugriff Dritter auf die Services bzw. die
+Vertragssoftware durch geeignete Vorkehrungen zu verhindern.
+8.6. Der Auftraggeber ist verpflichtet, die Services bzw. die Vertragssoftware
+gemäß der Software-Dokumentation zu verwenden und sorgfältig zu
+behandeln. Der Auftraggeber wird die gelieferten Originaldatenträger der
+Vertragssoftware an einem gegen den unberechtigten Zugriff Dritter
+gesicherten Ort aufbewahren und seine Mitarbeiter verpflichten, diese
+Vertragsbedingungen einzuhalten. Der Auftraggeber ist verpflichtet, den
+unbefugten Zugriff Dritter auf die Services bzw. die Vertragssoftware sowie auf
+die Software-Dokumentation durch geeignete Vorkehrungen zu verhindern.
+Urhebervermerke, Seriennummern sowie sonstige der Identifikation dienende
+Merkmale dürfen weder verändert noch von der Hardcopy oder der SoftwareDokumentation entfernt werden.
+8.7. Der Auftraggeber ist berechtigt, die Vertragssoftware oder die SoftwareDokumentation zu vervielfältigen, soweit dies zur vertragsgemäßen Nutzung
+erforderlich ist; hierzu gehört insbesondere die Installation der
+Vertragssoftware vom Datenträger auf die Festplatte oder einen anderen
+Datenträger sowie das Laden der Vertragssoftware in den Arbeitsspeicher
+oder Cache. Darüber hinausgehende Vervielfältigungshandlungen sind
+untersagt; hiervon ausgenommen sind Handlungen nach §§ 69d Abs. 2, Abs. 3,
+69e UrhG.
+8.8. Soweit die Services bzw. die Vertragssoftware Bestandteile eines
+Drittanbieters enthalten bzw. von diesem bereitgestellt werden, gelten hierfür
+vorrangig vor den Regelungen dieser Vertragsbedingungen die Lizenzund/oder Nutzungsbestimmungen des Drittanbieters, die zur Verfügung
+gestellt werden. Der Auftraggeber verpflichtet sich in diesem Fall, die Lizenzund/oder Nutzungsbedingungen des Drittanbieters einzuhalten. Soweit
+Drittanbieter oder andere Dritte wegen der Verletzung der Lizenz- und/oder
+Nutzungsbestimmungen durch den Auftraggeber Ansprüche gegen den
+Auftragnehmer geltend machen, stellt der Auftraggeber den Auftragnehmer
+von sämtlichen Schäden, Aufwendungen und Kosten in diesem
+Zusammenhang einschließlich angemessener Kosten der Rechtsverteidigung
+frei.
+8.9. Der Auftraggeber ist dafür verantwortlich, dass die Nutzung der Services bzw.
+der Vertragssoftware im Rahmen der jeweils geltenden gesetzlichen
+Vorschriften erfolgt. Der Natur einer SaaS-Lösung entsprechend haftet der
+Auftragnehmer nicht dafür, ob die Nutzung an jedem Standort durch Benutzer
+der SaaS-Lösung durch lokale gesetzliche Vorschriften gestattet ist. Eine
+diesbezügliche Gewährleistung ist ausgeschlossen. Der Auftraggeber haftet
+für jegliche Schäden und Ersatzansprüche, die auf einer ungesetzlichen
+Nutzung der Services bzw. der Vertragssoftware bei dem Auftragnehmer
+entstehen.
+9. Softwarepflege- und -Supportleistungen
+9.1. Soweit neben den Services Vertragssoftware Vertragsbestandteil ist, erbringt
+der Auftragnehmer SPS-Leistungen gemäß dieser Ziffer 9 für diese
+ausschließlich für deren jeweils aktuelle sowie die vorherige Version.
+9.2. Der Auftragnehmer stellt dem Auftraggeber die jeweils neuesten vom
+Auftragnehmer und dessen Vorlieferanten freigegebenen Software-Updates
+und Bugfixes (Programmkorrekturen) für die Vertragssoftware zur Verfügung.
+Software-Updates umfassen keine Versionen (Upgrades/Releases),
+Zusatzmodule oder künftigen Produkte, die der Auftragnehmer oder dessen
+Vorlieferanten gesondert als Lizenz vergeben. Die Regelungen in Ziffer 8
+gelten Software-Updates und Bugfixes entsprechend.
+9.3. Während der Servicezeiten steht dem Auftraggeber eine telefonische SupportHotline für Fragen bezüglich der Vertragssoftware zur Verfügung.
+9.4. Soweit nicht ausdrücklich schriftlich abweichend vereinbart, sind neben Ziffer 4.3.
+insbesondere folgende Leistungen nicht im Leistungsumfang und in der
+Vergütung der SPS-Leistungen enthalten:
+a) Leistungen, die durch äußere Ursachen (höhere Gewalt) erforderlich
+werden (insbesondere Wasser, Feuer, Blitzschlag, Viren)
+b) Leistungen, die erforderlich werden aufgrund der nicht rechtzeitigen oder
+unterlassenen Installation von Software-Updates oder Bugfixes
+c) Leistungen beim Auftraggeber vor Ort, es sei denn, diese sind nach billigem
+Ermessen des Auftragnehmers zur Erbringung der SPS-Leistungen
+erforderlich
+d) Zusätzliche individuelle Anpassungen der Vertragssoftware oder der
+Systemumgebung des Auftraggebers
+e) Leistungen im Zusammenhang mit der Sicherung und/oder Wiederherstellung der Daten des Auftraggebers
+f) Installation von Software-Updates beim Auftraggeber
+9.5. Zum Zwecke der Mängelprüfung und -beseitigung gestattet der Auftraggeber
+dem Auftragnehmer den Zugriff auf die Vertragssoftware mittels
+Fernwartungssystem. Für die Schaffung der dafür erforderlichen technischen
+und infrastrukturellen Voraussetzungen ist der Auftraggeber auf eigene
+Kosten selbst verantwortlich.
+9.6. Der Auftraggeber hat dem Auftragnehmer auf Anforderung mindestens einen
+qualifizierten und geschulten Ansprechpartner für Fragen im Zusammenhang
+mit der Vertragssoftware zu benennen.
+10. Nutzungsvergütung
+10.1. Die Zahlung der monatlichen Nutzungsvergütung erfolgt gemäß den
+Vereinbarungen im SaaS-Vertrag jeweils für den dort vereinbarten
+Abrechnungszeitraum („Zahlungsintervall“).
+10.2. Soweit der Beginn der Grundlaufzeit nicht mit dem Beginn des
+Zahlungsintervalls zusammenfällt, erfolgt die Abrechnung dieses RumpfAbrechnungszeitraums zum Beginn der Grundlaufzeit für den gesamten
+Rumpf-Abrechnungszeitraum anteilsmäßig auf Pro-rata-Basis.
+10.3. Erfolgt die Bereitstellung der Services bzw. die Übernahme der
+Vertragssoftware vor Beginn der Grundlaufzeit, ist für den Zeitraum zwischen
+Bereitstellung bzw. Übernahme und Beginn der Grundlaufzeit je Tag 1/30 der
+monatlichen Nutzungsvergütung zu zahlen und innerhalb von 10 Tagen nach
+Bereitstellung der Services bzw. Übernahme der Vertragssoftware fällig. Die
+Bedingungen des SaaS-Vertrags gelten für diesen Zeitraum entsprechend.
+11. Umsatzsteuer, Zahlungsverzug, Vergütungsanpassung
+11.1. Sämtliche Vergütungen werden zuzüglich der gesetzlichen Umsatzsteuer in
+ihrer jeweiligen Höhe in Rechnung gestellt und bezahlt. Der Auftragnehmer
+wird die Umsatzsteuer gesondert ausweisen.
+11.2. Bei Verzug mit der Zahlung oder Stundung des in Rechnung gestellten
+Betrags ist der offene Betrag mit 9 Prozentpunkten p.a. über dem jeweiligen
+Basiszinssatz zu verzinsen. Bei verspäteter Zahlung kann der Auftragnehmer
+zudem die Erbringung weiterer Vertragsleistungen bis zur Bezahlung des
+ausstehenden Betrags verweigern und von der Erbringung einer
+Vorauszahlung abhängig machen. Weitergehende Rechte des
+Auftragnehmers bleiben unberührt.
+11.3. Der Auftragnehmer ist zur angemessenen Anpassung der Vergütung
+einschließlich der Folgepreise unter Einhaltung einer Frist von 3 Kalendermonaten zum Quartalsende berechtigt, wenn sich die Einkaufspreise des
+Auftragnehmers für die Services ändern. Die Angemessenheit einer
+Anpassung wird widerleglich vermutet, soweit sie 9 % innerhalb eines
+Zeitraums von 12 Monaten nicht überschreitet. Soweit der Auftraggeber eine
+geringere Kostensteigerung nachweist, erfolgt die Preisanpassung nur im
+Umfang der vom Auftraggeber nachgewiesenen Kostensteigerung. Die
+Preisanpassung wird jeweils durch den Auftragnehmer nach billigem
+Ermessen vorgenommen und ist gerichtlich überprüfbar.
+12. SEPA-Lastschriftmandat
+12.1. Der Auftraggeber wird den Auftragnehmer durch ein gesondertes SEPALastschriftmandat (SEPA-Basislastschriftmandat oder SEPAFirmenlastschriftmandat) ermächtigen, während der Vertragslaufzeit die zu
+entrichtenden Mietraten und sonstigen vertraglich geschuldeten Vergütungen
+bei Fälligkeit im SEPA-Lastschriftverfahren einzuziehen.
+12.2. Der Auftragnehmer wird den Auftraggeber spätestens zwei Tage vor dem
+ersten Einzug über den zu zahlenden Betrag und seine Fälligkeit vorab
+informieren (Vorabinformation). Im Falle einer Änderung des Betrags oder der
+Fälligkeit während der Vertragslaufzeit wird der Auftragnehmer den
+Auftraggeber spätestens zwei Tage vor dem Einzug hierüber informieren.
+12.3. Der Auftraggeber wird dem Auftragnehmer Änderungen bezüglich Name,
+Firma, Anschrift oder Bankverbindung des Auftraggebers unverzüglich
+schriftlich mitteilen.
+12.4. Hat der Auftraggeber ein SEPA-Basislastschriftmandat erteilt, ist er im Fall
+wiederholter und erheblicher Zahlungsstörungen verpflichtet, dem
+Auftragnehmer unverzüglich ein SEPA-Firmenlastschriftmandat zu erteilen.
+13. Abtretung, Vertragsübertragung
+13.1. Der Auftragnehmer ist berechtigt, einzelne Rechte aus dem SaaS-Vertrag
+abzutreten oder jeweils einzelne Teile des SaaS-Vertrags oder das gesamte
+Vertragsverhältnis sowie alle dazugehörigen Zusatzvereinbarungen jederzeit
+mit allen Rechten und Pflichten hieraus, insbesondere zu
+Refinanzierungszwecken, für die (Rest-)Dauer der Grundlaufzeit auf eine der
+folgenden Gesellschaften oder einen vergleichbaren Dritten (gemeinsam
+„Refinanzierer“) zu übertragen („Vertragsübertragung“):
+a) TA Leasing GmbH, Ringstraße 20-22, 70736 Fellbach-Schmiden (soweit
+der SaaS-Vertrag nicht mit der TA Leasing GmbH selbst als Auftragnehmer
+geschlossen wird)
+b) BFL Leasing GmbH, Hauptstraße 131-137, 65760 Eschborn
+c) BNP Paribas Lease Group S.A., Zweigniederlassung Deutschland,
+Hohenstaufenring 62, 50674 Köln
+d) MLF Mercator Leasing GmbH & Co. Finanz KG, Londonstraße 1,
+97424 Schweinfurt
+e) SüdLeasing GmbH, Pariser Platz 7, 70173 Stuttgart
+f) De Lage Landen Leasing GmbH, Theo-Champion-Straße 1,
+40549 Düsseldorf
+13.2. Der Auftragnehmer ist zur Vertragsübertragung auch in der Weise berechtigt,
+dass eine Vertragsübertragung zunächst auf die TA Leasing GmbH und
+sodann auf einen anderen Refinanzierer erfolgt (soweit der SaaS-Vertrag nicht
+mit der TA Leasing GmbH selbst als Auftragnehmer geschlossen wird).
+13.3. Mit Ablauf der Grundlauftzeit ist der Refinanzierer berechtigt, das gesamte
+Vertragsverhältnis sowie alle Zusatzvereinbarungen wieder auf den
+Auftragnehmer zurückzuübertragen („Vertragsrückübertragung“).
+13.4. Der Auftragnehmer hat dafür Sorge zu tragen, dass dem Auftraggeber durch
+die Vertragsübertragung keine Nachteile in sachlicher oder finanzieller
+Hinsicht entstehen. Der Auftraggeber stimmt der Vertragsübertragung sowie
+der Vertragsrückübertragung hiermit bereits jetzt zu.
+13.5. Etwaige Zusatzvereinbarungen und Vertragsänderungen sind nur wirksam,
+wenn der jeweilige Refinanzierer ihnen schriftlich zugestimmt hat.
+14. Haftung des Auftragnehmers
+14.1. Der Auftragnehmer haftet dem Grunde und dem Umfang nach unbegrenzt für
+vorsätzliches oder grob fahrlässiges Handeln sowie für vorsätzliches oder
+grob fahrlässiges Handeln seiner Erfüllungsgehilfen, bei schuldhafter
+Verletzung von Leben, Körper und Gesundheit, bei einer Haftung nach dem
+Produkthaftungsgesetz, bei arglistigem Verschweigen eines Mangels sowie
+bei vertraglicher Übernahme einer verschuldensunabhängigen Haftung (z. B.
+bei Übernahme einer Garantie oder eines Beschaffungsrisikos).
+14.2. Der Auftragnehmer haftet weiterhin im Fall der einfach fahrlässigen Verletzung
+einer wesentlichen Vertragspflicht, also einer solchen Pflicht, die die
+ordnungsgemäße Durchführung des SaaS-Vertrags erst ermöglicht und auf
+deren Erfüllung der Auftraggeber deshalb vertraut und vertrauen darf, jedoch
+begrenzt auf den vorhersehbaren, typischerweise entstehenden Schaden.
+14.3. Eine weitergehende Haftung ist ausgeschlossen. Soweit die Haftung des
+Auftragnehmers ausgeschlossen oder begrenzt ist, gilt dies auch zugunsten
+der persönlichen Haftung seiner Erfüllungsgehilfen.
+14.4. Eine verschuldensunabhängige Haftung nach § 536a Abs. 1 BGB wegen
+Mängeln an den Vertragsleistungen, die bereits zum Zeitpunkt des Beginns
+der Grundlaufzeit vorhanden sind, ist ausgeschlossen.
+14.5. Soweit nicht abweichend geregelt, sind Ansprüche aus dem Vertrag oder
+aufgrund des Vertrags binnen 12 Monaten ausgeschlossen, nachdem der
+Anspruch entstanden ist und der Auftraggeber von den
+anspruchsbegründenden Umständen Kenntnis erlangt hat oder ohne grobe
+Fahrlässigkeit erlangen musste.
+15. Haftung des Auftraggebers, Wertminderung/Untergang
+15.1. Der Auftraggeber haftet bezüglich der Services bzw. der Vertragssoftware für
+Wertminderungen (insbesondere durch Beschädigung oder über den
+vertragsgemäßen Gebrauch hinausgehende Nutzung) und Untergang
+(insbesondere durch Zerstörung oder Verlust) bis zum vereinbarten
+Vertragslaufzeitende gegenüber dem Auftragnehmer, es sei denn,
+a) die Wertminderung bzw. der Untergang wurde vom Auftragnehmer gemäß
+Ziffer 17 verschuldet oder
+b) weder der Auftraggeber noch eine Person, die auf seine Veranlassung hin
+mit den Vertragsleistungen in Berührung gekommen ist, hat den Schaden
+schuldhaft verursacht.
+15.2. Im Falle des Untergangs oder der Wertminderung der Services bzw. der
+Vertragssoftware ist der Auftraggeber verpflichtet, den Auftragnehmer
+unverzüglich, jedoch spätestens innerhalb von 5 Arbeitstagen schriftlich zu
+benachrichtigen.
+15.3. Der Auftragnehmer ist im Fall der Ziffer 15.1. berechtigt, den SaaS-Vertrag
+bezüglich des betroffenen Service bzw. der betroffenen Vertragssoftware
+außerordentlich fristlos zu kündigen. In diesem Fall ist der Auftragnehmer
+berechtigt, gemäß Ziffer 21 bezüglich des betroffenen Service bzw. der
+betroffenen Vertragssoftware Schadensersatz zu fordern. Etwaige
+Entschädigungssummen, die der Auftragnehmer wegen des Untergangs oder
+der Wertminderung des betroffenen Service bzw. der betroffenen
+Vertragssoftware von einem Versicherer erhält, werden zugunsten des
+Auftraggebers auf den Schadensersatzanspruch des Auftragnehmers
+angerechnet.
+15.4. Soweit keine Kündigung gemäß Ziffer 15.3. erfolgt, hat der Auftraggeber die
+vereinbarte Nutzungsvergütung weiter zu zahlen.
+15.5. Soweit im Schadensfall die Haftung des Auftraggebers gemäß Ziffer 15.1.
+ausgeschlossen ist, stehen ihm die gesetzlichen Ansprüche zu.
+16. Mitwirkungspflichten des Auftraggebers, Analyse, Datensicherung
+16.1. Der Auftraggeber wird dem Auftragnehmer den Zugang zum Einsatzort
+ermöglichen und seine Mitarbeiter zur Zusammenarbeit mit dem
+Auftragnehmer anhalten, soweit dies zur Erbringung der Vertragsleistungen
+erforderlich ist. Der Auftraggeber wird die vom Auftragnehmer erhaltenen
+Anweisungen hinsichtlich der Bedienung der Services bzw. der
+Vertragssoftware sowie der Störungssuche und -behebung beachten und
+umsetzen. Gelten für den Betrieb des Auftraggebers oder den Standort der
+Services besondere Sicherheitsauflagen, so wird der Auftraggeber rechtzeitig
+und ohne Mehraufwand für den Auftragnehmer die notwendigen
+Voraussetzungen zur ungehinderten Vertragserfüllung schaffen.
+16.2. Der Auftraggeber ist verpflichtet, alles Erforderliche zu tun sowie sämtliche
+technischen und infrastrukturellen Voraussetzungen zu schaffen, um eine
+ordnungsgemäße Leistungserfüllung durch den Auftragnehmer zu
+ermöglichen. Er hat insbesondere sicherzustellen, dass dem Auftragnehmer
+im erforderlichen und zumutbaren Umfang Informationen über die ITInfrastruktur des Auftraggebers aus den Bereichen IT-Geräte, Hard-/Software
+(z. B. Betriebssysteme), EDV, Workflows, kaufmännische Parameter und
+Umwelt übermittelt werden. Der Auftraggeber hat dem Auftragnehmer im
+erforderlichen und zumutbaren Umfang Zugriff auf seine Server- und
+Systemumgebung zu gewähren.
+16.3. Soweit vor Vertragsbeginn eine Untersuchung der IT-Infrastruktur des
+Auftraggebers („Analyse“) durchgeführt wurde, stellt das schriftliche Ergebnis
+der Analyse die Grundlage für die Leistungserbringung durch den
+Auftragnehmer dar. Über Änderungen der der Analyse zugrunde liegenden ITInfrastruktur des Auftraggebers, die Auswirkungen auf die
+Leistungserbringung des Auftragnehmers haben können, hat der Auftraggeber
+den Auftragnehmer so rechtzeitig im Voraus schriftlich zu informieren, dass
+die Leistungserbringung hierdurch nicht eingeschränkt wird. Durch solche
+Änderungen im Rahmen der Leistungserbringung entstehende Mehrkosten
+und -aufwendungen hat der Auftraggeber dem Auftragnehmer zu erstatten.
+16.4. Der Auftraggeber ist bezüglich seiner IT-Infrastruktur zur Datensicherung im
+erforderlichen Umfang verpflichtet, um Datenverluste zu vermeiden. Der
+Auftraggeber gewährleistet in seinem Zuständigkeitsbereich die Prüfung aller
+in der Informationsverarbeitung verwendeten Programme und Datenträger auf
+deren Freiheit von Computerviren nach dem jeweils aktuellen Stand der
+Technik.
+16.5. Kommt der Auftraggeber mit der Erfüllung einer Mitwirkungspflicht schuldhaft
+in Verzug, ruht für die Dauer des Verzugs die Leistungsverpflichtung des
+Auftragnehmers, soweit die Vertragsleistung dadurch nicht oder nur mit
+unverhältnismäßigem Mehraufwand erbracht werden kann. Der Auftraggeber
+hat dem Auftragnehmer die dadurch entstehenden Kosten und Aufwendungen
+zu ersetzen. Darüber hinausgehende Ansprüche bleiben unberührt.
+17. Gewährleistung
+17.1. Soweit nicht ausdrücklich schriftlich abweichend vereinbart, ist auf die
+Erbringung von Vertragsleistungen Mietvertragsrecht gemäß §§ 535 ff. BGB
+anwendbar. Werden die Vertragsleistungen nicht vertragsgemäß erbracht und
+hat der Auftragnehmer dies zu vertreten, ist er verpflichtet, die
+Vertragsleistungen ohne Mehrkosten für den Auftraggeber innerhalb
+angemessener Frist vertragsgemäß zu erbringen. Voraussetzung hierfür ist
+eine Rüge des Auftraggebers, die unverzüglich ab Kenntnis zu erfolgen hat.
+17.2. Soweit die Vertragsleistung in einer Dienstleistung besteht, ist hierauf das
+Dienstvertragsrecht gemäß § 611 ff. BGB anwendbar. Wird die Dienstleistung
+nicht vertragsgemäß erbracht und hat der Auftragnehmer dies zu vertreten, ist
+er verpflichtet, die Dienstleistung ohne Mehrkosten für den Auftraggeber
+innerhalb angemessener Frist vertragsgemäß zu erbringen. Voraussetzung
+hierfür ist eine Rüge des Auftraggebers, die unverzüglich ab Kenntnis zu
+erfolgen hat.
+17.3. Soweit eine Vertragsleistung in der Erstellung eines Werkes besteht, gelten
+folgende Gewährleistungsregeln:
+a) Mängelrechte des Auftraggebers setzen voraus, dass der Auftraggeber die
+erbrachte Vertragsleistung unverzüglich auf Mängelfreiheit überprüft und dem
+Auftragnehmer offensichtliche Mängel unverzüglich, spätestens jedoch
+innerhalb von 7 Arbeitstagen nach Bereitstellung des Service bzw. Abnahme
+der Vertragsleistung schriftlich mitteilt. Verborgene Mängel müssen dem
+Auftragnehmer unverzüglich, spätestens jedoch innerhalb von 7 Arbeitstagen
+nach ihrer Entdeckung schriftlich mitgeteilt werden. Unterlässt der
+Auftraggeber die rechtzeitige Mängelanzeige, gilt die Vertragsleistung als
+vertragsgemäß.
+b) Für Sach- und Rechtsmängel leistet der Auftragnehmer zunächst Gewähr
+durch Nacherfüllung, und zwar nach seiner Wahl durch Nachbesserung oder
+durch erneute Erbringung der geschuldeten Vertragsleistung. Der
+Auftraggeber wird dem Auftragnehmer zur Nacherfüllung eine angemessene
+Frist setzen. Schlagen zwei Versuche der Nacherfüllung fehl, ist der
+Auftraggeber berechtigt, im Hinblick auf die vom Mangel betroffene
+Vertragsleistung vom SaaS-Vertrag zurückzutreten oder die Vergütung zu
+mindern, es sei denn, es liegt ein unerheblicher Mangel vor. Schadensersatz
+leistet der Auftragnehmer im Rahmen der in Ziffer 14 festgelegten Grenzen.
+c) Die Gewährleistung ist ausgeschlossen, soweit der Sach- und/oder
+Rechtsmangel darauf beruht, dass die Services oder eine Vertragsleistung
+ohne vorherige schriftliche Zustimmung des Auftragnehmers verändert
+wurden. Die Mängelrechte des Auftraggebers bleiben unberührt, soweit der
+Auftraggeber zur Vornahme der Änderung, insbesondere im Rahmen der
+Ausübung des Selbstbeseitigungsrechts gemäß § 536a Abs. 2 BGB,
+berechtigt ist und die Änderung fachgerecht ausgeführt sowie nachvollziehbar
+dokumentiert wurde.
+d) Gewährleistungsansprüche des Auftraggebers verjähren innerhalb eines
+Jahres ab Abnahme der Vertragsleistung. Dies gilt nicht, wenn der Mangel
+vorsätzlich oder grob fahrlässig verursacht wurde, durch einen einfach
+fahrlässig verursachten Mangel eine Verletzung von Leben, Körper oder
+Gesundheit entstanden ist oder eine Garantie für die Beschaffenheit der
+Vertragsleistung übernommen wurde.
+e) Der Auftragnehmer übernimmt keinerlei Garantie für die Beschaffenheit der
+Services oder der Vertragsleistung, soweit nicht ausdrücklich schriftlich
+abweichend vereinbart.
+17.4. Der Auftragnehmer übernimmt keine Haftung für das Netzwerk des
+Auftraggebers sowie für nicht vom Auftragnehmer bereitgestellte Services
+oder gelieferte Software.
+17.5. Der Auftragnehmer haftet in keinem Fall für Störungen und Ausfälle der
+Services oder der Vertragssoftware, die durch Dritte hervorgerufen werden,
+wie insbesondere Viren- und Denial-of-Service-Angriffe sowie Störungen der
+telekommunikationstechnischen Anbindung an das vom Auftragnehmer bzw.
+von Dritten im Auftrag des Auftragnehmers betriebene Netz.
+Erfüllungsgehilfen des Auftragnehmers gelten nicht als Dritte im Sinne dieser
+Ziffer 17.5.
+17.6. Der Auftraggeber hat den Auftragnehmer bei allen Schadensminderungsmaßnahmen angemessen zu unterstützen.
+18. Schutzrechte Dritter
+18.1. Macht ein Dritter gegenüber dem Auftraggeber bezüglich der Services oder
+einer Vertragsleistung einen berechtigten Anspruch wegen der Verletzung
+eines Schutzrechts geltend, wird der Auftragnehmer nach seiner Wahl und auf
+seine Kosten
+a) die Services bzw. die Vertragsleistung so ändern oder ersetzen, dass die
+Services bzw. die Vertragsleistung das Schutzrecht nicht verletzen, aber im
+Wesentlichen den vereinbarten Leistungs- und Funktionsmerkmalen in für den
+Auftraggeber zumutbarer Weise entsprechen, oder
+b) den Auftraggeber von Lizenzentgelten gegenüber dem
+Schutzrechtsinhaber oder Dritten freistellen.
+18.2. Voraussetzung für die Haftung des Auftragnehmers gemäß Ziffer 18.1. ist,
+dass der Auftraggeber den Auftragnehmer über die behauptete Schutzrechtsverletzung unverzüglich schriftlich informiert, diese nicht anerkennt und
+jegliche gerichtliche und außergerichtliche Auseinandersetzung entweder
+dem Auftragnehmer überlässt oder nur im Einvernehmen mit diesem führt.
+18.3. Soweit der Auftraggeber die Schutzrechtsverletzung selbst zu vertreten hat,
+sind Ansprüche gegen den Auftragnehmer ausgeschlossen.
+18.4. Weitergehende Ansprüche gegen den Auftragnehmer wegen einer
+Schutzrechtsverletzung sind ausgeschlossen. Dieser Ausschluss gilt nicht bei
+Vorsatz, grober Fahrlässigkeit und bei der Verletzung des Lebens, des
+Körpers oder der Gesundheit.
+19. Eigentumssicherung
+Der Auftraggeber ist weder berechtigt, Dritten Rechte an den Services bzw.
+der Vertragssoftware einzuräumen (insbesondere Untervermietung, Leihe),
+noch Rechte aus dem SaaS-Vertrag abzutreten. Sollte ein Dritter durch
+Beschlagnahme oder Pfändung oder aus anderem Grund Ansprüche auf eine
+Vertragsleistung geltend machen, wird der Auftraggeber den Dritten darauf
+hinweisen, dass die Vertragsleistungen nicht in seinem Eigentum stehen, und
+den Auftragnehmer hierüber unverzüglich informieren.
+20. Vertragsschluss, Grundlaufzeit, Vertragsverlängerung
+20.1. Der Auftraggeber beantragt durch Unterzeichnung des SaaS-Vertrags beim
+Auftragnehmer den Vertragsabschluss. Der Auftraggeber ist an diesen Antrag
+für einen Monat nach dessen Eingang beim Auftragnehmer gebunden. Der
+SaaS-Vertrag bedarf zu seiner Wirksamkeit der Unterzeichnung durch den
+Auftragnehmer.
+20.2. Der SaaS-Vertrag läuft für die darin vereinbarte Grundlaufzeit. Soweit die
+Bereitstellung der Services auf den 1. Tag eines Kalendermonats fällt, beginnt
+die Grundlaufzeit mit diesem Tag; andernfalls beginnt sie mit dem 1. Tag des
+auf die Bereitstellung folgenden Kalendermonats.
+20.3. Wird der SaaS-Vertrag nicht von einer der Parteien mit einer Frist von 6
+Monaten zum jeweiligen Ende der Laufzeit schriftlich gekündigt, verlängert er
+sich um jeweils 12 Monate.
+21. Außerordentliche fristlose Kündigung, Schadensersatz
+21.1. Das Recht der Parteien zur außerordentlichen fristlosen Kündigung des SaaSVertrags aus wichtigem Grund bleibt unberührt. Ein wichtiger Grund zur
+fristlosen Kündigung durch den Auftragnehmer liegt insbesondere auch dann
+vor, wenn der Auftraggeber – unabhängig vom vereinbarten Zahlungsintervall –
+mit der Zahlung der Nutzungsvergütung für 2 oder mehr Monate in Verzug ist.
+21.2. Im Falle einer fristlosen Kündigung gemäß vorstehender Ziffer 21.1 Satz 2
+sowie im Falle
+a) einer fristlosen Kündigung durch den Auftragnehmer mit Ausnahme einer
+Kündigung wegen Nichtzustandekommens des Bereitstellungsvertrags oder
+des Rücktritts vom Bereitstellungsvertrag über die Services mit der Lieferfirma
+gemäß Ziffer 3.4. oder
+b) eines Rücktritts durch den Auftragnehmer gemäß Ziffer 3.3.
+c) werden die für die gesamte Vertragsdauer noch ausstehenden NettoMietraten abgezinst mit dem Refinanzierungszins des Auftragnehmers zzgl.
+eines etwaig anfallenden Vorfälligkeitsschadens des Auftragnehmers sofort
+zur Zahlung fällig. Ersparte Kosten des Auftragnehmers sowie ersparte Kosten
+oder Leistungen eines Versicherers werden abgezogen. Dem Auftraggeber ist
+der Nachweis gestattet, dem Auftragnehmer sei kein oder ein geringerer
+Schaden entstanden.
+21.3. Auf die Forderung gemäß Ziffer 21.2. wird ein etwaig erzielter NettoVerwertungserlös unter Abzug der Verwertungskosten und des Marktwerts der
+Services bzw. der Vertragssoftware, der bei regulärer Vertragsbeendigung
+voraussichtlich erzielt worden wäre, angerechnet, es sei denn, Verwertung
+und Verwertungserlös stehen einem Versicherer als Ausgleich für die
+geleistete Entschädigung zu.
+21.4. Die Geltendmachung eines weitergehenden Schadens bleibt dem
+Auftragnehmer vorbehalten.
+22. Beendigung, Datenlöschung, Rückgabemängel
+22.1. Der Zugang zu den Services sowie die Berechtigung zur Nutzung der
+Vertragssoftware enden bei Vertragsablauf. Der Auftragnehmer stellt dem
+Auftraggeber bis zu 8 Wochen nach Vertragsablauf eine Funktion zum
+Download seiner Daten zur Verfügung, soweit nicht anders vereinbart. Der
+Auftragnehmer löscht dann alle Daten des Auftraggebers, die sich auf den zur
+Verfügung gestellten Speicherplätzen befinden. Der Auftraggeber ist
+verpflichtet, die Nutzung der Services bzw. der Vertragssoftware unverzüglich
+nach Vertragsbeendigung (mit Ausnahme des Downloads seiner Daten)
+einzustellen.
+22.2. Zum Vertragsablauf ist die Software-Dokumentation an den Auftragnehmer
+zurückzugeben.
+22.3. Ist Vertragssoftware Vertragsbestandteil, ist der Auftraggeber auf seine
+Gefahr und Kosten nach Wahl des Auftragnehmers entweder zur
+vollständigen Rückgabe sämtlicher Originaldatenträger der Vertragssoftware
+sowie der vollständigen ihm überlassenen Software-Dokumentation an den
+Auftragnehmer oder zur vollständigen Löschung der Vertragssoftware und
+Vernichtung der Software-Dokumentation verpflichtet. Sämtliche weiteren
+Datenträger oder Sicherungskopien der Vertragssoftware und der SoftwareDokumentation sind vollständig und endgültig zu löschen oder zu vernichten.
+Dem Auftraggeber ist eine Weiterbenutzung der Vertragssoftware bzw. der
+Software-Dokumentation nach Vertragsbeendigung untersagt; ein Verstoß
+gegen diese Verpflichtung stellt eine Verletzung des Urheberrechts des
+Rechteinhabers dar.
+23. Bonitäts-/Geldwäscheprüfung
+23.1. Der Auftraggeber ist ab Unterzeichnung des SaaS-Vertrags durch den
+Auftraggeber und während der Vertragslaufzeit verpflichtet, auf Anforderung
+des Auftragnehmers geeignete Unterlagen über seine Vermögensverhältnisse
+(z. B. Jahresabschlüsse) vorzulegen und die erforderlichen Auskünfte für die
+ordnungsgemäße Bonitätsprüfung gemäß dem Kreditwesengesetz (KWG) zu
+erteilen.
+23.2. Der Auftraggeber ist verpflichtet, dem Auftragnehmer die zur Erfüllung seiner
+gesetzlichen Sorgfalts- und Informationspflichten (z. B. Identifizierungspflichten nach dem Geldwäschegesetz) notwendigen Informationen und
+Unterlagen zur Verfügung zu stellen und sich während der Vertragsdauer
+ergebende Änderungen (z. B. Änderung der Rechtsform, Änderung bei einem
+Vertretungsorgan, Wechsel der Gesellschafter) unverzüglich schriftlich
+mitzuteilen.
+23.3. Verstößt der Auftraggeber gegen eine Verpflichtung dieser Ziffer 23, ist der
+Auftragnehmer berechtigt, vom SaaS-Vertrag zurückzutreten oder diesen
+nach vorheriger Abmahnung außerordentlich fristlos zu kündigen.
+24. Datenschutz, Geheimhaltung
+24.1. Die für den Abschluss und die Durchführung des SaaS-Vertrags erforderlichen
+Daten des Auftraggebers werden vom Auftragnehmer und/oder mit diesem
+i.S.v. § 15 AktG verbundenen Unternehmen („Verbundene Unternehmen“)
+zu diesem Zweck gespeichert, verarbeitet und genutzt.
+24.2. Soweit einer Partei zur Kenntnis gelangende Unterlagen oder Daten
+personenbezogen sind, verpflichten sich beide Parteien zur Einhaltung der
+Bestimmungen der Datenschutz-Grundverordnung (DSGVO), des
+Bundesdatenschutzgesetzes (BDSG) sowie sonstiger anwendbarer
+Datenschutzvorschriften.
+24.3. Daten des Auftraggebers, auch solche mit Personenbezug, die an den
+Auftragnehmer und den Servicedienstleister vom Auftraggeber übermittelt
+werden bzw. sich aus den Vertragsunterlagen oder der Vertragsdurchführung
+ergeben, werden zum Zwecke der Prüfung der Vertragsannahme, der
+Bonitätsprüfung, der Risikoprüfung und -steuerung, der Geldwäsche- und
+Betrugsprävention, der Abwicklung der Vertragsbeziehung, der Durchführung
+von Werbe- und Marketingmaßnahmen und der Produktverbesserung
+gespeichert und verwendet und ggf. im Rahmen der Vertragsdurchführung an
+andere Mitglieder der Unternehmensgruppe des Auftragnehmers,
+Refinanzierungsinstitute und Subunternehmer weitergeleitet, soweit dies zur
+Erfüllung der vorbezeichneten Zwecke notwendig ist. Es gelten das jeweils
+aktuelle Informationsblatt des Auftragnehmers zum Datenschutz und zur
+Verwendung der Kundendaten, das unter triumph-adler.de/
+datenschutzinfo2018 eingesehen werden kann, sowie die zwischen den
+Parteien gesondert zu schließende Vereinbarung zur Auftragsverarbeitung.
+24.4. Die Weitergabe von personenbezogenen Daten an Empfänger in Drittstaaten
+findet nur dann statt, wenn die Einhaltung der datenschutzrechtlichen
+Anforderungen sichergestellt ist und das Datenschutzniveau dem der EU
+entspricht oder dies über vertragliche Vereinbarungen sichergestellt wird.
+24.5. Die Parteien verpflichten sich, alle ihnen vor oder bei Vertragsdurchführung
+über die jeweils andere Partei bekannt werdenden vertraulichen Informationen
+streng vertraulich zu behandeln und nicht gegenüber unbefugten Dritten
+offenzulegen.
+24.6. Die Weitergabe vertraulicher Informationen über eine Partei durch die andere
+Partei („Informationsempfänger“) an Mitarbeiter des Informationsempfängers, verbundene Unternehmen des Informationsempfängers sowie
+Externe (z. B. Lieferfirma, Rechtsanwälte, Steuerberater, Wirtschaftsprüfer,
+Refinanzierer) und deren verbundene Unternehmen ist zulässig, soweit dies
+zur Vertragsdurchführung erforderlich ist. Der Informationsempfänger hat
+diejenigen Mitarbeiter, verbundenen Unternehmen und Externen sowie deren
+verbundene Unternehmen, denen gegenüber vertrauliche Informationen
+offengelegt werden, soweit nicht bereits erfolgt, schriftlich zur Geheimhaltung
+sowie auf die Wahrung des Datengeheimnisses zu verpflichten.
+25. Abtretungs-/Aufrechnungsverbot
+25.1. Keine der Parteien ist berechtigt, ohne die vorherige schriftliche Zustimmung
+der anderen Partei Rechte oder Ansprüche aus dem SaaS-Vertrag abzutreten.
+Davon ausgenommen sind Abtretungen des Auftragnehmers an dessen
+verbundene Unternehmen. Ziffer 13 bleibt unberührt.
+25.2. Soweit nicht ausdrücklich schriftlich abweichend vereinbart, ist der
+Auftraggeber nicht berechtigt, eine eigene Forderung gegen eine Forderung
+des Auftragnehmers aufzurechnen oder die Erfüllung einer Verpflichtung unter
+Geltendmachung eines Zurückbehaltungsrechts zu verweigern, es sei denn,
+die Forderung oder das Recht des Auftraggebers ist unbestritten,
+entscheidungsreif oder durch eine rechtskräftige Entscheidung eines
+zuständigen Gerichts oder Schiedsgerichts bestätigt worden.
+26. Schriftform, anwendbares Recht, Gerichtsstand, Teilunwirksamkeit
+26.1. Änderungen und Ergänzungen des SaaS-Vertrags oder dieser
+Vertragsbedingungen bedürfen zu ihrer Wirksamkeit der Schriftform, soweit
+nicht kraft Gesetzes eine strengere Form vorgeschrieben ist. Dies gilt auch für
+eine Änderung dieser Schriftformklausel. Mündliche oder schriftliche
+Nebenabreden wurden nicht getroffen.
+26.2. Der SaaS-Vertrag sowie diese Vertragsbedingungen unterliegen
+ausschließlich dem Recht der Bundesrepublik Deutschland unter Ausschluss
+des Kollisionsrechts sowie des UN-Kaufrechts (CISG).
+26.3. Ausschließlicher Gerichtsstand für alle Streitigkeiten über Rechte und
+Pflichten aus oder im Zusammenhang mit dem SaaS-Vertrag oder diesen
+Vertragsbedingungen einschließlich deren Wirksamkeit ist, soweit der
+Auftraggeber Kaufmann, eine juristische Person des öffentlichen Rechts oder
+ein öffentlich-rechtliches Sondervermögen ist, nach Wahl des Auftragnehmers
+Frankfurt, Köln, Stuttgart oder Nürnberg. Der Auftragnehmer kann den
+Auftraggeber darüber hinaus an dessen allgemeinem Gerichtsstand
+verklagen.
+26.4. Sollten einzelne Bestimmungen des SaaS-Vertrags oder dieser
+Vertragsbedingungen ganz oder teilweise unwirksam oder undurchführbar
+sein oder werden, so wird dadurch die Wirksamkeit der übrigen
+Bestimmungen nicht berührt. Die Parteien werden anstelle der unwirksamen
+oder undurchführbaren Bestimmung eine wirksame und durchführbare
+Regelung treffen, die ihr wirtschaftlich möglichst nahekommt, soweit keine
+ergänzende Vertragsauslegung vorrangig oder möglich ist. Dasselbe gilt im
+Falle einer Regelungslücke. 

@@ -1,0 +1,209 @@
+ALLGEMEINE GESCHÄFTSBEDINGUNGEN FÜR CLOUD SERVICES („CLOUD AGB“)
+
+ANWENDBARKEIT
+Soweit nicht abweichend geregelt gelten diese Cloud AGB, wenn auf sie in einem Vertrag zwischen SAP Deutschland SE & Co. KG (nachfolgend „SAP“) und anderen Unternehmen oder juristischen Personen des öffentlichen Rechts Bezug genommen wird. Die Regelungen gelten entsprechend für vorvertragliche Beziehungen.
+1.
+DEFINITIONEN (NICHT ALPHABETISCH SORTIERT)
+1.1.
+„Verbundenes Unternehmen“ bezeichnet jedes Unternehmen, das mit SAP und/oder SAP SE oder dem Auftraggeber gemäß § 15 AktG verbunden ist. Ein Unternehmen gilt nur so lange als Verbundenes Unternehmen, wie dieses Erfordernis erfüllt ist.
+1.2.
+„Autorisierter Nutzer“ (oder „Authorized User“) bezeichnet jede Person beim Auftraggeber, seinen Verbundenen Unternehmen oder bei deren Geschäftspartnern, der der Auftraggeber eine Zugriffsberechtigung für die Nutzung des Cloud Service erteilt.
+1.3.
+„Geschäftspartner“ bezeichnet ein Unternehmen, das im Zusammenhang mit den internen Geschäftsvorfällen des Auftraggebers oder seiner Verbundenen Unternehmen die Nutzung des Cloud Service benötigt, z. B. Kunden, Distributoren, Dienstleister und / oder Lieferanten des Auftraggebers oder seiner Verbundenen Unternehmen.
+1.4.
+„Cloud Service“ bezeichnet jede spezifische von SAP unter einer Order Form bereitgestellte On-Demand-Lösung (einschließlich Hosting, Support und Betrieb).
+1.5.
+„Vertrauliche Informationen“ bezeichnet sämtliche Informationen, die die überlassende Partei gegen unbeschränkte Weitergabe an Dritte schützt, die zum Zeitpunkt der Weitergabe als vertraulich oder intern gekennzeichnet sind, oder die nach den Umständen der Weitergabe und/oder ihrem Inhalt nach vernünftigerweise als vertraulich anzusehen sind.
+1.6.
+„Auftraggeberdaten“ bezeichnet alle Inhalte, Materialien, Daten und personenbezogene Daten, die von Autorisierten Nutzern im Produktivsystem eines Cloud Service erfasst werden oder aus dessen Nutzung abgeleitet und im Cloud Service gespeichert werden (z. B. auftraggeberspezifische Berichte). Die Auftraggeberdaten und die daraus abgeleiteten Daten beinhalten keine Vertraulichen Informationen von SAP.
+1.7.
+„Dokumentation“ bezeichnet die jeweils gültige technische und funktionale Dokumentation in Bezug auf den Cloud Service, die von SAP unter https://help.sap.com oder dem Auftraggeber innerhalb des Cloud Service bereitgestellt wird, einschließlich technischer und funktionaler Spezifikationen, die von Zeit zu Zeit gemäß der Vereinbarung aktualisiert werden.
+1.8.
+„Exportrecht" bezeichnet alles anwendbare Import-, Exportkontroll- und Sanktionsrecht, insbesondere das Recht der USA, der EU und Deutschlands.
+1.9.
+„IP Rechte" („Rechte an geistigem Eigentum”) bezeichnet ohne Einschränkung alle Patente und sonstigen Rechte an Erfindungen, Urheberrechte, Marken, Geschmacksmuster und andere gewerbliche Schutzrechte und sämtliche damit im Zusammenhang stehende Verwertungs- und Nutzungsrechte.
+1.10.
+„Order Form“ oder „Vereinbarung“ bezeichnet den Vertrag zwischen SAP und dem Auftraggeber über Cloud Services und ggf. darauf bezogene Professional Services, die auf die vorliegenden Cloud AGB (und weitere Dokumente) Bezug nimmt und diese beinhaltet.
+1.11.
+„Professional Services“ bezeichnet Implementierungs-, Consulting-, oder sonstige auf den Cloud Service bezogene Beratungsleistungen, die auf der Basis einer Order Form erbracht werden, und die in der Vereinbarung auch als „Consulting Services“ bezeichnet werden können.
+1.12.
+„SAP Materialien“ bezeichnet alle Materialien und Informationen (einschließlich statistischer Berichte und Nutzungsvermessungen des Cloud Service), die von SAP überlassen, entwickelt, abgeleitet oder im Rahmen der vertraglichen Leistungserbringung von SAP bereitgestellt werden, einschließlich der durch die Erbringung von Support- oder Professional Services für den Auftraggeber entstandenen Materialien. SAP Materialien beinhalten Materialien, die in Zusammenarbeit mit dem Auftraggeber erstellt werden, jedoch nicht Auftraggeberdaten, Vertrauliche Informationen des Auftraggebers oder den Cloud Service selbst. SAP Materialien werden auch als Cloud Materialien bezeichnet.
+1.13.
+„SAP SE“ bezeichnet SAP SE, eine Muttergesellschaft von SAP.
+1.14.
+„Laufzeit“ bezeichnet die Mindestlaufzeit und – wo anwendbar – jede Verlängerungslaufzeit einer Order Form.
+1.15.
+„Steuern“ bezeichnet jegliche Transaktionssteuern, Abgaben und ähnliche Gebühren (und alle damit verbundenen Zinsen und Strafen) wie z. B. bundes-, landes- oder kommunale Umsatzsteuer, Mehrwertsteuer, Waren- und Dienstleistungssteuer, Nutzungssteuer, Property Tax, Gebrauchssteuer, Dienstleistungssteuer oder ähnliche Steuern.
+1.16.
+„Nutzungsmetrik“ (oder „Usage Metric“) bezeichnet die Nutzungsparameter für die Bestimmung des vereinbarten Nutzungsvolumens und die Berechnung der jeweiligen Vergütung für einen Cloud Service gemäß einer Order Form.
+2.
+NUTZUNGSRECHTE UND EINSCHRÄNKUNGEN
+2.1.
+SAP räumt dem Auftraggeber während der Laufzeit ein einfaches und nicht-übertragbares Recht zur Nutzung des Cloud Service (einschließlich seiner Implementierung und Konfiguration), der SAP Materialien und Dokumentation ausschließlich zur Abwicklung der internen Geschäftsvorfälle des Auftraggebers und seiner Verbundenen Unternehmen jeweils gemäß den vertraglichen Bedingungen, insbesondere der produktspezifischen Ergänzenden Bedingungen, und der Dokumentation, ein. Der Auftraggeber darf den Cloud Service weltweit nutzen, ausgenommen aus solchen Ländern heraus, wo eine solche Nutzung aufgrund von Exportrecht unzulässig ist. Die Regelungen zur Nutzung des Cloud Service gelten auch für die SAP Materialien und die Dokumentation.
+2.2.
+Der Auftraggeber kann Autorisierten Nutzern die Nutzung des Cloud Service im vertraglich vereinbarten Umfang gestatten. Die Nutzung ist insbesondere auf die in der Order Form vereinbarten Nutzungsmetriken und Volumen beschränkt. Die Zugangsdaten für den Cloud Service dürfen nicht mehrfach genutzt oder von mehreren Personen gleichzeitig verwendet werden. Sie können jedoch von einer Person auf eine andere übertragen werden, wenn der ursprünglich Nutzer nicht mehr zur Nutzung des Cloud Service befugt ist. Der Auftraggeber steht für Handlungen und Unterlassungen seiner Autorisierten Nutzer, Verbundenen Unternehmen und Geschäftspartner wie für eigene Handlungen und Unterlassungen ein. Im Übrigen ist es dem Auftraggeber untersagt, den Cloud Service sowie die SAP Materialien Dritten zur Verfügung zu stellen.
+2.3.
+Acceptable Use Policy. Dem Auftraggeber ist Folgendes untersagt: (a) den Cloud Service oder die SAP Materialien oder die Dokumentation (soweit dies nicht nach zwingendem Recht erlaubt ist) ganz oder teilweise zu kopieren, übersetzen, disassemblieren, dekompilieren, zurückzuentwickeln oder anderweitig zu modifizieren oder abgeleitete Werke hiervon zu erstellen; (b) eine Nutzung des Cloud Service in einer Weise, die gegen anwendbares Recht verstößt, insbesondere das Eingeben, Speichern oder die Übermittlung von Informationen und Daten in den oder über den Cloud Service, die rechtswidrig sind oder IP Rechte verletzen; (c) den Betrieb oder die Sicherheit des Cloud Service zu gefährden oder zu umgehen sowie (d) SAP’s Urheberrechtsvermerke zu entfernen. Der Auftraggeber ist für die Überwachung der Nutzung des Cloud Service verantwortlich und meldet SAP unverzüglich schriftlich jede Nutzung, die über die vertraglichen Vereinbarungen hinausgeht, insbesondere die vereinbarten Nutzungsmetriken und -volumen übersteigt. Der Auftraggeber ist in diesem Fall verpflichtet, einen Vertrag mit SAP zu unterzeichnen, welche die zusätzliche Nutzung und die zusätzliche Vergütung ausweist. Die entsprechende Vergütung entsteht von dem Tag an, seit dem die Übernutzung besteht. SAP ist berechtigt, die Vertragsgemäßheit der Nutzung des Cloud Service, insbesondere die Einhaltung der vereinbarten Nutzungsmetriken und –volumen zu überprüfen.
+2.4.
+Wenn und soweit (i) eine hinreichende Wahrscheinlichkeit dafür besteht, dass die weitere vertragswidrige Nutzung des Cloud Service durch Autorisierte Nutzer oder Dritte unter Verwendung deren Zugangsdaten zu einer wesentlichen Beeinträchtigung des Cloud Service, seiner Nutzer, anderer SAP Kunden oder den Rechten Dritter in einer Weise führen kann, die unmittelbares Handeln zur Schadensabwehr erforderlich macht, oder (ii) anwendbares zwingendes Recht dies fordert, kann SAP die Nutzung des Cloud Service durch den Auftraggeber vorübergehend zur Schadensabwehr begrenzen oder aussetzen. SAP benachrichtigt den Auftraggeber unverzüglich über eine solche Begrenzung oder Aussetzung. Soweit die Umstände dies gestatten, wird der Auftraggeber vorab schriftlich oder durch E-Mail informiert. SAP schränkt die Begrenzung oder Aussetzung hinsichtlich Zeitraum und Umfang so ein, wie es nach den Umständen des Einzelfalls vertretbar ist.
+2.5.
+Der Cloud Service kann Verknüpfungen zu Web-Services enthalten, die von Drittanbietern (nicht SAP SE oder ihre Verbundenen Unternehmen) angeboten werden, die über den Cloud Service aufrufbar sind und den Nutzungsregelungen dieser Drittanbieter unterliegen. Diese Web-Services sind nicht Bestandteil des Cloud Services und unterliegen nicht der Vereinbarung mit SAP, da SAP nur den technischen Zugriff auf derartige Web-Services vermittelt. SAP ist nicht verantwortlich für diese Web-Services.
+2.6.
+Autorisierte Nutzer können auf bestimmte Cloud Services über mobile Anwendungen (mobile Apps) zugreifen, die über Webseiten Dritter wie z.B. den Android oder den Apple App Store zur Verfügung gestellt werden. Die Nutzung der mobilen Anwendungen kann Bedingungen unterliegen, die beim Download / Zugriff auf die mobile Anwendung vereinbart werden und unterliegt nicht den Regelungen der Vereinbarung mit SAP. SAP ist für den Inhalt dieser Webseiten der Dritten nicht verantwortlich.
+2.7.
+Der Cloud Service kann On-Premise Komponenten enthalten, die durch den Auftraggeber heruntergeladen und installiert werden können (einschließlich Updates). Das SLA ist auf diese Komponenten nicht anwendbar. Der Auftraggeber darf diese On-Premise Komponenten nur während der Laufzeit in Bezug auf den jeweiligen Cloud Service nutzen.
+3.
+SAP VERANTWORTLICHKEITEN UND PFLICHTEN
+3.1.
+SAP stellt den Cloud Service vereinbarungsgemäß zur Verfügung. SAP erbringt für die Cloud Services den in der Order Form vereinbarten Support und (soweit vereinbart) die Professional Services. Die Beschaffenheit und Funktionalität der von SAP geschuldeten Leistungen sind abschließend in der Order Form und den dort in Bezug genommenen Dokumenten vereinbart. Zusätzliche Leistungen oder Leistungsmerkmale schuldet SAP nicht.
+3.2.
+Support und SLA
+3.2.1.
+SAP erbringt Support für den Cloud Service wie in der Order Form angegeben.
+3.2.2.
+Soweit in den anwendbaren produktspezifischen Ergänzenden Bedingungen nicht abweichend geregelt, wird SAP eine durchschnittliche monatliche Systemverfügbarkeit für das Produktivsystem des Cloud Service aufrechterhalten, die in der Service Level Vereinbarung („SLA“) geregelt ist, die in der Vereinbarung referenziert wird. Erreicht SAP das SLA nicht, hat der Auftraggeber Anspruch auf einen Service Level Credit in Form einer Vertragsstrafe (§ 339 BGB) wie im SLA detailliert. Der Auftraggeber hat das von SAP bereitgestellte Service Level Credit Verfahren einzuhalten. Sobald die Gültigkeit des Service Level Credit durch SAP schriftlich oder per E-Mail bestätigt wurde, wird der Anspruch als Gutschrift auf einen zeitlich nachfolgenden Rechnungsbetrag für den Cloud Service verrechnet, oder - wenn keine künftige Rechnung mehr fällig ist – auf Anfrage des Auftraggebers als Rückvergütung gezahlt. Geleistete Vertragsstrafen werden auf etwaige Schadensersatzansprüche und/oder Aufwendungsersatzansprüche des Auftraggebers angerechnet.
+Falls SAP (i) das SLA in vier aufeinanderfolgenden Kalendermonaten oder (ii) in fünf oder mehr Kalendermonaten in einem Zeitraum von zwölf Monaten oder (iii) eine Systemverfügbarkeit von mindestens 95 % für einen Kalendermonat nicht erreicht, kann der Aufraggeber den betroffenen Cloud Service mit einer Frist von dreißig Tagen nach dem Auftreten der Nichteinhaltung schriftlich per Mitteilung an SAP kündigen. Die Kündigung wird zum Ende des Kalendermonats wirksam, in dem SAP die Kündigung erhalten hat.
+3.3.
+SAP schützt die Auftraggeberdaten gemäß den Security Measures. “Security Measures” bezeichnet die technischen und organisatorischen Maßnahmen für den jeweiligen Cloud Service, die unter https://www.sap.com/about/trust-center/agreements/SecurityMeasures veröffentlicht sind.
+3.4.
+Modifikationen
+3.4.1.
+SAP kann den Cloud Service (einschließlich Supportleistungen, Wartungsfenstern und Fenstern für Wesentliche Upgrades) ändern, vorausgesetzt, dass SAP während der Laufzeit die Hauptfunktionen des Cloud Service nicht wesentlich verringert.
+3.4.2.
+SAP informiert den Auftraggeber über Modifikationen an dem Cloud Service mit einer angemessener Frist im Voraus gemäß Abschnitt 12.3. Änderungen an Wartungsfenstern und Fenstern für Wesentliche Upgrades unterliegen insoweit den Regelungen des SLA.
+3.4.3.
+Sofern durch eine Modifikation berechtigte Interessen des Auftraggebers so nachteilig berührt werden, dass ihm insoweit ein Festhalten an den Vereinbarungen der Order Form nicht mehr zugemutet werden kann, kann der Auftraggeber den betroffenen Cloud Service schriftlich mit einer Frist von einem Monat nach der Information durch SAP kündigen. Sofern der Auftraggeber nicht fristgemäß kündigt, tritt die Modifikation in Kraft.
+3.5.
+Soweit dem Auftraggeber ein unentgeltlicher Cloud Service zur Verfügung gestellt wird, übernimmt SAP für diesen Cloud Service keinen Support und trifft keine Service Level Zusagen. SAP kann einen unentgeltlichen Cloud Service jederzeit einstellen. Dieser Abschnitt 3.5hat Vorrang vor abweichenden, entgegenstehenden Bedingungen dieser Cloud AGB.
+4.
+AUFTRAGGEBERDATEN UND PERSONENBEZOGENE DATEN; VERANTWORTLICHKEITEN UND PFLICHTEN DES AUFTRAGGEBERS
+4.1.
+Der Auftraggeber ist für die Auftraggeberdaten und deren Erfassung im Cloud Service verantwortlich. Nach Maßgabe des Abschnitts 11 gewährt der Auftraggeber SAP (sowie SAP SE, deren Verbundenen Unternehmen und Unterauftragnehmern) ein nicht-ausschließliches Recht, Auftraggeberdaten zum Zweck der Erbringung und des Support des Cloud Service und im Übrigen gemäß der Vereinbarung (einschließlich insbesondere der Erstellung von Backup-Kopien und der Durchführung von Penetrationstests) zu nutzen und zu verarbeiten.
+4.2.
+Der Auftraggeber erhebt, aktualisiert und bearbeitet alle in den Auftraggeberdaten enthaltenen personenbezogenen Daten in Übereinstimmung mit dem jeweils anwendbaren Datenschutzrecht.
+4.3.
+Der Auftraggeber unterhält angemessene Sicherheitsstandards für die Nutzung des Cloud Service durch die Autorisierten Nutzer. Der Auftraggeber wird ohne vorherige Zustimmung der SAP keine Penetration Tests im Cloud Service durchführen
+oder autorisieren. Der Auftraggeber ist allein dafür verantwortlich, die Eignung des Cloud Service für seine Geschäftsabläufe
+zu bewerten und alle anwendbaren rechtlichen Bestimmungen hinsichtlich der Auftraggeberdaten und der Nutzung des Cloud Service einzuhalten. Der Auftraggeber ist verpflichtet, bei der Erbringung des Cloud Service, der Supportleistungen und (wo vereinbart) der Professional Services durch SAP im erforderlichen Umfang unentgeltlich mitzuwirken, insbesondere indem er über Infrastruktur- und Telekommunikationseinrichtungen zum Zugriff auf den Cloud Service verfügt. SAP weist darauf hin, dass die Erbringung der Mitwirkungsleistungen Voraussetzung für die ordnungsgemäße Leistung der SAP ist. Der Auftraggeber trägt Nachteile und Mehrkosten aus der Verletzung seiner Pflichten.
+4.4.
+Während der Laufzeit hat der Auftraggeber jederzeit die Möglichkeit, auf die Auftraggeberdaten zuzugreifen, diese zu entnehmen und in einem Standardformat zu exportieren. Falls Abruf und Export technischen Beschränkungen und Voraussetzungen unterliegen (wie z. B. in der Dokumentation beschrieben), verständigen sich SAP und der Auftraggeber auf Anfrage auf eine angemessene Methode, um dem Auftraggeber den Zugriff auf und den Export von Auftraggeberdaten zu ermöglichen. Vor Vertragsende kann der Auftraggeber die jeweils verfügbaren Self-Service-Extraktions-Tools von SAP verwenden, um einen abschließenden Export der Auftraggeberdaten aus dem Cloud Service durchzuführen. Nach Vertragsende löscht SAP die auf den zum Hosting des Cloud Service eingesetzten Servern verbliebenen Auftraggeberdaten, es sei denn, deren Aufbewahrung ist nach zwingendem Recht erforderlich. Die aufbewahrten Daten unterliegen den vereinbarten Vertraulichkeitsregeln.
+5.
+VERGÜTUNG UND STEUERN
+5.1.
+Der Auftraggeber zahlt an SAP die in der Order Form vereinbarte Vergütung. Die in der Order Form vereinbarte wiederkehrende Vergütung gilt für die dort vereinbarte Mindestlaufzeit. Die für eine Verlängerungslaufzeit geltende Vergütung entspricht der Vergütung der jeweils vorhergehenden Mindest- bzw. Verlängerungslaufzeit, soweit SAP die Vergütung nicht wie folgt erhöht:
+5.1.1.
+SAP kann die wiederkehrende Vergütung jeweils mit einer Ankündigungsfrist von zwei Monaten mit Wirkung zum Beginn einer Verlängerungslaufzeit durch Anpassungserklärung gegenüber dem Auftraggeber nach ihrem Ermessen unter Einhaltung der folgenden Grundsätze ändern:
+5.1.2.
+SAP darf die Vergütung höchstens in dem Umfang ändern, in dem sich der nachfolgend unter Abschnitt 5.1.3 genannte Index geändert hat (Änderungsrahmen). Handelt es sich um die erste Vergütungsanpassung, ist für den Änderungsrahmen die Indexentwicklung zwischen dem im Zeitpunkt des Vertragsschlusses veröffentlichten Indexstand und dem im Zeitpunkt der Anpassungserklärung zuletzt veröffentlichten Indexstand maßgeblich. Ist bereits früher eine Vergütungsanpassung erfolgt, wird der Änderungsrahmen definiert durch die Indexentwicklung zwischen dem im Zeitpunkt der vorangehenden Anpassungserklärung zuletzt veröffentlichten Indexstand und dem im Zeitpunkt der neuen Anpassungserklärung zuletzt veröffentlichten Indexstand.
+5.1.3.
+Für die Ermittlung des Änderungsrahmens ist der Index der durchschnittlichen Bruttomonatsverdienste der vollzeitbeschäftigten Arbeitnehmer in Deutschland für den Wirtschaftszweig Dienstleistungen der Informationstechnologie (derzeit in Quartalszahlen veröffentlicht vom Statistischen Bundesamt in der GENESIS Online Datenbank mit dem Schlüssel 62361-0016: Index der durchschnittlichen Bruttomonatsverdienste (Quartale) und dem Code WZ08-62 Dienstleistungen der Informationstechnologie) zugrunde zu legen. Sollte dieser Index nicht mehr veröffentlicht werden, ist für die Ermittlung des Änderungsrahmens derjenige vom Statistischen Bundesamt veröffentlichte Index maßgeblich, der die Entwicklung der durchschnittlichen Bruttomonatsverdienste im vorgenannten Wirtschaftszweig am ehesten abbildet.
+5.1.4.
+Wenn der Auftraggeber nicht spätestens einen Monat vor Ablauf der vorhergehenden Vertragslaufzeit die Order Form zum Ablauf dieser vorhergehenden Vertragslaufzeit kündigt (Sonderkündigungsrecht), gilt die geänderte Vergütung bei automatischer Verlängerung der Cloud Services für den Verlängerungszeitraum als vereinbart. Hierauf weist SAP in der Anpassungserklärung hin.
+5.2.
+Alle Vergütungen unterliegen den jeweils anwendbaren Steuern, die zusätzlich zu den Vergütungen in der Vereinbarung in Rechnung gestellt werden. Skonto wird nicht gewährt. Zahlungen sind 14 Tage nach Rechnungsdatum fällig. SAP kann Rechnungen in elektronischem Format stellen. Mit Fälligkeit kann SAP Verzugszinsen in Höhe des jeweils gültigen gesetzlichen Verzugszinssatzes verlangen. SAP kann die Nutzung des Cloud Service, soweit der Auftraggeber im Zahlungsverzug ist, nach fruchtlosem Ablauf einer angemessenen Nachfrist ganz oder teilweise vorübergehend bis zur erfolgten Zahlung verweigern. SAP wird den Auftraggeber vorab über die Aussetzung der Nutzung informieren. Der Auftraggeber kann nur mit unbestrittenen oder rechtskräftig festgestellten Forderungen aufrechnen und ein Zurückbehaltungsrecht nur auf unbestrittene oder rechtskräftig festgestellte Ansprüche stützen.
+6.
+LAUFZEIT UND KÜNDIGUNG
+6.1.
+Die Laufzeit ergibt sich aus der Order Form. Jede Order Form läuft zunächst für die dort vereinbarte Mindestlaufzeit („Mindestlaufzeit“). Nach Ablauf der Mindestlaufzeit verlängert sie sich automatisch um die dort vereinbarten Verlängerungslaufzeiten (jeweils eine „
+Verlängerungslaufzeit“), sofern die Order Form nicht von einer der Parteien gemäß Abschnitt 6.2 gekündigt wird.
+6.2.
+Die ordentliche Kündigung der Order Form ist während der Mindest- bzw. Verlängerungslaufzeit ausgeschlossen. Der Auftraggeber kann jede Order Form mit einer Frist von mindestens einem Monat zum Ende der jeweils aktuellen Mindest- oder Verlängerungslaufzeit kündigen. SAP kann jede Order Form mit einer Frist von mindestens sechs Monaten zum Ende der jeweils aktuellen Mindest- oder Verlängerungslaufzeit kündigen. Sonderkündigungsrechte und Kündigungen aus wichtigem Grund bleiben vorbehalten. SAP behält sich eine Kündigung aus wichtigem Grund insbesondere bei mehrfacher oder grober Verletzung wesentlicher Vertragspflichten (insbesondere aus den Abschnitten 2, 4, 11 und 12.2) vor.
+6.3.
+Im Falle einer Kündigung des Auftraggebers, oder einer Kündigung durch SAP gemäß Abschnitt 12.2, hat der Auftraggeber Anspruch auf eine anteilige Rückerstattung vorausgezahlter Vergütung für die nach dem Kündigungsdatum liegende ursprüngliche Laufzeit des jeweiligen Cloud Service, sofern eine solche Rückerstattung nicht aufgrund von Exportrecht unzulässig ist.
+6.4.
+Mit Vertragsende
+a)
+endet das Recht des Auftraggebers zur Nutzung des Cloud Service und der Vertraulichen Informationen von SAP; und
+b)
+werden die Vertraulichen Informationen der jeweils offenlegenden Partei vereinbarungsgemäß und unter der Beachtung geltenden Rechts aufbewahrt, zurückgegeben oder gelöscht.
+7.
+GEWÄHRLEISTUNGEN VON SAP
+7.1.
+Gewährleistungen von SAP
+7.1.1.
+SAP gewährleistet, dass der Cloud Service während seiner Laufzeit die in den Ergänzenden Bedingungen und in der Dokumentation vereinbarten Spezifikationen erfüllt und der Cloud Service bei vertragsgemäßer Nutzung durch den Auftraggeber keine Rechte Dritter verletzt. SAP beseitigt Sach- und Rechtsmängel des Cloud Service nach Maßgabe von Abschnitt 7.1.4. Hat SAP den Mangel auch nach Ablauf einer vom Auftraggeber schriftlich gesetzten Nachfrist von angemessener Länge nicht beseitigt, und ist die Tauglichkeit des Cloud Service dadurch mehr als nur unerheblich gemindert, hat der Auftraggeber das Recht zur Kündigung, die schriftlich zu erfolgen hat. Ist die Tauglichkeit des Cloud Service zum vertragsgemäßen Gebrauch mehr als nur unerheblich gemindert, hat der Auftraggeber das Recht, die Vergütung angemessen zu mindern. Für Schadens- und Aufwendungsersatz wegen Mängeln gilt Abschnitt 9 (Haftungsbeschränkung). Die verschuldensunabhängige Haftung für bereits bei Vertragsabschluss vorhandene Mängel gemäß § 536a Abs. 1 Alt. 1 BGB ist ausgeschlossen.
+7.1.2.
+Für Professional Services, die als Werkleistung erbracht werden, gewährleistet SAP, dass der Professional Service der vereinbarten Leistungsbeschreibung entspricht und bei vertragsgemäßer Nutzung durch den Auftraggeber keine Rechte Dritter verletzt. Die Gewährleistung erfolgt durch Nacherfüllung nach Maßgabe von Abschnitt 7.1.4. Schlägt die Nacherfüllung nach Ablauf einer vom Auftraggeber schriftlich gesetzten Nachfrist von angemessener Länge fehl, hat der Auftraggeber das Recht, die in der entsprechenden Order Form für den betroffenen Professional Service zu zahlende Vergütung angemessen zu mindern oder insoweit von der Order Form zurückzutreten. Für Schadensersatz und Aufwendungsersatz wegen Mängeln gilt Abschnitt 9 (Haftungsbeschränkung).
+7.1.3.
+Erbringt SAP nicht der Abnahme unterliegende Professional Services nicht oder nicht ordnungsgemäß oder begeht SAP bei Professional Services oder beim Cloud Service außerhalb des Bereichs der Sach- und Rechtsmängelhaftung sonstige Pflichtverletzungen, hat der Auftraggeber dies gegenüber SAP schriftlich zu rügen und SAP eine Nachfrist von ausreichender Länge einzuräumen, innerhalb derer SAP Gelegenheit zur ordnungsgemäßen Erfüllung der Leistung oder dazu gegeben wird, in sonstiger Weise Abhilfe zu schaffen. Für Schadensersatz und Aufwendungsersatz gilt Abschnitt 9 (Haftungsbeschränkung).
+7.1.4.
+SAP beseitigt Mängel an den Cloud Services und an den der Abnahme unterliegenden Professional Services dadurch, dass SAP dem Auftraggeber nach ihrer Wahl einen mangelfreien Stand des Cloud Service bzw. des Professional Service zur Verfügung stellt oder den Mangel beseitigt. Die Mangelbeseitigung kann auch darin bestehen, dass SAP dem Auftraggeber zumutbare Möglichkeiten aufzeigt, die Auswirkungen des Mangels zu vermeiden. Bei Rechtsmängeln wird SAP nach eigener Wahl dem Auftraggeber entweder (i) das Recht verschaffen, den Cloud Service bzw. den Professional Service vereinbarungsgemäß zu nutzen, oder (ii) den Cloud Service bzw. den Professional Service ersetzen oder so ändern, dass der Verletzungsvorwurf aufgehoben ist, der vertragsgemäße Gebrauch des Auftraggebers dadurch aber nicht unzumutbar beeinträchtigt wird, oder (iii) die Order Form insoweit kündigen und dem Auftraggeber vorausbezahlte Vergütung für die nach dem Kündigungsdatum verbleibende Laufzeit erstatten sowie Schadensersatz und / oder Aufwendungsersatz im Rahmen des Abschnitts 9 (Haftungsbeschränkung) leisten.
+7.2.
+Der Auftraggeber ist verpflichtet, jegliche Pflichtverletzungen der SAP unverzüglich schriftlich unter genauer Beschreibung des Grundes zu rügen. Gewährleistungsrechte wegen Sach- und Rechtsmängeln der Abnahme zugänglicher Professional Services verjähren ein Jahr nach Abnahme. Die Gewährleistungsrechte für den Cloud Service gelten entsprechend für die Supportleistungen.
+8.
+ANSPRÜCHE DRITTER
+Wenn ein Dritter Ansprüche aus Schutzrechten behauptet, die der Ausübung der vertraglich eingeräumten Nutzungsbefugnis am Cloud Service oder an SAP Materialien entgegenstehen, so hat der Auftraggeber SAP unverzüglich schriftlich und umfassend zu unterrichten. Stellt der Auftraggeber die Nutzung des vertragsgegenständlichen Cloud Service oder der SAP Materialien aus Schadensminderungs- oder sonstigen wichtigen Gründen ein, ist er verpflichtet, den Dritten darauf hinzuweisen, dass mit der Nutzungseinstellung ein Anerkenntnis der behaupteten Schutzrechtsverletzung nicht verbunden ist. Er wird die gerichtliche Auseinandersetzung mit dem Dritten nur im Einvernehmen mit der SAP führen oder SAP zur Führung der Auseinandersetzung ermächtigen. Dies gilt entsprechend, soweit ein Dritter Ansprüche gegenüber SAP behauptet, die auf Handlungen des Auftraggebers, der Autorisierten Nutzer oder Drittanbieterzugriffe zurückzuführen sind.
+9.
+HAFTUNGSBESCHRÄNKUNG
+9.1.
+In allen Fällen vertraglicher und außervertraglicher Haftung leistet SAP Schadensersatz oder Ersatz vergeblicher Aufwendungen nur in dem nachfolgend bestimmten Umfang:
+9.1.1.
+SAP haftet bei Vorsatz in voller Höhe, bei grober Fahrlässigkeit und bei Fehlen einer Beschaffenheit, für die SAP eine Garantie übernommen hat, nur in Höhe des vorhersehbaren Schadens, der durch die verletzte Pflicht oder die Garantie verhindert werden sollte;
+9.1.2.
+in anderen Fällen: nur bei Verletzung einer wesentlichen Pflicht (Kardinalpflicht) und bis zu den im folgenden Abschnitt 9.1.3 genannten Haftungsgrenzen. Die Verletzung einer Kardinalpflicht im Sinne dieses Abschnitts 9.1.2 liegt vor bei Verletzung einer Pflicht, deren Erfüllung die ordnungsgemäße Durchführung des Vertrages erst ermöglicht oder deren Verletzung die Erreichung des Vertragszwecks gefährdet und auf deren Einhaltung der Auftraggeber regelmäßig vertrauen darf.
+9.1.3.
+Die Haftung ist in den Fällen von Abschnitt 9.1.2 beschränkt auf 100.000 EUR pro Schadensfall und insgesamt pro Vertragsjahr auf 300.000 EUR oder – sofern höher – auf die Vergütung, die für den betreffenden Cloud Service bzw. Professional Service gemäß der Order Form in dem Vertragsjahr gezahlt wurde.
+9.2.
+Der Einwand des Mitverschuldens (z. B. Verletzung der Pflichten des Auftraggebers aus Abschnitt 4) bleibt offen. Die Haftungsbegrenzungen gemäß Abschnitt 9.1 gelten nicht bei der Haftung für Personenschäden und bei der Haftung nach dem Produkthaftungsgesetz.
+9.3.
+Für alle Ansprüche gegen SAP auf Schadensersatz oder Ersatz vergeblicher Aufwendungen bei vertraglicher und außervertraglicher Haftung gilt eine Verjährungsfrist von einem Jahr. Die Verjährungsfrist beginnt mit dem in § 199 Abs. 1 BGB bestimmten Zeitpunkt. Sie tritt spätestens mit Ablauf von fünf Jahren ab Entstehung des Anspruchs ein. Die Regelungen der Sätze 1 bis 3 dieses Abschnitts 9.3 gelten nicht für die Haftung bei Vorsatz oder grober Fahrlässigkeit oder bei Personenschäden oder nach dem Produkthaftungsgesetz. Die abweichende Verjährungsfrist für Ansprüche wegen Sach- und Rechtsmängeln (Abschnitt 7 Gewährleistungen von SAP) bleibt von den Regelungen dieses Abschnitts 9.3 unberührt.
+10.
+IP RECHTE
+10.1.
+Der Auftraggeber darf die Cloud Services, die Dokumentation und SAP Materialien nur in dem Umfang nutzen, der vertraglich festgelegt ist. Soweit dem Auftraggeber hieran nicht ausdrücklich Rechte eingeräumt werden, stehen alle IP Rechte hieran im Übrigen im Verhältnis zum Auftraggeber der SAP, der SAP SE, ihren Verbundenen Unternehmen oder ihren Lizenzgebern zu, auch soweit diese durch Vorgaben oder Mitarbeit des Auftraggebers entstanden sind.
+10.2.
+Sofern nicht abweichend vereinbart, stehen im Verhältnis zu SAP dem Auftraggeber alle Rechte an und in Bezug auf die Auftraggeberdaten zu. SAP darf vom Auftraggeber zur Verfügung gestellte Marken nur zum Zweck der Erbringung des Cloud Service und des Supports sowie ggf. vereinbarter Professional Services verwenden.
+11.
+VERTRAULICHKEIT
+11.1.
+In Bezug auf jegliche vor und im Rahmen der Vertragserfüllung erlangten Vertraulichen Informationen der offenlegenden Partei verpflichtet sich die empfangende Partei dazu:
+a)
+die Vertraulichen Informationen zeitlich unbegrenzt vertraulich zu behandeln, indem sie Maßnahmen zu deren Schutz ergreift, die im Wesentlichen den Maßnahmen entsprechen, die die empfangende Partei zum Schutz ihrer eigenen vertraulichen Informationen ergreift, und die einen angemessenen Sorgfaltsmaßstab nicht unterschreiten dürfen;
+b)
+die Vertraulichen Informationen an Dritte nur weiterzugeben oder offenzulegen, soweit dies zur Ausübung von Rechten oder zur Vertragserfüllung notwendig ist und diese Dritten im wesentlichen vergleichbaren Vertraulichkeitspflichten unterliegen;
+c)
+die Vertraulichen Informationen nicht für Zwecke außerhalb des Vertrags zu verwenden oder zu vervielfältigen;
+d)
+auf Vervielfältigungen Vertraulicher Informationen – soweit technisch möglich – alle Hinweise und Vermerke zu ihrem vertraulichen oder geheimen Charakter zu belassen, die im Original enthalten sind.
+11.2.
+Die empfangende Partei darf die vertraulichen Informationen der offenlegenden Partei Dritten offenlegen, soweit dies rechtlich vorgeschrieben ist; vorausgesetzt, dass die empfangende Partei, die zu einer solchen Offenlegung verpflichtet ist, angemessene Anstrengungen unternimmt, um die offenlegende Partei in angemessener Weise vorab über die geforderte Offenlegung zu informieren (soweit dies gesetzlich zulässig ist) und auf Wunsch und Kosten der offenlegenden Partei angemessene Unterstützung bei der Anfechtung der geforderten Offenlegung leistet. Die empfangende Partei unternimmt wirtschaftlich vertretbare Anstrengungen, um nur den Teil der vertraulichen Informationen offenzulegen, dessen Offenlegung rechtlich verlangt wird, und verlangt, dass alle vertraulichen Informationen, die auf diese Weise offengelegt werden, vertraulich behandelt werden.
+11.3.
+Die Einschränkungen der Nutzung oder der Offenlegung Vertraulicher Informationen finden keine Anwendung auf Vertrauliche Informationen, die
+a)
+von der empfangenden Partei ohne Rückgriff auf die Vertraulichen Informationen der offenlegenden Partei unabhängig entwickelt worden sind,
+b)
+durch keine Handlung oder Unterlassung der empfangenden Partei allgemein bekannt oder der Öffentlichkeit zugänglich geworden sind,
+c)
+der empfangenden Partei zum Zeitpunkt der Offenlegung frei von Vertraulichkeitsbeschränkungen bekannt waren,
+d)
+von der empfangenden Partei rechtmäßig und ohne Pflicht zur Geheimhaltung von einer dritten Partei erhalten wurden, die berechtigt ist, diese Vertraulichen Informationen bereitzustellen, oder
+e)
+durch schriftliche Zustimmung der offenlegenden Partei von Vertraulichkeitsbeschränkungen ausgenommen sind.
+11.4.
+Auf Verlangen der offenlegenden Partei hat die empfangende Partei die Vertraulichen Informationen der offenlegenden Partei, einschließlich Kopien und Vervielfältigungen davon, unverzüglich zu vernichten oder zurückzugeben, es sei denn, das anwendbare Recht schreibt deren Aufbewahrung vor. In diesem Fall unterliegen die vertraulichen Informationen weiterhin den Bestimmungen von Abschnitt 11.
+11.5.
+Keine der Parteien verwendet den Namen der jeweils anderen Partei ohne deren vorherige schriftliche Zustimmung in öffentlichkeitswirksamen, Werbe- oder ähnlichen Aktivitäten. SAP darf Informationen über den Auftraggeber an SAP SE und ihre Verbundenen Unternehmen für Marketing- und andere Geschäftszwecke weitergeben. Soweit dies die Überlassung und Verwendung von Kontaktdaten von Ansprechpartnern des Auftraggebers umfasst, wird der Auftraggeber ggf. erforderliche Einwilligungen einholen.
+12.
+SONSTIGE BESTIMMUNGEN
+12.1.
+Änderungen und Ergänzungen der Vereinbarung sowie alle vertragsrelevanten Willenserklärungen und Erklärungen zur Ausübung von Gestaltungsrechten, insbesondere Kündigungen, Mahnungen oder Fristsetzungen bedürfen der Schriftform. Dies gilt auch für den Verzicht auf das Schriftformerfordernis. Das Schriftformerfordernis kann auch durch Briefwechsel oder durch folgende elektronische Formate erfüllt werden: Telefax, Email mit eingescannter Unterschrift, SAP Store, DocusignTM oder gleichwertige elektronische Verfahren, die von SAP bereitgestellt werden. § 127 Abs. 2 und 3 BGB finden jedoch im Übrigen keine Anwendung.
+12.2.
+Exportrecht / Trade Compliance
+12.2.1.
+SAP und der Auftraggeber halten im Rahmen der Erfüllung der Vereinbarung das Exportrecht ein. Vertrauliche Informationen der SAP unterliegen dem Exportrecht. Der Auftraggeber, seine Verbundenen Unternehmen und Autorisierte Nutzer dürfen die Vertraulichen Informationen der SAP weder direkt noch indirekt exportieren, re-exportieren, veröffentlichen oder übermitteln, wenn dies gegen Exportrecht verstößt. Der Auftraggeber ist allein dafür verantwortlich, das Exportrecht im Zusammenhang mit Auftraggeberdaten einzuhalten, einschließlich des Einholens ggf. erforderlicher Ausfuhrgenehmigungen für Auftraggeberdaten. Der Auftraggeber darf den Cloud Service aus den folgenden Regionen nicht nutzen: Krim/Sewastopol, Kuba, Iran, Volksrepublik Korea (Nordkorea), der sogenannten Volksrepubliken Luhansk (LNR) und Donezk (DNR) sowie Syrien.
+12.2.2.
+Auf entsprechende Nachfrage seitens SAP, hat der Auftraggeber Informationen und Dokumente zum Zwecke des Einholens einer Ausfuhrgenehmigung bereitzustellen. SAP kann den betroffenen Cloud Service ohne Einhaltung einer Frist schriftlich kündigen, wenn
+a)
+die zuständige Behörde eine solche Ausfuhrgenehmigung nicht innerhalb von achtzehn (18) Monaten erteilt oder
+b)
+das Exportrecht SAP nicht erlaubt, dem Auftraggeber den Cloud Service oder Professional Service bereitzustellen.
+12.3.
+Mitteilungen der SAP über Modifikationen gemäß Abschnitt 3.4.2 können über die Dokumentation, Release Notes oder via Veröffentlichung erfolgen. Systembenachrichtigungen und Informationen der SAP, die sich auf den Betrieb, das Hosting oder den Support des Cloud Service beziehen, können auch innerhalb des Cloud Service verfügbar gemacht an die in der Order Form benannte Kontaktperson übermittelt oder über das SAP Support-Portal verfügbar gemacht werden.
+12.4.
+Ohne die vorherige schriftliche Zustimmung bzw. unbeschadet der Regelung des § 354 a HGB kann der Auftraggeber weder die Vereinbarung noch vertragliche Rechte oder Pflichten an Dritte abtreten oder übertragen. SAP kann die Vereinbarung an die SAP SE oder ein mit dieser Verbundenes Unternehmen übertragen.
+12.5.
+Für die Vereinbarung und alle vertraglichen und außervertraglichen Ansprüche aus und im Zusammenhang mit der Vereinbarung gilt ausschließlich deutsches Recht ohne das UN-Kaufrecht. Das Kollisionsrecht findet keine Anwendung.
+12.6.
+Ausschließlicher Gerichtsstand für alle Streitigkeiten aus und im Zusammenhang mit der Vereinbarung ist Karlsruhe, sofern der Auftraggeber Kaufmann, eine juristische Person des öffentlichen Rechts oder ein öffentlich-rechtliches Sondervermögen ist.
+12.7.
+Die Vereinbarung enthält abschließend alle Abreden der Vertragsparteien über den Vertragsgegenstand. Alle bisherigen Erklärungen, Diskussionen und Schriftstücke (einschließlich etwaiger Vertraulichkeitsvereinbarungen) werden durch die Vereinbarung ersetzt. Ggf. versandte Bestellungen des Auftraggebers (“Purchase Orders”) dienen nur administrativen Zwecken und werden nicht Bestandteil der Vereinbarung.

@@ -2,3 +2,8 @@ pandas
 numpy>=1.25,<2.0
 notebook>=7.0,<8.0
 ipykernel
+beautifulsoup4
+pdfplumber
+python-docx
+requests
+openpyxl

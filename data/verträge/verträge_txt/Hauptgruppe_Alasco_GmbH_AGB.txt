@@ -1,0 +1,518 @@
+Allgemeine Geschäfts- Und Nutzungsbedingungen
+1. ALLGEMEINES
+1.1 Diese allgemeinen Geschäftsbedingungen und Nutzungsbedingungen ("AGB") gelten für alle
+gegenwärtigen und zukünftigen Rechtsbeziehungen zwischen der Alasco GmbH, Leopoldstraße
+21, 80802 München, ("Alasco") und dem Kunden ("Kunde"). Sie gelten bei zukünftigen
+Bestellungen und Dienstleistungen auch dann, wenn nicht ausdrücklich auf sie Bezug genommen
+wird.
+1.2 Allgemeine Geschäftsbedingungen des Kunden gelten nicht, auch wenn ihnen Alasco nicht noch
+einmal ausdrücklich widerspricht oder mit der Erbringung von Leistungen trotz ihrer Kenntnis
+beginnt.
+1.3 Abweichungen von diesen AGB sind für Alasco nur verbindlich, wenn sie ausdrücklich schriftlich
+vereinbart wurden.
+1.4 Das Angebot von Alasco richtet sich ausschließlich an gewerbliche oder selbständige Nutzer
+(Unternehmer im Sinne des § 14 BGB) und nicht an Verbraucher im Sinne des § 13 BGB. Mit der
+Nutzung unserer Dienste oder der Bestellung eines unserer Angebote bestätigt der Kunde, dass
+es sich bei ihm um einen Unternehmer handelt. Auf Verlangen von Alasco wird er dies
+unverzüglich (etwa durch Vorlage eines Gewerbescheins) nachweisen. Die Nutzung der Software
+durch Verbraucher ist ausdrücklich nicht gestattet.
+1.5 Bei Abweichungen zwischen den im Auftrag getroffenen Regelungen und den Bestimmungen
+dieser AGB gehen die Regelungen im Auftrag vor. Der Auftrag ist das von Alasco gem. Ziffer 2.3
+bestätigte Vertragsangebot des Kunden.
+2. VERTRAGSSCHLUSS
+2.1 Alle Angaben in Dokumenten, wie z.B. Katalogen, Preislisten, Beschaffenheitsangaben, Bildern,
+Zeichnungen und Maßangaben sind unverbindlich und gelten nur annähernd, es sei denn, sie
+sind ausdrücklich als verbindlich bezeichnet. Sämtliche Vereinbarungen bedürfen zu ihrer
+Wirksamkeit der Bestätigung durch Alasco in Textform. Dies gilt auch für Ergänzungen,
+Änderungen oder Nebenvereinbarungen.
+2.2 Die Annahme eines Angebotes von Alasco durch den Kunden gilt als verbindliches
+Vertragsangebot des Kunden. Sofern sich aus dem Angebot von Alasco nichts anderes ergibt, ist
+Alasco berechtigt, das Vertragsangebot des Kunden innerhalb von 2 Wochen nach seinem
+Zugang bei Alasco anzunehmen.
+2.3 Die Annahme kann entweder in Textform (z.B. durch Auftragsbestätigung) oder durch
+Bereitstellung eines Accounts bzw. Ermöglichung der Nutzung der Alasco-Software erklärt
+werden. Geht die Auftragsbestätigung von Alasco verspätet beim Kunden ein, wird der Kunde
+Alasco unverzüglich darüber informieren, ob er das Geschäft dennoch ausführen will.
+3. ÄNDERUNGEN
+Alasco ist berechtigt, die AGB oder die von Alasco zu erbringenden Leistungen einseitig zu
+ändern, um geänderten gesetzlichen oder behördlichen Anforderungen zu genügen oder wenn
+dies sonst aus triftigem Grund erforderlich ist. Voraussetzung dafür ist, dass der Kunde durch
+die Änderung objektiv nicht oder nur unwesentlich schlechter gestellt wird. In solchen Fällen
+benachrichtigt Alasco den Kunden rechtzeitig, in der Regel mindestens 30 Tage vor
+Wirksamwerden der Änderung, in Textform und legt dem Kunden dabei die Änderungen dar.
+Widerspricht der Kunde den Änderungen nicht innerhalb dieser 30 Tage und nutzt die von
+Alasco angebotenen Leistungen nach diesem Zeitpunkt weiter, gilt dies als Anerkennung der
+geänderten AGB. Auf diese Folge wird Alasco den Kunden zusammen mit der Mitteilung der
+geänderten AGB hinweisen. Im Falle eines fristgerechten Widerspruchs durch den Kunden gegen
+die geänderte AGB kann Alasco dem Kunden die Nutzung von Alasco-Software kündigen.
+4. ANWENDUNGSBEREICH
+4.1 Alasco ist Inhaberin umfangreicher Nutzungsrechte an der Softwareanwendung
+Alasco-Software, womit die operative Nutzung einer webbasierten Softwarelösung für
+digitalisierte Prozesse im Rahmen des Finanzcontrollings und des ESG-Managements von
+Immobilien und Bauprojekten ermöglicht wird. Alasco ist bereit, dem Kunden die Nutzung dieser
+von Alasco betriebenen Softwareanwendungen im Wege eines Software-as-a-Service-Providing
+Modells ("SaaS-Modell") zu ermöglichen und ihm in diesem Rahmen nicht ausschließliche,
+zeitlich beschränkte Nutzungsrechte an diesen Softwareanwendungen gegen Zahlung einer
+Vergütung einzuräumen.
+4.2 Diese AGB gelten für sämtliche Upgrades, Updates, Änderungen und Aktualisierungen der
+Alasco-Software ("Updates") sowie für alle durch die Nutzung der Alasco-Software verfügbaren
+Dienste und Informationen, sofern für diese keine gesonderten Regelungen getroffen werden,
+die dann vorrangig sind.
+4.3 Wird die Alasco-Software durch Unternehmen oder andere juristische Personen genutzt, wird
+das jeweilige Unternehmen oder die juristische Person durch den Nutzer vertreten und muss
+sich dessen Handeln und Wissen zurechnen lassen.
+5. VERTRAGSGEGENSTAND
+5.1 Gegenstand dieser AGB ist die auf die Laufzeit befristete Gewährung von Zugriffs- und
+Nutzungsrechten über das Medium Internet für den Kunden und Einräumung von Speicherplatz
+auf den Servern von Alasco in Bezug auf die von Alasco bereitgestellten und betriebenen, auf
+unserer Webseite (https://www.alasco.de/) im einzelnen spezifizierten Softwareprodukte
+("Software").
+5.2 Soweit dies mit Alasco im Rahmen der Beauftragung vereinbart wurde, sind auch Aktualisierung
+und Support der Software im Rahmen der operativen Nutzung und Beratungsleistungen im
+Zusammenhang mit dem Onboarding und der operativen Nutzung der Software Gegenstand
+dieser AGB. Die diesbezügliche Leistungspflicht ergibt sich aus der entsprechenden
+Beauftragung.
+5.3 Alasco ist es gestattet, Nachunternehmer einzubeziehen. Der Einsatz von Nachunternehmern
+entbindet Alasco nicht von ihrer alleinigen Verpflichtung gegenüber dem Kunden. Alasco wird mit
+eingesetzten Nachunternehmern Vereinbarungen schließen, die die Interessen des Kunden
+angemessen berücksichtigen. Der Kunde kann dem Einsatz oder Austausch von bestimmten
+Nachunternehmern aus berechtigten Gründen widersprechen. Berechtigte Gründe gegen den
+Einsatz von Nachunternehmern liegen dann vor, wenn eine auf objektiven Tatsachen gegründete
+Vermutung darauf schließen lässt, dass der Nachunternehmer anwendbares Recht nicht einhält.
+Im Falle eines berechtigten Widerspruchs durch den Kunden gegen den Einsatz oder Austausch
+von Nachunternehmern kann Alasco dem Kunden die Nutzung von Alasco-Software kündigen.
+5.4 Alasco ist berechtigt, die im Rahmen der Beauftragung umfassten Daten von Immobilien und
+Bauprojekten zu anonymisieren und zu aggregieren und die für die Anonymisierung und
+Aggregation erforderlichen Verarbeitungsschritte durchzuführen. Unter Wahrung der Anonymität
+ist Alasco ferner berechtigt, alle so entstandenen Daten für eigene, interne Zwecke (z.B.
+Produktverbesserungen, Produktentwicklungen, Analysen) über das Vertragsende hinaus zu
+nutzen und aufzubewahren. Eine Weitergabe solcher Daten an Dritte ist ausgeschlossen.
+5.5 In diesen AGB oder dem Auftrag nicht ausdrücklich beschriebene Leistungen sind nur dann
+Gegenstand der vertraglichen Beziehung mit Alasco, wenn sie gesondert schriftlich vereinbart
+werden.
+6. BEREITSTELLUNG UND BETRIEB DER SOFTWARE
+6.1 Alasco betreibt die Software in Rechenzentren ihrer hierauf spezialisierten Dienstleister und
+räumt dem Kunden die Möglichkeit ein, auf die Software zuzugreifen und sie bestimmungsgemäß
+zu nutzen. Die Funktionalitäten und die sonstige Beschaffenheit der Software ergeben sich aus
+der Beschreibung gem. Ziffer 5.1 sowie aus ggf. weiterer Dokumentation.
+6.2 Das Nutzungsrecht des Kunden ist nicht-ausschließlich, zeitlich auf die Laufzeit der
+Beauftragung beschränkt, nicht übertragbar und auf die eigenen Geschäftszwecke des Kunden
+beschränkt. Der Kunde darf ausschließlich von ihm gegründeten oder mit ihm verbundenen
+Projektgesellschaften das Nutzungsrecht einräumen. Weiteren Dritten darf der Kunde das
+Nutzungsrecht nur einräumen, soweit dies Leistungsbestandteil der Software ist, dies beinhaltet
+die Nutzungsmöglichkeit der Software durch alle Personen, die an Projekten des Kunden
+beteiligt sind, die durch die Software verwaltet werden oder Alasco hierfür im Rahmen der
+Beauftragung oder später ihre Zustimmung gegeben hat. Alasco wird die Zustimmung nicht
+unbillig verweigern. Der Kunde darf die Software nicht direkt oder indirekt für Geschäftszwecke
+Dritter nutzen, soweit dies nicht in dieser Ziffer 6.2 gestattet ist. Der Kunde hat keinen Zugriff auf
+den Source Code der Software.
+6.3 Der Kunde darf die Software nur vervielfältigen, soweit dies durch die bestimmungsgemäße
+Benutzung der Software laut jeweils aktueller Beschreibung auf der Alasco-Webseite gem. Ziffer
+5.1 erlaubt ist. Zur notwendigen Vervielfältigung zählt das Laden der Software in den
+Arbeitsspeicher auf dem Server von Alasco, nicht jedoch die auch nur vorübergehende
+Installation oder das Speichern der Software auf Datenträgern (wie etwa Festplatten o.ä.) der
+vom Kunden eingesetzten Hardware.
+Die Bereitstellung der Software erfolgt am Übergabepunkt. Der Übergabepunkt ist die
+Schnittstelle zwischen dem Rechenzentrum von Alasco und dem Netzwerk, über das der Kunde
+auf die Software zugreift, also z.B. dem Internet oder einer VPN-Leitung.
+6.4 Alasco gewährleistet folgende Verfügbarkeit der Software:
+SLA Verfügbarkeit
+Verfügbarkeit Montag bis Sonntag 00:00 – 24:00 Uhr
+Messpunkt Übergabepunkt
+Messbereich Pro Jahr
+SLA 99 %
+Die Verfügbarkeit ist gegeben, wenn die Nutzung der Anwendung ohne gravierende
+betriebsbeeinträchtigende Störungen möglich ist.
+Bei der Berechnung der Verfügbarkeit werden folgende Unterbrechungszeiten (d.h. Zeiten, in
+denen die Software nicht verfügbar ist) nicht berücksichtigt:
+● Unterbrechungszeiten zu Wartungszwecken (Wartungsfenster, Releasewechsel,
+Offline-Sicherungen, o.ä.);
+● Unterbrechungszeiten, die durch höhere Gewalt verursacht wurden; und
+● Unterbrechungszeiten, die durch den Kunden oder Dritte verursacht wurden.
+6.5 Alasco gewährt dem Kunden Zugriff auf unterstützende Dokumentation für die Software in
+digitaler Form (z.B. Help-Desk Artikel).
+7. WARTUNG UND SUPPORT
+7.1 Alasco wird die Software regelmäßig warten und aktualisieren, so dass sie geänderten
+zwingenden technischen und/oder rechtlichen Anforderungen entspricht. Alasco kann nach
+eigenem Ermessen auch sonstige Optimierungen, Verbesserungen oder Erweiterungen der
+Anwendungen vornehmen.
+7.2 Alasco wird Anfragen des Kunden zur Anwendung der Software und der weiteren SaaS-Dienste
+möglichst zeitnah nach Eingang der jeweiligen Frage in Textform beantworten bzw. an die lokale
+Alasco Einheit weiterleiten, die die Anfrage anschließend beantworten wird.
+7.3 Alasco gewährleistet folgende Service Levels für die Supportleistungen:
+Verfügbarkeit Supportleistungen
+Servicezeit Montag bis Freitag, 09:00 Uhr – 17:00 Uhr
+(ausgenommen gesetzliche Feiertage am Standort von
+Alasco)
+Wartungsfenster Wöchentlich ein Fenster von 4h zwischen Montag und
+Freitag
+Verfügbarkeit/
+Erreichbarkeit zur
+Aufnahme von
+Incident-Meldungen
+99 % der Servicezeit in allen Eingangskanälen
+Anrufberechtigung alle Mitarbeiter des Kunden
+Sprache Deutsch, Englisch
+Eingangskanäle E-Mail
+8. PFLICHTEN DES KUNDEN
+8.1 Falls der Kunde seine Mitwirkungspflichten nicht vertragsgemäß erbringt, ist Alasco von ihren
+Leistungspflichten befreit, soweit diese von den Mitwirkungspflichten abhängen. Weitere Rechte
+von Alasco bleiben unberührt.
+8.2 Der Kunde stellt sicher, dass während der Laufzeit die nachstehend aufgeführten
+Voraussetzungen für die bestimmungsgemäße Nutzung der Software erfüllt sind. Dies beinhaltet
+insbesondere folgende Voraussetzungen:
+● entsprechend Hersteller- und Anbieterempfehlungen aktualisierter Browser;
+● aktuelles und entsprechend Hersteller- und Anbieterempfehlungen aktualisiertes
+Betriebssystem;
+● stabile und funktionsfähige Breitband-Internetanbindung;
+● funktionsfähige E-Mail-Adresse für alle Nutzer; und
+● mindestens 15 Zoll Bildschirmdiagonale.
+8.3 Der Kunde verpflichtet sich, alle an Projekten des Kunden beteiligte Personen, die die Software
+nutzen sollen, umfassend im Gebrauch der Software zu unterrichten und sicherzustellen, dass
+die entsprechenden Mitarbeiter die notwendigen Voraussetzungen zu Nutzung der Software
+erfüllen.
+8.4 Der Kunde wird Alasco einen Ansprechpartner benennen, der für die notwendige Kommunikation
+mit Alasco verfügbar ist und die Befugnis hat, um alle erforderlichen Entscheidungen im Rahmen
+der Beziehung mit Alasco zu treffen.
+8.5 Der Kunde ist verpflichtet, seinen Zugang und ihm eventuell zugeordnete Benutzerkennungen
+und Passwörter durch geeignete Maßnahmen vor dem Zugriff durch unbefugte Dritte zu sichern.
+8.6 Der Kunde erlaubt für den Support durch Alasco eine Remote Zugriffsmöglichkeit (mit
+Zustimmung des Endnutzers).
+8.7 Der Kunde informiert Alasco frühzeitig über alle Änderungen des Kunden, die sich auf die
+Software oder deren Nutzung durch den Kunden auswirken könnten. Dies umfasst insbesondere
+Änderungen an den Projekten oder am Volumen.
+8.8 Der Kunde stellt die Netzwerk- und Telefonieverbindungen zum Übergabepunkt und trägt die
+dafür anfallenden Kosten.
+8.9 Der Kunde hat festgestellte Fehler der Software in reproduzierbarer Form zu dokumentieren und
+Alasco unverzüglich mitzuteilen.
+8.10 Der Kunde gewährleistet ein geltenden Sorgfalts- und Industriestandards entsprechendes
+Systemmanagement der Systemumgebung in deren Umfeld er die Software nutzt. Der Kunde
+wird seine Systemumgebung (Hardware und Software) laufend warten und insbesondere
+aktuellen und anspruchsvollen Industriestandards entsprechende Sicherheitsvorkehrungen
+treffen (Firewall, Anti-Virus, DMZ, etc.).
+8.11 Die Software bietet die Möglichkeit, Dokumente und Informationen von mittels der Software
+durchgeführten Projekten für die Vertragslaufzeit zu speichern und ist nicht zur Erfüllung
+gesetzlicher Archivierungspflichten wichtiger Informationen oder Dokumente vorgesehen.
+8.12 Der Kunde wird die Software nicht für seine kaufmännische Buchführung nutzen und trägt dafür
+Sorge, Dokumente, die hierfür erforderlich sind und mittels der Software generiert worden sind,
+auf seinen eigenen Systemen zu speichern und seinen Datenbestand mit der Sorgfalt eines
+ordentlichen Kaufmanns regelmäßig sichern.
+8.13 Die Software bietet die Möglichkeit, z.B. Optimierungsmaßnahmen zu mittels der Software
+durchgeführten Projekten aufzulisten und ist nicht zur Finanzberatung vorgesehen. Der Kunde
+wird die Software nicht als Finanz- bzw. Anlageberatung nutzen oder als solche betrachten.
+Leistungsbestandteil ist ferner nicht die Richtigkeit und Vollständigkeit zur Verfügung gestellter
+Funktionen.
+8.14 Der Kunde hat Alasco während des Vertragsschlusses und während der Vertragslaufzeit stets
+zutreffende Informationen zu seinem Unternehmen und der Nutzung der Software zur Verfügung
+zu stellen und Alasco frühzeitig zu informieren, wenn sich die übermittelten Informationen
+ändern.
+8.15 Der Kunde ist verpflichtet, seine eigenen Kunden über die in einzelnen Fällen erforderliche
+Weitergabe ihrer Daten an Alasco gemäß den anwendbaren datenschutzrechtlichen
+Bestimmungen zu informieren (z.B. soweit die Weitergabe zur Vertragserfüllung von Alasco
+notwendig ist) und sicherzustellen, dass die Weitergabe dieser Daten an Alasco den
+anwendbaren datenschutzrechtlichen Bestimmungen nicht widerspricht. Insbesondere wird der
+Kunde seine hiervon betroffenen Kunden auf die Alasco Datenschutzrichtlinie verweisen bzw.
+diese den Kunden zur Verfügung zu stellen. Soweit die Weitergabe dieser Daten an Alasco nicht
+notwendig ist, um die vertraglichen Pflichten von Alasco gegenüber dem Kunden zu erfüllen, ist
+der Kunde nicht verpflichtet, diese Daten an Alasco weiterzugeben. Dies gilt nicht für Ziffer 5.4
+der Allgemeinen Geschäftsbedingungen der Alasco GmbH.
+8.16 Der Kunde erteilt Alasco für die Inhalte und Daten, die in Verbindung mit den Leistungen genutzt
+werden, eine einfache, gebührenfreie, weltweit gültige und kostenfreie Lizenz zur Nutzung und
+Erteilung von Unterlizenzen, soweit dies zur Erbringung der Leistungen oder Erfüllung des
+Vertrages erforderlich ist. Alasco ist berechtigt, Sicherheitskopien der genutzten Daten und
+Inhalte für einen angemessenen Zeitraum zu speichern, soweit dies zur Erfüllung von
+gesetzlichen Bestimmungen erforderlich ist.
+9. DRITTANBIETER-SERVICES
+9.1 Die Alasco-Software ermöglicht den Austausch von Daten mit Systemen von Drittanbietern über
+Schnittstellen. Funktionsumfang, Laufzeit und sonstige Nutzungsbedingungen für die
+Bereitstellung von Schnittstellen, einschließlich Support in diesem Zusammenhang, richten sich
+nach den vertraglichen Bestimmungen zwischen dem Kunden und dem jeweiligen Drittanbieter
+bzw. den Allgemeinen Geschäftsbedingungen des jeweiligen Drittanbieters. Die Nutzung einer
+Schnittstelle setzt die Nutzungsberechtigung des Kunden für das anzubindende Drittsystem
+sowie der Schnittstelle innerhalb der Alasco-Software voraus. Für den Betrieb des Drittsystems,
+einschließlich dessen Verfügbarkeit, ist im Verhältnis zwischen Kunde und Alasco der Kunde
+verantwortlich. Schnittstellen dürfen nur zum bestimmungsgemäßen Datenaustausch mit dem
+explizit vorgesehenen Drittsystem genutzt werden. Ein etwaiges Entgelt zur Nutzung der
+Schnittstelle des Drittanbieters hat der Kunde zu tragen.
+9.2 Alasco behält es sich vor, das Angebot an Schnittstellen zu ändern, insbesondere wenn der
+Drittanbieter die Schnittstelle anpasst oder einstellt. Soweit ein Drittanbieter Alasco die
+erforderlichen (Support-)Leistungen einstellt, steht Alasco ein Sonderkündigungsrecht zur
+Teilkündigung der betreffenden Vertragsbeziehung für die betreffende Schnittstelle mit
+angemessener Frist, mindestens jedoch von drei Monaten, zum Ende eines Kalenderquartals zu.
+9.3 Für Drittanwendungen beschränkt sich die Pflicht von Alasco zur Wartung auf die Umsetzung
+der vom Hersteller der Anwendungen zur Verfügung gestellten Maßnahmen und Empfehlungen
+(z.B. das Einspielen von Service Packs oder Patches). Alasco wird derartige Maßnahmen
+innerhalb angemessener Zeit nach Bereitstellung/Empfehlung des Herstellers umsetzen. Alasco
+übernimmt keine Haftung und Gewährleistung für die Drittanwendung.
+9.4 Die Leistungen von Drittanbietern können Preisanpassungen unterliegen. Alasco behält sich vor,
+etwaige Preisanpassungen des jeweiligen Drittanbieters in angemessenem Umfang nach
+vorheriger Ankündigung entsprechend an den Kunden weiter zu berechnen. Ziffer 10.4 der
+Allgemeinen Geschäftsbedingungen von Alasco gilt für die Bereitstellung von Schnittstellen
+entsprechend.
+10. MÄNGELANSPRÜCHE
+10.1 Der Kunde wird Alasco Mängel an der Software unverzüglich nach Erkennen schriftlich anzeigen.
+Die Mitteilung muss eine hinreichend konkrete Beschreibung des Mangels enthalten. Die
+Beseitigung setzt voraus, dass der Mangel reproduziert oder nachvollzogen werden kann.
+10.2 Alasco leistet Gewähr für die Aufrechterhaltung der vertraglich vereinbarten Beschaffenheit der
+Software während der Vertragslaufzeit sowie dafür, dass einer vertragsgemäßen Nutzung der
+Software keine Rechte Dritter entgegenstehen. Alasco wird auftretende Sach- und
+Rechtsmängel an der Software innerhalb angemessener Zeit beseitigen.
+10.3 Die Mängelbeseitigung kann auch durch einen Workaround erfolgen. Beeinträchtigt ein Mangel
+die Funktionalität der Software nicht oder nur unerheblich, so ist Alasco unter Ausschluss
+weiterer Mängelansprüche berechtigt, den Mangel durch Lieferung einer neuen Version oder
+eines Updates im Rahmen ihrer normalen Versions-, Update- und Upgrade-Planung zu beheben.
+10.4 Alasco ist nicht dafür verantwortlich, dass die Software zusammen mit vom Kunden eingesetzten
+Drittanwendungen lauffähig ist und übernimmt keinerlei Gewährleistungen oder Garantien dafür,
+dass die Software (i) mit der Hardware oder Software des Kunden kompatibel ist; (ii) jederzeit
+oder zu bestimmten Zeiten uneingeschränkt zur Verfügung steht; (iii) die Anforderungen des
+Kunden oder sonstige spezielle Leistungs- oder Funktionsanforderungen, die in diesen AGB nicht
+vereinbart sind, erfüllt; (iv) keine Datenverluste verursacht; (v) frei von Viren, Schadprogrammen,
+Störungen oder anderen sicherheitsgefährdenden Bestandteilen ist.
+10.5 Rechte wegen Mängeln bestehen für den Kunden nicht, soweit dieser an der Software nicht
+durch Alasco genehmigte Änderungen oder Bearbeitungen vorgenommen oder sie nicht in
+Übereinstimmung mit den Anwendungsvorgaben oder den von Alasco veröffentlichten
+Anweisungen eingesetzt hat, es sei denn, der Mangel ist nicht auf diesen Umstand
+zurückzuführen.
+10.6 Eine etwaige verschuldensunabhängige Haftung von Alasco für bei Vertragsschluss vorhandene
+Mängel gemäß § 536a BGB ist ausgeschlossen.
+10.7 Garantien im Sinne einer Beschaffenheits- oder Haltbarkeitsgarantie im Sinne der §§ 443, 444
+und 639 BGB oder eines selbständigen Garantieversprechens gibt Alasco in diesen AGB nicht
+ab.
+10.8 Andere als die in diesen AGB genannten Mängelansprüche bestehen zugunsten des Kunden
+nicht. Das Recht des Kunden, wegen Mängeln Schadensersatz in den Grenzen der Ziffer 11 zu
+verlangen, wenn Alasco den Schaden zu vertreten hat, bleibt unberührt.
+11. HAFTUNG
+11.1 Alasco haftet unbeschränkt für Schäden aus der Verletzung des Lebens, des Körpers oder der
+Gesundheit sowie für Vorsatz und – soweit anwendbar – nach dem Produkthaftungsgesetz. Im
+Übrigen ist die Haftung von Alasco nach Maßgabe von Ziffern 11.2 bis 11.5 beschränkt.
+11.2 Bei leicht fahrlässiger Verletzung wesentlicher Vertragspflichten haftet Alasco nur bis zur Höhe
+des vertragstypischen und vorhersehbaren Schadens. Eine wesentliche Vertragsverletzung liegt
+vor, wenn sich die Pflichtverletzung auf eine Pflicht bezieht, auf deren Erfüllung der Kunde
+vertraut hat und auch vertrauen durfte.
+11.3 Eine weitergehende Haftung von Alasco besteht nicht. Insbesondere besteht keine Haftung von
+Alasco für anfängliche Mängel, soweit nicht die Voraussetzungen der Abs 1, 2 vorliegen.
+11.4 Die vorstehende Haftungsbeschränkung gilt auch für die persönliche Haftung der Mitarbeiter,
+Vertreter und Organe von Alasco. Alasco haftet nicht für mittelbare Schäden, Folgeschäden oder
+entgangenen Gewinn.
+11.5 Die Haftungsbeschränkungen dieser Ziffer 11 gelten rechtsgrundunabhängig für alle
+Schadensersatz- und Aufwendungsersatzansprüche im Zusammenhang mit diesen AGB.
+12. SCHUTZRECHTE DRITTER
+12.1 Sollten Dritte gegen den Kunden aufgrund der vertragsgemäßen Nutzung der Software oder
+anderer von Alasco erbrachter Leistungen durch den Kunden Ansprüche wegen einer Urheber-,
+Patent- oder Markenrechtsverletzung durch die Software geltend machen ("Drittansprüche"), so
+gilt ausschließlich Folgendes:
+(a) Der Kunde hat Alasco unverzüglich von dem Drittanspruch zu unterrichten und nach
+Vorgaben von Alasco solchen Drittansprüchen außergerichtlich und gerichtlich
+entgegenzutreten. Alasco wird den Kunden bei der Abwehr von Drittansprüchen
+unterstützen.
+(b) Falls der Kunde durch die Vollziehung einer einstweiligen Verfügung oder durch Urteil zur
+Unterlassung der Nutzung der Software/Leistung verpflichtet ist, die Vollstreckung aus
+einem solchen Titel angedroht wird und der Kunde die erforderlichen Abwehrmaßnahmen
+im Einvernehmen mit Alasco ergriffen hat, oder falls Alasco dies aus sonstigen Gründen
+für zweckmäßig hält, wird Alasco dem Kunden ohne Zusatzkosten für den Kunden ein
+entsprechendes Nutzungsrecht vermitteln oder die Software/Leistung auf eigene Kosten
+binnen angemessener Frist durch eine im Wesentlichen gleichwertige Lösung ersetzen.
+Falls diese Alternativen in angemessener Zeit oder zu nach Ermessen von Alasco
+zumutbaren Bedingungen nicht realisiert werden können, ist Alasco berechtigt, diese
+AGB mit einer Frist von zwei Wochen zu kündigen.
+12.2 Diese Ziffer 12 regelt in Verbindung mit Ziffer 11 die Rechte des Kunden im Zusammenhang mit
+Drittansprüchen abschließend. Darüberhinausgehende gesetzliche Rechte des Kunden sind
+ausgeschlossen. Verletzt der Kunde seine Pflichten aus Ziffer 12.1(a), ist eine Haftung von Alasco
+für die vom Dritten geltend gemachte Urheber-, Patent- oder Markenrechtsverletzung durch die
+Software/Leistung ausgeschlossen.
+13. HÖHERE GEWALT
+13.1 In den Fällen, in denen einer der beiden Parteien die Erfüllung von Vertragspflichten auf Grund
+höherer Gewalt nicht möglich oder zumutbar ist, bestehen insoweit keine Schadenersatz- oder
+sonstige Ansprüche oder Rechte (einschließlich Gestaltungsrechten, Einwendungen oder
+Einreden) der jeweils anderen Partei. Die von der Einwirkung der höheren Gewalt jeweils
+betroffene Partei wird jedoch alle angemessenen Maßnahmen ergreifen, um die Auswirkungen
+des Ereignisses höherer Gewalt für die jeweils andere Partei und die ihr obliegenden
+Vertragspflichten so gering und so kurz wie möglich zu halten und gleichzeitig die eigene
+Leistungsfähigkeit so weit wie möglich aufrechtzuerhalten. Diejenige Partei, die auf Grund eines
+Ereignisses höherer Gewalt an der Erfüllung von Vertragspflichten gehindert ist, hat die jeweils
+andere Partei hiervon unverzüglich zu unterrichten. Die Partei hat ferner unverzüglich nach
+Wegfall der Einwirkung höherer Gewalt diejenigen Leistungen vertragsgemäß nachzuholen, an
+deren Erbringung sie durch und während der Einwirkung höherer Gewalt gehindert war.
+13.2 Als höhere Gewalt gilt jedes nicht von der jeweils betroffenen Partei zu vertretende und auch
+nicht durch vernünftigerweise zu erwartende Sorgfalt abwendbare Ereignis, das die jeweils
+betroffene Partei an der vertragsgemäßen Erfüllung ihrer Vertragspflichten ganz oder teilweise
+hindert, insbesondere Naturereignisse, Krieg, Terroranschläge, Fälle der Brandstiftung, objektive
+Unmöglichkeit der Beschaffung von Energie, Streiks oder rechtmäßige Aussperrungen.
+14. LAUFZEIT UND KÜNDIGUNG
+14.1 Diese AGB treten in dem in Ziffer 2.2 beschriebenen Zeitpunkt in Kraft. Soweit die Parteien im
+Rahmen der Beauftragung keine ausdrücklich abweichende Vereinbarung getroffen haben, gilt
+Folgendes:
+● Die Mindestlaufzeit beträgt ein Jahr ab der ersten Rechnung durch Alasco gem. Ziffer
+15.3.
+● Die Vertragslaufzeit verlängert sich automatisch um jeweils ein weiteres Jahr, sollte
+dieses nicht, unter Berücksichtigung der Kündigungsfrist schriftlich gekündigt werden.
+● Die Parteien können das Vertragsverhältnis ganz oder teilweise mit einer
+Kündigungsfrist von drei Monaten zum Ende der Vertragslaufzeit kündigen. Eine
+teilweise Kündigung ist nur in Form der Kündigung einzelner separat bepreister
+Leistungen möglich. Eine Kündigung oder anderweitige Beendigung einzelner
+Leistungen lässt den Bestand dieses Vertrages sowie der übrigen darunter vereinbarten
+Leistungen unberührt. Eine teilweise Kündigung einzelner Leistungen ist
+ausgeschlossen.
+14.2 Das Recht, dieses Vertragsverhältnis aus wichtigem Grund zu kündigen, bleibt in jedem Fall
+unberührt.
+14.3 Ein wichtiger Grund, der Alasco zur fristlosen Kündigung berechtigt, liegt insbesondere in
+folgenden Fällen vor:
+(a) Wenn der Kunde die Rechte der Alasco an der Software dadurch verletzt, dass er die ihm
+eingeräumten Nutzungsrechte überschreitet und diese Verletzung auf eine Abmahnung
+in Textform der Alasco hin nicht innerhalb der ihm in der Abmahnung gesetzten Frist
+abstellt;
+(b) Wenn der Kunde eine oder mehrere seiner Verpflichtungen aus Ziffern 8, 15, 17, 18 oder
+andere wesentliche Vertragspflichten verletzt und diese Verletzung – sofern heilbar –
+nicht innerhalb einer Frist von sieben Tagen nach Erhalt einer entsprechenden
+Abmahnung von Alasco heilt;
+(c) Wenn der Kunde die Eröffnung des Insolvenzverfahrens über sein Vermögen beantragt
+oder über sein Vermögen das Insolvenzverfahren eröffnet oder die Eröffnung mangels
+Masse abgelehnt wird;
+(d) Ein wichtiger Grund, der den Kunden zur fristlosen Kündigung berechtigt, liegt nur vor,
+wenn Alasco eine wesentliche Vertragspflicht unter diesen AGB nachhaltig verletzt und
+diese Verletzung nicht innerhalb einer angemessenen, mindestens zweiwöchigen Frist ab
+Erhalt einer entsprechenden schriftlichen Abmahnung des Kunden heilt bzw. – sofern die
+Verletzung nicht heilbar ist – für entstandene Schäden im Rahmen der Ziffer 11 Ersatz
+leistet und nachvollziehbar darlegt, dass Alasco angemessene Maßnahmen zur
+Abwendung vergleichbarer Verletzungen in der Zukunft getroffen hat.
+14.4 Kündigungen bedürfen zu ihrer Wirksamkeit der Schriftform.
+14.5 Mit Wirksamwerden der Kündigung hat der Kunde die Nutzung der Software bzw. der
+gekündigten Leistung einzustellen und Alasco wird dem Kunden keinen weiteren Zugang zur
+Software bzw. der gekündigten Leistung mehr gewähren.
+15. VERGÜTUNG
+15.1 Der Kunde zahlt an Alasco die im Auftrag vereinbarte Vergütung zuzüglich der jeweils
+anwendbaren gesetzlichen Umsatzsteuer, ohne Abzug.
+15.2 Bei einer Vertragsverlängerung, nach Ablauf der Mindestvertragslaufzeit, kann Alasco die
+Gebühren entsprechend der zu diesem Zeitpunkt gültigen Preisliste erhöhen. In einem solchen
+Fall benachrichtigt Alasco den Kunden mindestens dreißig (30) Tage vor der
+Vertragsverlängerung. Die neuen Gebühren gelten ab dem Beginn der Verlängerung als
+vereinbart, sofern der Kunde nicht vorher widerspricht. Wenn der Kunde der Gebührenerhöhung
+widerspricht, ist Alasco berechtigt, den Vertrag zum Ende der laufenden Vertragslaufzeit
+schriftlich zu kündigen. Hierauf wird Alasco den Kunden im Rahmen der Benachrichtigung
+hinweisen.
+15.3 Die Rechnungsstellung erfolgt ausschließlich elektronisch per E-Mail im Voraus zu den im
+Rahmen der Beauftragung vereinbarten Konditionen und zu dem im Auftrag genannten
+Zeitpunkten. Sofern im Auftrag keine andere Zahlungsfrist vereinbart ist, ist der
+Rechnungsbetrag vom Kunden unverzüglich, spätestens innerhalb von 14 Tagen nach
+Rechnungseingang zu begleichen. Vor Zahlung der Vergütung ist Alasco nicht zur
+Leistungserbringung verpflichtet.
+15.4 Eine Umstellung des Abrechnungszyklus von jährlich auf monatlich und umgekehrt ist dem
+Kunden nur zum Ende des Abrechnungszyklus möglich. Bei einer Umstellung des
+Abrechnungszyklus von jährlich auf monatlich behält sich Alasco vor, insbesondere aufgrund des
+damit einhergehenden administrativen Aufwandes, die Gebühren gegebenenfalls angemessen
+zu erhöhen.
+15.5 Sollte der Kunde mit der Zahlung von unbestrittenen Forderungen in Höhe von mehr als einer
+Monatsvergütung bzw. mehr als 1/12 einer Jahresvergütung in Verzug sein, kann Alasco nach
+vorheriger Mahnung mit angemessener Fristsetzung und Ablauf der Frist zur Sperrung den
+Zugang des Kunden zur Software ganz oder teilweise einschränken. Der Vergütungsanspruch
+von Alasco bleibt von der Sperrung unberührt. Der Zugang zur Software wird nach Begleichung
+der Rückstände unverzüglich wieder freigeschaltet. Das Recht zur Zugangssperrung besteht als
+milderes Mittel auch dann, wenn der Anbieter ein Recht zur außerordentlichen Kündigung hat.
+16. BESONDERHEITEN FÜR TESTZUGÄNGE UND FREIWILLIGE LEISTUNGEN
+16.1 Im Vorfeld einer umfassenden Lizensierung stellt Alasco dem Kunden auf ausdrücklichen
+Wunsch hin für einen gesondert zu vereinbarenden Zeitraum eine Test-Version der Software zur
+Verfügung.
+16.2 Während des Testzeitraumes ermöglicht Alasco dem Kunden, die im Auftrag spezifizierten
+Dienste von Alasco kostenfrei zu nutzen ("Leistungen"). Darüberhinausgehende Leistungen
+erbringt Alasco nicht.
+16.3 Der Testzeitraum beginnt mit dem im Auftrag genannten Datum und endet mit dem Ablauf des
+festgelegten Zeitraums, unabhängig davon, ob die Leistungen in diesem Zeitraum vom Kunden
+genutzt werden. Mit Ende des Testzeitraumes endet auch dieser Vertrag.
+16.4 Nach Maßgabe dieses Vertrags wird dem Kunden ermöglicht, die Leistungen zu nutzen,
+einschließlich der Speicherung von Inhalten wie u. a. Kundendaten, persönliche Aufzeichnungen,
+usw. Sollte der Kunde den Testzeitraum nicht verlängern bzw. in die kostenpflichtige Nutzung
+der Software übergehen, gehen sämtliche Daten, die während des Testzeitraumes gespeichert
+wurden, verloren und sind nicht wiederherzustellen.
+16.5 Alasco übernimmt keinerlei Gewährleistung oder Garantie, dass die Leistungen während der
+Testphase: (i) mit Hardware und Software des Kunden kompatibel sind; (ii) jederzeit oder zu
+bestimmten Zeiten uneingeschränkt zur Verfügung stehen; (iii) die Anforderungen oder sonstige
+spezielle Leistungs- oder Funktionsanforderungen des Kunden erfüllen; (iv) keine Datenverluste
+verursachen; (v) frei von Viren, Störungen oder anderen sicherheitsgefährdenden Komponenten
+sind.
+16.6 Gewährleistungsrechte stehen dem Kunden während des kostenfreien Testzugangs nicht zu.
+16.7 Eine Haftung von Alasco - gleich aus welchem Rechtsgrund - tritt nur ein, wenn der Schaden
+durch schuldhafte Verletzung einer vertragswesentlichen Pflicht verursacht wurde oder auf
+grobe Fahrlässigkeit oder Vorsatz von Alasco oder ihrer Erfüllungsgehilfen zurückzuführen ist.
+16.8 Haftet Alasco für die Verletzung einer vertragswesentlichen Pflicht, ohne dass grobe
+Fahrlässigkeit oder Vorsatz vorliegen, so ist die Haftung auf denjenigen Schaden begrenzt, mit
+dessen Entstehen Alasco bei Vertragsschluss aufgrund der dann bekannten Umstände
+typischerweise rechnen musste.
+16.9 Schadensersatzansprüche nach dem Produkthaftungsgesetz und wegen der Verletzung von
+Leben, Körper oder Gesundheit bleiben auch in Bezug auf die Testversion unberührt.
+16.10 Soweit Alasco dem Kunden freiwillige [kostenfreie] Leistungen zur Verfügung stellt, hat der
+Kunde auf ihre Erbringung keinen Anspruch. Alasco kann diese freiwilligen Leistungen jederzeit
+und ohne Vorankündigung einschränken oder einstellen. Bei einer möglichen Einschränkung oder
+Einstellung dieser Leistungen für den Kunden besteht weder ein Anspruch auf Minderung,
+Erstattung oder Schadensersatz noch ein Recht zur Kündigung aus wichtigem Grund.
+17. DATENSCHUTZ
+17.1 Die Parteien verpflichten sich, die anwendbaren Datenschutzgesetze einzuhalten. Insbesondere
+wird der Kunde alle datenschutzrechtlichen Verpflichtungen gegenüber seinen Kunden einhalten
+und diese entsprechend informieren.
+17.2 Alasco verarbeitet und nutzt personenbezogene Daten, auf die Alasco im Zusammenhang mit
+den Leistungen unter diesen AGB Zugriff hat, im Wege der weisungsgebundenen
+Auftragsverarbeitung (Art. 28 DS-GVO) für den Kunden. Die Parteien werden hierzu die dem
+Kunden von Alasco zur Verfügung gestellte Auftragsverarbeitungsvereinbarung abschließen.
+17.3 Soweit Alasco personenbezogene Daten von Kunden des Kunden auch für eigene Zwecke
+verarbeitet, werden die Parteien alle hierfür erforderlichen Vereinbarungen abschließen,
+insbesondere eine entsprechende Datenübertragungsvereinbarung.
+18. VERTRAULICHKEIT
+18.1 Die Parteien verpflichten sich, die ihnen im Zusammenhang mit diesen AGB sowie deren
+Durchführung bekannt werdenden Informationen ("vertrauliche Informationen") vertraulich zu
+behandeln, diese gegen unbefugten Zugriff Dritter zu schützen und diese insbesondere nicht
+ohne Einwilligung der anderen Partei Dritten zu offenbaren. Dies gilt insbesondere für sämtliche
+Informationen zu und im Zusammenhang mit der Software. Die Parteien werden vertrauliche
+Informationen der anderen Partei ausschließlich für die Zwecke der Durchführung dieser AGB
+verwenden.
+18.2 Eine Weitergabe von vertraulichen Informationen an Dritte ist zulässig, soweit dies zur
+Durchführung dieser AGB erforderlich ist. Die andere Partei ist hierüber, sofern gesetzlich
+zulässig, möglichst frühzeitig und vorab zu informieren. Die Parteien tragen für die Einhaltung
+dieser Vertraulichkeitsverpflichtung auch durch die von ihnen jeweils im Zusammenhang mit
+diesen AGB eingeschalteten Dritten Sorge, insbesondere ihre Arbeitnehmer und
+Subunternehmer. Subunternehmer sind schriftlich und in einer dieser Ziffer 18 vergleichbaren
+Weise auf die Vertraulichkeit zu verpflichten.
+18.3 Der Vertraulichkeitspflicht unterliegen nicht solche Informationen der anderen Partei, die
+(a) einer Partei vor Offenbarung durch die andere Partei bereits bekannt waren,
+(b) öffentlich bekannt sind oder ohne Verletzung der Ziffer 18.1 öffentlich bekannt werden,
+(c) unabhängig von diesen AGB selbständig und ohne Verwendung von vertraulichen
+Informationen der anderen Partei von einer Partei entwickelt wurden oder
+(d) einer Partei von einem Dritten ohne Verletzung einer gegenüber der anderen Partei
+bestehenden Vertraulichkeitsverpflichtung offenbart wurden.
+18.4 Jede der Parteien verpflichtet sich, den jeweils anderen Teil im Falle einer unzulässigen
+Weitergabe vertraulicher Informationen unverzüglich schriftlich in Kenntnis zu setzen.
+18.5 Die Vertraulichkeitspflichten gemäß dieser Ziffer 18 gelten über das Vertragsende hinaus ohne
+zeitliche Begrenzung.
+18.6 Alasco darf den Kunden und, soweit zutreffend, weitere im Vertrag aufgeführte Gesellschaften,
+z.B. vom Kunden gegründete oder mit ihm verbundene Projektgesellschaften, für
+Referenzzwecke, insbesondere im Rahmen des sog. „Partner Announcement“ zum Start der
+Vertragsbeziehung, verwenden. Der Kunde willigt ein, dass Alasco dazu berechtigt ist, den
+Kunden sowie die weiteren im Vertrag aufgeführten Gesellschaften unter Nennung des
+Firmennamens, Darstellung des Firmenlogos und Beschreibung der zu erbringenden Leistungen
+als Referenz zu benennen. Die Verwendung als Referenz umfasst insbesondere eine Nutzung auf
+sämtlichen Webseiten, Blogs und Social-Media-Kanälen (z.B. LinkedIn), die Alasco inhaltlich
+beherrschen kann. Überdies ist eine Nutzung für Pressemitteilungen, Printanzeigen auf
+Fachmessen, -konferenzen sowie bei Ausschreibungen und Präsentationen von der Nutzung als
+Referenz eingeschlossen.
+19. SCHLUSSBESTIMMUNGEN
+19.1 Alle zusätzlich vereinbarten Anlagen sind Bestandteil dieser AGB. Die Bestimmungen des
+Hauptteils dieser AGB (Ziffer 5 bis 19) gehen den Bestimmungen der Anlagen vor, sofern in den
+Anlagen nicht ausdrücklich und unter Bezugnahme auf die konkrete Bestimmung dieses
+Hauptteils, von der abgewichen werden soll, etwas anderes vereinbart wird oder in diesem
+Hauptteil ausdrücklich eine andere Regelung getroffen wird.
+19.2 Änderungen und Ergänzungen dieser AGB sowie der Verzicht auf sich aus diesen AGB
+ergebende Rechte bedürfen zu ihrer Wirksamkeit der Schriftform. Die Schriftform kann nicht
+durch die Textform ersetzt werden, soweit diese AGB nicht die Textform ausdrücklich für
+zulässig erklärt.
+19.3 Die Übertragung von Rechten und Pflichten aus diesen AGB durch eine Partei auf Dritte bedarf
+der schriftlichen Einwilligung der anderen Partei. Die Abtretbarkeit von Geldforderungen bleibt
+unberührt (§ 354a HGB).
+19.4 Diese AGB unterliegen deutschem Recht unter Ausschluss des Kollisionsrechts. Das
+UN-Übereinkommen über Verträge über den internationalen Warenkauf findet keine Anwendung.
+19.5 Alle Streitigkeiten, die sich im Zusammenhang mit diesen AGB oder über ihre Gültigkeit ergeben
+ist ausschließlicher Gerichtsstand München.
+19.6 Sollte eine Bestimmung dieser AGB oder eine später darin aufgenommene Bestimmung ganz
+oder teilweise nichtig sein oder werden oder sollte sich eine Lücke in diesen AGB herausstellen,
+wird dadurch die Wirksamkeit der übrigen Bestimmungen nicht berührt. Anstelle der nichtigen
+Bestimmung oder zur Ausfüllung der Lücke gilt mit Rückwirkung diejenige wirksame und
+durchführbare Regelung als vereinbart, die rechtlich und wirtschaftlich dem am nächsten kommt,
+was die Parteien gewollt haben oder nach dem Sinn und Zweck dieser AGB gewollt hätten, wenn
+sie diesen Punkt beim Abschluss der AGB bedacht hätten.
