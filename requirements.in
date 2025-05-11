@@ -8,5 +8,5 @@ python-docx
 requests
 openpyxl
 python-dotenv
-gensim>=4.3,<4.4
+gensim>=4.3.3
 transformers
