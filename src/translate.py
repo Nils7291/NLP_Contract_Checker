@@ -1,50 +1,46 @@
-import os
-import requests
-from dotenv import load_dotenv
 import pandas as pd
+import requests
+import os
 
-# .env-Datei laden
-load_dotenv()
+DEEPL_API_URL = "https://api-free.deepl.com/v2/translate"
+DEEPL_API_KEY = os.getenv("DEEPL_API_KEY")  # Stelle sicher, dass dein Key als Umgebungsvariable gesetzt ist
 
-# API-Key aus Umgebungsvariable
-DEEPL_API_KEY = os.getenv("DEEPL_API_KEY")
+def translate_text(text, target_lang="DE"):
+    if not text or not isinstance(text, str):
+        return text
 
-if not DEEPL_API_KEY:
-    raise ValueError("❌ Kein DEEPL_API_KEY gefunden. Bitte .env-Datei anlegen oder Umgebungsvariable setzen.")
-
-def translate_deepl(text, source_lang="EN", target_lang="DE"):
-    """
-    Übersetzt einen Text von Englisch nach Deutsch mit der DeepL API.
-    """
-    url = "https://api-free.deepl.com/v2/translate"
-    
-    headers = {
-        "Authorization": f"DeepL-Auth-Key {DEEPL_API_KEY}"
-    }
-
-    data = {
+    params = {
+        "auth_key": DEEPL_API_KEY,
         "text": text,
-        "source_lang": source_lang,
+        "source_lang": "EN",
         "target_lang": target_lang
     }
 
-    response = requests.post(url, headers=headers, data=data)
-    response.raise_for_status()  # raises an exception if the response code was 4xx/5xx
-    result = response.json()
-    return result["translations"][0]["text"]
+    try:
+        response = requests.post(DEEPL_API_URL, data=params)
+        response.raise_for_status()
+        result = response.json()
+        return result["translations"][0]["text"]
+    except requests.exceptions.HTTPError as e:
+        print(f"⚠️ Fehler bei Text: {text[:40]}... → {e}")
+        return text  # Gib den Originaltext zurück, wenn es schiefgeht
 
-def translate_english_documents(df, text_column="Content", lang_column="Sprache"):
-    """
-    Übersetzt alle Zeilen im DataFrame, bei denen Sprache 'EN' ist.
-    """
-    for idx, row in df.iterrows():
-        if str(row.get(lang_column)).strip().upper() == "EN":
-            original = row.get(text_column)
-            if pd.notna(original) and original.strip():
-                try:
-                    translated = translate_deepl(original)
-                    df.at[idx, text_column] = translated
-                    print(f"✅ Document {idx} erfolgreich übersetzt.")
-                except Exception as e:
-                    print(f"⚠️ Fehler bei Zeile {idx}: {e}")
+
+import time
+
+def translate_dataframe(df, text_column="Content", lang_column="Sprache", target_lang="DE"):
+    df = df.copy()
+    mask = df[lang_column] == "EN"
+
+    for idx in df[mask].index:
+        original_text = df.at[idx, text_column]
+        try:
+            translated = translate_text(original_text, target_lang)
+            df.at[idx, text_column] = translated
+        except Exception as e:
+            print(f"⚠️ Fehler bei Zeile {idx}: {e}")
+            # Optional: warte kurz, falls Rate-Limit
+            time.sleep(1)
+
     return df
+

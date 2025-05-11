@@ -1,0 +1,158 @@
+Geschäftsbedingungen der CSB-System SE für Rechenzentrumsleistungen (Cloud Services)
+Gegenstand dieser Bedingungen
+
+Die nachfolgenden Geschäftsbedingungen für die Erbringung von Rechenzentrumsdienstleistungen finden auf alle Vertragsbeziehungen zwischen CSB und dem jeweiligen Kunden im Zusammenhang mit der Erbringung von Rechenzentrumsleistungen Anwendung. 
+
+Die Geltung von Geschäfts- oder Einkaufsbedingungen des Kunden ist ausgeschlossen. Es gelten ausschließlich die Geschäftsbedingungen der CSB-System SE in ihrer jeweils aktuellen Form.
+
+1. Leistungsumfang
+
+1.1 CSB ermöglicht dem Kunden eine zeitlich beschränkte Servernutzung für den Betrieb der jeweils in den Produktscheinen genannten Software zur zentralen Verarbeitung und Speicherung seiner Daten. CSB wird hierfür in seinem deutschen Rechenzentrum in Geilenkirchen die erforderliche organisatorische und technische Infrastruktur zur Verfügung stellen und die Funktionen gemäß den vertraglichen Leistungsbeschreibungen für den Kunden bereitstellen und gebrauchstauglich und sicher halten. 
+
+1.2 Soweit nicht abweichend vereinbart, beinhalten die von CSB zu erbringenden Rechenzentrumsleistungen (Cloud Services) die Bereitstellung von IT-Infrastruktur (Speicherplatz, Rechenleistung oder Anwendungssoftware) als Dienstleistung über das Internet und/oder Standleitung. Hierzu betreibt die CSB-System SE ein eigenes Rechenzentrum am zentralen Standort in Geilenkirchen, in dem u. a. kundenspezifische IT-Umgebungen gehostet werden. Die Leistungen beinhalten eine regelmäßige Datensicherung, eine Wartung der Datenbanken, einen verschlüsselten Zugang sowie Notstromversorgung. Weitergehende Leistungen, insbesondere die Speicherung der gesicherten Daten über einen definierten Zeitraum, bedürfen einer gesonderten Vereinbarung.
+
+1.3 Die Bereitstellung der Leistungen während der Laufzeit des Nutzungsvertrages ist auf die Zeiten beschränkt, in der das System tatsächlich nutzbar ist. Sofern nicht vertraglich etwas anderes vereinbart ist, gelten die nachfolgenden Bereitstellungszeiten:
+
+Montag bis Freitag      	06:00-21:00 Uhr
+Samstag	06:00-12:00 Uhr
+
+Außerhalb der vorgenannten Bereitstellungszeiten ist das System grundsätzlich nutzbar, es können aber Wartungsarbeiten etc. durchgeführt werden. Wenn und soweit der Kunde außerhalb der vorgenannten Bereitstellungszeiten das CSB-Produkt trotzdem nutzt, besteht daher kein Rechtsanspruch auf störungsfreien Zugriff. Störungen außerhalb der vorgenannten Bereitstellungszeiten tangieren ggfs. garantierte Verfügbarkeitszeiten nicht. 
+
+1.4 CSB ist berechtigt, zur Erbringung der Rechenzentrumsleistungen Unterauftragnehmer und Erfüllungsgehilfen (Subunternehmer) einzusetzen.
+
+1.5 CSB räumt dem Kunden das Recht ein, die überlassenen Programme ausschließlich auf der im CSB-Rechenzentrum zur Verfügung gestellten IT-Infrastruktur mittels Internet oder Standleitung (Datenfernverbindung) zu nutzen. „Nutzen“ umfasst das Verwenden der Programme und der Datenbestände auf der zur Verfügung gestellten IT-Infrastruktur, die Ausführung der Programme, sowie die Verarbeitung der Datenbestände allein mittels der von CSB mietweise überlassenen Anwendungssoftware im CSB-Rechenzentrum.
+
+1.6 Der Kunde darf die Software nur für seine eigenen geschäftlichen Tätigkeiten durch eigenes Personal nutzen. Der Kunde nutzt die CSB-Anwendungen limitiert auf die in den Produktscheinen angegebene Gesamtanzahl der „Concurrent User“. Der Kunde nutzt die IT-Infrastruktur limitiert auf die physischen „Named User“. Avatare, Pseudonyme und Anonyme etc. sind nicht erlaubt.
+
+1.7 In den Vertragsunterlagen enthaltene technische Daten, Spezifikationen, Leistungsbeschreibungen und Leistungszusagen verstehen sich ausschließlich als Beschaffenheitsangaben und nicht als selbständige Garantien. Selbständige Garantieversprechen im Rechtssinne liegen nur vor, wenn diese ausdrücklich als „Garantie“ bezeichnet sind.
+
+2. Zugangs- und Verfügbarkeitszeiten
+
+2.1Die vertragsgegenständlichen Anwendungen und Dienste sind während der vertraglich vereinbarten Bereitstellungszeiten über Datenfernverbindungen im CSB-Rechenzentrum abrufbar. 
+
+2.2 Die Gesamtverfügbarkeit der vertragsgegenständlichen CSB-Anwendung beträgt innerhalb der vertraglich vereinbarten Bereitstellungszeiten mindestens 95 % im Jahresmittel.
+
+2.3 Aus der gem. Ziff. 2.2. zugesicherten Gesamtverfügbarkeitszeit sind die nachfolgenden Fälle ausdrücklich exkludiert:   
+
+CSB teilt zu Wartungszwecken mit einem Vorlauf von zwei Arbeitstagen die Unterbrechung des Zugangs zu den CSB-Anwendungen mit (vgl. geplante Nichtverfügbarkeit).
+Es müssen in Absprache mit dem Kunden dringend notwendige, nicht aufschiebbare Arbeiten am System vorgenommen werden.
+2.4 Bei einem nachgewiesenen Ausfall des Zugangs zu den Anwendungen und Diensten im CSB-Rechenzentrum, welcher keine Fallgestaltung gemäß Ziffer 2.3. darstellt und mehr als 12 Stunden ununterbrochen andauert, kann der Kunde eine Minderung der monatlichen Vergütung um 3 % pro Kalendertag der Nichtverfügbarkeit der Anwendungen geltend machen. Das Minderungsrecht besteht nicht, sofern und so weit CSB den Ausfall in dem betreffenden Monat nicht zu vertreten hat.
+
+2.5 Eine definierte Wiederherstellungszeit wird nicht zugesichert. 
+
+3. Preise und Zahlungsbedingungen 
+
+3.1 Die CSB-System SE stellt dem Kunden ASP-/Hosting-Services zur Verfügung. Darunter fallen zum Beispiel (Aufzählung nicht abschließend):
+
+Nutzung der RZ-Gebäude-Infrastruktur
+Nutzung der RZ-IT-Infrastruktur
+ASP-Basis-Lizenzierung (beinhaltet u. a. Administration, Monitoring und Service-Dienste)
+ASP-Datenbank-Wartung
+3.2 Die Preise für die oben aufgeführten sowie für eventuelle weitere Leistungen (z. B. SLA) werden jeweils individuell ermittelt und mit dem Kunden gesondert vereinbart.
+
+3.3 Alle genannten Preise verstehen sich zuzüglich der gesetzlichen Umsatzsteuer.
+
+3.4 Die Zahlung für die Nutzung der CSB-Software beginnt mit den vertraglich vereinbarten Zahlungsbedingungen. Die Zahlungsverpflichtung für die vertragsgegenständlichen Leistungen beginnt spätestens einen Monat nach Bereitstellung der IT-Infrastruktur gemäß Ziff. 1.2.
+
+4. Installationsvorbereitung, Installation und Lieferfristen
+
+4.1CSB wird dem Kunden die Systemvoraussetzungen für den Zugang zu seiner IT-Umgebung im CSB-Rechenzentrum mitteilen. Der Kunde verpflichtet sich, diese Systemvoraussetzungen entsprechend einzuhalten. Werden diese kundenseitig nicht eingehalten, besteht kein Rechtsanspruch auf störungsfreien Zugriff. 
+
+4.2 Die Kosten für die Installation werden von CSB gemäß ihrer aktuellen Preisübersicht für Dienstleistungen, Lieferungen und Leistungen in Rechnung gestellt. Zusätzlich erbrachte Dienstleistungen für die am Kundenstandort befindliche Hardware werden seitens CSB gemäß ihrer aktuellen Preisliste für Dienstleistungen, Lieferungen und Leistungen in Rechnung gestellt.
+
+4.3 Liefertermine oder -fristen für die Bereitstellung der Rechenzentrumsleistungen gelten nur dann als vereinbart, wenn sie von CSB schriftlich bestätigt worden sind. 
+
+5. Erteilung von Zugangsberechtigungen
+
+5.1 Die Erteilung von Zugangsberechtigungen erfolgt ausschließlich durch CSB und dient dem Schutz der Daten des Kunden vor unberechtigtem Zugriff. Die Festlegung von Zugangsberechtigungen erfolgt in Abstimmung mit dem Kunden. 
+
+5.2 Jeder Anwender, der eine Zugangsberechtigung erhält oder verliert, muss CSB namentlich mitgeteilt werden. Zugangsdaten dürfen seitens des Kunden Dritten nicht zugänglich gemacht werden und sind vom Kunden gegen unberechtigten Zugriff Dritter zu schützen. Einwahldaten über das Internet und sonstige Verbindungsmöglichkeiten unterliegen ebenso der Vertraulichkeit.
+
+6. Datensicherheit 
+
+6.1 CSB sichert in regelmäßigen Abständen die vom Kunden im Rechenzentrum gespeicherten Daten. Darüber hinaus wird CSB Vorkehrungen gegen Datenverlust bei Systemstörungen treffen. Zu diesem Zweck wird CSB regelmäßig Backups der Datenbanken durchführen. Zusätzlich erfolgt turnusmäßig alle drei Monate eine Archivierung der gesicherten Daten. Sofern andere Speicherbedingungen gewünscht werden, kann der Kunde hierfür ein separates Service-Level-Agreement mit CSB abschließen. 
+
+6.2 Sämtliche Systeme werden mittels einer aktuellen Anti-Malware-Software überwacht und durch einen aktuellen Malware-Scanner regelmäßig auf Schadsoftware überprüft. Der Kunde trägt seinerseits die Verantwortung für die Malware-Freiheit der von ihm in die CSB-Infrastruktur eingestellten Daten.
+
+7. Laufzeit und Vertragsbeendigung
+
+7.1 Die Nutzungsvereinbarung über die Rechenzentrumsleistungen kann von beiden Parteien in Textform mit einer Frist von sechs Monaten zum Ende eines Kalenderjahres, frühestens nach Ablauf von 60 Monaten, ordentlich gekündigt werden. Sofern neben dem Nutzungsvertrag gleichzeitig ein gesonderter Softwarewartungsvertrag gemäß den Geschäftsbedingungen von CSB abgeschlossen wird, endet der Nutzungsvertrag über die Rechenzentrumsleistungen mit Ablauf des Softwarewartungsvertrages ohne gesonderte Kündigung.
+
+7.2 Das Recht zur Kündigung aus wichtigem Grund bleibt unberührt, allerdings mit der Maßgabe, dass CSB bei Nichterfüllung der Leistungsverpflichtung nach vorheriger Abmahnung seitens des Kunden eine angemessene Frist zur Störungsbeseitigung eingeräumt werden muss.
+
+7.3 Ungeachtet der vorstehenden Regelung kann CSB den Vertrag ohne Einhaltung einer Frist kündigen, wenn der Kunde mit seiner Zahlungsverpflichtung für drei Monate in Verzug geraten ist und CSB den Kunden erfolglos unter Hinweis auf die bevorstehende Kündigung abgemahnt hat.
+
+8. Mitwirkungspflichten des Kunden
+
+8.1 Bei den Mitwirkungspflichten des Kunden handelt es sich um echte Vertragspflichten des Kunden.
+
+8.2 Der Kunde wird die für den Zugang zum Rechenzentrum benötigten Leistungen (z. B. WAN/LAN), Netzwerkkomponenten und die sonstige notwendige technische Infrastruktur bis zum Leistungsübergabepunkt, dem Router-Ausgang des CSB-Rechenzentrums, gemäß den Vorgaben von CSB in eigener Verantwortung beistellen.
+
+8.3 Sollte es bei der Nutzung der Rechenzentrumsleistungen zu Störungen kommen, so wird der Kunde CSB von diesen Störungen entsprechend Ziffer 8.9. unverzüglich in Kenntnis setzen.
+
+8.4 Der Kunde wird dafür Sorge tragen, dass die seinen Mitarbeitern zugeordneten Nutzungs- und Zugangsberechtigungen sowie Identifikations- und Authentifikations-Sicherungen vor dem Zugriff durch Dritte geschützt und nicht an Dritte weitergegeben werden. Insbesondere sind Benutzername und Passwort so aufzubewahren, dass der Zugriff auf diese Daten durch Dritte verhindert wird, um einen Missbrauch des Zugangs durch Dritte auszuschließen. Der Kunde verpflichtet sich, CSB unverzüglich zu informieren, sobald er davon Kenntnis erlangt, dass Dritte Zugangsdaten erlangt haben.
+
+8.5 Der Kunde versichert, dass er keine Inhalte auf dem vertragsgegenständlichen Speicherplatz speichern und einstellen wird, deren Bereitstellung, Veröffentlichung und Nutzung gegen Rechtsvorschriften, wie z. B. Strafrecht, Urheberrechte, Marken- und sonstige Kennzeichnungsrechte oder Persönlichkeitsrechte verstößt. Verstößt der Kunde gegen diese Pflicht, ist er zur Unterlassung des weiteren Verstoßes, zum Ersatz des CSB entstandenen und noch entstehenden Schadens sowie zur Freihaltung und Freistellung CSBs von Schadensersatz- und Aufwendungsersatzansprüchen Dritter, die durch den Verstoß verursacht wurden, verpflichtet. Die Freistellungsverpflichtung umfasst auch die Verpflichtung, CSB von Rechtsverteidigungskosten (Gerichts- und Anwaltskosten etc.) vollständig freizustellen. Sonstige Ansprüche CSBs, insbesondere zur Sperrung der Inhalte und zur außerordentlichen Kündigung, bleiben unberührt.
+
+8.6 Für jeden Fall der Zuwiderhandlung gegen vorstehende Verpflichtung ist der Kunde zur Zahlung einer angemessenen Vertragsstrafe verpflichtet, deren Höhe durch CSB zu bestimmen und zur Überprüfung durch das zuständige Gericht gestellt ist. Die Geltendmachung eines darüber hinausgehenden Schadens bleibt vorbehalten. 
+
+8.7 Die Einhaltung von Fristen und Terminen durch CSB setzt stets voraus, dass der Kunde seinen vertraglichen Verpflichtungen sowie seinen Mitwirkungspflichten rechtzeitig und vollständig nachkommt. Ansonsten verlängern sich vereinbarte Fristen und verschieben sich Termine automatisch zumindest um den der Verzögerung entsprechenden Zeitraum. Dies gilt insbesondere auch dann, wenn der Kunde nachträglich Anforderungen an die Projektorganisation, IT-Infrastruktur oder die Programmierung durch CSB stellt, die nicht bereits zum Zeitpunkt des Vertragsschlusses schriftlich vereinbart worden waren.
+
+8.8 Der Kunde wird auf Anforderung durch CSB insbesondere:
+
+während der Vertragslaufzeit in Textform einen verantwortlichen Projektleiter und einen Vertreter benennen, der alle für die Zwecke der Durchführung dieser Vereinbarung erforderlichen Entscheidungsbefugnisse und Vollmachten besitzt;
+dafür Sorge tragen, dass der verantwortliche Projektleiter und sein Vertreter hinreichende Kenntnisse in der Nutzung der implementierten Programme besitzen und im Zweifel nachweisen. Mangelmeldungen haben nur durch den verantwortlichen Projektleiter oder, in seiner Abwesenheit, durch seinen Vertreter zu erfolgen;
+CSB von Störungen bei der Nutzung des Rechenzentrums unverzüglich über den Hotline-Service in Kenntnis setzen; 
+bei Mängelmeldungen die aufgetretenen Symptome, das Programm sowie seine System- und Hardwareumgebung detailliert beobachten und CSB einen Mangel unter Angabe von für die Mangelbeseitigung zweckdienlichen Informationen, beispielsweise Anzahl der betroffenen User, Schilderung der System- und Hardwareumgebung sowie ggf. simultan geladener Drittsoftware und Unterlagen in Textform zur Verfügung stellen;
+den CSB-Mitarbeitern zur Erfüllung der vertraglichen Leistungen den Zugriff auf seine Rechner gewähren;
+unverzüglich die von CSB zur Mängelbeseitigung überlassenen Programme und/oder Programmteile (Patches, Bugfixes etc.) entsprechend den Anweisungen von CSB testen sowie die von CSB übermittelten Vorschläge und Handlungsanweisungen zur Mangelbehebung einhalten.
+9. Haftung
+
+9.1 Die Haftung von CSB ist ausgeschlossen, soweit nicht in den nachfolgenden Bestimmungen etwas Abweichendes geregelt ist.
+
+9.2 CSB haftet jeweils im Rahmen der gesetzlichen Bestimmungen unbeschränkt für Schäden
+
+a) aus der Verletzung des Lebens, des Körpers oder der Gesundheit, die auf einer vorsätzlichen oder fahrlässigen Pflichtverletzung bzw. sonst auf vorsätzlichem oder fahrlässigem Verhalten von CSB oder einem ihrer gesetzlichen Vertreter oder Erfüllungsgehilfen beruhen;
+b) wegen des Fehlens oder des Wegfalls einer zugesicherten Eigenschaft;
+c) die auf einer vorsätzlichen oder grob fahrlässigen Pflichtverletzung bzw. sonst auf vorsätzlichem oder grob fahrlässigem Verhalten CSBs oder eines ihrer gesetzlichen Vertreter oder Erfüllungsgehilfen beruhen.
+
+9.3 Soweit kein Fall gem. 9.2 vorliegt, gilt:
+
+a) CSB haftet unter Begrenzung auf Ersatz des vertragstypischen vorhersehbaren Schadens für solche Schäden, die auf einer fahrlässigen Verletzung von wesentlichen Pflichten durch CSB oder einen ihrer gesetzlichen Vertreter oder Erfüllungsgehilfen beruhen. Wesentliche Pflichten sind Pflichten, deren Erfüllung die ordnungsgemäße Durchführung des Vertrags überhaupt erst ermöglichen und auf deren Einhaltung der Kunde vertrauen darf.
+b) Bei leicht fahrlässigem Verhalten haftet CSB im Übrigen nicht.
+c) Die verschuldensunabhängige Haftung von CSB für bereits bei Vertragsschluss vorhandene Mängel der Software gemäß § 536 a I, Alt. 1 BGB ist ausgeschlossen.
+
+9.4 Die Haftung nach dem Produkthaftungsgesetz bleibt von den Haftungsausschlüssen und -beschränkungen unberührt.
+
+10. Höhere Gewalt
+
+10.1 CSB wird in Fällen von höherer Gewalt, zum Beispiel bei Arbeitskampf, Aufruhr, Blockade, Boykott, Brand, Bürgerkrieg, Cyberangriffen, Epidemien und Pandemien, Embargo, Geiselnahmen, Krieg, Naturkatastrophen und Unwettern, Reaktorunfällen, Revolution, Sabotage, Streik, Terrorismus, behördlichen Sanktionen und Eingriffen, Verzögerungen in der Anlieferung wesentlicher Komponenten und Rohstoffe oder Energieversorgungsschwierigkeiten, für die Dauer der Störung und im Umfang ihrer Wirkung von den Leistungspflichten befreit. Dies gilt auch, wenn diese Ereignisse zu einem Zeitpunkt eintreten, in dem sich CSB in Verzug befindet, es sei denn, dass CSB den Verzug vorsätzlich oder grob fahrlässig verursacht hat. 
+
+10.2 CSB verpflichtet sich im Fall höherer Gewalt, den Kunden im Rahmen des Zumutbaren unverzüglich darüber zu informieren und die Verpflichtungen den veränderten Verhältnissen nach Treu und Glauben anzupassen.
+
+10.3 Wird durch die höhere Gewalt die Leistung unmöglich, so ist CSB von seiner Leistungsverpflichtung frei. 
+
+11. Datenschutz
+
+11.1 CSB wird personenbezogene Daten nur nach Maßgabe der jeweils einschlägigen gesetzlichen Bestimmungen verarbeiten. CSB nutzt die vom Kunden zum Zweck der vertragsgegenständlichen Leistungen überlassenen Daten im Wege einer weisungsgebundenen Auftragsverarbeitung. Der Kunde behält die volle Kontrolle über die von CSB für den Kunden zu verarbeitenden Daten. CSB wird auf Verlangen des Kunden mit diesem eine gesonderte Vereinbarung über die Durchführung einer Auftragsverarbeitung schließen.
+
+11.2 CSB wird Weisungen des Kunden beachten, welche sich auf die Beachtung der Datenschutzvorschriften beziehen. CSB wird die bei der Leistungserbringung vom Kunden erhaltenen Daten ausschließlich nach den Weisungen des Kunden verarbeiten.
+
+11.3 Zur Gewährleistung der Sicherheit und Vertraulichkeit der Daten wird CSB die erforderlichen technischen und organisatorischen Maßnahmen treffen und aufrechterhalten.
+
+11.4 Nach Beendigung des Nutzungsvertrages wird CSB die für den Kunden verarbeiteten Daten dem Kunden in einem marktüblichen Format auf elektronischen Datenträgern herausgeben und/oder online übertragen.
+
+11.5 Sofern CSB zur Leistungserbringung Subunternehmer einsetzt, die personenbezogene Daten des Kunden verarbeiten, wird CSB durch entsprechende Vereinbarung mit den Subunternehmern sicherstellen, dass der Subunternehmer die Datenschutzvorschriften in gleicher Weise beachtet.
+
+12. Sonstige Vereinbarungen, anwendbares Recht, Erfüllungsort und Gerichtsstand
+
+12.1 Auf die vertraglichen Vereinbarungen der Parteien ist ausschließlich das Recht der Bundesrepublik Deutschland, unter Ausschluss des UN-Kaufrechts, anwendbar.
+
+12.2 Erfüllungsort ist Geilenkirchen, Deutschland. Gerichtsstand für alle Streitigkeiten aus der gegenwärtigen und zukünftigen geschäftlichen Beziehung der Parteien, gleich aus welchem Rechtsgrund, ist Düsseldorf, Deutschland, jedoch behält sich CSB vor, Klage am allgemeinen Gerichtsstand des Kunden zu erheben.
+
+12.3 Im Übrigen finden die Regelungen der 
+
+Geschäftsbedingungen der CSB-System SE für Überlassung von Software sowie Erbringen von Dienst- und Wartungsleistungen
+Geschäftsbedingungen der CSB-System SE für Hardwarekauf und Hardwarewartung
+Preisübersicht für Dienstleistungen, Lieferungen und Leistungen
+in ihrer jeweils aktuellen Fassung entsprechende Anwendung.

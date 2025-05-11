@@ -1,0 +1,166 @@
+Allgemeine Verkaufs‐ und Lieferbedingungen der A+W Software GmbH
+§ 1 Allgemeines
+(1) Für unsere Lieferungen und Leistungen, insbesondere für unsere Softwarelieferungen und ‐lizenzierungen gelten – sofern der Besteller Unternehmer, juristische Person des öffentlichen Rechts oder öffentlich‐rechtliches Sondervermögen ist – zusätzlich zum jeweiligen Vertrag und diesem im Rang nachgehend die nachstehenden Bedingungen. Diese Bedingungen gelten auch für alle zukünftigen Lieferungen an den Besteller.
+
+(2) Von den nachfolgenden oder den gesetzlichen Regelungen abweichende Bestimmungen – insbesondere in Einkaufsbedingungen des Bestellers – sind für uns nur verbindlich, sofern sie von uns schriftlich bestätigt wurden. Die vorbehaltlose Lieferung von Produkten, Leistung von Diensten oder Entgegennahme von Zahlungen durch uns bedeutet kein Anerkenntnis abweichender Bestimmungen.
+
+(3) Bei Software ist der Quellcode (Source Code) nicht Teil des Vertragsgegenstandes.
+
+(4) Für die Beschaffenheit der von uns gelieferten Produkte ist die bei Versand der Vertragsgegenstände gültige und dem Besteller zur Verfügung gestellte Leistungsbeschreibung abschließend maßgeblich, die auch in der Anwendungsdokumentation noch einmal beschrieben ist. Eine darüber hinausgehende Beschaffenheit, insbesondere von Software, schulden wir nicht.
+
+§ 2 Vertragserklärungen
+Unsere Angebote sind bezüglich Preis, Menge, Lieferfrist, Liefermöglichkeit, technischer Daten, Spezifikationen und Qualitätsbeschreibungen freibleibend; ein Vertrag kommt erst durch unsere Auftragsbestätigung in Schriftform oder per E‐Mail zustande oder wenn Bestellungen von uns ausgeführt worden sind. Sofern nicht anders vereinbart, ist das Datum der Auftragsbestätigung das Vertragsdatum. Änderungen, Ergänzungen und/oder die Aufhebung eines Vertrages oder dieser Bedingungen bedürfen ebenfalls der Schriftform oder E‐Mail. Dies gilt auch für die Aufhebung dieses Formerfordernisses.
+
+§ 3 Preise
+(1) Unsere Preise und Lizenzvergütungen (nachfolgend: „Preise“) gelten „ab Werk“ (EXW – INCOTERMS 2010), zzgl. Kosten für Verpackung, Versicherung, Umsatzsteuer, Installation und Schulung, die wir nach unserer jeweils aktuellen Preisliste berechnen.
+
+(2) Liegt der Liefer‐ oder Leistungstermin später als drei Monate nach Vertragsschluss, sind wir berechtigt, nach rechtzeitiger Benachrichtigung des Bestellers und vor Ausführung der Leistung oder Auslieferung der Ware, den Preis der Ware oder Leistung in der Weise anzupassen, wie es aufgrund der allgemeinen außerhalb unserer Kontrolle stehenden Preisentwicklung erforderlich (wie etwa Wechselkursschwankungen, Währungsregularien, Zolländerungen, deutlicher Anstieg von Material‐ oder Herstellungskosten) oder aufgrund der Änderung von Zulieferern nötig ist. Bei Lieferungen oder Leistungen innerhalb von drei Monaten gilt in jedem Fall der am Tag des Vertragsabschlusses gültige Preis.
+
+§ 4 Zahlung
+(1) Soweit nicht anders vereinbart hat der Besteller den Preis netto innerhalb von 14 Tagen nach Rechnungserstellung an uns ohne Abzüge zu zahlen. Nach Ablauf der Frist kommt der Besteller gemäß § 286 Abs. 2 Nr. 2 BGB in Verzug. In diesem Fall können wir Verzugszinsen gemäß § 288 BGB fordern.
+
+(2) Zahlungen für Wartungs‐ und Supportleistungen sind vor Beginn der Wartungsperiode zu leisten.
+
+(3) Wir können Abschlagszahlungen oder Vorkasse fordern.
+
+§ 5 Lieferungen, Leistungsort, höhere Gewalt
+(1) Sofern nicht anders vereinbart, erfolgt die Lieferung „ab Werk bzw. Lieferzentrum“ (EXW – INCOTERMS 2010). Teillieferungen sind zulässig, soweit ein wichtiger Grund für diese gegeben ist und keine zwingenden Interessen des Bestellers diesen entgegenstehen.
+
+(2) Software wird, sofern nicht anders vereinbart, in der bei Auslieferung aktuellen Fassung geliefert.
+
+(3) Wir bewirken die Lieferung von Software, indem wir nach unserer Wahl entweder (i) dem Besteller eine (1) Programmkopie der Software auf maschinenlesbarem Datenträger, sowie 1 Exemplar der Anwendungsdokumentation überlassen oder (ii) die Software im Netz abrufbar bereitstellen und dies dem Besteller mitteilen, sowie ihm 1 Exemplar der Anwendungsdokumentation überlassen.
+
+(4) Für die Einhaltung von Lieferterminen und den Gefahrübergang bei Softwareverkäufen ist bei körperlichem Versand der Zeitpunkt maßgeblich, in dem wir die Software und Anwendungsdokumentation dem Transporteur übergeben, ansonsten der Zeitpunkt, in dem die Software im Netz abrufbar bereitgestellt ist und wir dies dem Besteller mitteilen.
+
+(5) Sofern vereinbart ist, dass wir die Installation und/oder die Implementierung der Software beim Käufer vornehmen, ist der nach Abs. (4) maßgebliche Zeitpunkt die vollständige Übermittlung der Software in das System des Kunden.
+
+(6) Solange wir (i) auf die Mitwirkung oder Informationen des Käufers warten oder (ii) durch höhere Gewalt, wie insbesondere, aber nicht abschließend Streiks oder Aussperrungen in Drittbetrieben oder in unserem Betrieb, behördliches Eingreifen, gesetzliche Verbote oder andere unverschuldete Umstände in unseren Leistungen behindert sind, gelten Liefer‐ und Leistungsfristen um die Dauer der Behinderung und um eine angemessene Anlaufzeit nach Ende der Behinderung (,,Ausfallzeit“) als verlängert und es liegt für die Dauer der Ausfallzeit keine Pflichtverletzung vor. Wir werden dem Käufer derartige Behinderungen und ihre voraussichtliche Dauer unverzüglich mitteilen. Dauert die höhere Gewalt ununterbrochen länger als 3 Monate an, können beide Parteien den Vertrag außerordentlich kündigen.
+
+§ 6 Liefertermine, Verzug, Softwarepflege
+(1) Von uns angegebene Lieferzeiten gelten nur annähernd, sofern nicht ausdrücklich schriftlich etwas anderes vereinbart wurde. Sie stehen unter dem Vorbehalt der rechtzeitigen Selbstbelieferung durch unsere Zulieferer.
+
+(2) Der Beginn der von uns angegebenen Lieferzeit setzt die Abklärung aller technischen Fragen sowie die rechtzeitige und ordnungsgemäße Erfüllung der Verpflichtungen des Bestellers voraus.
+
+(3) Wird ein vereinbarter Liefertermin aus von uns zu vertretenden Gründen überschritten, so hat uns der Besteller schriftlich eine Nachfrist von mindestens zwei Wochen zu setzen. Erfolgt die Lieferung nicht und will der Besteller deswegen von dem Vertrag zurücktreten oder Schadenersatz statt der Leistung verlangen, ist er verpflichtet, uns dies zuvor ausdrücklich schriftlich mit einer angemessenen weiteren Nachfrist anzudrohen. Der Besteller ist verpflichtet, auf unser Verlangen innerhalb einer angemessenen Frist zu erklären, ob er wegen der Verzögerung der Lieferung vom Vertrag zurücktritt und/oder Schadensersatz statt der Leistung verlangt oder auf der Lieferung besteht.
+
+(4) Die Pflege der Software übernehmen wir nur aufgrund eines gesondert zu vereinbarenden Softwarepflegevertrages. Sofern nicht anders vereinbart, beginnt der Pflegevertrag mit dem in § 5 Absatz (4) bestimmten Zeitpunkt.
+
+(5) Die Einhaltung der Service Levels wird mit 90% garantiert (12‐Monats‐Durchschnitt über alle Kategorien).
+
+(6) Sagt der Besteller einen von uns mit der „Vereinbarung Projekteinsatz (work authorization)“ bestätigten Termin für die Erbringung von A+W Leistungen aus von ihm zu vertretenden Gründen ab, berechnen wir dem Besteller nachfolgende Gebühren basierend auf den vereinbarten Kostensätzen:
+
+Terminabsage länger als 2 Wochen vor dem Einsatz 0%
+Terminabsage innerhalb von 2 Wochen vor dem Einsatz 50%
+Terminabsage einen Tag vor dem Einsatz 75%
+Stornierungsgebühren von bereits gebuchten Fremdleistungen wie z. B. Flugtickets oder Hotelbuchungen werden auf Nachweis voll in Rechnung gestellt. Dem Besteller bleibt es unbenommen, einen niedrigeren Schaden nachzuweisen.
+
+§ 7 Nutzungsrechte bei Software
+(1) Soweit nachfolgend nicht anders geregelt, verbleiben sämtliche Rechte an Software einschließlich für den Besteller erstellter Modifikationen, insbesondere Urheber‐ und Nutzungsrechte sowie gewerbliche Schutzrechte bei uns oder unseren Erfüllungsgehilfen.
+
+(2) Vorbehaltlich einer anderweitigen Vereinbarung räumen wir dem Besteller an Software ein einfaches, zeitlich unbeschränktes Nutzungsrecht an den Vertragsgegenständen zur Einzel‐ und Mehrplatznutzung ein, jedoch nur für die zwischen den Parteien vereinbarte Betriebsstätte, in der die Vertragsgegenstände verwendet werden sollen. Ohne ausdrückliche Vereinbarung wird das Nutzungsrecht ausschließlich für die Betriebsstätte an dem Standort eingeräumt, an dem der Besteller seinen Verwaltungssitz hat. Dieses Nutzungsrecht darf gleichzeitig nur von maximal der Anzahl natürlicher Personen ausgeübt werden, für die der Besteller den Kaufpreis gemäß Ziffer 3 entrichtet hat.
+
+(3) Der Besteller darf die Software nur zu dem Zweck einsetzen, seine internen Geschäftsvorfälle und die von solchen Unternehmen abzuwickeln, die mit ihm iS des § 15 AktG verbunden sind (,,Konzernunternehmen“). Insbesondere (i) ein Rechenzentrumsbetrieb für Dritte oder (ii) das vorübergehende Zur‐Verfügung‐Stellen der Software (z. B. als Application Service Providing) für andere als Konzernunternehmen oder (iii) die Nutzung der Software zur Schulung von Personen, die nicht Mitarbeiter des Bestellers oder seiner Konzernunternehmen sind, sind nur nach unserer vorherigen schriftlichen Zustimmung zulässig. Die gewerbliche Weitervermietung ist generell untersagt.
+
+(4) Vervielfältigungen der Software sind nur insoweit zulässig, als dies für den vertragsgemäßen Gebrauch notwendig ist. Der Besteller darf von der Software Sicherungskopien nach den Regeln der Technik im notwendigen Umfang anfertigen. Sicherungskopien auf beweglichen Datenträgern sind als solche zu kennzeichnen und mit dem Urheberrechtsvermerk des Originaldatenträgers zu versehen. Hat der Besteller die Software im Wege des Online‐Download erworben, ist er berechtigt, die Software auf einen Datenträger zu kopieren. Im Übrigen entspricht unser Recht an der Online‐Kopie dem eines Bestellers an einer auf Datenträger erhaltenen Software.
+
+(5) Der Besteller ist zu Änderungen, Erweiterungen und sonstigen Umarbeitungen der Software i. S. des § 69 c Nr. 2 UrhG nur insoweit befugt, als das Gesetz solches unabdingbar erlaubt.
+
+(6) Der Besteller ist zur Dekompilierung der Software nur in den Grenzen des § 69 e UrhG berechtigt und erst, wenn wir nach schriftlicher Aufforderung mit angemessener Fristsetzung nicht die notwendigen Daten und/oder Informationen zur Verfügung gestellt haben, um Interoperabilität mit anderer Hard‐ und Software herzustellen.
+
+(7) Überlassen wir dem Besteller im Rahmen von Nachbesserung oder Pflege Ergänzungen (z. B. Patches, Ergänzungen des Bedienerhandbuches) oder eine Neuauflage des Vertragsgegenstandes (z. B. Update, Upgrade), die früher überlassene Vertragsgegenstände (,,Altsoftware“) ersetzen, unterliegen diese den Bestimmungen dieser Vereinbarung.
+
+(8) Stellen wir eine Neuauflage des Vertragsgegenstandes zur Verfügung, so erlöschen in Bezug auf die Altsoftware die Befugnisse des Bestellers nach diesem Vertrag auch ohne unser ausdrückliches Rückgabeverlangen, sobald der Besteller die neue Software produktiv nutzt. Der Verkäufer räumt dem Besteller jedoch eine dreimonatige Übergangsphase ein, in der beide Versionen der Vertragsgegenstände nebeneinander genutzt werden dürfen.
+
+(9) Eine Vervielfältigung oder Umarbeitung der Anwendungsdokumentation ist – vorbehaltlich der Regelungen in Abs. 3 und 4 (soweit die Dokumentation in die Software integriert ist) – nicht gestattet.
+
+(10) Optional stellen wir dem Kunden die Datenbank Software Microsoft SQL Server 2014 Standard zur Verfügung. Diese Software wird vom Drittanbieter „Microsoft“ zur Verfügung gestellt. Preiserhöhungen dieses Anbieters werden dem Kunden weiterberechnet. A+W behält sich das Recht vor, die Überlassung dieser Datenbanken binnen Jahresfrist zu kündigen.
+
+§ 8 Eigentumsvorbehalt
+(1) Verkaufte Ware bleibt bis zur Erfüllung sämtlicher Forderungen aus der Geschäftsbeziehung unser Eigentum.
+
+(2) In Bezug auf Softwarelieferungen gilt vorrangig das Folgende: Die Einräumung der unter Ziffer 7 genannten Nutzungsrechte ist aufschiebend bedingt durch die vollständige Begleichung unserer sämtlichen Vergütungsansprüche aus diesem Vertragsverhältnis. Bei Pfändungen, Beschlagnahmen oder sonstigen Verfügungen oder Eingriffen Dritter hat der Besteller uns unverzüglich zu benachrichtigen. Bei Pflichtverletzungen des Bestellers, insbesondere bei Zahlungsverzug, sind wir nach erfolglosem Ablauf einer dem Besteller gesetzten angemessenen Frist zur Leistung zum Rücktritt berechtigt; die gesetzlichen Bestimmungen zur Entbehrlichkeit einer Fristsetzung bleiben unberührt.
+
+§ 9 Ende des Nutzungsrechts an Software
+In allen Fällen der Beendigung seiner Nutzungsberechtigung (z. B. durch Rücktritt, Nachlieferung) gibt der Besteller alle Lieferungen der Software unverzüglich heraus und löscht sämtliche Kopien, soweit er nicht gesetzlich zu längerer Aufbewahrung verpflichtet ist. Die Erledigung versichert er uns gegenüber schriftlich. Die Regelung in Ziffer 7 Abs. 6 bleibt unberührt.
+
+§ 10 Nichtübertragbarkeit von Nutzungsrechten an Software
+Sofern wir dem Besteller Nutzungsrechte an Software einräumen, so sind diese nicht übertragbar, sofern nichts anderes ausdrücklich schriftlich vereinbart wurde. Die Überlassung von Software an Dritte ist untersagt, dies gilt auch für die nur vorübergehende Überlassung sowie für die entgeltliche oder unentgeltliche Überlassung der Nutzung an Dritte, gleich ob die Vertragsgegenstände in körperlicher oder unkörperlicher Form überlassen werden. In jedem Fall ist der zugrundeliegende Vertrag kündbar, sofern eine unberechtigte Überlassung erfolgt. Gleiches gilt für den Fall, dass sich die Mehrheitsverhältnisse am Kunden dergestalt ändern, dass ein Wettbewerber von A+W mittelbar oder unmittelbar die Stimmenmehrheit am Kunden erlangt.
+
+§ 11 Mitwirkungs‐ und Informationspflichten des Käufers
+(1) Der Besteller hat sich über die wesentlichen Funktionsmerkmale der Vertragsprodukte selbst zu informieren und trägt das Risiko, ob diese seinen Wünschen und Bedürfnissen entsprechen.
+
+(2) Die Einrichtung einer funktionsfähigen – und auch unter Berücksichtigung der zusätzlichen Belastung durch die Vertragsgegenstände ausreichend dimensionierten – Hard‐ und Softwareumgebung liegt in der alleinigen Verantwortung des Bestellers.
+
+(3) Der Besteller testet Software vor deren Einsatz gründlich auf Mangelfreiheit und auf Verwendbarkeit in der bestehenden Hard‐ und Softwarekonfiguration. Dies gilt auch für Software, die er im Rahmen der Gewährleistung und der Pflege erhält. Der Besteller hat hierzu vier Wochen nach Bereitstellung der Software Zeit. Meldet der Besteller innerhalb dieser Frist keine Mängel oder gibt keine Rückmeldung zur Verwendbarkeit der Software, gelten die Vertragsprodukte als genehmigt und ordnungsgemäß bereitgestellt. Dieser Ausschluss gilt nicht, wenn ein verdeckter Mangel i. S. d. § 377 Abs. 2 HGB vorliegt. In diesem Fall ist die Anzeige unverzüglich nach der Entdeckung zu erstatten, andernfalls gilt die Software/Vertragsprodukte als genehmigt.
+
+(4) Der Besteller beachtet unsere für Installation und Betrieb der Vertragsprodukte gegebenen Hinweise; er wird sich in regelmäßigen Abständen auf den über das Internet unter https://www.a‐w.com/de/ zugänglichen Webseiten über aktuelle Hinweise informieren und diese beim Betrieb berücksichtigen.
+
+(5) Soweit uns über die Bereitstellung der Vertragsgegenstände hinaus weitere Leistungspflichten obliegen, wirkt der Besteller hieran im erforderlichen Umfang unentgeltlich mit, indem er z. B. Mitarbeiter, Arbeitsräume, Hard‐ und Software, Daten und Telekommunikationseinrichtungen zur Verfügung stellt.
+
+(6) Der Besteller gewährt uns zur Fehlersuche und ‐behebung Zugang zu den Vertragsgegenständen, insbesondere zu Software, nach Wahl des Bestellers unmittelbar und/oder mittels Datenfernübertragung. Wir sind berechtigt zu prüfen, ob die Vertragsgegenstände in Übereinstimmung mit den Bestimmungen dieses Vertrages genutzt werden. Zu diesem Zweck dürfen wir vom Besteller Auskunft verlangen, insbesondere über Zeitraum und Umfang der Nutzung der Vertragsgegenstände, sowie Einsicht in die Bücher und Schriften, sowie die Hard‐ und Software des Bestellers nehmen. Uns ist hierfür zu den üblichen Geschäftszeiten Zutritt zu den Geschäftsräumen des Bestellers zu gewähren.
+
+(7) Der Besteller übernimmt als wesentliche Vertragspflicht, Daten und Programme in anwendungsadäquaten Intervallen, mindestens einmal täglich, in maschinenlesbarer Form zu sichern und damit zu gewährleisten, dass diese mit vertretbarem Aufwand wiederhergestellt werden können.
+
+(8) Soweit der Besteller nicht ausdrücklich vorab darauf hinweist, dürfen wir davon ausgehen, dass alle Daten des Bestellers, mit denen wir in Berührung kommen können, entsprechend gesichert sind.
+
+(9) Der Besteller trägt Nachteile und Mehrkosten aus einer Verletzung dieser Pflichten.
+
+§ 12 Mängelhaftung
+(1) Der Besteller kann wegen Mängeln unserer Lieferung und Leistung keine Rechte geltend machen, soweit der Wert oder die Tauglichkeit unserer Lieferung und Leistung lediglich unerheblich gemindert ist.
+
+(2) Soweit unsere Lieferung und Leistung mangelhaft ist und dies vom Besteller rechtzeitig schriftlich gem. § 377 HGB beanstandet wurde, werden wir nach unserer Wahl und auf unsere Kosten nachliefern oder nachbessern (Nacherfüllung). Hierzu ist uns Gelegenheit innerhalb angemessener Frist von mindestens 28 Kalendertagen zu gewähren. Dies gilt nicht, soweit die Verjährungsfrist gem. § 14 Abs. (1) bereits abgelaufen ist; in diesem Fall sind unsere Service‐ oder Nacherfüllungsarbeiten vom Besteller nach unserer zu diesem Zeitpunkt gültigen Preisliste zu vergüten.
+
+(3) Der Besteller kann Ersatz für die zum Zweck der Nacherfüllung erforderlichen Aufwendungen verlangen, sofern die Aufwendungen sich nicht erhöhen, weil der Gegenstand der Lieferung nachträglich an einen anderen Ort als den ursprünglichen Lieferort verbracht worden ist, es sei denn, die Verbringung entspricht seinem bestimmungsgemäßen Gebrauch. Schlägt die Nacherfüllung fehl, kann der Besteller die Vergütung mindern oder vom Vertrag zurücktreten. Der Rücktritt ist allerdings nur zulässig, wenn der Besteller uns dies zuvor ausdrücklich schriftlich mit einer angemessenen weiteren Nachfrist androht.
+
+(4) Rückgriffsansprüche des Bestellers gemäß § 478 BGB gegen uns bestehen nur insoweit, als der Besteller mit seinem Abnehmer keine über die gesetzlichen Mängelansprüche hinausgehenden Vereinbarungen getroffen hat.
+
+§ 13 Schadensersatz
+(1) Soweit sich nachstehend nichts anderes ergibt, sind über die vorstehenden Regelungen, insbesondere in Ziffern 6 und 12 hinausgehende Ansprüche des Bestellers – gleich aus welchen Rechtsgründen – ausgeschlossen. Wir haften deshalb nicht für Schäden, die nicht an den Vertragsgegenständen selbst entstanden sind; insbesondere haften wir nicht für entgangenen Gewinn oder für sonstige Vermögensschäden des Bestellers. Soweit unsere vertragliche Haftung ausgeschlossen oder beschränkt ist, gilt dies auch für die persönliche Haftung unserer Arbeitnehmer, Vertreter und Erfüllungsgehilfen.
+
+(2) Vorstehende Haftungsbeschränkung gilt nicht, soweit die Schadensursache auf Vorsatz oder grober Fahrlässigkeit beruht, ein Personenschaden vorliegt oder ein Schadensersatzanspruch nach dem Produkthaftungsgesetz besteht. Dasselbe gilt, soweit wir eine der Haftungsbeschränkung entgegenstehende Garantie für die Beschaffenheit der vertraglichen Leistung übernommen haben.
+
+(3) Sofern wir fahrlässig eine vertragswesentliche Pflicht verletzen, ist die Ersatzpflicht für Sachschäden auf den typischerweise entstehenden Schaden beschränkt. Wesentliche Vertragspflichten sind solche, die dem Besteller Rechtspositionen verschaffen, welche ihm der Vertrag nach seinem Inhalt und Zweck gerade zu gewähren hat und solche, deren Erfüllung die ordnungsgemäße Durchführung des Vertrags überhaupt erst ermöglicht und auf deren Einhaltung der Besteller regelmäßig vertraut und vertrauen darf.
+
+(4) Im Übrigen ist unsere Schadensersatzhaftung ausgeschlossen.
+
+(5) Uns bleibt der Einwand des Mitverschuldens unbenommen.
+
+§ 14 Verjährung, Abtretung, Aufrechnung
+(1) Die Verjährungsfrist für Ansprüche gemäß Ziffern 12 und 13 beträgt ein Jahr. Dies gilt nicht, soweit gemäß §§ 438 Abs. 1 Nr. 2 (Bauwerke und Sachen für Bauwerke), 479 Abs. 1 (Rückgriffsanspruch) und 634a Abs. 1 Nr. 2 BGB (Baumängel) längere Fristen vorgeschrieben sind, sowie in Fällen der Verletzung des Lebens, des Körpers oder der Gesundheit, bei einer vorsätzlichen oder grob fahrlässigen Pflichtverletzung und bei Schadensersatzansprüchen nach dem Produkthaftungsgesetz.
+
+(2) Die Abtretung der in Ziffern 12 und 13 geregelten Ansprüche des Bestellers ist ausgeschlossen. § 354 a HGB bleibt unberührt.
+
+(3) Eine Aufrechnung des Bestellers gegen Ansprüche von uns ist nur dann zulässig, wenn die Ansprüche rechtskräftig festgestellt oder unstrittig sind.
+
+§ 15 Geheimhaltung
+(1) Die Parteien werden vertrauliche Informationen des jeweils anderen Vertragspartners, die ihnen anvertraut oder bei Gelegenheit der Zusammenarbeit bekannt werden, während der Dauer und nach Beendigung des Vertragsverhältnisses nicht an Dritte weitergeben oder unbefugt für eigene Geschäftszwecke verwerten. Dies gilt entsprechend für Abschluss und Inhalt dieses Vertrages. Die Parteien werden diese Verpflichtung auch ihren Mitarbeitern auferlegen.
+
+(2) Diese Geheimhaltungspflicht gilt nicht für Informationen, die
+
+a) der anderen Partei bereits außerhalb des Vertragsverhältnisses vorbekannt waren;
+b) rechtmäßig von Dritten erworben wurden;
+c) allgemein bekannt oder Stand der Technik sind oder werden;
+d) vom abgebenden Vertragspartner freigegeben werden.
+
+Die Geheimhaltungspflicht für technische Informationen endet 5 Jahre nach Beendigung des Vertragsverhältnisses.
+
+(3) Nach Beendigung dieses Vertragsverhältnisses haben die Parteien alle geheimhaltungsbedürftigen Unterlagen und Informationen unaufgefordert zurückzugeben oder auf Wunsch der ausgebenden Partei zu vernichten und hierüber einen Nachweis zu erbringen. Die Parteien verpflichten sich, die ihnen zur Eigennutzung überlassene Software sowie Präsentationsversionen umgehend zu deinstallieren.
+
+(4) Die Parteien halten die Regeln des Datenschutzes ein, insbesondere wenn ihnen Zugang zum Betrieb oder zu Hard‐ und Software der anderen Partei gewährt wird. Sie stellen sicher, dass ihre Erfüllungsgehilfen diese Bestimmungen ebenfalls einhalten, insbesondere verpflichten sie sie vor Aufnahme ihrer Tätigkeit auf das Datengeheimnis. Die Parteien bezwecken keine Verarbeitung oder Nutzung personenbezogener Daten im Auftrag der anderen Partei. Vielmehr geschieht ein Transfer personenbezogener Daten nur in Ausnahmefällen als Nebenfolge der vertragsgemäßen Leistungen der Parteien. Die personenbezogenen Daten werden von den Parteien in Übereinstimmung mit den datenschutzrechtlichen Bestimmungen behandelt. In jedem Fall erfolgt die Erhebung nur insoweit, wie für die Durchführung des jeweiligen Vertrages notwendig. Umfang, Dauer und Art der Erhebung bestimmen sich nach dem jeweils abgeschlossenen Vertrag.
+
+§ 16 Abwerbeverbot
+Der Besteller darf bis zu einer Frist von zwei Jahren nach Ende der Vertragsbeziehungen zwischen uns und dem Besteller keinen Mitarbeiter von uns mittelbar oder unmittelbar abwerben, anstellen oder sonst wie beschäftigen oder mit diesem in Kontakt treten, es sei denn, der Mitarbeiter ist bereits seit 6 Monaten als Mitarbeiter von uns ausgeschieden oder wir haben vorher unsere Einwilligung (§ 183 BGB) zur Einstellung des Mitarbeiters gegeben.
+
+§ 17 Datenschutz
+Datenschutz ist uns ein großes Anliegen. Daher werden Daten unserer Kunden geschützt, vertraulich behandelt und nicht an Dritte weitergegeben. Wir verwenden die Kontaktdaten unserer Kunden, um diesen in unregelmäßigen Abständen per E-Mail, telefonisch oder per Post Informationen zu unserem Unternehmen, unseren Produkten und unseren Dienstleistungen zukommen zu lassen. Sie können dem jederzeit durch eine formlose E-Mail an info@a-w.com widersprechen oder auf den Abmeldelink in der E-Mail klicken.
+
+§ 18 Sonstiges
+(1) Wir sind berechtigt, unsere Leistungen aus diesem Vertrag ganz oder teilweise durch Dritte („Erfüllungsgehilfen“) erbringen zu lassen, sofern und soweit dies für den Besteller nicht unzumutbar ist.
+
+(2) Ist der Besteller Kaufmann, juristische Person des öffentlichen Rechts oder öffentlich-rechtliches Sondervermögen so ist Gerichtsstand der Sitz unseres Unternehmens; erheben wir Klage, so gilt daneben auch der allgemeine Gerichtsstand des Bestellers.
+
+(3) Für alle Rechtsbeziehungen zwischen dem Besteller und uns gilt das Recht der Bundesrepublik Deutschland mit Ausnahme des UN-Kaufrechts und der Kollisionsregeln.
+
+(4) Sollten einzelne Bestimmungen dieser Geschäftsbedingungen ganz oder teilweise unwirksam sein, bleibt die Wirksamkeit der übrigen Bestimmungen davon unberührt.
+
+(5) Der zeitlich oder inhaltlich begrenzte Verzicht auf eine Bestimmung oder Bedingung des Vertrages gilt nicht als Verzicht auf irgendeine andere Bestimmung oder Bedingung, noch auf Ansprüche wegen einer Verletzung dieser Bestimmung oder Bedingung.

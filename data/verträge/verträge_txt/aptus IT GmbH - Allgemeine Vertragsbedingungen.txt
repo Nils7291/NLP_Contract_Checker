@@ -1,0 +1,150 @@
+Allgemeine Vertragsbedingungen
+§ 1 Vertragsinhalt
+1. Es gelten ausschließlich die Vertragsbedingungen von aptus IT GmbH. Andere Bedingungen werden nicht Vertragsinhalt, auch wenn aptus IT GmbH ihnen nicht ausdrücklich widerspricht.
+
+2. Vertragsergänzungen und -änderungen bedürfen stets der Schriftform.
+
+3. Auch wenn beim Abschluss weiterer Verträge hierauf nicht nochmals hingewiesen wird, gelten die AVB von aptus IT GmbH im kaufmännischen Verkehr in ihrer jeweils geltenden Fassung.
+
+4. Darstellungen in Testprogrammen, Produkt- und Projektbeschreibungen bedeuten keine Garantie oder Übernahme sonstigen Risikos.
+
+5. Der Auftraggeber hat geprüft, dass die Spezifikation der
+Vertragsgegenstände seinen Wünschen und Bedürfnissen entspricht.
+
+§ 2 Vertragsgegenstände
+1. Gegenstand des Kaufvertrages über Standardprodukte ist die Überlassung von Standardsoftware und/oder Datenbeständen (im Folgenden: Vertragsgegenstände).
+
+2. Gegenstand des Pflegevertrages ist die Überlassung von Software-Updates und aktualisierten Datenbeständen sowie der dazugehörigen Dienstleistungen.
+
+3. Gegenstand des Werkvertrages ist die Realisierung individueller Konzepte.
+
+§ 3 Urheberrecht und geistiges Eigentum
+1. Alle Rechte an der Software (Programm und Handbuch, ggfs. in elektronischer Form) und den Datenbeständen stehen im Verhältnis der Vertragspartner zueinander ausschließlich aptus IT GmbH zu. 
+
+2. Der Aufraggeber erhält die nicht ausschließliche Befugnis, die
+Vertragsgegenstände in seinem Betrieb für eigene Zwecke wie in den mitgelieferten Handbüchern und in Abs. 3 – 7 beschrieben zu nutzen.
+
+3. Der Aufraggeber darf die Programme und Daten auf die Arbeitsspeicher und die Festplatten der in den Lizenzbedingungen genannten Zahl und Art von Rechnern laden. Er darf nur zu Sicherungszwecken eine Kopie der Programme und Datenbestände anfertigen, die mit dem Urheberrechtsvermerk des Originaldatenträgers zu versehen ist.
+
+4. Alle anderen Nutzungsarten und -möglichkeiten der Vertragsgegenstände, insbesondere die Vervielfältigung, Übersetzung, Bearbeitung, das Arrangement und andere Umarbeitungen sind untersagt. Mitarbeitern oder sonstige unvorhergesehene Ereignisse unverschuldet daran gehindert ist, die Lieferung oder Leistung zu erbringen und um einen angemessenen Zeitraum zum Wiederanlaufen nach Ende der Störung. Gleiches gilt, wenn aptus IT GmbH auf Informationen oder Mitwirkungs- handlungen des Auftraggebers wartet.
+
+5. Ab Installation eines neuen Programmstandes oder eines aktualisierten Datenbestandes entfällt die Nutzungsbefugnis für den vorherigen Programmstand und Datenbestand.
+
+6. Die Dekompilierung der Software ist im Rahmen der Vorschriften des Urheberrechtsgesetzes zulässig, wenn aptus IT GmbH trotz schriftlicher Anfrage des Auftraggebers die zur Herstellung der Interoperabilität der Software mit anderen Programmen notwendigen Informationen und/oder Unterlagen nicht binnen angemessener Frist zur Verfügung stellt.
+
+7. Der Auftraggeber darf die Vertragsgegenstände an seine Zweigstellen oder sonstige Dritte nur unter vollständiger Aufgabe der eigenen Rechtsposition weitergeben; der Auftraggeber hat den Empfänger vor der Weitergabe schriftlich zu verpflichten, die Vertragsbedingungen von aptus IT GmbH einzuhalten. Der Auftraggeber wird dies aptus IT GmbH schriftlich mitteilen und aptus IT GmbH versichern, nicht mehr im Besitz der
+Vertragsgegenstände oder Kopien hiervon zu sein.
+
+8. Der Auftraggeber hat keinen Anspruch auf Herausgabe von
+Quellprogrammen.
+
+9. Soweit es sich bei dem Vertragsgegenstand um eine Testversion handelt, erhält der Auftraggeber entsprechend den Angaben in den
+Lizenzbedingungen lediglich ein eingeschränktes Nutzungsrecht. Die Einschränkungen können den räumlichen Einsatzbereich, die zeitliche Dauer sowie den Inhalt betreffen.
+
+§ 4 Mitwirkung des Kunden
+1. Der Auftraggeber unterstützt aptus IT GmbH bei der
+Vertragsdurchführung, er sorgt für Hardware, Betriebssystem und
+Basissoftware und stellt Telekommunikationseinrichtungen und die
+erforderliche Anzahl von Mitarbeitern zur Verfügung. Der Auftraggeber gibt aptus IT GmbH rechtzeitig alle notwendigen Informationen, die für die Vertragsdurchführung notwendig sind. Der Auftraggeber gewährt aptus IT GmbH zu den üblichen Geschäftszeiten Zutritt zu den Geschäftsräumen.
+
+2. Vor Eingriffen in die EDV führt der Auftraggeber eine Datensicherung durch; aptus IT GmbH wird den Auftraggeber rechtzeitig vor solchen Eingriffen verständigen.
+
+§ 5 Lieferung und Verzögerung
+1. Angaben zum Lieferzeitpunkt sind unverbindlich. Verbindliche
+Liefertermine bedürfen der schriftlichen Zusage von aptus IT GmbH. Teillieferungen sind zulässig.
+
+2. Liefer- und Leistungsfristen verlängern sich um den Zeitraum, in dem aptus IT GmbH durch Arbeitskämpfe, höhere Gewalt, Nichtbelieferung durch Zulieferer, Krankheit von oder Datenbestände länger als vier Wochen seit der Lieferung in Besitz hat, ohne der Annahme entgegenstehende Mängel gemäß § 9 Abs. 1 zu rügen, oder wenn er ohne Vorbehalt bezahlt.
+
+3. Alle Mahnungen und Fristsetzungen des Auftraggebers bedürfen zur Wirksamkeit der Schriftform. Gerät aptus IT GmbH mit einer Lieferung in Verzug, so entstehen Ansprüche, gleich welcher Art, erst ab dem fruchtlosen Ablauf einer Nachfrist, die mindestens 12 Arbeitstage betragen muss.
+
+§ 6 Zahlung, Aufrechnung und Abtretung
+1. Zahlungen sind ohne Abzug innerhalb von 14 Tagen nach Eingang der Rechnung und der Lieferung fällig. Der Zinssatz für Fälligkeits- und Verzugszinsen beträgt 3 Prozentpunkte über dem jeweiligen Basiszins der EZB. Der Auftraggeber kann einen niedrigeren, aptus IT GmbH einen höheren Schaden nachweisen.
+
+2. Der Auftraggeber kann nur mit unbestrittenen oder rechtskräftig
+festgestellten Forderungen aufrechnen. Er darf gegen aptus IT GmbH gerichtete Ansprüche nicht abtreten; aptus IT GmbH kann in jedem Fall durch Leistung an den Auftraggeber erfüllen (§ 354 a HGB). Ein Zurückbehaltungsrecht kann sich nur auf Ansprüchen aus diesem Vertrag stützen.
+
+§ 7 Eigentumsvorbehalt und Widerrufsvorbehalt
+1. Sämtliche Lieferungen von aptus IT GmbH erfolgen unter der
+aufschiebenden Bedingung der vollständigen Kaufpreiszahlung. aptus IT GmbH überträgt die Nutzungsrechte gemäß § 3 in Verbindung mit dem im Vertrag genannten Lizenzbedingungen unter der auflösenden Bedingung, dass die Forderung von aptus IT GmbH endgültig nicht vollständig ausgeglichen werden. Der Auftraggeber hat aptus IT GmbH unverzüglich schriftlich zu benachrichtigen, wenn Dritte auf die Software von aptus IT GmbH oder Datenbestände zugreifen wollen; er hat Dritte auf das nur bedingte und eingeschränkte Nutzungsrecht hinzuweisen.
+
+2. Außerdem kann aptus IT GmbH die Nutzungsbefugnisse widerrufen, wenn der Auftraggeber die Nutzungsbeschränkungen der dem Vertrag beiliegenden Lizenzbedingungen und § 3 nicht einhält oder gegen die Geheimhaltungspflicht des § 12 verstößt und diese Verhaltensweise auch auf schriftliche Abmahnung mit Widerrufsandrohung nicht sofort unterlässt.
+
+3. Bei Widerruf der Nutzungsbefugnis hat der Auftraggeber alle
+Liefergegenstände und Kopien herauszugeben und gespeicherte
+Programme und Datenbestände zu löschen. Er hat aptus IT GmbH
+gegenüber die Herausgabe und Löschung schriftlich zu versichern.
+
+§ 8 Annahme der Lieferung oder Leistung
+1. Nach Lieferung der Vertragsgegenstände kann aptus IT GmbH vom Auftraggeber eine schriftliche Erklärung des Inhalts verlangen, dass die Lieferung oder Leistung richtig, vollständig und mangelfrei ist. Die
+Erklärung ist binnen zwei Wochen nach Lieferung abzugeben und darf nur verweigert werden, wenn die Software oder die Datenbestände betriebsverhindernde oder wesentliche betriebsbehindernde Mängel hat. Die Annahme gilt als erklärt, wenn der Auftraggeber die Software  oder den Vertrag rückgängig zu machen. Für Schadensersatz gilt § 10.
+Aufwendungen für eine Mangelbeseitigung durch Dritte oder
+Vertragskosten schuldet aptus IT GmbH in keinem Fall. Andere
+Gewährleistungsansprüche sind ausgeschlossen.
+
+2. Wenn aptus IT GmbH die Programme auf Wunsch des Auftraggebers installiert, zeigt aptus IT GmbH dem Auftraggeber die Betriebsbereitschaft schriftlich an. Nach Erklärung der
+Betriebsbereitschaft kann der Auftraggeber die Software oder
+Datenbestände vier Wochen testen (Probebetrieb). Auftretende
+Mängel wird der Auftraggeber aptus IT GmbH unverzüglich schriftlich anzeigen. Mit Ablauf des Probebetriebes wird der Auftraggeber aptus IT GmbH die Annahme der Software oder Datenbestände schriftlich erklären, wenn keine betriebsverhindernden oder wesentlichen betriebsbehindernden Mängel aufgetreten sind, die die Funktionen der Software oder der Datenbestände wesentlich beeinträchtigen. Sonstige Mängel sind aptus IT GmbH ebenfalls schriftlich anzuzeigen und werden im Rahmen der Gewährleistung behoben. Die Annahme gilt auch als erfolgt, wenn der Auftraggeber zwei Wochen nach Ablauf des Probebetriebes aptus IT GmbH gegenüber die Verweigerung der Annahme nicht schriftlich erklärt hat.
+
+§ 9 Gewährleistung
+1. Unbeschadet sonstiger gesetzlicher Anforderungen hat der
+Auftraggeber offensichtliche Mängel innerhalb einer angemessenen Frist schriftlich mit genauer Beschreibung des Fehlers zu rügen. Verspätete, unzureichende oder unbegründete Rügen befreien aptus IT GmbH von ihren Leistungspflichten. Soweit aptus IT GmbH dennoch tätig wird, stellt aptus IT GmbH den Aufwand in Rechnung.
+
+2. aptus IT GmbH leistet Gewähr dafür, dass die Programmfunktionen
+frei von Sachmängeln sind. Dies ist der Fall, wenn sie sich für die nach dem Vertrag vorausgesetzte bzw. für die gewöhnliche Verwendung eignen bzw. eine Beschaffenheit aufweisen, die bei Werken der gleichen Art üblich ist und die der Besteller nach Art des Werkes erwarten kann.
+
+3. aptus IT GmbH kann auch bei Überlassung von Standardprodukten durch Nachbesserung Gewähr leisten. Die Nachbesserung erfolgt nach Wahl der aptus IT GmbH z.B. durch Fehlerbeseitigung, durch Überlassen eines neuen Programm- oder Datenbestandes oder dadurch, dass aptus IT GmbH Möglichkeiten aufzeigt, die Auswirkungen des Fehlers zu vermeiden. Der Auftraggeber wird einen neuen Programm- oder Datenbestand auch dann übernehmen, wenn dies zu einem hinnehmbaren Anpassungs- oder Umstellungsaufwand führt.
+
+4. Der Auftraggeber unterstützt aptus IT GmbH bei der
+Mängelbeseitigung (Überlassen von Fehlerbeschreibungen und
+Testdaten, Auskünfte der Mitarbeiter, Zugang zur Installation usw.).
+Der Auftraggeber wird angemessene Vorkehrungen für den Fall treffen, dass die Software ganz oder teilweise nicht ordnungsgemäß arbeitet, und zwar insbesondere durch Datensicherung, Störungsdiagnose, laufende Überprüfung etc.
+
+6. Falls die Nachbesserung endgültig fehlgeschlagen ist, hat der
+Auftraggeber das Recht, die Vergütung herabzusetzen.
+
+7. aptus IT GmbH wird den Auftraggeber bei der Fehlersuche und – beseitigung auch dann unterstützen, wenn ein Mangel der aptus IT
+
+GmbH-Lieferungen und -Leistungen nicht feststeht. Wenn sich die
+Lieferungen und Leistungen der aptus IT GmbH nicht als mangelhaft herausstellen, stellt aptus IT GmbH den Aufwand in Rechnung.
+
+8. Die Gewährleistung erlischt, wenn die Vertragsgegenstände
+verändert wurden und der Auftraggeber nicht beweist, dass der
+Mangel hiervon unabhängig ist. aptus IT GmbH leistet außerdem
+solange keine Gewähr, solange der Auftraggeber die
+Vertragsgegenstände entgegen den Nutzungsbeschränkungen der
+Lizenzbedingungen und § 3 AVB nutzt. 
+
+9. Die Gewährleistungszeit beginnt nach der Annahme und dauert 1 Jahr, soweit in den Lizenzbedingungen nichts anderes vereinbart ist.
+
+§ 10 Haftung
+1. aptus IT GmbH leistet Schadensersatz, gleich aus welchem Rechtsgrund (z.B. Nichterfüllung, Unmöglichkeit, Verzug, Gewährleistung, Verschulden bei Vertragsschluss, Nebenpflichtverletzung oder unerlaubter Handlung) nur
+
+– bei Vorsatz und grober Fahrlässigkeit in voller Höhe;
+– bei einfacher Fahrlässigkeit aus Verzug, Unmöglichkeit 
+
+und daraus, dass eine wesentliche Pflicht verletzt wird und dadurch die Erreichung des Vertragszwecks gefährdet ist, auf Ersatz des Schadens, der typisch und voraussehbar war, begrenzt auf das Vertragsvolumen, es sei denn, es ist im Einzelfall schriftlich etwas anderes vereinbart.
+
+2. Für die Wiederbeschaffung von Daten haftet aptus IT GmbH nur, wenn der Auftraggeber sichergestellt hat, dass diese Daten aus in
+maschinenlesbarer Form bereitgehaltenen Datenbeständen mit
+vertretbarem Aufwand reproduzierbar sind.
+
+3. Die gesetzliche Haftung bei Personenschäden und nach dem
+Produkthaftungsgesetz bleibt unberührt.
+
+4. aptus IT GmbH haftet unabhängig davon, soweit der Schaden von der Versicherung von aptus IT GmbH gedeckt ist. Auf Wunsch des Auftraggebers kann eine entsprechend weitergehende Versicherung gegen zusätzliche Vergütung vereinbart werden.
+
+5. aptus IT GmbH kann einwenden, dass der Auftraggeber für den Schaden mitverantwortlich ist.
+
+§ 11 Rechte Dritter
+aptus IT GmbH versichert, dass der Übertragung von Rechten entsprechend den vorliegenden Verträgen keine Rechte Dritter entgegenstehen. Falls Dritte entgegenstehende Schutzrechte gegen den Auftraggeber geltend machen, unterrichtet der Auftraggeber aptus IT GmbH unverzüglich schriftlich. aptus IT GmbH kann für den Auftraggeber die Ansprüche abwehren oder befriedigen oder dem Auftraggeber die Aufwendungen zur Abwehr der Ansprüche Dritter ersetzen. aptus IT GmbH kann stattdessen die betroffenen Lieferungen und Leistungen in angemessenem Zeitraum gegen
+gleichwertige austauschen.
+
+Informationen, Unterlagen und Daten geheim zu halten und weder Dritten zugänglich zu machen noch anderweitig zu verwenden. Die Vertragsparteien werden ihre Mitarbeiter, die dienstlich Zugang zu den Vertragsgegenständen haben, schriftlich auf die Geheimhaltungspflicht hinweisen. Der Auftraggeber verwahrt und sichert Vertragsgegenstände so, dass ein Missbrauch Dritter ausgeschlossen ist. aptus IT GmbH wird die ihr vom Auftraggeber überlassenen Daten auf Anforderung löschen und ihr überlassene Unterlagen zurückgeben oder vernichten.
+
+§ 12 Schlussbestimmungen
+1. Gerichtsstand für alle Streitigkeiten im Zusammenhang mit diesem Vertragsverhältnis ist Stuttgart, wenn der Auftraggeber Vollkaufmann oder gleichgestellt ist. 
+
+2. Schriftformerfordernisse dieses Vertrages sind Wirksamkeitsvoraussetzungen. 
+
+3. Es gilt ausschließlich das Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts. 
