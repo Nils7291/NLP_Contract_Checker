@@ -176,3 +176,4 @@ cython_debug/
 __pycache__/
 # Mac images
 .DS_Store
+requirements.txt
