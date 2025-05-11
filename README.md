@@ -3,7 +3,7 @@
 Bei erster installation oder nuestart:
 1. Virtuelle Umgebung aktivieren:
 Virtuelle Umgebung erstellen:
-uv venv
+uv venv .venv --python=python3.11
 Windows (PowerShell):
 .venv\Scripts\Activate.ps1
 macOS/Linux:

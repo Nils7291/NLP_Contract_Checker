@@ -1,5 +1,5 @@
 pandas 
-numpy>=1.25,<2.0
+numpy>=1.21,<1.25
 notebook>=7.0,<8.0
 ipykernel
 beautifulsoup4
@@ -8,3 +8,5 @@ python-docx
 requests
 openpyxl
 python-dotenv
+gensim>=4.3,<4.4
+transformers
