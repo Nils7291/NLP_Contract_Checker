@@ -1,0 +1,298 @@
+Bedingungen für die Bereitstellung von
+Cloud Service – IaaS
+Stand: 20.03.2025
+Präambel
+Der Kunde benötigt zur Durchführung seiner Geschäftsprozesse Hardware, Standardsoftwareanwendungen und Speicherplatz („Infrastruktur“) zum Betrieb von Softwareprogrammen sowie der damit erzeugten Anwendungsdaten. 4SELLERS bietet die Nutzung solcher Hardware und Softwareanwendungen für Infrastruktur über eine Telekommunikationsverbindung sowie die Möglichkeit zur Ablage von Anwendungsdaten gegen Entgelt an. 4SELLERS bedient sich zur Erfüllung dieser Pflichten eines von 4SELLERS sorgfältig ausgesuchten und regelmäßig kontrollierten Rechenzentrums. Mit der Cloud Service Bestellung vereinbaren die Vertragspartner, dass 4SELLERS dem Kunden die Nutzungsmöglichkeit für die benötigten Leistungen zum Zugriff über eine Telekommunikationsverbindung, Speicherplatz und Rechenleistung für seine Anwendung zur Verfügung stellt.
+1.
+Vertragsgegenstand
+1.1
+Gegenstand der Leistungen von 4SELLERS ist die Bereitstellung der vertraglich vereinbarten Hardware sowie von Software (im Folgenden: ANWENDUNG) zur Nutzung ihrer Funktionalitäten als Infrastruktur zum Betrieb einer vom Kunden beschafften und dem Kunden gehörenden Anwendungssoftware, die technische Ermöglichung der Nutzung der INFRASTRUKTUR, was, sofern vereinbart, auch durch eine Zugriffssoftware (im Folgenden: ZUGRIFFSSOFTWARE) erfolgen kann und die Einräumung bzw. Vermittlung von Nutzungsrechten an der INFRASTRUKTUR und ZUGRIFFSSOFTWARE sowie die Bereitstellung von Speicherplatz für die vom Kunden durch Nutzung der INFRASTRUKTUR erzeugten und/oder die zur Nutzung der INFRASTRUKTUR erforderlichen Daten (im Folgenden: ANWENDUNGSDATEN) im üblichen Umfang durch 4SELLERS gegenüber dem Kunden gegen Zahlung des vereinbarten Entgelts.
+1.2
+Sofern vereinbart, stellt 4SELLERS dem Kunden eine ZUGRIFFSSOFTWARE, mit der der Kunde auf den SERVER zugreifen kann, zur Verfügung. 4SELLERS haftet dafür, dass die ZUGRIFFSSOFTWARE geeignet ist, den vertragsgemäßen Zugriff auf den SERVER zu ermöglichen. Der Zugriff auf den SERVER erfolgt, sofern vereinbart, mit der von 4SELLERS zur Verfügung gestellten ZUGRIFFSSOFTWARE.
+1.3
+Die ZUGRIFFSSOFTWARE darf nicht dazu geeignet sein, den Zugriff des Anbieters oder Dritter auf Daten-verarbeitungsanlagen des Kunden zu ermöglichen, sofern dies nicht für die ordnungsgemäße Durchführung dieses Vertrages unerlässlich ist. Solche Zugriffe sind im Einzelfall vor ihrer Vornahme ausdrücklich schriftlich zwischen den Vertragspartnern abzustimmen.
+1.4
+Eine genaue Beschreibung der Leistungen einschließlich einer Abgrenzung zu den Leistungen, die nicht erbracht werden, ist in der in der Bestellung bezeichneten Leistungsbeschreibung enthalten, die unter der in der Bestellung genannten URL heruntergeladen werden kann.
+1.5
+Änderungen der Services
+4SELLERS ist berechtigt, die Services jederzeit zu ändern. Dies umfasst insbesondere das Recht, die vereinbarten Services ganz oder teilweise durch gleichwertige Services zu ersetzen und/oder Services weiterzuentwickeln und/oder zu ergänzen, sodass sich für Kunden keine Nachteile ergeben. 4SELLERS ist zu Änderungen der Services berechtigt, die für den Kunden nachteilig sind oder sein können, soweit dies neue gesetzliche und/ oder behördliche Anforderungen/ Änderungen erforderlich machen, soweit die jeweilige Änderung zur Anpassung an den Stand der Technik, zur Einhaltung von Sicherheitsvorschriften und Datenschutzbestimmungen und aus Sicherheitsgründen erforderlich ist, und/oder soweit 4SELLERS ein anderes berechtigtes Interesse an einer Änderung der Services hat. Der Kunde wird über solche potenziell für ihn nachteilige Änderungen der Services mindestens drei (3) Monate vor Inkrafttreten dieser Änderungen schriftlich oder in Textform informiert. Der Kunde ist berechtigt, der Änderung der betroffenen Services innerhalb von vier (4) Wochen nach Bekanntgabe der Änderung schriftlich oder in Textform zu widersprechen. Auf diese Frist wird 4SELLERS den Kunden im Rahmen der Änderungsmitteilung ausdrücklich hinweisen. Unterlässt der Kunde einen Widerspruch, werden die von der Änderung betroffenen Services nach Ablauf der dreimonatigen Frist Vertragsbestandteil. Im Falle eines Widerspruchs bleibt 4SELLERS zur unveränderten Erbringung der Services verpflichtet, ist jedoch zur Kündigung der jeweiligen Services aus wichtigem Grund berechtigt.
+2.
+Bereitstellung von ANWENDUNG, Speicherplatz für ANWENDUNGSDATEN und Zugriffssoftware
+2.1
+4SELLERS hält ab dem im Auftrag vereinbarten Zeitpunkt die vereinbarte INFRASTRUKTUR zur Nutzung nach Maßgabe der nachfolgenden Regelungen und der in der Bestellung vereinbarten Leistungsbeschreibung bereit.
+2.2
+4SELLERS übermittelt dem Kunden die notwendige Anzahl von Benutzernamen und Benutzerpasswörtern. Sämtliche Benutzernamen und Kennwörter sind vom Kunden unverzüglich in nur ihm bekannte Namen und Kennwörter zu ändern.
+2.3
+Die Sicherung von Daten und Programmen obliegt, sofern nichts anderes vereinbart ist, dem Kunden. Dem Kunden wird empfohlen, seine Daten und die Programme einmal täglich zu sichern. Für die Einhaltung handels- und steuerrechtlicher Aufbewahrungsfristen ist der Kunde verantwortlich.
+Hinweis: Es kommt vor, dass eine Datensicherungssoftware eine gelungene Datensicherung anzeigt, obwohl dies in Wirklichkeit nicht der Fall ist. Endgültige Sicherheit über das Gelingen einer Datensicherung erhält man nur durch das Zurückspielen der (angeblichen) Sicherung auf ein Medium (Rücksicherung). Dem Kunden wird empfohlen, eine solche Rücksicherung abhängig von der Wichtigkeit seiner Daten regelmäßig durchzuführen. 4SELLERS kann nach einer Rücksicherung nur Anzahl und Größe der Dateien feststellen, nicht aber, ob die Inhalte richtig und unverfälscht sind. Dem Kunden wird empfohlen, dies zumindest durch Stichproben zu überprüfen.
+2.4
+Übergabepunkt für die INFRASTRUKTUR und die ANWENDUNGSDATEN ist der Routerausgang des Rechenzentrums von 4SELLERS.
+2.5
+Die Systemvoraussetzungen können sich ändern und sind vom Kunden einzuhalten. Die jeweils geltenden Systemvoraussetzungen werden von 4SELLERS regelmäßig veröffentlicht unter https://downloads.4sellers.de/Leistungsbeschreibungen/Systemvoraussetzungen_4SELLERS.pdf. Für die Beschaffenheit der erforderlichen Hard- und Software auf Seiten des Kunden sowie für die Telekommunikationsverbindung zwischen dem Kunden und 4SELLERS bis zum Übergabepunkt ist 4SELLERS nicht verantwortlich.
+2.6
+Dokumentationen (Handbücher)
+Sofern 4SELLERS Software Dritter als INFRASTRUKTUR bereitstellt und von diesen Dritten keine Dokumentation in deutscher/englischer Sprache zur Verfügung gestellt wird, ist 4SELLERS berechtigt, allein die ihr zugängliche Dokumentation zur Verfügung zu stellen.
+Der Kunde ist berechtigt, die zur Verfügung gestellte Dokumentation unter Aufrechterhaltung vorhandener Schutzrechtsvermerke zu speichern, auszudrucken und für Zwecke des Vertrags in angemessener Anzahl zu vervielfältigen. Im Übrigen gelten die unter Punkt 8 für die INFRASTRUKTUR vereinbarten Nutzungsbeschränkungen für die Dokumentation entsprechend.
+3.
+Managed Service
+3.1
+Der Kunde ist bestrebt, seine Systemverfügbarkeit zu verbessern und Kosten planbar zu machen, um sich stärker auf sein Kerngeschäft konzentrieren zu können. Mit den Managed Services soll die IT–Automatisierung der beim Kunden vorhandenen IT–Struktur und IT-Prozesse eingerichtet bzw. gesteigert werden. Sofern vereinbart, erbringt 4SELLERS dazu auch die nachstehend beschriebenen Leistungen des Managed Service einschließlich der Administration der Infrastruktur. Managed Service für die Anwendungssoftware des Kunden, z.B. Patchmanagement, wird nicht erbracht.
+Auf die Beschreibung der im Managed Service enthaltenen Software und Leistungen in der jeweils gültigen Leistungsbeschreibung wird verwiesen. Dort sind auch (nicht abschließend) Leistungen beschrieben, die vom Managed Service nicht umfasst sind.
+3.2
+Administration durch den Kunden
+Zum vereinbarten Stichtag übermittelt 4SELLERS dem Kunden die Zugangsdaten, die den Kunden in die Lage versetzen, sein Netzwerk selbst (auch) zu administrieren. Der Kunde ist verpflichtet, die ihm überlassenen Passwörter unverzüglich in nur ihm bekannte Passwörter zu ändern, sodass auch 4SELLERS diese Passwörter nicht kennt. Der Kunde ist darauf hingewiesen, dass bei Verlust dieser Passwörter auch 4SELLERS nicht in der Lage ist, diese wieder zu rekonstruieren Sofern nicht ausdrücklich etwas anderes vereinbart ist, erfolgt die Administration des vertragsgegenständlichen Systems ausschließlich durch 4SELLERS.
+Beweislastumkehr:
+Wenn dem Kunden Administratorrechte eingeräumt werden, gelten auch diesbezüglich die Regelungen in der Leistungsbeschreibung, die unter der in der Bestellung vermerkten URL (vgl. Punkt 1.4) eingesehen und heruntergeladen werden können. Wünscht der Kunde während eines laufenden Vertrages, eigene Administratorrechte zu erhalten, kann es zu Unstimmigkeiten zwischen den Parteien kommen, wer für später auftretende Probleme verantwortlich ist. Zur Regelung dieser Frage vereinbaren die Parteien folgendes:
+Solange 4SELLERS das Netzwerk alleine administriert, können Probleme im Netzwerk auch nur durch die Tätigkeit von 4SELLERS verursacht worden sein. Wenn auch der Kunde das Netzwerk administriert, kann es zu Meinungsverschiedenheiten der Parteien über die Verursachung von Fehlern kommen. Die Parteien vereinbaren daher, dass der Kunde die Beweislast dafür trägt, dass ein aufgetretener Fehler ausschließlich von 4SELLERS zu vertreten ist. Anderenfalls sind Gewährleistungs- und Schadensersatzansprüche ausgeschlossen.
+4.
+Support
+Für die Leistungen des Supports gelten die Festlegungen in den jeweils geltenden vertraglich vereinbarten Leistungsbeschreibungen (dort der Abschnitt Support und Erreichbarkeit).
+5.
+Technische Verfügbarkeit der INFRASTRUKTUR und des Zugriffs auf die ANWENDUNGSDATEN
+Die Verfügbarkeit wird in der jeweils geltenden Leistungsbeschreibung definiert.
+6.
+Sonstige Leistungen von 4SELLERS
+Weitere Leistungen von 4SELLERS können jederzeit schriftlich vereinbart werden, insb. Schulungen zu ZUGRIFFSSOFTWARE und/oder der INFRASTRUKTUR oder die nach Punkt 3 nicht geschuldeten Leistungen. Weitere optionale Dienstleistungen sind in der Leistungsbeschreibung genannt. Sofern nicht anders vereinbart, werden solche weiteren Leistungen gegen Erstattung des nachgewiesenen Aufwands zu den im Zeitpunkt der Beauftragung allgemein geltenden Preisen von 4SELLERS erbracht.
+7.
+Nicht geschuldete Leistungen
+7.1
+Sofern nicht zusätzlich vereinbart, gehören die nachfolgenden Leistungen nicht zum Leistungsumfang der 4SELLERS Cloud, diese sind aber zur Sicherstellung eines reibungslosen Betriebs durch den Kunden zu erbringen:
+-
+Kontrolle der Systemeventlogs auf kritische Systemzustände innerhalb der virtuellen Maschine
+-
+Kontrolle der Festplattenausnutzung, Prozessor und Speicherauslastung innerhalb der virtuellen Maschine
+-
+Kontrolle der Datensicherungsprotokolle
+-
+Backup-Service
+-
+Installation und Kontrolle der Anti-Viren-Software
+-
+Patch-Management & Update Service
+-
+Administration der Leistungen
+7.2
+4SELLERS haftet nicht dafür, dass die bereitgestellte INFRASTRUKTUR für die Zwecke des Kunden geeignet ist.
+8.
+Nutzungsrechte an und Nutzung der ZUGRIFFSSOFTWARE und der ANWENDUNG, Rechte von 4SELLERS bei Überschreitung der Nutzungsbefugnisse
+8.1
+Nutzungsrechte an der ZUGRIFFSSOFTWARE und der ANWENDUNG
+8.2
+Der Kunde erhält an der ZUGRIFFSSOFTWARE und der INFRASTRUKTUR einfache, nicht unterlizenzierbare und nicht übertragbare, auf die Laufzeit dieses Vertrags beschränkte Nutzungsrechte nach Maßgabe der nachstehenden Regelungen.
+8.3
+Der Kunde nutzt die ZUGRIFFSSOFTWARE nur für den Zugriff auf den SERVER, um die INFRASTRUKTUR auf dem SERVER zu nutzen. Eine physische Überlassung der INFRASTRUKTUR an den Kunden erfolgt nicht. Der Kunde darf die ZUGRIFFSSOFTWARE und die INFRASTRUKTUR nur für seine eigenen geschäftlichen Tätigkeiten durch eigenes Personal nutzen. Eine Nutzung durch oder für Dritte ist ausgeschlossen.
+8.4
+An der Zugriffssoftware erhält der Benutzer Named-User Zugriffslizenzen. Diese berechtigen ausschließlich den Named-User zur Nutzung des Zugriffs. Der Kunde kann mit einem Vorlauf von 30 Tagen die Änderung des berechtigten beauftragen.
+8.5
+Der Kunde ist nicht berechtigt, Änderungen an der ZUGRIFFSSOFTWARE oder der INFRASTRUKTUR vorzunehmen. Dies gilt nicht für Änderungen, die für die Berichtigung von Fehlern notwendig sind, sofern 4SELLERS sich mit der Behebung des Fehlers in Verzug befindet, die Fehlerbeseitigung ablehnt oder wegen der Eröffnung des Insolvenzverfahrens zur Fehlerbeseitigung außer Stande ist.
+8.6
+Sofern 4SELLERS während der Laufzeit neue Versionen, Updates, Upgrades oder andere Neulieferungen im Hinblick auf die ZUGRIFFSSOFTWARE und/oder die INFRASTRUKTUR vornimmt, gelten die vorstehenden Rechte auch für diese.
+8.7
+Rechte, die vorstehend nicht ausdrücklich dem Kunden eingeräumt werden, stehen dem Kunden nicht zu. Der Kunde ist insb. nicht berechtigt, die ZUGRIFFSSOFTWARE und/oder die INFRASTRUKTUR über die vereinbarte Nutzung hinaus zu nutzen oder von Dritten nutzen zu lassen oder die ZUGRIFFSSOFWARE oder die INFRASTRUKTUR Dritten zugänglich zu machen. Insb. ist es nicht gestattet, die ZUGRIFFSSOFTWARE oder die INFRASTRUKTUR zu vervielfältigen, zu veräußern oder zeitlich begrenzt zu überlassen, insb. nicht zu vermieten oder zu verleihen.
+8.8
+4SELLERS nutzt für die Serviceleistungen „4SELLERS | Cloud“ und „4SELLERS | Managed Services für 4SELLERS | Cloud“ verschiedene Software, die auf den Systemen des Kunden installiert und für die jeweiligen Anwendungsfälle genutzt wird. Diese Software erfasst Systemzustände, Statistiken und übermittelt diese an die Managementsysteme der 4SELLERS. Der Kunde ist nicht berechtigt, die Software zu vervielfältigen, sie Dritten zur Nutzung zur Verfügung zu stellen, oder die Software inhaltlich zu verändern.
+8.9
+Verpflichtungen des Kunden zur sicheren Nutzung
+Der Kunde haftet dafür, dass die ZUGRIFFSSOFTWARE und die INFRASTRUKTUR nicht zu rassistischen, diskriminierenden, pornographischen, den Jugendschutz gefährdenden, politisch extremen oder sonst gesetzeswidrigen oder gegen behördliche Vorschriften oder Auflagen verstoßenden Zwecken verwendet oder entsprechende Daten, insb. ANWENDUNGSDATEN, erstellt und/oder auf dem SERVER gespeichert werden.
+8.10
+Verletzung der Bestimmungen nach Abs. 1 und 2 durch den Kunden
+8.11
+Verletzt der Kunde die Regelungen in Abs. 1 oder 2 aus von ihm zu vertretenden Gründen, kann 4SELLERS nach vorheriger schriftlicher Benachrichtigung des Kunden den Zugriff des Kunden auf die INFRASTRUKTUR oder die ANWENDUNGSDATEN sperren, wenn die Verletzung hierdurch nachweislich abgestellt werden kann.
+8.12
+Verstößt der Kunde rechtswidrig gegen Abs. 2, ist 4SELLERS berechtigt, die dadurch betroffenen Daten bzw. ANWENDUNGSDATEN zu löschen. Im Fall eines rechtswidrigen Verstoßes durch Nutzer hat der Kunde 4SELLERS auf Verlangen unverzüglich sämtliche Angaben zur Geltendmachung der Ansprüche gegen den Nutzer zu machen, insb. dessen Namen und Anschrift mitzuteilen. Verletzt der Kunde trotz entsprechender schriftlicher Abmahnung durch 4SELLERS weiterhin oder wiederholt die Regelungen in Abs. 1 oder 2, und hat er dies zu vertreten, so kann 4SELLERS den Vertrag ohne Einhaltung einer Kündigungsfrist außerordentlich kündigen.
+8.13
+Für jeden Fall, in dem der Kunde die Nutzung der INFRASTRUKTUR durch Dritte (oder durch nicht vom Kunden benannte Nutzer) schuldhaft ermöglicht, hat der Kunde jeweils eine sofort fällige Vertragsstrafe in Höhe der monatlichen Grundpauschale zu zahlen. Die Geltendmachung von Schadensersatz bleibt vorbehalten; in diesem Fall wird die Vertragsstrafe auf den Schadensersatzanspruch angerechnet.
+8.14
+Hat der Kunde die Pflichtverletzung zu vertreten, so kann 4SELLERS Schadensersatz geltend machen. Zusätzlich gelten die Regeln zur Sperrung des Zugriffs gem. Punkt 11.6.
+8.15
+Sicherheitsmaßnahmen bei von der Cloud-Umgebung des Kunden ausgehenden Gefahren
+Erkennt 4SELLERS, dass von der Cloud-Umgebung des Kunden Gefahren ausgehen könnten, ist 4sellers berechtigt, die Nutzung durch den Kunden soweit einzuschränken, wie dies durch eine sachgerechte Bearbeitung der Gefahr geboten ist.
+8.16
+Rechte des Kunden an etwa entstehenden Datenbanken/Datenbankwerken
+Sofern und soweit während der Laufzeit dieses Vertrags, insb. durch Zusammenstellung von ANWENDUNGSDATEN, durch nach diesem Vertrag erlaubte Tätigkeiten des Kunden auf dem SERVER der 4SELLERS eine Datenbank, Datenbanken, ein Datenbankwerk oder Datenbankwerke entstehen, stehen alle Rechte hieran dem Kunden zu. Der Kunde bleibt auch nach Vertragsende Eigentümer der Datenbanken bzw. Datenbankwerke.
+9.
+Haftung für Rechte Dritter
+9.1
+4SELLERS wird den Kunden von Rechten Dritter bzw. von deren Geltendmachung und von einer daraus resultierenden Beeinträchtigung der Erbringung vereinbarter Leistungen unverzüglich unterrichten und ihm in geeigneter Weise den vollen Zugriff auf die ANWENDUNGSDATEN ermöglichen.
+9.2
+Der Kunde ist, sofern und soweit die Rechte Dritter ihn im Gebrauch der ZUGRIFFSSOFTWARE oder der INFRASTRUKTUR beeinträchtigen, nicht zur Vergütung verpflichtet.
+9.3
+4SELLERS hält den Kunden auf erstes Anfordern frei von sämtlichen Ansprüchen Dritter, die diese aus ihren Rechten gegen den die INFRASTRUKTUR vertragsgemäß nutzenden Kunden geltend machen. Die Vertragspartner werden sich unverzüglich schriftlich benachrichtigen, falls ihnen gegenüber Ansprüche geltend gemacht werden.
+9.4
+Ferner kann der Kunde Schadensersatz geltend machen.
+9.5
+4SELLERS haftet nicht für eine Verletzung der Rechte Dritter durch den Kunden, sofern und soweit sich diese Verletzung aus einer Überschreitung der nach diesem Vertrag eingeräumten Nutzungsrechte ergibt. In diesem Fall stellt der Kunde 4SELLERS auf erstes Anfordern frei von sämtlichen Ansprüchen Dritter.
+9.6
+Audits
+4SELLERS unterstützt den Kunden bei Audits von Kunden gestellter Software durch die Hersteller. Die dadurch notwendig werden Arbeiten werden nach Zeit und Aufwand zu den jeweils gültigen Preislisten von 4SELLERS abgerechnet.
+10.
+Entgelt
+10.1
+Die Vergütung wird in der Bestellung verankert.
+10.2
+4SELLERS ist berechtigt, die vereinbarten Preise für die vertraglichen Leistungen zum Ausgleich von Personal- und sonstigen Kostensteigerungen angemessen zu erhöhen. 4SELLERS wird diese Preiserhöhungen dem Kunden schriftlich oder per E-Mail bekannt geben; die Preiserhöhungen gelten nicht für die Zeiträume, für die der Kunde bereits Zahlungen geleistet hat. Beträgt die Preiserhöhung mehr als 8 % des bisherigen Preises, so ist der Kunde berechtigt, den Vertrag im Ganzen mit einer Frist von einem Monat zum Wirksamwerden der Preiserhöhung zu kündigen; macht er von diesem Kündigungsrecht Gebrauch, so werden bis zum Wirksamwerden der Kündigung, die nicht erhöhten Preise berechnet. Auf dieses Kündigungsrecht wird 4SELLERS den Kunden zusammen mit jeder Ankündigung hinweisen.
+10.3
+Sonstige Leistungen werden von 4SELLERS nach Aufwand (Time & Material) zu den jeweils im Zeitpunkt der Beauftragung geltenden allgemeinen Listenpreisen von 4SELLERS erbracht.
+10.4
+Vergütungen werden zuzüglich MwSt. in der jeweils anfallenden gesetzlichen Höhe geschuldet.
+10.5
+Vertragliche Regelungen und Auswirkungen auf Dienste (Maßnahmen) bei Zahlungsrückstand
+Bei einem Zahlungsverzug mit einem Betrag von einer Monatsvergütung behält sich 4sellers das Recht vor, nach vorheriger Ankündigung mit angemessener Frist von in der Regel 10 Werktagen die Services einzuschränken. Dies kann zur vorübergehenden Sperrung oder Deaktivierung des Zugangs zur Cloud-Plattform oder bestimmter Services führen.
+Bis zur Sperrung hat der Kunde weiterhin Zugriff auf das System und die Möglichkeit, seine Daten zu sichern. Nach erfolgter Sperrung wird die Begleichung offener Zahlungsrückstände zur Voraussetzung für die Reaktivierung der Services und den erneuten Zugriff auf die Daten.
+Sollte der Zahlungsrückstand die Summe zweier Monatsvergütungen überschreiten oder der Kunde insolvent werden, behält sich 4sellers das Recht vor, das Vertragsverhältnis außerordentlich aus wichtigem Grund zu kündigen und Maßnahmen zur Löschung der Daten zu ergreifen. Über derartige Maßnahmen und den genauen Zeitpunkt der Datenlöschung wird der Kunde im Voraus mit einer Frist von einem Monat informiert. Diese transparente Ankündigung ermöglicht es dem Kunden, geeignete Maßnahmen zu ergreifen, um offene Zahlungen zu begleichen, Daten zu sichern und somit die Löschung zu verhindern. Bezüglich Formen und Fristen der Kündigung gelten die Ziffern 16.2 und 16.3.
+11.
+Pflichten und Obliegenheit des Kunden
+11.1
+Sollte es bei der Nutzung des Servers zu Störungen kommen, so wird der Kunde 4SELLERS von diesen Störungen unverzüglich in Kenntnis setzen.
+11.2
+Der Kunde ist verpflichtet, die Zugangsdaten gegenüber unbefugten Dritten geheim zu halten. Insbesondere sind Benutzername und Passwort so aufzubewahren, dass der Zugriff auf diese Daten durch unbefugte Dritte unmöglich ist, um einen Missbrauch des Zugangs durch Dritte auszuschließen. Der Kunde verpflichtet sich, 4SELLERS unverzüglich zu informieren, sobald er davon Kenntnis erlangt, dass unbefugten Dritten das Passwort bekannt ist.
+11.3
+Als unbefugte Dritte gelten nicht die Personen, die den Speicherplatz, der Gegenstand dieses Vertrages ist, mit Wissen und Willen des Kunden nutzen.
+11.4
+Der Kunde versichert, dass er keine Inhalte auf dem vertragsgegenständlichen Speicherplatz speichern und in das Internet einstellen wird, deren Bereitstellung, Veröffentlichung und Nutzung gegen Strafrecht, Urheberrechte, Marken- und sonstige Kennzeichnungsrechte oder Persönlichkeitsrechte verstößt.
+11.5
+Verstößt der Kunde gegen diese Pflicht, ist er zur Unterlassung des weiteren Verstoßes, zum Ersatz des 4SELLERS entstandenen und noch entstehenden Schadens sowie zur Freihaltung und Freistellung von 4SELLERS von Schadensersatz- und Aufwendungsersatzansprüchen Dritter, die durch den Verstoß verursacht wurden, verpflichtet. Die Freistellungsverpflichtung umfasst auch die Verpflichtung, 4SELLERS von Rechtsverteidigungskosten (Gerichts- und Anwaltskosten etc.) vollständig freizustellen. Sonstige Ansprüche von 4SELLERS, insbesondere zur Sperrung der Inhalte und zur außerordentlichen Kündigung, bleiben unberührt.
+11.6
+Vorübergehende Sperrung
+4SELLERS ist berechtigt, den Zugang zum Speicherplatz vorübergehend zu unterbrechen, falls ein hinreichender Verdacht auf rechtswidrige Inhalte auf dem Speicherplatz vorliegt, z.B. aufgrund einer Abmahnung des vermeintlich Verletzten oder Ermittlungen staatlicher Behörden, es sei denn, die Abmahnung ist offensichtlich unbegründet. Die Sperrung ist, sofern technisch möglich und zumutbar, auf die vermeintlich rechtsverletzenden Inhalte zu beschränken. Der Kunde ist über die Sperrung unter Angabe der Gründe unverzüglich zu benachrichtigen und aufzufordern, die vermeintlich rechtswidrigen Inhalte zu entfernen oder die Rechtmäßigkeit darzulegen und gegebenenfalls zu beweisen. Die Sperrung ist aufzuheben, sobald der Verdacht entkräftet ist.
+12.
+Datensicherheit, Datenschutz
+12.1
+Die Vertragspartner werden die jeweils anwendbaren, insb. die in Deutschland gültigen, datenschutzrechtlichen Bestimmungen beachten und ihre im Zusammenhang mit dem Vertrag und dessen Durchführung eingesetzten Beschäftigten auf das Datengeheimnis verpflichten, soweit diese nicht bereits allgemein entsprechend verpflichtet sind.
+12.2
+Erhebt, verarbeitet oder nutzt der Kunde personenbezogene Daten, so steht er dafür ein, dass er dazu nach den anwendbaren, insb. datenschutzrechtlichen, Bestimmungen berechtigt ist und stellt im Fall eines Verstoßes 4SELLERS von Ansprüchen Dritter frei.
+12.3
+4SELLERS wird kundenbezogene Daten nur in dem Umfang erheben und nutzen, wie es die Durchführung dieses Vertrags erfordert. Der Kunde stimmt der Erhebung und Nutzung solcher Daten in diesem Umfang zu.
+12.4
+Die Verpflichtungen nach Abs. 1 bis 3 bestehen, so lange ANWENDUNGSDATEN im Einflussbereich von 4SELLERS liegen, auch über das Vertragsende hinaus.
+12.5
+Ergänzend gelten die Bedingungen für Auftragsverarbeitung der 4SELLERS, die unter https://www.4sellers.de/agb gelesen und gespeichert werden können.
+13.
+Geheimhaltung
+13.1
+Vertraulich zu behandelnde Informationen sind die von dem informationsgebenden Vertragspartner ausdrücklich als vertraulich bezeichneten Informationen und solche Informationen, deren Vertraulichkeit sich aus den Umständen der Überlassung eindeutig ergibt. Durch 4SELLERS vertraulich zu behandeln sind insbesondere die ANWENDUNGSDATEN, sollte er von ihnen Kenntnis erlangen. Keine vertraulich zu behandelnde Information liegt vor, soweit der die Information empfangende Vertragspartner nachweist,
+• dass sie ihm vor dem Empfangsdatum bekannt oder allgemein zugänglich waren;
+• der Öffentlichkeit vor dem Empfangsdatum bekannt oder allgemein zugänglich waren;
+• der Öffentlichkeit nach dem Empfangsdatum bekannt oder allgemein zugänglich wurden, ohne dass der informationsempfangende Vertragspartner hierfür verantwortlich ist.
+13.2
+Die Vertragspartner werden über alle vertraulichen Informationen, die ihnen im Rahmen dieses Vertragsverhältnisses zur Kenntnis gelangt sind, Stillschweigen bewahren bzw. diese nur im vorher schriftlich hergestellten Einvernehmen des jeweils anderen Vertragspartners Dritten gegenüber - gleich zu welchem Zweck - verwenden.
+13.3
+Öffentliche Erklärungen der Vertragspartner über eine Zusammenarbeit werden nur im vorherigen gegenseitigem Einvernehmen abgegeben.
+13.4
+Die Verpflichtungen nach Abs. 2 bestehen auch über das Vertragsende hinaus auf unbestimmte Zeit, und zwar so lange, wie ein Ausnahmetatbestand nach Abs. 1 nicht nachgewiesen ist.
+14.
+Mängelhaftung und sonstige Leistungsstörungen
+14.1
+4SELLERS schließt jegliche verschuldensunabhängige Haftung für anfängliche Mängel der vertraglichen Leistungen aus. Spätere Einwendungen wegen anfänglicher offener oder verdeckter Mängel sind damit ausgeschlossen.
+14.2
+Die Haftung wegen Unterbrechung, Störung oder sonstiger schadensverursachender Ereignisse, die auf Telekommunikationsdienstleistungen von 4SELLERS oder Dritten, für die 4SELLERS haftet, beruhen, ist beschränkt auf die Höhe des für 4SELLERS möglichen Rückgriffs gegen den jeweiligen Telekommunikationsdienstleister. 4SELLERS haftet nicht für die Funktionsfähigkeit der Telefonleitungen zu dem vertragsgegenständlichen Server, bei Stromausfällen und bei Ausfällen von Servern, die nicht in seinem Einflussbereich stehen.
+14.3
+4SELLERS gewährleistet, dass die vertragsgegenständlichen Leistungen nicht mit Sach- und/oder Rechtsmängeln behaftet sind.
+14.4
+4SELLERS gewährleistet, dass der Cloud-Service während der Betriebszeit bei vertragsgemäßem Einsatz den Vereinbarungen entspricht. Mängel an dem Cloud-Service (im Folgenden als „Störungen“ bezeichnet) werden von 4SELLERS nach entsprechender Mitteilung der Störung durch den Kunden innerhalb angemessener Zeit behoben. Gleiches gilt für sonstige Störungen der Möglichkeit zur Nutzung des Cloud-Service.
+14.5
+4SELLERS wird Störungsmeldungen des Kunden entgegennehmen und die notwendigen Maßnahmen zur Analyse und Bereinigung von Störungen durchführen. Das Störungsmanagement umfasst keine Leistungen, die im Zusammenhang mit dem Einsatz von dem Cloud-Service in nicht freigegebenen Einsatzumgebungen oder mit Veränderungen der Cloud-Service durch den Kunden oder Dritten stehen.
+14.6
+4SELLERS wird während der Betriebszeit ordnungsgemäße Störungsmeldungen des Kunden entgegennehmen und jeweils mit einer Kennung versehen. Auf Anforderung des Kunden bestätigt ihm 4SELLERS den Eingang einer Störungsmeldung unter Mitteilung der vergebenen Kennung.
+14.7
+Bei Meldungen über Störungen wird 4SELLERS in angemessener Frist anhand der vom Kunden mitgeteilten Umstände Maßnahmen einleiten, um zunächst die Störungsursache zu lokalisieren. Stellt sich die mitgeteilte Störung nach erster Analyse nicht als Fehler des Cloud-Service dar, teilt 4SELLERS dies dem Kunden unverzüglich mit. Sonst wird 4SELLERS Maßnahmen zur weitergehenden Analyse und zur Bereinigung der mitgeteilten Störung veranlassen oder – bei Komponenten von Dritten – die Störungsmeldung zusammen mit seinen Analyseergebnissen dem Vertreiber oder Hersteller der Komponenten mit der Bitte um Abhilfe übermitteln. 4SELLERS wird dem Kunden ihm vorliegende Maßnahmen zur Umgehung oder Bereinigung eines Fehlers des Cloud-Service, etwa Handlungsanweisungen, in angemessener Frist zur Verfügung stellen. Der Kunde wird solche Maßnahmen zur Umgehung oder Bereinigung von Störungen unverzüglich übernehmen und 4SELLERS bei deren Einsatz etwa verbleibende
+Störungen unverzüglich erneut melden. Der Kunde hat Mangelansprüche nur, wenn gemeldete Mängel reproduzierbar oder anderweitig durch den Kunden nachweisbar sind.
+14.8
+Gelingt es 4SELLERS während der Vertragslaufzeit einen Sach- und/oder Rechtsmangel nicht zu beseitigen, so ist der Kunde berechtigt, 4SELLERS eine angemessene Nachfrist mit der Androhung zu setzen, nach Ablauf dieser Nachfrist die monatliche Gebühr zu mindern oder den Vertrag fristlos schriftlich zu kündigen. Eine außerordentliche Kündigung des gesamten Vertrags ist nur bei einem wesentlichen Mangel zulässig. Der Rücktritt vom Vertrag ist ausgeschlossen.
+14.9
+Ansprüche wegen mangelhafter Leistungen verjähren binnen eines Jahres.
+14.10
+Die Sach- und Rechtsmängelhaftung für die erbrachten Leistungen erlischt, wenn der Kunde oder Dritte an Leistungen, Systemen, Systemkomponenten, Änderungen vorgenommen hat, denen 4SELLERS vorher nicht ausdrücklich zugestimmt hat. Etwas Anderes gilt nur insoweit, als der Kunde nachweist, dass der Mangel nicht auf die Veränderungen zurückzuführen ist und dass diese die Mangelidentifizierung und -beseitigung nicht erschwert haben.
+14.11
+Sofern von 4SELLERS erbrachte Leistungen nicht unter die Sach- und/oder Rechtsmängelhaftung fallen und auch nicht von der Vergütung erfasst sind, trägt der Kunde die Kosten einschließlich eventuell anfallender Reisekosten und Spesen nach Maßgabe der bei Leistungserbringung jeweils gültigen Stunden- und Reisekostenansätze von 4SELLERS. Dies insbesondere, wenn der Kunde eine unzutreffende Fehlermeldung durch ausreichende und zumutbare Beschäftigung mit dem Fehler selbst hätte vermeiden können.
+15.
+Haftung, Haftungsgrenzen und Vertragsstrafe
+15.1
+Die Vertragspartner haften einander bei Vorsatz oder grober Fahrlässigkeit für alle von ihnen sowie ihren gesetzlichen Vertretern oder Erfüllungsgehilfen verursachten Schäden unbeschränkt.
+15.2
+Bei leichter Fahrlässigkeit haften die Vertragspartner im Fall der Verletzung des Lebens, des Körpers oder der Gesundheit unbeschränkt.
+15.3
+Im Übrigen haftet ein Vertragspartner nur, soweit er eine wesentliche Vertragspflicht verletzt hat. Wesentliche Vertragspflichten sind solche Pflichten, die für die Erreichung des Vertragsziels von besonderer Bedeutung sind, ebenso alle diejenigen Pflichten, die im Fall einer schuldhaften Verletzung dazu führen können, dass die Erreichung des Vertragszwecks gefährdet wird. In diesen Fällen ist die Haftung auf den Ersatz des bei Vertragsschluss vorhersehbaren, typischerweise eintretenden Schadens, höchstens aber 3.000.000 €, höchstens zweimal im Jahr, beschränkt. Die verschuldensunabhängige Haftung von 4SELLERS auf Schadensersatz (§ 536a BGB) für bei Vertragsschluss vorhandene Mängel wird ausgeschlossen; Abs. 1 und 2 bleiben unberührt.
+15.4
+Die Haftung nach dem Produkthaftungsgesetz bleibt unberührt.
+16.
+Laufzeit, Kündigung
+16.1
+Das Vertragsverhältnis beginnt mit dem Zugang der Mitteilung von 4SELLERS an den Kunden in Textform oder über das Ticketsystem, dass die auf Seiten des Rechenzentrums durchzuführenden Leistungen technisch abgeschlossen sind, spätestens aber mit dem Ersten des auf den Zugang der Mitteilung folgenden Monats. Unterbliebene Mitwirkungsleistungen des Kunden verhindern nicht den Beginn der Laufzeit. Der Vertrag hat eine Mindestvertragslaufzeit bis zum 31.12. des auf den Vertragsbeginn folgenden Jahres und verlängert sich automatisch um jeweils weitere 12 Monate, wenn er nicht von einer der Parteien schriftlich mit einer Frist von 3 Monaten zum Ende eines Kalenderjahres ordentlich gekündigt wird.
+16.2
+Die außerordentliche Kündigung wegen oder im Zusammenhang mit einer Pflichtverletzung ist nur nach vorangegangener schriftlicher Abmahnung mit angemessener Fristsetzung von nicht unter 20 Werktagen möglich.
+Ein wichtiger Grund liegt für 4SELLERS insbesondere in jedem Fall vor, in dem
+-
+der Kunde zahlungsunfähig ist oder über sein Vermögen ein Insolvenzverfahren eröffnet ist oder mangels Masse der Antrag auf Eröffnung eines Insolvenzverfahrens abgewiesen worden ist; nach Antrag auf Eröffnung des Insolvenzverfahrens über das Vermögen des Kunden darf 4SELLERS jedoch nicht wegen eines Verzugs mit der Entrichtung der Vergütung, der in der Zeit vor dem Eröffnungsantrag eingetreten ist, oder wegen einer Verschlechterung der Vermögensverhältnisse des Kunden kündigen;
+-
+der Kunde gegen wesentliche vertragliche Pflichten verstößt, insbesondere die vertragliche Pflicht, bei der Nutzung der vertraglichen Leistungen von 4SELLERS das Recht zu beachten, und diesen Verstoß auch nach Abmahnung oder Benachrichtigung über die Sperrung der Inhalte durch 4SELLERS nicht unverzüglich abstellt.
+Jede Kündigung hat schriftlich zu erfolgen.
+16.3
+Ungeachtet der Regelung in Abs. 2 kann 4SELLERS den Vertrag ohne Einhaltung einer Frist kündigen, wenn der Kunde für zwei aufeinander folgende Monate mit der Bezahlung der Preise bzw. eines nicht unerheblichen Teils der Preise oder in einem Zeitraum, der sich über mehr als zwei Monate erstreckt, mit der Bezahlung des Entgelts in Höhe eines Betrags, der das Entgelt für zwei Monate erreicht, in Verzug ist. 4SELLERS hat in diesem Fall die Wahl, zusätzlich einen sofort in einer Summe fälligen pauschalierten Schadensersatz in Höhe eines Viertels der bis zum Ablauf der regulären Vertragslaufzeit restlichen monatlichen
+Grundpauschale verlangen oder den konkreten Schaden bis zum Ablauf der Vertragslaufzeit zu verlangen. Dem Kunden bleibt der Nachweis eines geringeren Schadens vorbehalten.
+16.4
+Pflichten bei und nach Beendigung des Vertrags
+Ein technischer Zugriff über den letzten Tag des Vertragsverhältnisses hinaus auf technische Infrastruktur von 4SELLERS ist nicht möglich. Im Falle der Beendigung des Vertrages hat der Kunde dafür Sorge zu tragen, dass er bis zum letzten Tage des Vertragsverhältnisses seine Daten heruntergeladen und gesichert hat. Dazu wird ihm 4SELLERS alle notwendigen Benutzernamen und Kennwörter zur Verfügung stellen. Der Kunde ist verpflichtet, nach Erhalt von Kennwörtern und Passwörtern diese bei sich unverzüglich zu ändern. Nach dem letzten Tag des Vertragsverhältnisses wird 4SELLERS alle dem Kunden zur Verfügung gestellten Kennwörter und Passwörter bei sich löschen.
+4SELLERS wird den Kunden oder von dem Kunden benannte Dritte auf Anforderung dabei unterstützen, seine Daten herunterzuladen. Diese Dienstleistung wird nach Aufwand für die jeweils gültigen Stundensätze von 4SELLERS vergütet. 4SELLERS kann einen angemessenen Vorschuss verlangen. Schafft der Kunde die Übernahme der Daten bis zum letzten Tag des Vertragsverhältnisses nicht, kann er mit 4SELLERS eine angemessene Verlängerung des Vertrages vereinbaren. Ein Anspruch darauf besteht nicht.
+17.
+Cloud Switching
+17.1
+Vorzeitige Beendigung des Vertrages wegen Wechsels des Kunden
+Der Kunde ist berechtigt, das Vertragsverhältnis vorzeitig zu kündigen mit dem Verlangen, zu einem anderen Datenverarbeitungsdienst zu wechseln oder alle portierbaren Daten und digitalen Vermögenswerte unverzüglich in eigene Räumlichkeiten zu übertragen. Die Kündigungsfrist beträgt zwei Monate zum Monatsende.
+Der Kunde ist berechtigt, auch nach Ablauf der zweimonatigen Kündigungsfrist, aber vor Ablauf des 30- tägigen Übergangszeitraums gem. Absatz (2) 4SELLERS zu unterrichten, dass er eine der nachfolgenden Maßnahmen wünscht:
+-
+Wechsel zu einem anderen Anbieter von Datenverarbeitungsdiensten unter Angabe der erforderlichen Angaben zu diesem Anbieter;
+-
+Wechsel zu einer IKT-Infrastruktur in eigenen Räumlichkeiten;
+-
+Löschung seiner exportierbaren Daten und digitalen Vermögenswerte.
+17.2
+Übergangszeitraum
+Die Übertragung hat spätestens innerhalb von 30 Kalendertagen (Übergangszeitraum) nach Wirksamwerden der Kündigung zu erfolgen. Erkennt 4SELLERS, dass der vorstehend genannte maximale Übergangszeitraum von zwei Monaten technisch nicht durchführbar ist, teilt 4SELLERS dies dem Kunden innerhalb von 14 Werktagen nach der Beantragung des Wechsels mit und begründet ordnungsgemäß die technische Undurchführbarkeit und gibt einen alternativen Übergangszeitraum an, der sieben Monate nicht überschreiten darf. 4SELLERS stellt für diesen Zeitraum die Kontinuität des Dienstes sicher.
+Unabhängig davon ist der Kunde berechtigt, den Übergangszeitraum von zwei Monaten einmal um einen Zeitraum zu verlängern, den er für eigene Zwecke für angemessen hält.
+17.3
+Pflichten von 4SELLERS
+4SELLERS unterstützt den Kunden oder von ihm autorisierte Dritte in angemessener Weise beim Vollzug des Wechsels. 4SELLERS wird dabei mit der gebotenen Sorgfalt handeln, um die Kontinuität des Geschäftsbetriebes des Kunden aufrechtzuerhalten und die Erbringung der vertragsgemäßen Funktionen bis dahin fortsetzen.
+4SELLERS wird den Kunden eindeutig über bekannte Risiken für die unterbrechungsfreie Erbringung der Funktionen oder Dienste unterrichten, soweit diese Risiken aus dem Verantwortungsbereich von 4SELLERS stammen.
+4SELLERS wird während des Wechsels für ein hohes Maß an Sicherheit sorgen, insbesondere für die Sicherheit der Daten während der Übertragung und die kontinuierliche Sicherheit der Daten während des Abrufzeitraums von 30 Tagen.
+4SELLERS wird die Ausstiegsstrategie des Kunden unterstützen, unter anderem durch die Bereitstellung aller einschlägigen Informationen.
+17.4
+Vertragsende nach Vollzug des Wechsels
+Der Vertrag gilt als beendet, wenn der Wechsel erfolgreich vollzogen ist oder, sofern der Kunde sich entschieden hat, seine exportierten Daten und digitalen Vermögenswerte nach Beendigung des Dienstes zu löschen, nach Ablauf der vorstehend beschriebenen Kündigungsfrist von zwei Monaten zum Monatsende. 4SELLERS wird den Kunden über die Kündigung und die Beendigung des Vertrages in Textform unterrichten.
+17.5
+Technische Informationen zum Wechsel
+Eine erschöpfende Auflistung aller Kategorien von Daten und digitalen Vermögenswerten, die während des Wechselvollzugs übertragen werden können, einschließlich aller exportierbarer Daten, kann unter https://downloads.4sellers.de/agb/4SELLERS_IaaS_Cloud_Switching_Info.pdf aufgerufen werden. Eine erschöpfende Liste der Datenkategorien, die für die interne Funktionsweise des Datenverarbeitungsdienstes von 4SELLERS spezifisch und von den zuvor genannten exportierbaren Daten ausgenommen sind, werden, wenn die Gefahr einer Verletzung von Geschäftsgeheimnissen von 4SELLERS besteht, davon ausgenommen, sofern solche Ausnahmen den Wechsel nicht verzögern oder behindern.
+Eine Information über die verfügbaren Verfahren für den Wechsel und Übertragung von Inhalten auf den Datenverarbeitungsdienst, einschließlich Informationen über verfügbare Wechsel- und Übertragungsmethoden und -Formate sowie über Einschränkungen und technische Beschränkungen, die dem Anbieter von Datenverarbeitungsdiensten bekannt sind, sind unter https://downloads.4sellers.de/agb/4SELLERS_IaaS_Cloud_Switching_Info.pdf aufrufbar. Dort findet sich auch ein Verweis auf ein aktuelles Online-Register von Cloud-Anbietern mit Einzelheiten zu allen Datenstrukturen und Datenformate sowie zu den einschlägigen Normen und offenen Interoperabilitätsspezifikationen, in denen die vorstehend beschriebenen exportierbaren Daten verfügbar sind.
+17.6
+Datenlöschung nach Vollzug des Wechsels
+4SELLERS garantiert, dass alle exportierbaren Daten und digitalen Vermögenswerte, die direkt vom Kunden generiert werden oder sich direkt auf den Kunden beziehen, nach Ablauf der Frist zum Abruf der Daten (30 Kalendertage nach Wirksamwerden der Kündigung) vollständig gelöscht werden, sofern der Wechsel erfolgreich vollzogen ist.
+17.7
+Vergütung von 4SELLERS
+Vorstehende Dienstleistungen von 4SELLERS werden zu den Selbstkosten erbracht, die 4SELLERS durch den Vollzug des Wechsels entstehen. 4SELLERS wird die dafür aufgewendeten Zeiten dokumentieren. Die Vergütung der Zeiten erfolgt zu den Stundensätzen, die 4SELLERS für die betroffenen Mitarbeiter zahlt.
+Daneben erhält 4SELLERS für die Zeit von der vorzeitigen Beendigung des Vertrages aufgrund des Wechsels bis zum nächstmöglichen Zeitpunkt der Beendigung des Vertrages durch eine Kündigung nach den Regeln des Vertrages eine pauschale Entschädigung in Höhe von 75 % der bis zum Ende des Vertragsverhältnisses 4SELLERS eigentlich noch zustehenden Vergütung.
+18.
+Höhere Gewalt
+Keiner der Vertragspartner ist zur Erfüllung der vertraglichen Verpflichtungen im Fall und für die Dauer höherer Gewalt verpflichtet. Insb. folgende Umstände sind als höhere Gewalt in diesem Sinne anzusehen:
+-
+von dem Vertragspartner nicht zu vertretende(s) Feuer/Explosion/Überschwemmung,
+-
+Krieg, Meuterei, Blockade, Embargo,
+-
+über 6 Wochen andauernder und von dem Vertragspartner nicht schuldhaft herbeigeführter Arbeitskampf,
+-
+nicht von einem Vertragspartner beeinflussbare technische Probleme des Internets; dies gilt nicht, sofern und soweit 4SELLERS die Telekommunikationsleistung mit anbietet.
+Jeder Vertragspartner hat den anderen über den Eintritt eines Falls höherer Gewalt unverzüglich schriftlich in Kenntnis zu setzen.
+19.
+Schlussbestimmungen
+19.1
+Auf das Vertragsverhältnis findet deutsches materielles Recht unter Ausschluss des UN-Kaufrechts Anwendung.
+19.2
+Anhänge sind in ihrer jeweils gültigen, d.h. von beiden Vertragspartnern unterzeichneten, Fassung Bestandteil dieses Vertrags.
+19.3
+Nebenbestimmungen außerhalb dieses Vertrags und seiner Anhänge bestehen nicht. Änderungen oder Ergänzungen dieses Vertrags und der Anhänge bedürfen der zu ihrer Wirksamkeit der Schriftform. Dies gilt auch für die Abbedingung des Schriftformerfordernisses.
+19.4
+Die etwaige Unwirksamkeit einzelner Bestimmungen dieses Vertrags beeinträchtigt nicht die Gültigkeit des übrigen Vertragsinhalts.
+19.5
+Ergeben sich in der praktischen Infrastruktur dieses Vertrags Lücken, die die Vertragspartner nicht vorgesehen haben, oder wird die Unwirksamkeit einer Regelung iS von Abs. 4 rechtskräftig oder von beiden Vertragspartnern übereinstimmend festgestellt, so verpflichten sie sich, diese Lücke oder unwirksame Regelung in sachlicher, am wirtschaftlichen Zweck des Vertrages orientierter angemessener Weise auszufüllen bzw. zu ersetzen.
+19.6
+Ausschließlicher Gerichtsstand ist, sofern nicht eine Norm zwingend einen anderen Gerichtsstand anordnet, der Sitz von 4SELLERS. 4SELLERS ist berechtigt, den Kunden auch an dessen Sitz zu verklagen.

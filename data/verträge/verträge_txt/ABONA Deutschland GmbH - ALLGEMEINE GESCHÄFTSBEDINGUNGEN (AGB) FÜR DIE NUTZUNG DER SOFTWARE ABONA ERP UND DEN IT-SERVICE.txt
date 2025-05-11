@@ -1,0 +1,425 @@
+ALLGEMEINE GESCHÄFTSBEDINGUNGEN (AGB)
+FÜR DIE NUTZUNG DER SOFTWARE ABONA ERP UND DEN IT-SERVICE
+
+§ 1 DEFINITIONEN
+1.1 „Ansprechpartner“: Der Kunde autorisiert bestimmte Personenkreise bezüglich der Zugriffe und
+Befugnisse zu bestimmten Bereichen. Diese befugten Personen, werden als „Ansprechpartner“
+bezeichnet.
+1.2 „Daten des Kunden“: Jegliche Informationen, Arbeitsmaterialien oder Daten, die der Kunde der
+Abona Deutschland GmbH während der Vertragslaufzeit im Rahmen der Nutzung der Software ABONA
+ERP zur Verfügung stellt, werden als Daten des Kunden bezeichnet.
+1.3 „Einzelvertrag“: Individualisierte Einzelverträge und Auftragsdokumente, die sich auf die hier
+vorliegenden allgemeinen Geschäftsbedingungen der Abona Deutschland GmbH beziehen, werden als
+Einzelverträge bezeichnet.
+1.4 „Erbringen der Leistung“: Jegliche dingliche (Arbeits-) Ergebnisse, welche die Abona Deutschland GmbH
+in Kooperation mit oder für den Kunden im vertraglich vereinbarten Rahmen hervorbringt, sind als
+erbrachte Leistung zu betrachten.
+1.5 „ERP“: Enterprise Resource Planning bezeichnet die Steuerung, Verwaltung und Planung von
+Ressourcen (wie beispielsweise Kapital, Personal, Material, Informationstechnik, Kommunikation und
+Betriebsmittel).
+1.6 „Kunde“: Stimmt ein Unternehmen dieser vertraglichen Vereinbarung mittels einer Unterzeichnung
+eines Einzelvertrags oder eines Auftragsdokuments, welches auf diese Vereinbarung Bezug nimmt, zu,
+so wird im Rahmen dieser Vereinbarung die Bezeichnung „Kunde“ angewendet. Dies gilt ebenso, wenn
+diese rechtliche Verbindung mit der Abona Deutschland GmbH in anderer Weise entstanden ist, wie
+beispielsweise durch das Ankreuzen eines Kontrollkästchens, welches auf die allgemeinen
+Geschäftsbedingungen der Abona Deutschland GmbH hinweist.
+1.7 „Lizenz“: Innerhalb der Vertragslaufzeit, kann der Kunde für sich und seine Mitarbeiter
+Lizenzen buchen. Für jeden Nutzer der Software wird eine Nutzungslizenz in Form eines
+Benutzerkontos freigeschaltet.
+1.8 „Module“/ „Modulpaket“: Die Software ist aus mehreren Teilen zusammengesetzt, welche die
+Ressourcenplanung bestimmter Bereiche und Branchen umfassend abdecken. Je nach Bedarf werden
+diese Module individuell für den Kunden zu einem Modulpaket zusammengestellt.
+1.9 „Software“: Das Programm ABONA ERP wird in dieser Vereinbarung als „Software“ bezeichnet.
+1.10 „Vereinbarung“: Neben diesen vorliegenden Allgemeinen Geschäftsbedingungen sind von der
+Bezeichnung „Vereinbarung“ ebenso jegliche Einzelverträge, sowie sämtliche Auftragsdokumente, die
+sich auf die allgemeinen Geschäftsbedingungen der Abona Deutschland GmbH beziehen, umfasst. Dies
+gilt ebenso für alle beigefügten oder an die Vereinbarungen geknüpften Anlagen, Nachträge und
+Ergänzungen.
+§ 2 GELTUNGSBEREICH
+2.1 Die folgend aufgeführten Service- und Nutzungsbedingungen gelten gegenüber juristischen Personen
+des öffentlichen Rechts, Unternehmen oder öffentlich-rechtlichen Sondervermögen im Sinne von §
+310 Abs. 1 des bürgerliches Gesetzbuches (nachfolgend BGB).
+2.2 Deren Gültigkeit erstreckt sich auf sämtliche zukünftige Geschäfte mit dem Kunden, soweit es sich
+bezüglich dieses Rechtsgeschäftes um eines von vergleichbarer Art handelt.
+2.3 Individuelle Vertragsabreden haben gemäß § 305 b BGB stets Vorrang gegenüber den Allgemeinen
+Geschäftsbedingungen. Diese werden im Rahmen von zusätzlichen Einzelverträgen vereinbart.
+2.4 Es gelten ausschließlich diese Allgemeinen Geschäftsbedingungen. Die Allgemeinen
+Geschäftsbedingungen des Kunden gelten nur, sofern die Abona Deutschland GmbH diesen ausdrücklich
+schriftlich zugestimmt hat.
+§ 3 VERTRAGSGEGENSTAND
+3.1 Die Abona Deutschland GmbH, verpflichtet sich zur Erfüllung von Dienst-, Beratungs- und
+Projektleistungen für den Kunden.
+Dem Kunden wird das einfache Nutzungsrecht für die aktuelle Version der Software Abona ERP
+eingeräumt. Hiervon umfasst sind ebenso sämtliche Updates und Versionsänderungen innerhalb der
+Vertragslaufzeit (Fortentwicklung der Software).
+3.2 Die Abona Deutschland GmbH erfüllt außerdem folgende Dienstleistungen (Störungshilfen) gegen
+gesonderte Vergütung:
+Anwendersupport, Wartung der Netzwerkkomponenten, Beschaffung und Einrichtung von
+Hardwarekomponenten, Wartung und Optimierung der IT-Infrastruktur, Pflege und Dokumentation, ITBeratung,
+IT-Sicherheitsberatung, Backup-Kontrollen.
+3.3 Die Abona Deutschland GmbH erbringt die Leistungen nach dem jeweiligen Stand der Technik und so,
+dass sie sich am Interesse der Gesamtheit der Softwarenutzer orientieren. Die Leistungen werden in
+Bezug auf den zuletzt und den unmittelbar zuvor von der Abona Deutschland GmbH ausgelieferten
+Softwarestand erbracht.
+3.4 Die Software Abona ERP, sowie dessen Auswertungen und Dokumentationen unterliegen dem
+Urheberschutz.
+§ 4 VERTRAGSSCHLUSS
+4.1 Mit der Auszahlung der ersten Nutzungsgebühr (siehe 10.1) geht der Vertragsschluss einher.
+4.2 Detaillierte Beschreibungen des gebuchten Modulpakets und der IT-Serviceleistungen werden in
+separaten Einzelverträgen festgehalten.
+§ 5 VERTRAGSDAUER UND KÜNDIGUNG
+5.1 Die Vertragslaufzeit beginnt mit dem Zeitpunkt des Vertragsschlusses (siehe § 4) und endet mit ihrer
+wirksamen Kündigung zum Ablauf der jeweiligen Kündigungsfrist. Beide Parteien können den Vertrag
+jederzeit ohne Angaben von Gründen in schriftlicher Form kündigen.
+5.2 Die Kündigungsfrist für den Kunden richtet sich nach dem jeweiligen abgeschlossenen Einzelvertrag.
+Die Abona Deutschland GmbH kann den Vertrag mit einer Frist von zwölf Monaten zum Quartalsende
+kündigen.
+5.3 Die Kündigung aus wichtigem Grund bedarf einer schriftlichen Benennung des Kündigungsgrundes und
+muss zuvor mit einer Frist von mindestens 14 Tagen angedroht werden.
+5.4 Ist eine fristlose Kündigung seitens der Abona Deutschland GmbH darauf zurückzuführen, dass der
+Kunde sich vertragswidrig verhalten hat, beträgt der Mindestschaden die Höhe der vertragsmäßigen
+Vergütung, auf die die Abona Deutschland GmbH im Falle der Weiterführung des Vertrages einen
+Anspruch gehabt hätte. Hat der Kunde die Pflichtverletzung nicht zu vertreten, besteht dieser
+Schadensersatzanspruch nicht.
+5.5 Sämtliche Gegenstände, Programme und Kopien der Programme, die dem Kunden während der
+Vertragslaufzeit überlassen worden sind und sich auf den Rechnern und sonstigen Datenträgern des
+Kunden befinden, muss er der Abona Deutschland GmbH unaufgefordert und unmittelbar nach der
+Beendigung des Vertragsverhältnisses zurückgeben.
+Die Daten selbst sind Eigentum des Kunden.
+Die Abona Deutschland GmbH darf eine schriftliche Versicherung einfordern, die besagt, dass der Kunde
+alle Kopien der Software gelöscht oder vernichtet hat.
+5.6 Von der Löschungspflicht ausgenommen sind Sicherungskopien, die vom Kunden zu
+Archivierungszwecken aufbewahrt werden müssen.
+5.7 Eine Kündigung bedarf der Schriftform im Sinne des § 126 BGB.
+5.8 Bei einer unbefugten Nutzung der Software durch den Kunden oder durch Dritte über das Ende der
+Vertragslaufzeit hinaus, haftet dieser mit einer Entrichtung eines Betrags an die Abona Deutschland
+GmbH, der mindestens einem Jahresbeitrag entspricht.
+Die Höhe dieses Jahresbeitrags setzt sich aus dem Durchschnittswert der Nutzungsgebühren der
+vorangegangenen zwölf Monate zusammen (vergl. § 10 – Preise).
+Alle weiteren Schadenersatzansprüche bleiben unberührt.
+5.9 Die Abona Deutschland GmbH wird den Kunden für alle Schäden haftbar machen, die aufgrund einer
+Verletzung des Vertrages durch diesen eingetreten sind.
+§ 6 UMFANG DER LIZENZEINRÄUMUNG
+6.1 Dem Kunden wird ein nicht ausschließliches Nutzungsrecht der Software eingeräumt. Die
+Benutzung der Software bedeutet, dass jede freigeschaltete Lizenz einem bestimmten Nutzer in Form
+eines Benutzerkontos zugeordnet wird, woraufhin dieser mit der Software im Rahmen der gebuchten
+Module arbeiten kann.
+6.2 Abhängig vom erworbenen Lizenzpaket erhält der Kunde den Zugang zu bestimmten Modulen, aus
+denen sich die Software zusammensetzt.
+Der Kunde wählt zwischen folgenden Optionen/ Modulpaketen:
+- Starter
+(Stammdaten Management (Kunden/Lieferanten/Artikel), Auftragsverwaltung, Rechnungsmodul,
+Import-Modul)
+- Business
+(Stammdaten Management (Kunden/Lieferanten/Artikel), Auftragsverwaltung, Personal-Management
+(HR), CRM / CRM+, Banking, Kassenmodul, Business Intelligence (BI), Import-Modul)
+- Premium
+(Stammdaten Management (Kunden/Lieferanten/Artikel), Auftragsverwaltung, Personal-Management
+(HR), CRM / CRM+, Finanzbuchhaltung, Banking, Speditionsmodul, Fuhrparkmanagement,
+Lagerverwaltung, SCAN-Modul (OCR, BarCode), Kassenmodul, Business Intelligence (BI), Import-Modul,
+Webshop-Integration)
+Eine aktuelle Auflistung bezüglich aller verfügbaren Modulpaketen und deren Funktionen
+kann der Website der Abona Deutschland GmbH entnommen werden:
+https://www.abona-erp.com/de/abona-erp
+6.3 Der Kunde kann seine Module abweichend von den in 6.2 aufgelisteten Standard-Paketen individuell
+buchen. Dies bedarf einer individualisierten Aufstellung der Kosten und Module.
+6.4 Der Kunde hat jederzeit die Möglichkeit, Lizenzen hinzuzubuchen, abzumelden oder nach Belieben
+zwischen den von der Abona Deutschland GmbH angebotenen Modulpaketen zu wechseln. Damit geht,
+betreffend der Modulpakete ein Teilkündigungsrecht einher.
+6.5 Je nach Aufwand kann die Abona Deutschland GmbH für das Wechseln, Hinzubuchen oder Abmelden
+zwischen den angebotenen Modulen eine einmalige gesonderte Gebühr verlangen. Jegliche
+Änderungen der gebuchten Lizenzpakete erfordert eine dementsprechende Änderung der
+Nutzungsgebühren und eine Neuaufstellung der diesbezüglichen Kosten und werden in einem
+Einzelvertrag festgehalten.
+§ 7 LIEFERUNG UND INSTALLATION
+7.1 Die Abona Deutschland GmbH teilt eine Installationsdatei (MSI) mit dem Kunden, wodurch die
+Installation auf dessen Serverlandschaft ermöglicht wird.
+7.2 Der Kunde erhält infolge dessen die Berechtigung, die Software im Rahmen der gebuchten
+Module zu nutzen und den IT-Service gegen gesonderte Berechnung in Anspruch zu nehmen.
+§ 8 RECHTE AN DER SOFTWARE/ BESCHRÄNKUNGEN
+8.1 Im Rahmen der selbstständigen Verarbeitung eigener Daten für eigene Zwecke im eigenen Betrieb hat
+der Kunde das Recht zur Nutzung der Software. Damit wird ihm ein einfaches Nutzungsrecht innerhalb
+der Vertragslaufzeit eingeräumt.
+8.2 Die folgenden Nutzungsbeschränkungen sind vom Kunden einzuhalten:
+(I) Sämtliches zur Software gehörendes Material ist urheberrechtlich geschützt. Weder die
+Vervielfältigung noch die Verbreitung sind zulässig.
+(II) Der Kunde ist nicht berechtigt, die Software oder zugehöriges Schriftmaterial ohne vorherige
+schriftliche Einwilligung durch die Abona Deutschland GmbH an Dritte zu übergeben oder auf
+anderem Wege zugänglich zu machen.
+(III) Die Veröffentlichung von Screenshots oder anderen visuellen Aufnahmen der Software durch
+den Kunden und seiner Mitarbeiter oder Beauftragten ist, unabhängig zu welchem Zweck,
+ausdrücklich verboten. F
+(IV) Der Kunde ist nicht berechtigt, die Software zurückzuentwickeln oder zu deassemblieren.
+(V) Die Software wird als einzelnes Produkt lizenziert. Der Kunde ist nicht berechtigt, die
+Komponenten der Software zu trennen, um sie an mehr als einem Computer zu benutzen.
+(VI) Der Kunde ist nicht dazu berechtigt, das Softwareprodukt zu vermieten oder zu verleasen.
+§ 9 IT-SERVICE/ PFLEGE
+9.1 Die Supportleistungen und IT-Dienstleistungen (siehe 3.2) gelten als erfüllt, wenn nicht unverzüglich
+Einwände erhoben werden.
+9.2 Bezüglich der Problemmeldungen und Einwanderhebungen hat der Kunde der Abona Deutschland
+GmbH eine genaue Beschreibung von Zeit, Ort, Art und Umfang des Mangels zu übermitteln. Hierfür ist
+der Kundensupport der Abona Deutschland GmbH die erste Anlaufstelle des Kunden.
+IT-Support (Technischen Support / Installation von Hardware / Netzwerken):
+Montag-Freitag von 9:00 Uhr bis 17:00 Uhr
+Tel: 07251/ 9760-500
+service@abona-erp.com
+Software-Support (Weiterentwicklungen, Sonderprogrammierungen, Implementierungen, etc.):
+Montag-Freitag von 9:00 Uhr bis 17:00 Uhr
+Tel: 07251 9760-300
+support@abona-erp.com
+Jegliche zeitliche Angaben aus dieser Vereinbarung beziehen sich auf die Zeitzone in der sich die Abona
+Deutschland GmbH befindet (DE).
+9.3 Der Kunde hat im Rahmen eines Einzelvertrages die Möglichkeit, Ansprechpartner bezüglich der
+Problemmeldungen namentlich zu nennen, sodass ein schneller Kommunikationsweg gewährleistet
+werden kann.
+9.4 Im Falle des wiederholten Vorliegens von Problemen hat die Abona Deutschland GmbH das Recht und
+die Pflicht zur Nachbesserung.
+9.5 Die Abona Deutschland GmbH ist berechtigt, aber nicht verpflichtet, Aktualisierungen der Software
+(Updates) zu erstellen und kann für derartige Aktualisierungen eine Aktualisierungsgebühr verlangen,
+die in Form einer gesonderten Rechnung eingefordert wird.
+9.6 Für die Abona Deutschland GmbH besteht keine Pflicht, Softwareaktualisierungen an solche Kunden
+auszuliefern, die eine oder mehrere vorhergehende Aktualisierungen nicht installiert oder die
+Aktualisierungsgebühr nicht bezahlt haben.
+§ 10 PREISE/ PREISÄNDERUNGEN
+10.1 Die monatliche Nutzungsgebühr richtet sich nach der Art und Anzahl der gebuchten Lizenzen und
+eingerichteten Benutzerkonten. Für jedes Modulpaket stellt die Abona Deutschland GmbH eine
+Preisliste zusammen, um dem Kunden einen transparenten Einblick in die Berechnung der
+Nutzungskosten zu gewährleisten.
+10.2 Unabhängig vom Lizenzpaket stellt die Abona Deutschland GmbH dem Kunden bei Bedarf additional die
+Support-Dienstleistungen in Rechnung. Diese Kosten setzen sich folgendermaßen zusammen:
+IT Support (Technischen Support / Installation von Hardware / Netzwerken)
+Techniker: 85 €/ Std.
+Software-Support (Weiterentwicklungen, Sonderprogrammierungen, Implementierungen, etc.)
+Support: 85,00 €/ Std.
+Junior Entwickler: 85,00 €/ Std.
+Senior Entwickler: 125,00 €/ Std.
+10.3 Die Kosten und weitere Konditionen bezüglich der monatlichen Rechnungsausstellung für das gebuchte
+Modulpaket und den IT-Service können der Website der Abona Deutschland GmbH entnommen
+werden.
+10.4 Der monatliche Rechnungsbetrag stellt sich aus den Nutzungsgebühren und den Supportkosten
+zusammen, sofern die zusätzlichen IT-Dienstleistungen in Anspruch genommen worden sind.
+Die gesetzliche Umsatzsteuer ist nicht in der Kostenaufstellung enthalten.
+10.5 Eventuell anfallende Reise- Pflege-, Anfahrts- und Betriebskosten kann die Abona Deutschland GmbH
+vom Kunden zusätzlich einfordern. Deren Vergütung richtet sich nach den jeweiligen gültigen
+Verrechnungssätzen der Abona Deutschland GmbH.
+10.6 Die Abona Deutschland GmbH behält sich Preisänderungen vor. Mit dem Abschluss des Vertrages erklärt
+sich der Kunde damit einverstanden, dass die Höhe der monatlichen Gesamtgebühren von den
+beschriebenen Faktoren (Anzahl der gebuchten Lizenzen, Inanspruchnahme von IT-Dienstleistung)
+abhängt und dementsprechend variieren kann.
+10.7 Bei Preisänderungen, die sich nicht auf die hier genannten Faktoren beziehen, muss die Abona
+Deutschland GmbH dem Kunden im Rahmen einer schriftlichen Anpassungserklärung mitteilen, dass
+sich die im Einzelvertrag vereinbarte Vergütung ändert. Dabei sind Grund und Höhe der Preisänderung
+anzugeben. Die Ankündigungsfrist beträgt hierbei zwei Monate. Die Preisänderung wirkt sich sodann
+auf den 1.01 eines Kalenderjahres aus.
+Grundlage für die Festlegung des Änderungsrahmens stellen die vom Statistischen Bundesamt in
+Fachserie 61, Reihe 2.4, Gruppe J 62 veröffentlichten Indexwerte dar. Bei der prozentualen Berechnung
+des Änderungsrahmens ist demzufolge die Veränderung der durchschnittlichen
+Bruttomonatsverdienste der vollzeitbeschäftigten Arbeitnehmer nach dem Wirtschaftszweig J62
+(Erbringung von Dienstleistungen der Informationstechnologie) zu berücksichtigen.
+arbeitnehmerverdienste-lange-reihe-pdf-2160240.pdf
+10.8 Nach Zugang der Anpassungserklärung (siehe 10.7) besteht für den Kunden ein Sonderkündigungsrecht
+bezüglich der jeweiligen von der Änderung betroffenen Einzelverträge. Die geänderte Vergütung gilt als
+vom Kunden akzeptiert, wenn dieser innerhalb 14 Tage keine Einwände erhoben hat. Darauf hat die
+Abona Deutschland GmbH im Rahmen der Anpassungserklärung hinzuweisen.
+§ 11 ZAHLUNGSMETHODEN UND FÄLLIGKEIT DER ZAHLUNG
+11.1 Die Abona Deutschland akzeptiert folgende Zahlungsmethoden: Rechnung, Lastschrift, PayPal,
+Vorkasse.
+Handelt es sich um einen Erstauftrag, behält sich die Abona Deutschland vor, bei Neukunden
+ausschließlich die Zahlungsmethode Vorkasse zu akzeptieren.
+11.2 Der Kunde stimmt zu, dass er die Rechnung elektronisch erhält. Elektronische Rechnungen werden in
+Form einer E-Mail zugestellt. Besteht seitens des Kunden der Bedarf, die Rechnung in gedruckter Form
+per Post zugesendet zu bekommen, kann dies in einen jeweiligen Einzelvertrag aufgenommen werden.
+Der Kunde akzeptiert sodann, dass ihm dadurch zusätzliche Kosten (für Verpackung und Versand der
+Rechnung) entstehen können.
+11.3 Sofern auf der Rechnung keine andere Frist ausgewiesen ist, sind Zahlungen sofort nach
+Rechnungserhalt fällig. Die Zahlungsfrist beträgt acht Werktage.
+11.4 Bleibt die Zahlung seitens des Kunden aus, leitet die Abona Deutschland GmbH ein dreistufiges
+außergerichtliches Mahnverfahren ein.
+Die erste Mahnung erfolgt unmittelbar nach dem Eintritt eines Zahlungsverzugs. Bei dieser
+Zahlungserinnerung verlangt die Abona Deutschland GmbH keine Mahngebühren.
+Sollte der Kunde infolgedessen weiterhin keine Zahlung tätigen, folgt eine zweite Mahnung, die eine
+Mahngebühr in Höhe von 5,00 € einfordert.
+Die dritte Mahnung stellt bei weiterem Ausbleiben der Zahlung die letzte Mahnung dar. In diesem
+Rahmen verlangt die Abona Deutschland GmbH nochmals eine Mahngebühr in Höhe von 10,00 € und
+droht ein gerichtliches Mahnverfahren an.
+11.5 Die Abona Deutschland behält sich das Nutzungsrecht bezüglich der Software bis zur vollständigen
+Bezahlung vor.
+11.6 Beruht ein Zurückbehaltungsrecht des Kunden auf einem anderen Vertragsverhältnis mit der Abona
+Deutschland GmbH, kann er dieses nicht geltend machen.
+11.7 Die Aufrechnung mit anderen als Ersatzforderungen wegen Mängel an der Software ist ausgeschlossen,
+es sei denn, die Forderung ist rechtskräftig festgestellt oder unbestritten.
+§ 12 FEHLERKLASSEN/ REAKTIONSZEIT/ VERFÜGBARKEIT
+Die Abona Deutschland reagiert folgendermaßen auf die unten angegebenen Fehlerklassen:
+Fehlerklassen
+Beschreibung der Fehlerklasse
+Reaktion seitens der Abona
+Deutschland GmbH
+F I
+Der Geschäftsbetrieb des Kunden
+ist verhindert; eine Lösung zur
+Umgehung des Problems gibt es
+nicht.
+Spätestens binnen vier Stunden
+nach Meldung des Fehlers:
+Beginn der Fehlerbeseitigung
+Soweit zumutbar, auch außerhalb
+der Arbeitszeit.
+Innerhalb dieser Bearbeitungszeit
+muss die Abona Deutschland
+GmbH entweder einen
+Lösungsvorschlag, einen
+Aktionsplan oder eine
+Umgehungslösung liefern.
+F II
+Der Geschäftsbetrieb des Kunden
+ist erheblich behindert. Eine
+Nutzung mit Umgehungslösung ist
+(vorübergehendes Arbeiten mit
+hinnehmbaren Einschränkungen
+oder Erschwernissen) ist möglich.
+Bei Fehlermeldungen, die vor
+10.00 Uhr erfolgen, beginnt die
+Fehlerbeseitigung am gleichen
+Tag mit dem Ziel, Lösungen oder
+Umgehungen des Problems
+vorzuschlagen und einen Plan zu
+dessen Behebung zu erstellen.
+Sämtliche später erfolgten
+Meldungen werden zu Beginn des
+nächsten Arbeitstages bearbeitet.
+F III
+Sonstige Fehler
+Innerhalb einer Woche wird mit
+der Fehlerbeseitigung begonnen.
+Die Beseitigung des Fehlers
+erfolgt mit dem nächsten Update,
+soweit dies als für den Kunden
+zumutbar zu sehen ist.
+§ 13 MITWIRKUNGSPFLICHTEN DES KUNDEN
+13.1 Der Kunde entscheidet selbstständig und in eigener Verantwortung über den Umfang der
+zugänglichen Module.
+Für jedes Benutzerkonto können verschiedene Module gesperrt oder zugänglich gemacht
+werden. Die Abona Deutschland GmbH haftet nicht für Schäden, die infolge fehlerhaft vergebener
+Zugangsrechte entstanden sind, sondern agiert bezüglich der jeweiligen Freischaltungen ausschließlich
+als weisungsgebundener Dienstleister. Den Wünschen des Kunden wird entsprochen.
+13.2 Der Kunde definiert die Zugangsrechte für die eingerichteten Benutzerkonten schriftlich und teilt diese
+der Abona Deutschland GmbH mit.
+13.3 Der Kunde verpflichtet sich, selbstständig für die Sicherung seiner Daten zu sorgen. Es wird empfohlen,
+eine tägliche mobile Datensicherung vorzunehmen, die dem aktuellen Stand der Technik entspricht.
+13.4 Tritt ein Fehler an der Software auf, so ist der Kunde verpflichtet, diesen binnen vier Wochen schriftlich
+bei der Abona Deutschland GmbH zu melden.
+Im Rahmen der schriftlichen Mängelrüge sind konkrete Angaben dahingehend zu machen, mit welchem
+Inhalt und Ziel die Software vertragsmäßig betrieben werden sollte, welche und wie viele
+Arbeitsschritte vorgenommen worden sind und, soweit vorhanden, mit welchen Fehlermeldungen die
+Software reagiert hat.
+13.5 Der Kunde sorgt dafür, dass alle seine Mitarbeiter über die Meldepflicht aufgeklärt sind.
+13.6 Es besteht die Pflicht des Kunden, möglichst umfassend vor Virenbefall und Cyberangriffen geschützt
+zu sein (z.B. Virenschutzprogramme). Bei Bedarf kann die Abona Deutschland GmbH diesbezügliche
+Nachweise einfordern.
+13.7 Es wird darauf hingewiesen, dass eine nicht erfolgte Installation von Updates oder die fehlende
+Bezahlung der Aktualisierungsgebühren Konsequenzen dahingehend haben kann, dass keine
+Fehlerbehebungen mehr erfolgen können und der Kunde nicht mit den neuen Funktionen arbeiten
+kann.
+13.8 Die Abona Deutschland empfiehlt dem Kunden, Versicherungen abzuschließen, die sämtliche Schäden
+ausreichend abdecken, welche aufgrund von Cyberangriffen o.ä folgen können.
+§ 14 HAFTUNG
+14.1 Die Abona Deutschland GmbH haftet nicht für Schäden, Störungen oder Datenverluste, die durch
+fehlende oder mangelhafte Datensicherung im Sinne von 13.3 entstanden sind.
+14.2 Ebenso trägt die Abona Deutschland GmbH keine Verantwortung für Schäden, die dem Kunden durch
+unvorsichtiges Handeln entstanden sind. Unterlassene Problemmeldungen seitens des Kunden
+begründen eigenes Verschulden und somit einen diesbezüglichen Haftungsausschluss für die Abona
+Deutschland GmbH.
+14.3 In folgendem Umfang leistet die Abona Deutschland GmbH Schadensersatz oder Ersatz vergeblicher
+Aufwendungen:
+(I) Die Abona Deutschland GmbH haftet bei Vorsatz, Arglist, grober Fahrlässigkeit und aus
+Garantie nach den gesetzlichen Vorschriften.
+(II) Im Falle von leichter Fahrlässigkeit ist die Höhe des typischen und vorhersehbaren Schadens
+zum Zeitpunkt des Vertragsschlusses für die Haftung der Abona Deutschland GmbH
+maßgebend, sofern eine Kardinalspflicht verletzt wurde oder ein Fall des Verzugs oder der
+Unmöglichkeit vorliegt.
+(III) Verletzt die Abona Deutschland GmbH eine Kardinalspflicht in einfach fahrlässiger Weise,
+wird diese Haftung auf solche Schäden begrenzt, die vorhersehbar und typisch sind.
+Diese Haftungsbegrenzung bei Haftung aus leichter Fahrlässigkeit gilt ebenso im Fall eines
+anfänglichen Unvermögens auf Seiten der Abona Deutschland GmbH.
+(IV) Die gesetzlichen Regelungen gelten uneingeschränkt bei Verletzung von Leben, Körper und
+Gesundheit, sowie bei Ansprüchen aus dem Produkthaftungsgesetz. Ebendies gilt
+für das Fehlen zugesicherter Eigenschaften und Rechtsmängel.
+(V) Ein Mitverschulden des Kunden ist insbesondere bei unzureichender Fehlermeldung oder
+unzureichender Datensicherung angemessen zu berücksichtigen.
+14.4 Grundsätzlich ist vorsichtiges Handeln geboten, um sich beispielsweise vor Virenbefall o.ä. zu
+schützen. Leichtsinnig herbeigeführte Schäden durch das Öffnen unbekannter oder nicht
+nachvollziehbarer Dateien durch den Kunden oder durch seine Mitarbeiter hat ausschließlich der
+Kunde zu verantworten. Er haftet in vollem Umfang für alle entstehenden Kosten durch Leistungen,
+die erbracht werden müssen, um den Zustand vor der Entstehung des Schadens wiederherzustellen,
+sodass die Qualität der Leistungserbringung wieder auf das vorige Niveau gebracht werden kann.
+§ 15 VERJÄHRUNG
+15.1 Bei Sachmängeln, Ansprüchen auf Rückzahlungen oder bei Minderungen beträgt die Verjährungsfrist
+ein Jahr. Diese Frist beginnt mit der Lieferung der Software (siehe § 7). Für ordnungsgemäß gerügte
+Mängel darf die Frist drei Monate nach Abgabe einer wirksamen Minderungserklärung nicht
+unterschreiten.
+15.2 Die Verjährungsfrist bei anderen Ansprüchen, die sich aus Sachmängeln ergeben, beträgt ein Jahr.
+15.3 Bei Ansprüchen auf Schadensersatz oder Ersatz vergeblicher Aufwendungen, die nicht auf Sach- oder
+Rechtsmängel beruhen, beträgt die Verjährungsfrist zwei Jahre. Diese Frist beginnt mit dem Zeitpunkt,
+in dem der Kunde von den Umständen Kenntnis erlangt, die seinen Anspruch begründen. Dies gilt
+ebenso, wenn der Kunde diese Kenntnis ohne grobe Fahrlässigkeit erlangen musste.
+15.4 Die Höchstfristen bezüglich des Eintritts von Verjährungen regelt § 199 BGB.
+15.1, 15.2 und 15.3 gelten nicht für Schadens- und Aufwendungsersatz aus Vorsatz, grober
+Fahrlässigkeit, Garantie und Arglist sowie bei der Verletzung von Leben, Körper, Gesundheit und bei
+Ansprüchen aus dem Produkthaftungsgesetz.
+§ 16 GEWÄHRLEISTUNGEN
+16.1 Der Abona Deutschland GmbH steht es frei, Fehler binnen einer angemessenen Frist durch maximal
+drei Nachbesserungen zu beheben. Gelingt ihr dies nicht, so kann der Kunde nach seiner Wahl
+Zahlungsminderung oder die Kündigung des Vertrages verlangen.
+16.2 Die Abona Deutschland GmbH weist darauf hin, dass es nach dem Stand der Technik nicht möglich ist,
+Computer-Software vollständig fehlerfrei zu erstellen.
+16.3 Der vertragsmäßigen Nutzung der Software durch den Kunden stehen keine Rechte Dritter entgegen.
+Sollten Rechtsmängel bestehen, gewährleistet die Abona Deutschland GmbH, dass sie dem Kunden,
+seiner Wahl entsprechend, eine rechtlich einwandfreie Möglichkeit zur Nutzung der Software
+verschafft.
+16.4 Angaben im Handbuch/ Dokumentation und/oder in Werbematerial, die sich auf
+Erweiterungsmöglichkeiten eines Produktes oder auf verfügbares Zubehör beziehen, sind
+unverbindlich. Die Produkte unterliegen ständiger Anpassungen und die Angaben können sich auf
+zukünftige Entwicklungen beziehen.
+16.5 Die Abona Deutschland GmbH übernimmt keinerlei Gewähr dafür, dass die Software den Bedürfnissen
+des Kunden entspricht oder mit dessen Programmen kompatibel ist.
+§ 17 GEHEIMHALTUNG UND DATENSCHUTZ
+17.1 Alle im Rahmen des Vertragsverhältnis erlangten Kenntnisse von Betriebsgeheimnissen und von
+vertraulichen Informationen darf die Abona Deutschland GmbH ausschließlich zur Durchführung des
+jeweiligen Auftrags verwenden. Diese sind zeitlich unbegrenzt als vertraulich anzusehen.
+Konzepte, Ideen, Know-How und Techniken, die einen Bezug zur Programmerstellung haben, sowie für
+die Abona Deutschland GmbH bereits bekannte Daten, sind nicht hiervon erfasst.
+17.2 Die im Vertrag genannten persönlichen Daten unterliegen dem Sozialdatenschutz und werden nicht an
+Dritte weitergegeben.
+17.3 Die Daten des Kunden darf die Abona Deutschland GmbH ausschließlich unter Beachtung der
+datenschutzrechtlichen Vorschriften verarbeiten. Der Kunde darf von der Abona Deutschland GmbH als
+Referenzkunde genannt werden.
+17.4 Die Abona Deutschland verweist auf die Auftragsverarbeitungsvereinbarung, die sie mit ihren Kunden
+zum Zwecke des Schutzes personenbezogener Daten abschließt. Die datenschutzrechtlichen
+Bestimmungen können der Website entnommen werden.
+https://www.abona-erp.com/de/datenschutzhinweis
+§ 18 SCHLICHTUNGSVERFAHREN
+18.1 Im Falle von Meinungsverschiedenheiten aus oder im Zusammenhang mit diesem Vertrag, zu
+diesbezüglichen Ergänzungen oder anderen nicht zu bereinigenden Streitigkeiten, verpflichten sich
+beide Vertragsparteien die Schlichtungsstelle der Deutschen Gesellschaft für Recht und Informatik
+(DGRI) aufzusuchen.
+www.dgri.de
+Damit soll der Streit nach der zum Zeitpunkt des Schlichtungsverfahrens gültigen Schlichtungsordnung
+der DGRI vorläufig oder endgültig bereinigt werden.
+18.2 Bezüglich der Verjährung bestehender Ansprüche aus dem streitigen Lebenssachverhalt gilt, dass diese
+bis zum Zeitpunkt der erfolgten Schlichtung gemäß § 203 BGB als gehemmt zu betrachten ist.
+§ 19 SCHLUSSBESTIMMUNGEN
+19.1 Gerichtsstand für alle Streitigkeiten aus diesem Vertrag ist, soweit zulässig, Bruchsal.
+19.2 Für diesen Vertrag gilt das Recht der Bundesrepublik Deutschland.
+19.3 Sollten Teile dieses Vertrages ganz oder teilweise unwirksam werden oder sein, so berührt dies nicht die
+Wirksamkeit der übrigen Vereinbarungen und Regelungen.
+Beide Parteien verpflichten sich vielmehr, die unwirksamen Regelungen durch solche zu ersetzen, die
+dem wirtschaftlich Gewollten am nächsten kommt.
+19.4 Änderungen dieses Vertrages bedürfen der Schriftform. Gleiches gilt für die Aufhebung dieser
+Schriftformklausel.
+19.5 Die Rechte und Pflichten aus diesem Vertrag sind mit voriger Zustimmung des Kunden oder im Falle
+einer etwaigen Gesamtrechtsfolge übertragbar. Dieser Vertrag ist auch für etwaige Rechtsnachfolger
+der Abona Deutschland GmbH bindend.
+19.6 Nebenabreden, Änderungen und Ergänzungen dieses Vertrages sind nur wirksam, wenn sie bei oder
+nach Vertragsabschluss schriftlich vereinbart und ausdrücklich als Nebenabreden, Änderungen oder
+Ergänzungen bezeichnet werden.
+19.7 Bonusregelungen werden zwischen den Parteien separat vereinbart.

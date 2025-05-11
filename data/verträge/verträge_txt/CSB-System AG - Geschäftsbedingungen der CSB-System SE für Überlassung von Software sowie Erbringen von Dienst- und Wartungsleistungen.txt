@@ -1,0 +1,255 @@
+Geschäftsbedingungen der CSB-System SE für Überlassung von Software sowie Erbringen von Dienst- und Wartungsleistungen
+Gegenstand dieser Bedingungen
+
+Diese Bedingungen beziehen sich auf sämtliche Vertragsgegenstände im Zusammenhang mit der Überlassung von Software sowie erbrachte Dienstleistungen und Softwarewartungen, die jetzt und in Zukunft von der CSB-System SE (= CSB) oder deren verbundenen Unternehmen im Sinne des § 15 Aktiengesetz  für den Kunden geliefert und geleistet werden, wobei Anzahl, genaue Bezeichnung, Höhe der Lizenzgebühr für mietweise überlassene Software und sonstige Kosten sich ausschließlich aus den Produktscheinen bzw. den Individualverträgen ergeben. Die vorliegenden Bedingungen gelten für alle Geschäftsbeziehungen zwischen CSB und ihren Kunden und nur gegenüber Unternehmern im Sinne des § 14 BGB, juristischen Personen des öffentlichen Rechts und öffentlich-rechtlichem Sondervermögen. 
+
+Die Geltung von Geschäfts- oder Einkaufsbedingungen des Kunden, auch ergänzend, ist ausgeschlossen. Es gelten ausschließlich die Geschäftsbedingungen der CSB-System SE in ihrer jeweils aktuellen Form. Mit der Bestellung, spätestens mit der Überlassung der Software oder der Entgegennahme der Leistungen, gelten diese Bedingungen als angenommen. Allgemeine Geschäftsbedingungen des Kunden gelten nur dann, wenn CSB diese in Textform (z. B. Brief, E-Mail, Telefax) bestätigt. Dieses Zustimmungserfordernis gilt in jedem Fall, beispielsweise auch dann, wenn CSB in Kenntnis von Allgemeinen Geschäftsbedingungen des Kunden Leistungen vorbehaltlos erbringt oder annimmt.
+
+Sofern nicht anders vereinbart, gelten die Bedingungen von CSB in der zum Zeitpunkt der Bestellung gültigen bzw. jedenfalls in der dem Kunden zuletzt in Textform mitgeteilten Fassung als Rahmenvereinbarung auch für gleichartige künftige Verträge und Bestellungen, auch wenn ihre Geltung dem Kunden im Zusammenhang mit den künftigen Bestellungen nicht erneut mitgeteilt wird.
+
+1. Angebote
+
+1.1 Angebote von CSB sind bis maximal vier Wochen nach Angebotsdatum gültig, sofern nicht im Produktschein etwas anderes vereinbart ist, und erlöschen automatisch nach Ablauf dieser Frist, sofern sie nicht von dem Kunden in Textform angenommen werden.
+
+1.2 Angebotsunterlagen (Produktbeschreibungen, Grobkonzepte, Musterunterlagen u. Ä.) – auch in elektronischer Form - bleiben Eigentum von CSB und dürfen ohne Zustimmung von CSB weder vervielfältigt noch an Dritte weitergegeben werden, es sei denn, der Kunde hat für die Erstellung dieser Unterlagen eine Vergütung entrichtet.
+
+2. Vertragsabschluss
+
+2.1 Zum Vertragsabschluss kommt es durch beiderseitige Unterzeichnung des Produktscheins bzw. des Individualvertrags in Textform. Bei Dienstleistungen kann der Vertragsschluss alternativ auch durch Erbringung der Leistung erfolgen, soweit die Parteien im Vorfeld nicht einen Vertragsabschluss mittels der Unterzeichnung von Produktscheinen herbeigeführt haben.
+
+2.2 Bezüglich der werbenden Darstellungen handelt es sich, im Gegensatz zu den Produktbeschreibungen in den Vertragsdokumenten, lediglich um unverbindliche Aussagen. Produktbeschreibungen und Eigenschaften gelten nur dann als vereinbart, wenn die Vereinbarung seitens CSB ausdrücklich im Hinblick auf dieses Merkmal oder diese Eigenschaft in Textform erfolgt ist.
+
+2.3 Der geschuldete Leistungsumfang ergibt sich aus den von CSB durch Gegenzeichnung bestätigten Produktscheinen in Verbindung mit den dazugehörigen, überreichten Angebotsunterlagen. Eine Verpflichtung von CSB zur Abbildung von Geschäftsprozessen vormaliger, beim Kunden eingesetzter Software besteht grundsätzlich nicht und bedarf im Ausnahmefall einer ergänzenden Vereinbarung in Textform. 
+
+2.4 Vom Kunden gewünschte oder im Projekt bekannt gewordene Änderungen oder Ergänzungen zu Hardware, Software sowie Dienstleistungen werden im Change-Management bearbeitet und zusätzlich in Rechnung gestellt.
+
+2.5 CSB hat das Recht, Aufträge ganz oder teilweise weiterzugeben. Insbesondere steht CSB das Recht zu, Aufträge ganz oder teilweise an einen CSB-Systempartner abzutreten. In diesem Fall tritt der CSB-Systempartner als Leistungserbringer gegenüber dem Kunden auf. Dem CSB-Systempartner steht in dem Fall die vereinbarte Vergütung für diesen Leistungsanteil zu.
+
+3. Mietweise überlassene Software und Lizenzen
+
+3.1 Die dem Kunden überlassene CSB-Software verbleibt im Eigentum von CSB. Standard- und erweiterte Standardsoftware sowie Softwarelizenzen werden dem Kunden mietweise zu den nachstehenden Bedingungen gemäß den Ziffern 3.1.–3.10. überlassen. Der Mietzins ist in Form einer Einmalmietgebühr oder als monatliche Mietgebühr im Voraus für den jeweiligen Kalendermonat bis zum 15. Kalendertag per Bankeinzug zu entrichten.
+
+3.2 CSB stellt die Software in der im Produktschein festgelegten Version in dem zum Auslieferungszeitpunkt aktuellen Release mietweise zur Verfügung.
+
+3.3 Die Software wird in deutscher und/oder englischer Sprache zur Verfügung gestellt. Dokumentationen hierzu (Hilfetexte) sind nicht in der offiziellen Landessprache, sondern nur in Deutsch oder Englisch gehalten und werden ausschließlich in elektronischer Form zur Verfügung gestellt.
+
+3.4 CSB räumt dem Kunden gegen Zahlung der vereinbarten Vergütung an der CSB-Software nebst zugehörigen Dokumentationen und späteren Ergänzungen gem. Ziff. 3.5 ein nicht ausschließliches und nicht seitens des Kunden auf Dritte übertragbares, befristetes Nutzungsrecht ein. Dem Kunden ist die Vergabe von Unterlizenzen, die Vermietung oder eine sonstige Weitergabe der Software an Dritte ohne vorherige Zustimmung von CSB in Textform untersagt. Der Kunde hat das Recht, die überlassenen Programme ausschließlich auf den Servern in seinem Unternehmen zu nutzen. „Nutzen“ umfasst das vollständige oder teilweise Einspeichern der Programme und der Datenbestände in die bestimmte Datenverarbeitungseinheit, die Ausführung der Programme und die Verarbeitung der Datenbestände allein mittels der von CSB überlassenen Ausführungssoftware beim Kunden. Eine Nutzung der CSB-Software auf Servern außerhalb des Unternehmens des Kunden (z. B. Drittanbieter-Rechenzentrum, Cloud-Lösung) bedarf der vorherigen Einwilligung durch CSB in Textform.
+
+3.5 CSB entwickelt für vom Kunden vorgegebene Aufgabenstellungen, die nicht mit der Standardsoftware abgedeckt werden können, zur Zeit des Vertragsschlusses nach dem Stand der Technik mögliche, zweckmäßige und zumutbare Lösungen (Sondersoftware als erweiterte Standardsoftware). Eigenschaften/Funktionalitäten der erweiterten Standardsoftware gelten nur dann als vereinbart, wenn die Vereinbarung in Textform erfolgt ist. Individuell erstellte Programme werden dem Kunden vorgeführt und sind von ihm unverzüglich zu überprüfen und in Textform abzunehmen. Werden individuell erstellte Programme trotz Aufforderung nicht entsprechend bestätigt, aber gleichwohl genutzt, so gelten sie 6 Wochen nach Übergabe als abgenommen, sofern CSB nicht zuvor wesentliche Programmmängel in Textform gemeldet werden und eine Bestätigung unter Hinweis auf die Mängel ausdrücklich abgelehnt wird. 
+
+3.6 Alle wesentlichen Abläufe und Geschäftsprozesse sind vom Kunden im Business Process Management abzubilden und auf ihre Eignung zu testen.
+
+3.7 Der Kunde darf die Software nur für seine eigenen geschäftlichen Tätigkeiten durch eigenes Personal konfigurieren. Der Kunde nutzt die Software limitiert auf die in den Produktscheinen angegebene Gesamtanzahl von Usern.
+
+3.8 Der Kunde ist nicht berechtigt, die Software abzuändern, zu bearbeiten, in andere Programme zu integrieren, zu dekompilieren bzw. zu assemblieren. § 69e UrhG bleibt hiervon unberührt. Dies gilt nicht für Änderungen, die für die Berichtigung von Fehlern notwendig sind, sofern CSB die Fehlerbeseitigung zu Unrecht ablehnt oder wegen der Eröffnung des Insolvenzverfahrens zur Fehlerbeseitigung außer Stande ist. Die vollständige Entfernung der CSB-Software von einer, mehreren oder allen Datenverarbeitungsanlagen des Kunden bei Beendigung des Vertrags gilt nicht als Änderung.
+
+3.9 CSB wird den Kunden bei der Verletzung von Schutzrechten Dritter freistellen, sofern der Kunde CSB von solchen Ansprüchen unverzüglich in Textform benachrichtigt hat und CSB alle Abwehrmaßnahmen und Vergleichsverhandlungen vorbehalten bleiben. CSB wird dem Kunden darüber hinaus entweder das Recht zum weiteren Gebrauch der Software verschaffen oder die Software derart ändern oder ersetzen, dass das Schutzrecht nicht verletzt wird, bzw. die Software zurücknehmen und die an CSB entrichtete Lizenzgebühr abzüglich eines die Nutzungszeit der Software berücksichtigenden Betrages erstatten. In diesem Fall wird eine Nutzungszeit von fünf Jahren angesetzt. Die vorgenannten Verpflichtungen von CSB bestehen nicht, wenn der Kunde von CSB geliefertes Lizenzmaterial eigenmächtig abändert oder in einer nicht in CSB-Dokumentationen beschriebenen Weise verwendet oder nicht mit von CSB gelieferten Produkten einsetzt.
+
+3.10 CSB ist zur Einhaltung der vertraglichen Lizenzbestimmungen berechtigt, im erforderlichen und angemessenen Umfang sowie unter Berücksichtigung der betrieblichen Interessen des Kunden die Nutzung der überlassenen Software zu überprüfen. 
+
+3.11 CSB gewährt dem Kunden das zeitlich auf die Dauer des Vertrages beschränkte, nicht übertragbare, auf den Standort des jeweiligen Servers (für Backup-Kopien: auf den Ort ihrer Verwahrung) beschränkte, nicht ausschließliche Recht, die geschützten Inhalte zu Zwecken dieses Vertrages auf dem Server, auf einem weiteren Server, der zur Spiegelung dient, und auf einer ausreichenden Anzahl von Backup-Kopien zu vervielfältigen.
+
+3.12 Die Nutzung des CSB-Systems und damit die Sicherstellung des ordnungsgemäßen Betriebs basiert auf der Verfügbarkeit und Gültigkeit von Lizenzen innerhalb des Systems.
+
+4. Laufzeit und Vertragsbeendigung der Softwaremiete
+
+4.1 Der Miet- und Lizenzvertrag der überlassenen Software beginnt, sofern nichts Abweichendes vereinbart ist, mit der Zurverfügungstellung der CSB-Software im CSB-Rechenzentrum oder der Installation auf dem Server des Kunden. Das Recht zur Nutzung der Software ist auf fünf Jahre befristet, sofern nicht individuell abweichende Laufzeiten vereinbart wurden. Für den Fall der Vereinbarung einer Einmalmietgebühr entspricht der Mietzeitraum demjenigen, für den die Miete im Voraus entrichtet ist. Bei monatlicher Zahlung über den vereinbarten Mindestmietzeitraum hinaus endet der Miet- und Lizenzvertrag mit Wirksamkeit der fristgerechten Kündigung, welche in Textform mit einer Frist von sechs Monaten zum Jahresende zu erfolgen hat. Erfolgt bei monatlicher Zahlung eine Kündigung vor Ablauf des Mindestmietzeitraumes, entfaltet diese ihre Wirkung erst zum Ablauf des Mindestmietzeitraumes (fünf Jahre).
+
+4.2 Das Lizenzrecht für „optionale Module“ ist von dem Bestehen des Nutzungsrechtes der Softwaremodule aus dem „Basis-ERP-Paket“ und dem Paket „Erweiterbare Standard-Module“ gemäß entsprechendem Produktschein abhängig und unterliegt den für diese Module geltenden Beendigungstatbeständen. Nach Ablauf der vereinbarten Mindestlaufzeit sind die Parteien mit einer Frist von sechs Monaten zum Jahresende zur Kündigung eines Lizenzvertrages von optional erworbenen Modulen nebst des dazugehörigen Wartungsvertrages berechtigt, falls der Lebenszyklus des Moduls aufgrund Ablösung durch ein Nachfolgemodell oder seiner Außerbetriebnahme abgelaufen ist oder das Modul aus anderen Gründen aus dem Markt genommen wurde. 
+
+4.3 Sofern mit Abschluss des Software-Lizenzvertrages gleichzeitig ein Softwarewartungsvertrag gemäß den entsprechenden Wartungsbedingungen von CSB abgeschlossen wird, endet das Nutzungsrecht an der Software mit Beendigung des Softwarewartungsvertrages.
+
+4.4 Das Recht zur Kündigung der Softwaremiete aus wichtigem Grund bleibt unberührt.
+
+4.5 Kommt der Kunde mit seinen Zahlungen in Verzug, so stehen CSB die Verzugszinsen in der gemäß § 288 BGB festgeschriebenen Höhe zu. CSB kann die Softwaremiete aus wichtigem Grund ohne Einhaltung einer Frist kündigen, wenn der Kunde für drei Monate mit der Bezahlung des Mietzinses, wie er in dem Produktschein genannt ist, in Verzug geraten ist und CSB den Kunden erfolglos unter Hinweis auf die bevorstehende Kündigung und das Entfallen des Lizenzrechts abgemahnt hat. Darüber hinausgehende oder daraus resultierende Schadensersatzansprüche seitens CSB bleiben unberührt.
+
+5. Installationsvorbereitung, Installation, Wartung und Anschluss von Geräten anderer Hersteller
+
+5.1 Die sach- und fachgerechte Installationsvorbereitung einschließlich notwendiger Stromversorgung beim Kunden obliegt dem Kunden auf seine Kosten und ist rechtzeitig, ohne vorherige Anfrage seitens CSB, durchzuführen. Hierbei handelt es sich um eine echte Mitwirkungspflicht des Kunden, vgl. Ziff. 6.
+
+5.2 Die Installation der Software wird von CSB auf Kosten des Kunden vorgenommen. Diese Kosten für die Installationsarbeiten und das dazu erforderliche Installationsmaterial werden gemäß der Preisübersicht für Dienstleistungen, Lieferungen und Leistungen von CSB und dem entsprechenden Produktschein in Rechnung gestellt.
+
+5.3 CSB haftet nicht für die technische und/oder rechtliche Möglichkeit zum Anschluss von Geräten anderer Hersteller an die von CSB gelieferte Hardware bzw. überlassene Software.
+
+5.4 CSB leistet für den Fall, dass von ihr gelieferte Hard- oder Software mit solcher Software verbunden wird, die nicht von CSB stammt oder deren Einsatz nicht von CSB freigegeben wurde, keinerlei Gewähr für die Lauffähigkeit einer solchen Fremdsoftware auf der von CSB gelieferten Hardware bzw. für die Kompatibilität mit der von CSB selbst gelieferten Software.
+
+5.5 CSB haftet bei dem Einsatz und der Verwendung der CSB-Software nicht für die Einhaltung von Industrienormen, DIN-Normen und sonstigen nicht gesetzlichen Vorschriften, sofern deren Einhaltung nicht ausdrücklich vereinbart wird.
+
+5.6 Der Kunde hat dafür Sorge zu tragen, dass die von dem CSB-System benötigte, primäre Datenbank nicht durch von CSB nicht autorisierte Zugriffe verändert und/oder beeinträchtigt wird. Der Zugriff auf diese primäre Datenbank über z. B. Skripte ist verboten, falls und soweit CSB nicht zuvor seine Zustimmung dazu erteilt hat. Diese Zustimmungserklärung von CSB bedarf zu ihrer Wirksamkeit der Textform (§ 126b BGB). Sofern der Kunde solche Zugriffe vornehmen möchte, so ist dies jedoch kostenpflichtig über das CSB-Datawarehouse möglich. 
+
+5.7 Die CSB-Software entspricht dem Stand der Technik in Deutschland mit den unter Ziffer 5.3-5.5 genannten Einschränkungen. CSB bemüht sich, die Anforderungen ausländischer Rechtsordnungen in der Regel schnellstmöglich umzusetzen.
+
+5.8 Der Zugriff auf das CSB-System darf nur durch Mitarbeiter des Kunden oder durch von CSB zertifiziertes Personal von durch den Kunden beauftragte Dienstleister im Rahmen der vertraglich vereinbarten Lizenzrechte erfolgen. Zugriffe durch vom Kunden beauftragte, von CSB nicht zertifizierte externe Dienstleister sind nicht gestattet. In jedem Fall erfolgt der Zugriff auf das CSB-System auf eigenes Risiko des Kunden. Für den Fall, dass ein Zugriff ohne durch CSB erteiltes Lizenzrecht erfolgt, ist der Kunde gegenüber CSB zu Schadenersatz verpflichtet.
+
+6. Mitwirkungspflichten des Kunden
+
+6.1 Bei den Mitwirkungspflichten des Kunden handelt es sich um echte Vertragspflichten. Im Falle der Nichteinhaltung seitens des Kunden verschieben sich vereinbarte Termine automatisch zumindest um den der Verzögerung entsprechenden Zeitraum. Dies gilt insbesondere auch dann, wenn der Kunde nachträglich Anforderungen an die Projektorganisation oder die Programmierung durch CSB stellt (z. B. Changes), die nicht in Textform vereinbart worden sind. Durch die Verzögerung eventuell anfallende Mehrkosten gehen zu Lasten des Kunden.
+
+6.2 Der Kunde ist verpflichtet, die Zugangsdaten gegenüber unbefugten Dritten geheim zu halten. Insbesondere sind Benutzername und Passwort so aufzubewahren, dass der Zugriff auf diese Daten durch unbefugte Dritte unmöglich ist. Der Kunde verpflichtet sich, CSB unverzüglich zu informieren, sobald er davon Kenntnis erlangt, dass unbefugten Dritten Zugangsdaten bekannt geworden sind.
+
+6.3 Der Kunde ist verpflichtet, Warnhinweise des CSB-Systems zu beachten. Insbesondere ist der Kunde im Rahmen seiner Sorgfaltspflicht dazu verpflichtet, den Warnhinweisen zu ablaufenden Lizenzen unverzüglich nachzukommen und sich zum Erhalt einer neuen Lizenz zur Nutzung des CSB-Systems direkt an CSB zu wenden.
+
+6.4 Der Kunde wird CSB in angemessenem und erforderlichem Umfang bei der Erfüllung der Leistungen auf eigene Kosten unterstützen und seine Mitarbeiter zur Zusammenarbeit mit CSB anweisen. 
+
+6.5 Der Kunde wird auf Anforderung durch CSB insbesondere:
+
+während der Vertragslaufzeit in Textform einen verantwortlichen Projektleiter und einen Vertreter benennen, der alle für die Zwecke der Durchführung dieser Vereinbarung erforderlichen Entscheidungsbefugnisse und Vollmachten besitzt;
+dafür Sorge tragen, dass der verantwortliche Projektleiter und sein Vertreter hinreichende Kenntnisse in der Nutzung der implementierten Programme besitzen und im Zweifel nachweisen. Mangelmeldungen haben nur durch den verantwortlichen Projektleiter oder, in seiner Abwesenheit, durch seinen Vertreter zu erfolgen;
+CSB von Störungen bei der Nutzung der Software unverzüglich über den Hotline-Service in Kenntnis setzen;
+CSB unverzüglich über aufgefallene Mängel an der Software über den Hotline-Service in Kenntnis setzen;
+bei Mängelmeldungen die aufgetretenen Symptome, das Programm sowie die System- und Hardwareumgebung detailliert beobachten und CSB deren Dokumentation unter Angabe von für die Mangelbeseitigung zweckdienlichen Informationen, beispielsweise Anzahl der betroffenen User, Schilderung der System- und Hardwareumgebung sowie ggf. simultan geladener Drittsoftware und Unterlagen in Textform zur Verfügung stellen;
+den CSB-Mitarbeitern zur Erfüllung der vertraglichen Leistungen den Zugriff auf die Rechner des Kunden gewähren, auf denen das zu pflegende Programm gespeichert und/oder geladen ist;
+unverzüglich die von CSB zur Mängelbeseitigung überlassenen Programme und/oder Programmteile (Patches, Bugfixes etc.) entsprechend den Anweisungen von CSB testen und einspielen sowie die von CSB übermittelten Vorschläge und Handlungsanweisungen zur Mangelbehebung einhalten;
+alle im Zusammenhang mit den implementierten Programmen verwendeten oder erzielten Daten in maschinenlesbarer Form als Sicherungskopie bereithalten, welche eine Rekonstruktion verlorener Daten mit vertretbarem Aufwand ermöglicht;
+CSB auf eigene Kosten (inkl. Verbindungskosten) einen Remote-Access (VPN-Verbindung oder Remote Desktop Sharing) zur Verfügung stellen. Hierbei wird CSB nach dem Stand der Technik angemessene Maßnahmen zur Verhinderung von Virusinfektionen oder anderen Beeinträchtigungen des CSB-Systems durch Systeme des Kunden treffen.
+6.6 Der Kunde ist verpflichtet, eine Testumgebung aufzubauen und bereitzuhalten, um vor Installation der Software oder Installation von Updates oder Upgrades der Software in den Echtbetrieb die Lauffähigkeit der Software bzw. der Updates oder Upgrades in der spezifischen Anwendungsumgebung und im Echtbetrieb prüfen zu können. Sofern und soweit der Kunde Installationen der Software oder von Updates oder Upgrades selbst vornimmt, ist er verpflichtet, in einer solchen Testumgebung die Lauffähigkeit der Software bzw. der Updates oder Upgrades in seiner spezifischen Anwendungsumgebung selbst zu prüfen und CSB dabei etwaige festgestellte Mängel unverzüglich in Textform mitzuteilen, bevor er die Software bzw. Updates oder Upgrades in den Echtbetrieb nimmt.
+
+7. Preise und Zahlungsbedingungen
+
+7.1 Alle im Angebot bzw. im Vertrag enthaltenen Preise verstehen sich zzgl. der jeweiligen zum Liefer-/Leistungszeitpunkt gültigen Mehrwertsteuer.
+
+7.2 Soweit Zubehör und Betriebsmaterial versandt werden, gelten die Preise ab Versandstation zzgl. Porto, Verpackung, Versicherung und gesetzlicher Mehrwertsteuer. Verzögert sich die Auslieferung und Installation aus vom Kunden allein zu vertretenden Gründen um mehr als vier Monate über den im Produktschein eingetragenen Installationstermin hinaus, so ist CSB berechtigt, dem Kunden die entstandenen Kosten entsprechend den zum Zeitpunkt der Installation gültigen Listenpreisen in Rechnung zu stellen.
+
+7.3 Die Rechnungen sind zahlbar innerhalb von 14 Tagen nach Rechnungsdatum.
+
+7.4 Sofern über den Software-Lizenzvertrag mit dem Kunden eine Ratenzahlung vereinbart wird, ist CSB berechtigt, die Ratenzahlung angemessen, mindestens jedoch mit 5 Prozentpunkten über dem jeweiligen Basiszinssatz, zu verzinsen. 
+
+8. Lieferfristen, Verzug, Unmöglichkeit
+
+8.1 Liefertermine oder -fristen gelten nur dann als vereinbart, wenn sie von CSB in Textform bestätigt worden sind. Fristen beginnen mit dem von CSB zuletzt unterzeichneten, entsprechenden Produktschein oder Individualvertrag und sind neu zu vereinbaren, wenn später Vertragsänderungen eintreten. Die Einhaltung von Fristen und Terminen durch CSB setzt stets voraus, dass der Kunde seinen vertraglichen Verpflichtungen, insbesondere seinen Mitwirkungspflichten rechtzeitig und vollständig nachkommt. Vereinbarte Fristen und Termine verschieben sich automatisch zumindest um den der Verzögerung entsprechenden Zeitraum. Dies gilt insbesondere auch dann, wenn der Kunde nachträglich Anforderungen an die Projektorganisation oder die Programmierung durch CSB stellt, die nicht in Textform vereinbart worden sind.
+
+8.2 Überschreitet CSB die Liefertermine bzw. -fristen für die Erstinstallation der Software schuldhaft um mehr als sechs Wochen, so kann der Kunde CSB in Textform auffordern, binnen angemessener Nachfrist zu liefern. Mit dieser Mahnung kommt CSB in Verzug. Nach erfolglosem Ablauf der Nachfrist ist der Kunde berechtigt, vom Vertrag hinsichtlich der Lieferungen und Leistungen, mit denen CSB in Verzug ist, zurückzutreten. Teillieferungen/Teilleistungen, mit denen CSB sich nicht in Verzug befindet, sind von dem Rücktrittsrecht nicht berührt.
+
+9. Gewährleistung
+
+9.1 CSB ist verpflichtet, Mängel an der CSB-Software innerhalb angemessener Frist für den Kunden kostenfrei zu beheben. Nach Fehlschlagen des zweiten Behebungsversuchs kann der Kunde die Mietzahlung pro rata temporis für das betroffene Programmmodul kürzen, bis der gemeldete Mangel behoben ist. Der Kunde ist verpflichtet, alle Mängel nach ihrem erstmaligen Auftreten unverzüglich CSB in Textform anzuzeigen.
+
+9.2 Der Kunde wird bei der Eingrenzung und Beseitigung von Mängeln mitwirken. Der Kunde ist verpflichtet, CSB nachprüfbare Unterlagen über Art und Auftreten von Abweichungen von der Produktbeschreibung bzw. den von CSB gegengezeichneten Produktscheinen in Verbindung mit den dazugehörigen, überreichten Angebotsunterlagen zur Verfügung zu stellen und den Mangel nachvollziehbar in Textform zu beschreiben. CSB wird versuchen, innerhalb angemessener Zeit eine erhebliche Abweichung zu beseitigen oder so zu umgehen, dass der Kunde das Programm vertragsgemäß nutzen kann, bzw. dafür Sorge tragen, dass im Falle der Umgehung der Zweck des Programms erreicht werden kann.
+
+9.3 Kann bei der Überprüfung durch CSB ein Mangel der Software nicht festgestellt werden, so trägt der Kunde die Kosten der Prüfung, insbesondere bei fehlerhaftem Gebrauch oder sonstigen von CSB nicht zu vertretenden Störungen.
+
+9.4 Die Gewährleistung ist ausgeschlossen für Mängel, die infolge fehlerhafter oder nachlässiger Behandlung, übermäßiger Beanspruchung, ungeeigneter Betriebsmittel, Verbindung mit nicht mit CSB abgestimmter Peripherie oder Durchführung von Änderungen, insbesondere durch nicht von CSB autorisierte Dritte, entstehen. Entsprechendes gilt für Eingriffe des Kunden oder auf Veranlassung des Kunden in die CSB-Software oder das CSB-System mittels anderer Software oder den Einsatz von Künstlicher Intelligenz (KI), falls und soweit CSB nicht zuvor seine Zustimmung dazu erteilt hat. Diese Zustimmungserklärung von CSB bedarf zu ihrer Wirksamkeit der Textform (§ 126b BGB).
+
+10. Haftung
+
+10.1 Die Haftung von CSB ist ausgeschlossen, soweit nicht in den nachfolgenden Bestimmungen etwas Abweichendes geregelt ist.
+
+10.2 CSB haftet jeweils im Rahmen der gesetzlichen Bestimmungen unbeschränkt für Schäden
+
+a) aus der Verletzung des Lebens, des Körpers oder der Gesundheit, die auf einer vorsätzlichen oder fahrlässigen Pflichtverletzung bzw. sonst auf vorsätzlichem oder fahrlässigem Verhalten von CSB oder einem ihrer gesetzlichen Vertreter oder Erfüllungsgehilfen beruhen;
+b) wegen des Fehlens oder des Wegfalls einer zugesicherten Eigenschaft;
+c) die auf einer vorsätzlichen oder grob fahrlässigen Pflichtverletzung bzw. sonst auf vorsätzlichem oder grob fahrlässigem Verhalten CSBs oder eines ihrer gesetzlichen Vertreter oder Erfüllungsgehilfen beruhen.
+
+10.3 Soweit kein Fall gem. 10.2 vorliegt, gilt:
+
+a) CSB haftet unter Begrenzung auf Ersatz des vertragstypischen vorhersehbaren Schadens für solche Schäden, die auf einer fahrlässigen Verletzung von wesentlichen Pflichten durch CSB oder einen ihrer gesetzlichen Vertreter oder Erfüllungsgehilfen beruhen. Wesentliche Pflichten sind Pflichten, deren Erfüllung die ordnungsgemäße Durchführung des Vertrags überhaupt erst ermöglichen und auf deren Einhaltung der Kunde vertrauen darf.
+b) Bei leicht fahrlässigem Verhalten haftet CSB im Übrigen nicht.
+c) Die verschuldensunabhängige Haftung von CSB für bereits bei Vertragsschluss vorhandene Mängel der Software gemäß § 536 a I, Alt. 1 BGB ist ausgeschlossen.
+
+10.4 Die Haftung nach dem Produkthaftungsgesetz bleibt von den Haftungsausschlüssen und -beschränkungen unberührt.
+
+11. Höhere Gewalt
+
+11.1 CSB wird in Fällen von höherer Gewalt, zum Beispiel bei Arbeitskampf, Aufruhr, Blockade, Boykott, Brand, Bürgerkrieg, Cyberangriffen, Seuchen (einschließlich Epidemien und Pandemien), soweit ein Gefahrenniveau von mindestens „mäßig“ durch das Robert-Koch-Institut festgelegt ist oder nach Einschätzung der Weltgesundheitsorganisation WHO vorliegt, Embargo, Geiselnahmen, Krieg, Naturkatastrophen und Unwettern, Reaktorunfällen, Revolution, Sabotage, Streik, Terrorismus, behördlichen Sanktionen und Eingriffen, Verzögerungen in der Anlieferung wesentlicher Komponenten und Rohstoffe oder Energieversorgungsschwierigkeiten, für die Dauer der Störung und im Umfang ihrer Wirkung von den Leistungspflichten befreit. Dies gilt auch, wenn diese Ereignisse zu einem Zeitpunkt eintreten, in dem sich CSB in Verzug befindet, es sei denn, dass CSB den Verzug vorsätzlich oder grob fahrlässig verursacht hat. 
+
+11.2 CSB verpflichtet sich im Fall höherer Gewalt, den Kunden im Rahmen des Zumutbaren unverzüglich darüber zu informieren und die Verpflichtungen den veränderten Verhältnissen nach Treu und Glauben anzupassen. 
+
+11.3 Wird durch die höhere Gewalt die Leistung oder Teilleistung unmöglich, so ist CSB von seiner Leistungsverpflichtung entsprechend frei. 
+
+12. Abnahmeverfahren
+
+12.1 Sofern CSB werkvertragliche Leistungen erbringt, teilt CSB dem Kunden die Abnahmereife des Projekts oder Teilprojekts mit. Der Kunde ist verpflichtet, innerhalb von vier Wochen nach Mitteilung durch CSB die Abnahmetests durchzuführen und zu dokumentieren. Kommt der Kunde dieser Verpflichtung nicht nach, gilt das Projekt oder Teilprojekt nach sechs Wochen als abgenommen.
+
+12.2 Werden im Abnahmeverfahren Fehler bzw. Unzulänglichkeiten festgestellt, so werden diese protokolliert und in zwei Kategorien eingeteilt:
+
+Kategorie A: Fehler, die den Echtlauf verhindern
+Die Fehler der Kategorie A schließen die Abnahme zunächst aus, soweit diese in einer Zusammenschau ein produktives Arbeiten mit dem Gesamtsystem unmöglich machen. Nach Beseitigung der Fehler der Kategorie A ist die Abnahme innerhalb einer Frist von vierzehn Tagen zu erteilen.
+
+Kategorie B: Unzulänglichkeiten, die einen Echtlauf nicht wesentlich beeinträchtigen
+Die Fehler der Kategorie B behindern die Abnahme nicht. Der Kunde hat die Abnahme unverzüglich zu erklären. Diese Fehler werden mit den entsprechenden Vorgangskontrollen durch CSB im Zeitraum nach Abnahmeerteilung behoben. 
+
+12.3 Ist das Projekt bzw. sind die einzelnen Stufen mehr als sechs Wochen im Echtbetrieb, so gilt das Projekt bzw. Teilprojekt als abgenommen.
+
+13. Umfang, Laufzeit und Kündigung des Software-Wartungsvertrages
+
+13.1 Updates und Upgrades 
+
+Update
+
+Updates sind Programmverbesserungen in der laufenden, beim Kunden installierten Version. Updates werden Kunden mit Wartungsvertrag zur Verfügung gestellt. 
+
+Von CSB für erforderlich gehaltene Programmverbesserungen werden dem Kundenbetrieb ohne gesonderte Berechnung als Update zur Verfügung gestellt.
+Erforderliche Programmänderungen aufgrund gesetzlicher Bestimmungen (z. B. Änderung der Umsatzsteuer, Veränderung der Lohnsteuersätze, Krankenkassenbeiträge, Rentenversicherungsbeiträge etc.) werden von CSB aktuell durchgeführt und dem Kunden kostenlos als Update zur Verfügung gestellt, sofern der Kunde die aktuelle CSB-Software-Version einsetzt.
+Die für die Installation oder Einweisung erforderlichen Dienstleistungen werden durch CSB gemäß den Bestimmungen der aktuellen Preisübersicht für Dienstleistungen, Lieferungen und Leistungen erbracht.
+Upgrade (Neue Version)
+
+Ein Upgrade umfasst grundlegende, wesentliche Softwareerweiterungen, grundlegende, wesentliche Verbesserungen der Softwarestrukturen, Portierungen auf andere Dateiverwaltungssysteme, Datenbanken, Softwaretools, Compiler etc. 
+
+Upgrades können Software-Wartungsvertragskunden zu einem Vorzugspreis beziehen.
+Software-Wartungsvertragskunden mit einem erweiterten Software-Wartungsvertrag (= Software-Wartung „Plus“) werden Upgrades ohne gesonderte Berechnung zur Verfügung gestellt.
+Die für die Installation oder Einweisung erforderlichen Dienstleistungen werden durch CSB gemäß den Bestimmungen der aktuellen Preisübersicht für Dienstleistungen, Lieferungen und Leistungen erbracht. 
+13.2 CSB betreut die von ihr eingeführte CSB-Software im Rahmen von Software-Wartungsverträgen durch folgende Einzelmaßnahmen:
+
+Bei Programmverlusten im Kundenbetrieb wird die aktuelle Programmversion des jeweiligen Kunden von CSB nachgeliefert.
+CSB unterhält bezüglich der gelieferten CSB-Software eine Hotline gemäß den Bestimmungen von Ziff. 13.3.
+Falls eine Wartung der Software durch CSB im Kundenbetrieb notwendig wird, so ist die erforderliche Arbeitszeit im Kundenbetrieb kostenlos. Fahrtkosten, Fahrtzeiten, Übernachtungskosten und Tagesspesen werden gesondert in Rechnung gestellt.
+13.3 Tritt an der gelieferten CSB-Software ein Wartungsfall ein, den der Kunde nicht selbstständig zu beseitigen imstande ist, kann der Kunde bei der CSB-Hotline Unterstützung bei der Lösung des Problems anfordern. Er hat dabei CSB alle Informationen zur Verfügung zu stellen, die CSB benötigt, um zu evaluieren, ob es sich bei dem gemeldeten Problem um einen Wartungsfall handelt. Ein Wartungsfall liegt vor, wenn eine korrektive Maßnahme an der CSB-Software erforderlich ist. Stellt sich bei der Evaluation heraus, dass der Kunde das aufgetretene Problem ohne Unterstützung durch die Hotline hätte lösen können (beispielsweise durch Befolgung von vorab zur Verfügung gestellten Arbeitsanweisungen, Dokumentationen etc.) oder dass es sich dabei nicht um einen Wartungsfall gehandelt hat, ist CSB nach vorherigem Hinweis an den Kunden dazu berechtigt, dem Kunden den entstandenen Aufwand gemäß der aktuell gültigen Preisübersicht für Dienstleistungen, Lieferungen und Leistungen in Rechnung zu stellen. Falls und sofern CSB seiner Leistungsverpflichtung nicht nachkommt, hat der Kunde CSB nach vorheriger Abmahnung eine angemessene Frist zur Störungsbeseitigung einzuräumen.
+
+13.4 Der Wartungsvertrag endet in jedem Fall mit dem Zeitpunkt, in dem das Mietvertragsverhältnis über die Nutzung der Software beendet wird.
+
+13.5 Gerät der Kunde für drei Monate mit der Bezahlung der Wartungsgebühr in Rückstand, kann CSB die Leistungserbringung für die Dauer des Zahlungsrückstands verweigern, oder, sofern CSB den Kunden erfolglos unter Hinweis auf die bevorstehende Kündigung und das Entfallen des Lizenzrechts abgemahnt hat, das Wartungsverhältnis ohne Einhaltung einer Frist kündigen.
+
+13.6 Ferner kann CSB das Wartungsverhältnis ohne Einhaltung einer Frist kündigen, wenn über das Vermögen des Kunden das Insolvenzverfahren beantragt oder eröffnet wird. 
+
+13.7 Das Recht zur Kündigung aus wichtigem Grund bleibt vom Vorstehenden unberührt.
+
+14. Durchführung der Wartungsarbeiten
+
+Die Wartungsleistung wird in den Geschäftsräumen von CSB während der normalen Arbeitszeit durchgeführt. Soweit für die einzelne Wartungsleistung eine Beratung erforderlich ist, wird diese dem Kunden telefonisch gewährt. Fehlermeldungen sind CSB während der normalen Arbeitszeit (08:00–17:00 Uhr) telefonisch oder in Textform mitzuteilen. Außerhalb der vorstehenden Kernzeiten steht eine telefonische Software-Beratung (Hotline-Notdienst) zur Verfügung. Der Kunde erlaubt CSB, sich zu Wartungszwecken in das EDV-System des Kunden einzuwählen.
+
+15. Wartungsgebühr
+
+15.1 Die Wartungsgebühr ist das pauschale Entgelt für die in Nr. 13.2 genannten Leistungen und ergibt sich aus dem diesbezüglichen Produktschein. CSB ist berechtigt, die Wartungsgebühr einmal jährlich um den Prozentsatz, um den sich der deutsche Verbraucherpreisindex erhöht, mindestens jedoch 2 %, berechnet auf die Gesamtwartungsgebühr, zu erhöhen. Bei einer Erhöhung der monatlichen Wartungspauschale durch CSB um mehr als 10 % in einem Jahr hat der Kunde ein außerordentliches Kündigungsrecht unter Beachtung einer Kündigungsfrist von sechs Wochen seit Bekanntgabe der Anpassung. Nach Ablauf dieser Frist gelten die Bestimmungen dieses Vertrages mit der angepassten Wartungsgebühr entsprechend weiter. Die Wartungsgebühr wird monatlich per Bank von CSB eingezogen. Die mit der Wartungsleistung zusammenhängenden Nebenkosten, wie z. B. für Daten- und Programmträger, werden gesondert in Rechnung gestellt. Die zurzeit gültige Wartungsgebühr ist der Preisübersicht für Dienstleistungen, Lieferungen und Leistungen zu entnehmen.
+
+15.2 Die in Ziff. 13.2 aufgeführten Leistungen werden durch die im Produktschein oder Individualvertrag vereinbarte, pauschalierte Wartungsgebühr abgegolten. Die Fahrtkosten und Fahrtzeiten, sowie Übernachtungskosten und Tagesspesen werden gesondert in Rechnung gestellt. CSB behält sich das Recht vor, im Wartungsfalle bei nicht aktueller Programmversion dem Kunden die aktuelle Programmversion zu liefern. Es obliegt in diesem Fall dem Kunden, die notwendigen systemtechnischen Voraussetzungen für die Lauffähigkeit der neuen Version auf eigene Kosten zu schaffen.
+
+16. Schiedsgutachtenvereinbarung
+
+16.1 Sollte es zwischen den Vertragsparteien über die von CSB geschuldete Lieferung oder Leistung bzw. über den Erfüllungsgrad der geschuldeten Lieferungen oder Leistungen zu Meinungsverschiedenheiten kommen, über die die Parteien keine gütliche Einigung finden können, ist zwingend ein Schiedsgutachten eines vereidigten Sachverständigen für EDV-Fragen einzuholen, soweit auch nur eine Partei dies verlangt. 
+
+16.2 Jede Partei kann das Schiedsgutachtenverfahren einleiten, indem sie die andere Partei in Textform über ihr Verlangen unterrichtet. Der Schiedsgutachter wird – für beide Parteien verbindlich – durch die IHK Aachen benannt, sofern sich die Parteien nicht innerhalb von fünf Werktagen ab Zugang des vorgenannten Schreibens auf einen Schiedsgutachter einigen. 
+
+16.3 Der Schiedsgutachter hat beiden Parteien von Beginn an und während des gesamten Verfahrens rechtliches Gehör zu gewähren. 
+
+16.4 Soweit zwischen den Parteien streitig, trifft der Schiedsgutachter Feststellungen dazu, welche Lieferungen oder Leistungen von CSB nach den zugrundeliegenden Verträgen geschuldet sind, und welche dieser Lieferungen oder Leistungen seitens CSB bereits erbracht wurden. 
+
+16.5 Die Prüfung durch den Schiedsgutachter beschränkt sich auf die bis zum Zeitpunkt der Einleitung des Schiedsgutachtenverfahrens erhobenen Einwendungen gegen die von CSB erbrachten Lieferungen oder Leistungen. 
+
+16.6 Stellt der Schiedsgutachter fest, dass CSB ihre vertraglichen Pflichten noch nicht vollständig erfüllt hat und sind diese fällig, so bestimmt er eine angemessene Frist, in der CSB die Gelegenheit hat, die von dem Schiedsgutachter als noch nicht erbracht festgestellten Lieferungen oder Leistungen zu erbringen. Nach Aufforderung durch CSB, spätestens mit Ablauf der Frist, stellt derselbe Schiedsgutachter fest, ob CSB ihre vertraglich geschuldeten Lieferungen oder Leistungen erbracht hat, sofern dies zwischen den Parteien noch streitig ist. 
+
+16.7 Stellt der Schiedsgutachter bei dieser Überprüfung erneut fest, dass CSB ihre vertraglichen Pflichten noch nicht vollständig erfüllt hat, so bestimmt er eine angemessene Nachfrist, in der CSB die Gelegenheit hat, die von dem Schiedsgutachter als noch nicht erbracht festgestellten Lieferungen oder Leistungen zu erbringen. 
+
+16.8 Nach Aufforderung durch CSB, spätestens mit Ablauf der Nachfrist, stellt derselbe Schiedsgutachter fest, ob CSB ihre vertraglich geschuldeten Lieferungen und Leistungen erbracht hat, sofern dies dann zwischen den Parteien noch streitig ist. Stellt der Schiedsgutachter bei dieser Überprüfung wiederum fest, dass CSB ihre vertraglichen Pflichten noch nicht vollständig erfüllt hat, ist zur Geltendmachung der Rechte aus §§ 281, 323 BGB durch den Kunden eine weitere Fristsetzung entbehrlich. 
+
+16.9 Im Falle der Durchführung des Schiedsgutachtenverfahrens ist die Geltendmachung von Schadensersatzansprüchen vor diesem Zeitpunkt ausgeschlossen. 
+
+16.10 Die Feststellungen des Schiedsgutachters sind für beide Parteien verbindlich. Die Kosten des Schiedsgutachtenverfahrens werden von den Parteien nach den Grundsätzen der §§ 91, 92 ZPO getragen. Über die Kostentragungslast entscheidet ebenfalls der Schiedsgutachter verbindlich. 
+
+16.11 Während der Dauer des Schiedsgutachtenverfahrens, beginnend mit dem Zugang des Verlangens einer Partei bei der anderen Partei, ein Schiedsgutachten eines vereidigten Sachverständigen für EDV-Fragen einzuholen, und endend mit Zugang des Schiedsgutachtens bei der jeweiligen Partei, sind die wechselseitigen Ansprüche der Parteien aus dem Sachverhalt, der dem Schiedsgutachten zugrunde liegt, gehemmt. 
+
+17. Datenschutz 
+
+CSB versichert und trägt dafür Sorge, dass sie sich mit den ergebenden besonderen Anforderungen an die Datensicherheit und den Datenschutz im Rahmen der Geschäftsverbindung vertraut gemacht hat und alle mit der Verarbeitung von personenbezogenen Daten (Art. 5 DSGVO) beschäftigten Personen entsprechend Art. 28 Abs. 3 S. 2 lit. b DSGVO verpflichtet worden sind, personenbezogene Daten, die in diesem Zusammenhang bekannt werden, nicht unbefugt zu verarbeiten. Dies gilt sowohl für die interne wie auch die externe dienstliche Tätigkeit (z. B. bei Kunden und Interessenten).
+
+18. Sonstige Vereinbarungen, anwendbares Recht, Erfüllungsort und Gerichtsstand
+
+18.1 Auf die vertraglichen Vereinbarungen der Parteien ist ausschließlich das Recht der Bundesrepublik Deutschland, unter Ausschluss des UN-Kaufrechts, anwendbar.
+
+18.2 Erfüllungsort ist Geilenkirchen, Deutschland. Gerichtsstand für alle Streitigkeiten aus der gegenwärtigen und zukünftigen geschäftlichen Beziehung der Parteien, gleich aus welchem Rechtsgrund, ist Düsseldorf, Deutschland, jedoch behält sich CSB vor, Klage am allgemeinen Gerichtsstand des Kunden zu erheben.
+
+18.3 Im Übrigen finden die Regelungen der 
+
+Geschäftsbedingungen der CSB-System SE für Hardwarekauf und Hardwarewartung
+Geschäftsbedingungen der CSB-System SE für Rechenzentrumsleistungen
+Preisübersicht für Dienstleistungen, Lieferungen und Leistungen 
+in ihrer jeweils aktuellen Fassung entsprechende Anwendung.

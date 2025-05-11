@@ -1,0 +1,904 @@
+I. Allgemeine Bedingungen
+§ 1 Geltungsbereich
+1.1. Die nachfolgenden Allgemeinen Geschäfts-bedingungen („AGB“) sind Bestandteil der jeweils zwischen der Asseco Solutions AG und ihren verbundenen Unternehmen (§§ 15 ff. AktG) („Asseco“) und dem Kunden („Kunde“) geschlossenen Verträge („Softwareverträge“) über den Kauf bzw. die Miete von Asseco-Standardsoftware („Software-Kaufvertrag“ bzw. „Software-Mietvertrag“), die Nutzung von Cloud-Services sowie die in diesem Zusammenhang von Asseco zu erbringenden Softwarepflege- und sonstigen Leistungen („vertragliche Leistungen“). Sie gelten auch für alle künftigen Geschäfte mit dem Kunden aus laufenden Geschäftsbeziehungen.
+1.2. Die Rechte und Pflichten der Parteien, insbesondere der jeweilige Leistungsumfang werden vorrangig durch die Softwareverträge bestimmt. Soweit in diesen nichts Abweichendes geregelt ist, gelten die nachfolgenden Vorschriften.
+1.3. Entgegenstehende oder von diesen AGB abweichende Allgemeine Geschäftsbedingungen des Kunden gelten nur dann, wenn und soweit Asseco diesen ausdrücklich schriftlich zugestimmt hat.
+§ 2 Liefer- und Leistungsbedingungen
+2.1. Erfüllungsort ist der Sitz von Asseco. Lieferungen erfolgen ex works Sitz Asseco (Incoterms).
+2.2. Von Asseco angegebene Liefer- und Leistungsdaten beruhen auf der Einschätzung von Asseco bei Vertrags-schluss und sind stets unverbindlich, es sei denn, etwas anderes ist ausdrücklich schriftlich (E-Mail ausreichend) vereinbart.
+2.3. Der Kunde ist nicht berechtigt, die Annahme der Produkte oder Leistungen wegen unwesentlicher, den Gebrauch nicht besonders hindernder Mängel abzulehnen. Für den Fall, dass der Kunde seine Annahmepflicht oder eine andere Mitwirkungs- oder Bei-stellungspflicht verletzt, ist Asseco berechtigt, den hieraus entstehenden Schaden einschließlich zusätzlicher Aufwendungen vom Kunden ersetzt zu verlangen, es sei denn, der Kunde weist nach, dass er die Pflichtverletzung nicht zu vertreten hat. Weitergehende gesetzliche Ansprüche bleiben unberührt. In diesem Fall geht das Risiko des zufälligen Untergangs oder der zufälligen Beschädigung der Liefer- und Leistungsgegenstände zum Zeitpunkt der Pflichtverletzung auf den Kunden über.
+§ 3 Änderungsvorbehalt
+Asseco ist berechtigt, die Beschaffenheit der vertragsge-genständlichen Lieferungen und Leistungen einseitig zu verändern, sofern dies aufgrund gesetzlicher Vorschriften erforderlich ist oder die Veränderung eine technische Ver-besserung darstellt, welche die nach dem Vertrag vorausgesetzte Verwendung nicht beeinträchtigt. Asseco wird den Kunden hierüber rechtzeitig informieren.
+§ 4 Zahlungsbedingungen / Preisanpassungen/ Vergütung
+4.1. Die von dem Kunden jeweils zu entrichtende Vergütung (Kaufpreis, Miete einschließlich Cloud-Services oder die Vergütungspauschale für Wartungs- und Pflegeleistungen i.S.d. Ziff. 22.4.) ergibt sich aus dem Angebot.
+4.2. Alle Preise gelten zuzüglich der im Zeitpunkt der jeweiligen Leistungserbringung geltenden gesetzlichen Umsatzsteuer.
+4.3. Eventuelle Liefer- und Versandkosten, Umsatzsteuer sowie alle Leistungen, insbesondere Unterstützungsleistungen, die Installationsplanung, die Installation der Software, die Einweisung, die Einsatzvor-bereitung oder sonstige Beratung sind nicht einbezogen und werden gesondert nach Aufwand vergütet.
+4.4. Soweit Leistungen nach Aufwand vergütet werden, richten sich Stundensätze, Reise- und Nebenkosten nach den bei Asseco jeweils gültigen allgemeinen Sätzen.
+Aufwandsbezogene Leistungen werden auf Basis des jeweils gültigen Stundensatzes (1/8 des Tagessatzes) für jede begonnene 1/4 Stunde berechnet. Bei Tätigkeiten vor Ort werden mindestens 5 Stunden zur Abrechnung gebracht. Bei Durchführung von Arbeiten an Wochenenden und Feiertagen auf Wunsch des Kunden erhöhen sich die Manntagessätze an Samstagen um 25% und an Sonn- und Feiertagen um 50%. Sagt der Kunde einen Termin einseitig weniger als 48 Stunden vor Terminbeginn ab oder nimmt diesen nicht wahr und kann Asseco die Zeit nicht anderweitig fakturierbar nutzen, so ist Asseco berechtigt, die vereinbarte Vergütung abzüglich ersparter Aufwendungen zu verlangen, ohne zur Nachleistung verpflichtet zu sein.
+4.5. Vergütungen sind, jeweils unmittelbar nach Erhalt der Waren oder Erbringung der Leistung fällig und nach Rechnungszugang innerhalb von 14 Tagen ohne Abzug zu bezahlen.
+4.6. Rechnungen werden elektronisch versendet. Die Zahlung hat durch Überweisung an Asseco zu erfolgen.
+4.7. Wurde eine pauschale Vergütung („Vergütungspauschale“) vereinbarte, so wird diese jährlich berechnet und ist jeweils am 1. Januar eines Vertragsjahres im Voraus fällig. Die Vergütung im ersten Kalenderjahr erfolgt anteilig ab Vertragsbeginn bis zum 31. Dezember des Vertragsjahres. Die Rechnung ist 14 Tage nach Rechnungsstellung fällig. Bei unterjähriger Zahlungsweise wird ein Aufschlag auf den jeweiligen Teilbetrag in Höhe von monatlich 12%, vierteljährlich 6% und halbjährlich 3% erhoben.
+4.8. Im Falle des Verzugs ist Asseco berechtigt, von dem Kunden Verzugszinsen in gesetzlicher Höhe zu verlangen.
+4.9. Kommt der Kunde mit irgendeiner Zahlungspflicht in Verzug oder treten Umstände ein, durch welche die Vermögenslage des Kunden nachhaltig verschlechtert bzw. dessen Kreditwürdigkeit beeinträchtigt wird und welche die Erfüllung des Zahlungsanspruchs von Asseco gefährden, ist Asseco berechtigt, die Erbringung von Leistungen bis zur vollständigen Zahlung fälliger Beträge zurückzubehalten und für zukünftige Leistungen Vorkasse zu verlangen. Insbesondere ist Asseco dazu berechtigt, nach vorheriger schriftlicher Ankündigung, die Wartungsleistungen bis zur vollständigen Zahlung der Wartungsvergütung zurückzubehalten. Kommt der Kunde einer solchen Aufforderung nicht innerhalb einer ihm gesetzten angemessenen Frist nach, ist Asseco berechtigt, vom Vertrag zurückzutreten.
+4.10. Bei Dauerschuldverhältnissen (z.B. Softwaremiete, Cloud-Services, Wartung und Pflege) kann die Vergütung nach der im Auftrag vereinbarten Mindestlaufzeit mit dem vom Statistischen Bundesamt amtlich festgestellten Verbraucherpreisindex für Deutschland (VPI, 2015=100) jährlich im Voraus angepasst werden. Die Anpassung wird mit Ablauf des in Satz 1 bezeichneten Zeitraum wirksam.
+4.11. Abweichend von den Regelungen in Ziff. 4.10. gilt für Beratungsleistungen die im Angebot vereinbarte Vergütung.
+§ 5 Aufrechnung, Zurückbehaltungsrecht, Abtretung
+5.1. Die Aufrechnung oder Ausübung eines Zurückbehaltungsrechts durch den Kunden wegen bestrittener oder nicht rechtskräftig festgestellter Gegenansprüche ist ausgeschlossen. Die Einschränkung gilt nicht für Gegenansprüche des Kunden aufgrund von Mängeln oder aufgrund der teilweisen Nichterfüllung des Vertrages, soweit diese Gegenansprüche auf demselben Vertragsverhältnis beruhen wie die Forderung von Asseco.
+5.2. Der Kunde darf nicht die ihm aus diesem Vertrag obliegenden Rechte und Pflichten ohne vorherige schrift-liche Zustimmung von Asseco ganz oder teilweise abtreten. Die Regelung in § 354a HGB bleibt unberührt.
+§ 6 Mitwirkungs- und Beistellungs-pflichten des Kunden; Auditrechte
+6.1. Die Parteien sind sich darüber einig, dass die Implementierung und Nutzung der Software die Mitwirkung des Kunden erfordert. Soweit kein bestimmter Zeitpunkt für die Erfüllung und Mitwirkungs- und Beistellungsleistungen vorgesehen ist, wird Asseco diese mit einem angemessenen zeitlichen Vorlauf von dem Kunden anfordern. Der Kunde wird stets das von Asseco vorgegebene Projektsteuerungstool, derzeit APplusGo, verwenden.
+6.2. Der Kunde wird Asseco bei der Vertragserfüllung im erforderlichen Umfang unentgeltlich unterstützen und insbesondere Mitarbeiter, Arbeitsräume, Hard- und Soft-ware, Daten und Telekommunikationseinrichtungen sowie eine performante Internetverbindung (WLAN oder Ethernet), im erforderlichen Umfang zur Verfügung stellen. Der Kunde wird während der Vertragslaufzeit einen für Asseco kostenfreien Online-Zugriff auf sein Netzwerk und die installierten Anwendungen über Open VPN/ Sophos, SonicWall_NetExtender, NCP IPsec, Watchguard SSL, Citrix Net Receiver, VMWare Horizon, Cisco Any Connect, MS VPN über Phonebook oder Site2Site zur Verfügung stellen. Sofern die IP Range von Asseco es zulässt, können andere Zugangsarten gegen zusätzliche Vergütung nach Vereinbarung zur Verfügung gestellt werden.
+6.3. Der Kunde hat sich über die wesentlichen Funktionsmerkmale der Software informiert und trägt das Risiko, dass die Software seinen betrieblichen Anforderungen und Bedürfnissen entspricht.
+6.4. Der Kunde beachtet die von Asseco für die Installation und den Betrieb der Software gegebenen Hinweise, insbesondere Hard- und Softwarevoraus-setzungen sowie die Anwenderdokumentation.
+6.5. Der Kunde prüft, ob der jeweils neuste Software-stand auf den bestehenden Systemen eingesetzt werden kann. Es besteht keine Verpflichtung des Kunden, Hard-ware, Software oder die Betriebssystemplattform anpassen zu müssen. Soweit der Kunde einen neuen Softwarestand nicht innerhalb einer angemessenen Frist ab Überlassung übernimmt, wird Asseco von der Haftung für dadurch verursachte Schäden, gleich welcher Art, frei; dies gilt insbesondere auch für Schäden, die dem Kunden durch Fehler der Software, die durch den neuesten Softwarestand behoben werden, entstehen.
+6.6. Der Kunde trifft angemessene Vorkehrungen für den Fall, dass die Software ganz oder teilweise nicht ordnungsgemäß arbeitet. Dies umfasst insbesondere zeitgerechte, mindestens tägliche Datensicherung, Störungsdiagnose und regelmäßige Überprüfung der Datenverarbeitungsergebnisse in angemessenem Umfang. Mangels ausdrücklichen schriftlichen Hinweises im Einzelfall kann das von Asseco eingesetzte Personal davon ausgehen, dass alle Daten, mit denen es in Berührung kommt, sorgfältig in einer Art und Weise gesichert sind, die dem potenziellen Verlust- und Beschädigungsrisiko Rechnung trägt.
+6.7. Der Kunde gewährt Asseco zur Fehlersuche und Fehlerbehebung Zugang zu dem Vertragsgegenstand, nach Wahl von Asseco unmittelbar und/oder mittels Datenfernübertragung (Remote-Zugang etwa mittels Netviewer).
+6.8. Asseco ist berechtigt zu prüfen, ob der Vertrags-gegenstand in Übereinstimmung mit den Bestimmungen des geschlossenen Vertrags und diesen AGB genutzt wird. Zu diesem Zweck darf Asseco über ein im Rahmen der Installation von APplus implementiertes Softwaremodul jährlich überprüfen, ob der Kunde die vertragsgegenständliche Software qualitativ und quantitativ im Rahmen der erworbenen Lizenzen nutzt. Die Prüfung wird dem Kunden durch Asseco mit einer Frist von 2 Wochen schriftlich (per E-Mail genügt) vorangekündigt. Asseco kann die Prüfung in den Räumen des Kunden zu dessen regelmäßigen Geschäftszeiten durchführen. Asseco wird darauf achten, dass der Geschäftsbetrieb des Kunden durch die Tätigkeit vor Ort so wenig wie möglich gestört wird.
+6.9. Bei der Umschreibung, Eingrenzung, Feststellung und Meldung von Mängeln hat der Kunde die von Asseco erteilten Hinweise zu befolgen. Der Kunde wird seine Fehlermeldungen und Fragen soweit möglich präzisieren. Er hat hierfür auf kompetente Mitarbeiter (insbes. Key-User) zurückzugreifen.
+6.10. Während erforderlicher Testläufe ist der Kunde auf Verlangen von Asseco persönlich anwesend oder stellt hierfür kompetente Mitarbeiter ab, die bevollmächtigt sind, über ggf. vorhandene Mängel und Funktionskürzungen sowie Änderungen der Programmstruktur zu urteilen und zu entscheiden.
+6.11. Der Kunde stellt Asseco für Hotline-Unterstützung und Wartung einen Online-Zugriff auf sein Netzwerk und die installierten Anwendungen gemäß Ziff. 6.2. zur Verfügung und erklärt sich mit der verbindlichen Nutzung des APplus Helpdesks einverstanden. Er stellt die notwendige Infrastruktur in Form eines ausreichend dimensionierten Administrator-Arbeitsplatzes und die Berechtigungen für Asseco gemäß den Vorgaben von Asseco zur Verfügung. Zugriffe von Asseco erfolgen ausschließlich nach Absprache und entsprechender Freischaltung durch den Kunden. Der Systemadministrator des Kunden begleitet und überwacht den Zugriff während seiner gesamten Dauer. Anfallende Leitungskosten gehen zu Lasten des Kunden.
+6.12. Der Kunde wird stets die in den Softwareverträgen oder sonstigen Vereinbarungen zwischen den Parteien festgelegten besonderen Mitwirkungs- und Beistellungsleistungen erbringen.
+6.13. Falls der Kunde Mitwirkungs- und Beistellungs-leistungen nicht erfüllt, ist Asseco für eine hieraus resultierende Einschränkung der vertraglichen Leistungen nicht verantwortlich. Asseco wird sich in diesem Fall angemessen bemühen, die vertraglichen Leistungen ungeachtet der fehlenden Mitwirkungs- und Beistellungsleistungen zu erfüllen. Soweit Asseco durch ein solches Bemühen Zusatzkosten oder -aufwand entstehen, hat der Kunde diese Asseco zu erstatten bzw. zu vergüten.
+6.14. Die Einrichtung einer funktionsfähigen – und auch unter Berücksichtigung der zusätzlichen Belastung durch die Software ausreichend dimensionierten – Hard- und Softwareumgebung liegt in der alleinigen Verantwortung des Kunden. Sofern Asseco hierzu Aussagen trifft, sind diese nur im Fall schriftlicher Abfassung und bezogen auf die von Asseco jeweils angegebene initiale Erstkonfiguration oder die entsprechende und von Asseco angegebene Konfiguration für geplante Updates verbindlich.
+6.15. Weisungen wird der Kunde ausschließlich über Key-User dem von Asseco benannten verantwortlichen Mitarbeiter mit Wirkung für und gegen Asseco erteilen.
+Die Mitarbeiter von Asseco treten in kein Arbeitsverhältnis zum Kunden.
+§ 7 Geheimhaltung und Datenschutz
+7.1. Die Parteien gewährleisten, dass sie vertrauliche Informationen der anderen Partei nicht verwenden oder veröffentlichen werden. Als vertrauliche Informationen gelten alle Informationen, einschließlich Abbildungen, Systemspezifikationen, Zeichnungen, Muster, Kalkula-tionen und sonstige Unterlagen, sowohl in schriftlicher als auch in jeder anderen Form, die als vertraulich gekennzeichnet sind oder ihrer Art nach als vertraulich zu bewerten sind. Die Parteien werden alle angemessenen vorsorglichen Maßnahmen ergreifen, um ihre Geheimhaltungspflicht zu erfüllen.
+7.2. Diese Geheimhaltungspflicht gilt nicht, wenn die betreffenden Informationen oder Daten
+I.vor ihrer Entgegennahme rechtmäßiger Besitz der entgegennehmenden Partei gewesen sind;
+II.von der entgegennehmenden Partei unabhängig entwickelt wurden, ohne dass auf Informationen oder Daten der offenbarenden Partei verwiesen wird;
+III.allgemein bekannt sind oder werden oder allgemein zugänglich gemacht werden, es sei denn, dies geschieht durch eine Handlung oder Unterlassung der entgegennehmenden Partei; oder
+IV.der entgegennehmenden Partei von Dritten erteilt werden, ohne dass gegenüber der offenbarenden Partei eine Geheimhaltungsverpflichtung verletzt wird.
+7.3. Die Bestimmungen dieser Ziff. 7 finden keine Anwendung, wenn vertrauliche Informationen der anderen Partei aufgrund Gesetz, einer Verordnung, einer richterlichen Anordnung oder der Entscheidung einer anderen Behörde veröffentlicht werden müssen.
+7.4. Diese Geheimhaltungspflicht gilt sinngemäß auch für sämtliche Mitarbeiter der Parteien. Die Parteien werden alle Personen, die von ihnen mit der Bearbeitung und Erfüllung der diesen AGB zugrunde liegenden Verträgen betraut sind, entsprechend zur Geheimhaltung verpflichten.
+7.5 Der Kunde wird gegebenenfalls gelieferte Original-datenträger an einem gegen den unberechtigten Zugriff Dritter gesicherten Ort aufbewahren sowie seine Mitarbeiter und ggf. weitere Zugriffsberechtigte nachdrücklich auf die Einhaltung der vorliegenden Be-dingungen sowie der Regelungen des Urheberrechts hinweisen.
+7.6. Asseco verarbeitet die zur Geschäftsabwicklung erforderlichen personenbezogenen Daten des Kunden unter Beachtung der einschlägigen datenschutzrecht-lichen Vorschriften.
+§ 8 Gewerbliche Schutzrechte und Urheberrechte
+8.1. Wenn und soweit ein Dritter gegen den Kunden berechtigte Ansprüche wegen der Verletzung eines gewerblichen Schutzrechts oder Urheberrechts („Schutz-rechte“) durch eine von Asseco entwickelte und/oder erbrachte Leistung geltend macht, haftet Asseco, soweit keine zwingenden gesetzlichen Vorschriften entgegenstehen, wie folgt:
+• Asseco wird nach eigener Wahl und auf eigene Kosten entweder ein Nutzungsrecht für die entwickelte und/oder erbrachte Leistung erwirken, die Leistung so ändern, dass das Schutzrecht nicht mehr verletzt wird oder die Leistung austauschen, wenn die nach dem Vertrag vorausgesetzte Verwendung der Leistung dadurch nicht beeinträchtigt wird.
+• Asseco ist nur dann zu vorgenannten Maßnahmen verpflichtet, wenn der Kunde Asseco die von dem Dritten geltend gemachten Ansprüche unverzüglich schriftlich anzeigt und Asseco alle Entscheidungsbefugnisse über die Rechtsverteidigung und die Durchführung von Ver-gleichsverhandlungen uneingeschränkt einräumt. Stellt der Kunde die Nutzung der Leistung aus Schadensminderungsgründen oder sonstigen wichtigen Gründen ein, ist er verpflichtet, dem Dritten gegenüber darauf hinzuweisen, dass mit der Nutzungseinstellung kein Anerkenntnis einer Schutzrechtsverletzung verbunden ist.
+8.2. Ansprüche des Kunden nach Ziff. 8.1 sind ausgeschlossen, wenn und soweit der Kunde die Schutz-rechtsverletzung zu vertreten hat. Ansprüche des Kunden sind ferner ausgeschlossen, wenn und soweit die Schutz-rechtsverletzung durch spezielle Vorgaben des Kunden, durch eine von Asseco nicht voraussehbare Anwendung oder dadurch verursacht wird, dass die Leistung vom Kunden verändert oder zusammen mit nicht von Asseco erbrachten Leistungen und ohne dass Asseco dem zugestimmt hat eingesetzt wird.
+8.3. Der Kunde ist verpflichtet, Asseco nach besten Kräften kostenfrei bei der Verteidigung gegen die Schutz-rechtsverletzung zu unterstützen.
+8.4. Umgekehrt stellt der Kunde Asseco von allen Ansprüchen Dritter frei, die diese gegenüber Asseco wegen einer Verletzung eines gewerblichen Schutzrechts oder Urheberrechts geltend machen, wenn die Verletzung aus einer ausdrücklichen Anweisung des Kunden gegenüber Asseco resultiert oder der Kunde die Leistung verändert oder in ein System eines Dritten integriert.
+§ 9 Haftung von Asseco
+9.1. In allen Fällen vertraglicher und außervertraglicher Haftung leistet Asseco Schadensersatz ausschließlich nach Maßgabe folgender Grenzen.
+9.2. Asseco haftet unbegrenzt für Schäden, die durch vorsätzliches Verhalten ihrer Mitarbeiter und Erfüllungsgehilfen verursacht werden oder im Fall von Tod oder Verletzung des Körpers, die von Asseco verschuldet sind sowie bei der Haftung nach dem Produkthaftungsgesetz.
+9.3. Asseco haftet bei Softwarekaufverträgen für Schäden, die durch grob fahrlässiges Verhalten ihrer Mitarbeiter und Erfüllungsgehilfen verursacht werden nur in Höhe 100% der gem. Ziff. 4.1. zu entrichtenden Vergütung, maximal jedoch in Höhe von 50% der Vergütung pro Fall. Die Haftungsobergrenze für mittelbare Schäden und sonstige Folgeschäden in Form entgangenen Gewinns und ausgebliebener Einsparungen beträgt je ½ der vorstehend in diesem Absatz 9.3. genannten Werte.
+9.4. Asseco haftet bei Softwarekaufverträgen für Schäden, die durch fahrlässiges Verhalten ihrer Mitarbeiter und Erfüllungsgehilfen verursacht werden nur in Höhe von 50% der gem. Ziff. 4.1. zu entrichtenden Vergütung, maximal jedoch in Höhe von 25% der
+Vergütung pro Fall. Die Haftungsobergrenze für
+mittelbare Schäden und sonstige Folgeschäden in Form
+entgangenen Gewinns und ausgebliebener Einsparungen
+beträgt je ½ der vorstehend in diesem Absatz 9.4.
+genannten Werte.
+9.5. Asseco haftet bei Dauerschuldverhältnissen (z.B.
+Softwaremiete, Cloud-Services, Wartung und Pflege) für
+Schäden, die durch grob fahrlässiges Verhalten ihrer
+Mitarbeiter und Erfüllungsgehilfen verursacht werden,
+pro Vertragsjahr (12 Monate ab Inkrafttreten des jeweils
+geschlossenen Vertrags) in Höhe von 200% der für das
+jeweilige Jahr zu entrichtenden Vergütung gem. Ziff. 4.1.,
+maximal jedoch 100% dieser Vergütung pro Fall.
+9.6. Asseco haftet bei Dauerschuldverhältnissen (z.B.
+Softwaremiete, Cloud-Services, Wartung und Pflege) für
+Schäden, die durch fahrlässiges Verhalten ihrer
+Mitarbeiter und Erfüllungsgehilfen verursacht werden,
+pro Vertragsjahr (12 Monate nach Inkrafttreten des
+jeweiligen Vertrags) in Höhe von 100% der für das
+jeweilige Vertragsjahr zu entrichtenden Vergütung gem.
+Ziff. 4.1., maximal jedoch 50% dieser Vergütung pro Fall.
+9.7. Die Haftung von Asseco für den Fall der Verletzung
+von Rechten Dritter (siehe Ziff. 8) ist auf die in den
+Ziffern 9.3. und 9.5. genannten Werte begrenzt je
+nachdem, ob die Verletzung im Rahmen des
+Softwarekaufs oder der Dauerschuldverhältnisse
+stattgefunden hat, unabhängig davon, ob Asseco diese
+leicht fahrlässig oder grob fahrlässig herbeigeführt hat.
+9.8. Für den Verlust von Daten und Programmen bzw.
+deren Wiederherstellung haftet Asseco ebenfalls nur in
+dem aus dieser Ziff. 9. ersichtlichen Rahmen und auch nur
+insoweit, als dieser Verlust nicht durch angemessene
+Vorsorgemaßnahmen des Kunden, insbesondere die
+tägliche Anfertigung von Sicherungskopien aller Daten
+und Programme vermeidbar gewesen wäre.
+9.9. Soweit vorstehend nicht abweichend geregelt, ist
+eine Haftung von Asseco ausgeschlossen. Asseco haftet
+insbesondere nicht für Schäden aufgrund einer leicht
+fahrlässigen Verletzung von Nebenpflichten, die keine
+wesentlichen Vertragspflichten darstellen, oder für nicht
+vorhersehbare mittelbare Schäden.
+9.10. Keine der Parteien haftet bei Ereignissen höherer
+Gewalt.
+§ 10 Höhere Gewalt
+10.1. Wird Asseco an der Erfüllung ihrer Verpflichtungen
+durch den Eintritt von unvorhersehbaren,
+außergewöhnlichen Umständen gehindert, die trotz der
+zumutbaren Sorgfalt nicht abgewendet werden können
+(z.B. Betriebsstörungen, behördliche Eingriffe, Energieversorgungsschwierigkeiten,
+Pandemien, Epidemien,
+Krieg, Aufstand, Unruhen, Embargo, Explosion, Brand,
+Hochwasser, Unwetter, Streik oder rechtmäßige
+Aussperrung), verlängert sich, wenn die Lieferung oder
+Leistung nicht unmöglich wird, die Lieferfrist in
+angemessenem Umfang. Zu diesen Umständen zählen
+auch Angriffe auf Rechnersysteme von außen, die nach
+dem Stand der Technik nicht mit technisch und
+wirtschaftlich vertretbarem Aufwand abgewehrt werden
+können und die das betroffene Rechnersystem funktional
+nicht nur unerheblich beeinträchtigen.
+10.2. Verbindlich vereinbarte Lieferfristen verlängern
+sich jeweils um die Dauer der Behinderung zuzüglich einer
+angemessenen Anlauffrist. Dauert die Behinderung länger
+als sechs Monate, so sind Asseco und der Kunde nach
+Ablauf einer angemessenen Nachfristsetzung berechtigt,
+hinsichtlich des noch nicht erfüllten Teils vom Vertrag
+zurückzutreten.
+10.3. Wird durch die in Ziff. 10.1. genannten Umstände
+die Lieferung oder Leistung unmöglich, so werden die
+Parteien von ihren Verpflichtungen befreit.
+§ 11 Change Request Verfahren
+11.1. Das im Folgenden beschriebene Verfahren
+(„Änderungsverfahren“) findet Anwendung auf
+Änderungen der vertraglichen Leistungen (einschließlich
+der Vereinbarung zusätzlicher Leistungen), und sonstige
+Änderungen, die nach dem Softwarevertrag unter
+Anwendung des Änderungsverfahrens zu vereinbaren
+sind.
+11.2. Jede Partei kann eine Änderung dieses Vertrags
+oder der vertraglichen Leistungen verlangen
+(„Änderungsverlangen“). Das Änderungsverlangen muss
+schriftlich erfolgen und ausreichende Informationen
+enthalten, um der anderen Partei die Möglichkeit zu
+geben, das Änderungsverlangen zu bewerten.
+11.3. Jede Partei trägt die ihr im Zusammenhang mit dem
+Änderungsverfahren entstehenden Kosten selbst. Davon
+abweichend kann Asseco jedoch dem Kunden den für die
+Angebotserstellung aufgrund eines Änderungsverlangens
+des Kunden entstehenden Aufwand in Rechnung stellen.
+11.4. Ungeachtet der Regelungen der vorstehenden
+Ziff. 11.3. besteht zwischen den Parteien Einigkeit, dass
+Asseco nicht verpflichtet ist, im Rahmen des Änderungsverfahrens
+ohne separat zu erteilenden Auftrag und
+gesonderte Vergütung Beratungsleistungen zu erbringen.
+11.5. Ein Änderungsverlangen wird verbindlich, wenn es
+durch beide Parteien angenommen und unterzeichnet
+wird („Änderungsvereinbarung“). Jede Partei wird Änderungsverlangen
+der anderen Partei unverzüglich
+bearbeiten. Keine Partei ist verpflichtet, Leistungen nach
+Maßgabe eines Änderungsverlangens zu erbringen, bevor
+eine entsprechende Änderungsvereinbarung getroffen
+wurde. Die Parteien sind nicht zum Abschluss einer Änderungsvereinbarung
+verpflichtet.
+11.6. Beeinflusst ein Änderungsverlangen vertragliche
+Regelungen wie z. B. Preis, Ausführungsfristen oder
+Abnahme, wird Asseco dies dem Kunden anzeigen. In
+diesem Fall werden die Parteien einvernehmlich die
+Anpassung des Vertrags vornehmen. Ist dies nicht möglich
+oder kommt eine Einigung nicht zustande, ist Asseco
+berechtigt, das Änderungsverlangen abzulehnen.
+§ 12 Sonstige Regelungen
+12.1. Soweit es sich bei dem Kunden um einen Kaufmann,
+eine juristische Person des öffentlichen Rechts oder
+öffentlich-rechtliches Sondervermögen handelt, ist
+ausschließlicher Gerichtsstand für sämtliche Streitigkeiten
+aus und in direktem oder indirektem Zusammenhang mit
+den Softwareverträgen Karlsruhe.
+12.2. Es gilt ausschließlich das Recht der Bundes republik
+Deutschland unter Ausschluss des UN-Kaufrechts (CISG).
+12.3. Sollte eine Bestimmung dieser AGB unwirksam,
+undurchführbar oder lückenhaft sein oder werden, wird
+dadurch die Wirksamkeit der übrigen Bestimmungen nicht
+berührt. Anstelle der unwirksamen, undurchführbaren
+oder fehlenden Bestimmungen gelten die
+entsprechenden gesetzlichen Regelungen.
+II. Besondere Bedingungen für
+Erwerb bzw. die zeitlich begrenzte
+Einräumung von Nutzungsrechten
+§ 13 Überlassung von Standardsoftware
+13.1. Der Kunde erwirbt zeitlich unbegrenzt (Kauf) bzw.
+erhält zeitlich begrenzt (Miete) von Asseco
+Nutzungsrechte an der in den jeweiligen
+Softwareverträgen näher bezeichneten Software
+einschließlich der zugehörigen Anwenderdokumentation
+in elektronischer (oder gedruckter) Form
+(„Anwenderdokumentation“) und zwar gemäß den
+vereinbarten Nutzungsbedingungen.
+13.2. Der Quellcode (Source Code) der Software ist
+grundsätzlich kein Vertragsgegenstand und kann nur dann
+Teil des Vertragsgegenstands werden, wenn und soweit
+dies ausdrücklich vereinbart wird.
+13.3. Für die Beschaffenheit der Software ist die von
+Asseco ausgelieferte Leistungsbeschreibung abschließend
+maßgeblich. Eine davon abweichende Beschaffenheit der
+Software schuldet Asseco nicht. Eine solche Verpflichtung
+kann der Käufer insbesondere nicht aus anderen
+Darstellungen der Software in öffentlichen Äußerungen
+oder in der Werbung von Asseco, sowie deren
+Angestellten oder Vertriebspartner herleiten, es sei denn,
+Asseco hat die davon abweichende Beschaffenheit
+ausdrücklich schriftlich bestätigt.
+13.4. Produktbeschreibungen, Darstellungen,
+Testprogramme usw. sind Leistungsbeschreibungen,
+jedoch keine Garantien. Eine Garantie bedarf der
+schriftlichen Erklärung durch die Geschäftsleitung der
+Asseco. Im Übrigen gelten die Regelungen zur Haftung
+(Ziff. 9.).
+§ 14 Einräumung eines Nutzungsrechts
+14.1. Im Falle eines Software-Kaufs räumt Asseco dem
+Kunden mit vollständiger Bezahlung der Vergütung ein
+einfaches, nicht ausschließliches, zeitlich unbegrenztes
+und nicht übertragbares Recht ein, die Software auf seiner
+EDV-Anlage in dem vertraglich vereinbarten Umfang für
+eigene, interne Zwecke zu nutzen. Bis zur vollständigen
+Bezahlung der Vergütung erhält der Kunde nur ein
+vorläufiges, zeitlich begrenztes Nutzungsrecht, das bei
+Nichtzahlung oder nicht rechtzeitiger Zahlung erlischt.
+14.2. Im Falle der Software-Miete räumt Asseco dem
+Kunden mit vollständiger Bezahlung des im Software-
+Mietvertrag vereinbarten Entgeltes ein einfaches, nicht
+ausschließliches, zeitlich auf die Mietdauer begrenztes
+und nicht übertragbares Recht ein, die Software auf seiner
+EDV-Anlage in dem vertraglich vereinbarten Umfang für
+eigene, interne Zwecke zu nutzen. Ziff. 14.1. Satz 2 gilt
+entsprechend.
+14.3. Das Nutzungsrecht ist räumlich auf das Gebiet der
+Europäischen Union beschränkt.
+14.4. Nur nach der vorherigen schriftlichen Zustimmung
+von Asseco darf der Kunde die Software auf einer anderen
+EDV-Anlage als in den Softwareverträgen vereinbart
+benutzen. Ist für die Nutzung der Software auf der
+neuen/erweiterten und insbesondere leistungsstärkeren
+EDV-Anlage eine höhere Vergütung vorgesehen, hat der
+Kunde Asseco den entsprechenden Betrag zu bezahlen. Ist
+hierfür eine andere systemtechnische Variante der
+Software erforderlich, wird Asseco sie, sofern verfügbar,
+gegen entsprechenden Aufpreis liefern.
+14.5. Der Kunde ist grundsätzlich nicht berechtigt, die
+Software zu vermieten oder in sonstiger Weise
+unterzulizenzieren, die Software drahtgebunden oder
+drahtlos öffentlich wiederzugeben oder zugänglich zu
+machen oder an Dritte entgeltlich oder unentgeltlich zur
+Verfügung zu stellen.
+14.6. Vervielfältigungen der Software sind nur insoweit
+zulässig, als dies für den vertragsgemäßen Gebrauch
+notwendig ist. Der Kunde darf von der Software
+Sicherungskopien nach den Regeln der Technik im
+notwendigen Umfang, jedoch ausschließlich zum eigenen
+Gebrauch, anfertigen. Sicherungskopien auf beweglichen
+Datenträgern sind als solche zu kennzeichnen und mit
+dem Urheberrechtsvermerk des Originaldatenträgers zu
+versehen. Im Rahmen der Software-Miete teilt der Kunde
+Asseco schriftlich (per E-Mail ausreichend) die Anzahl der
+erstellten Sicherheitskopien mit.
+14.7. Im Rahmen eines Software-Kaufs bedarf die
+Weitergabe der Software an Dritte der schriftlichen
+Zustimmung von Asseco. Diese erteilt die Zustimmung,
+wenn
+I.der Kunde schriftlich versichert, dass er die Software
+auf seiner EDV-Anlage vollständig deinstalliert und alle
+Originalkopien der Vertragsgegenstände dem Dritten
+weitergegeben und alle selbst erstellten Kopien
+gelöscht hat, und
+II.der Dritte schriftlich sein Einverständnis gegenüber
+Asseco mit den hier vereinbarten Nutzungs- und
+Weitergabebedingungen erklärt und
+III.keine sachlichen Gründe gegen die Weitergabe
+sprechen.
+Im Rahmen der Software-Miete ist eine Weitergabe oder
+Weitervermietung der Software oder Teilen davon an
+Dritte verboten.
+14.8. Der Kunde ist zu Änderungen, Erweiterungen und
+sonstigen Umarbeitungen der Software nur insoweit
+befugt, als das Gesetz solche Maßnahmen unabdingbar
+erlaubt oder dies vertraglich vereinbart ist oder sich aus
+den gegebenenfalls einbezogenen Open-Source-
+Lizenzbedingungen ergibt. Dies gilt entsprechend für die
+Dekompilierung der Software. Sofern unabdingbare
+gesetzliche Regelungen nicht entgegenstehen, ist eine
+Dekompilierung nur unter der Voraussetzung erlaubt,
+dass Asseco dem Kunden die hierdurch rechtmäßig
+erlangbaren Informationen nicht nach Aufforderung des
+Kunden innerhalb einer angemessenen Frist zur
+Verfügung gestellt hat.
+14.9. Überlässt Asseco dem Kunden im Rahmen von
+Nachbesserung oder Pflege Ergänzungen (z. B. Patches)
+oder eine Neuauflage der Software (z. B. Update, Upgrade),
+so erwirbt der Kunde hieran die gleichen Rechte
+wie an der Software.
+14.10. Stellt Asseco eine Neuauflage der Software zur
+Verfügung, so erlöschen in Bezug auf die früher überlassene
+Software die Befugnisse des Kunden, sobald der
+Kunde die neue Software produktiv nutzt. Asseco räumt
+dem Kunden jedoch eine dreimonatige Übergangsphase
+ein, in der beide Versionen der Software nebeneinander
+genutzt werden dürfen.
+14.11. Eine Vervielfältigung oder Umarbeitung der Anwenderdokumentation
+ist nicht gestattet.
+14.12. Von Asseco verwendete Open-Source-Software ist
+urheberrechtlich geschützt und unterliegt eigenen
+Lizenzbedingungen, deren Inhalt diesen AGB vorgeht.
+Sofern die vertragsgegenständliche Software
+Komponenten von Open-Source-Software enthält,
+werden diese und deren jeweilige Lizenzbedingungen in
+der gegebenenfalls beigefügten Anlage Open-Source-
+Lizenzbedingungen genannt.
+14.13. Soweit in den Open-Source-Lizenzbedingungen
+nicht ausdrücklich abweichend geregelt, wird für die
+Verschaffung von Nutzungsrechten an Open-Source-
+Software von Asseco keine Lizenzgebühr erhoben. Die
+zwischen den Parteien vereinbarte Vergütung erstreckt
+sich deshalb grundsätzlich nicht auf die Open-Source-
+Software.
+§ 15 Eigentumsvorbehalt
+15.1. Im Falle eines Software-Kaufs bleibt Asseco bis zur
+vollständigen Bezahlung aller Forderungen (einschließlich
+sämtlicher Saldo-Forderungen aus Kontokorrent), die ihr
+aus Geschäftsverbindungen zu dem Kunden jetzt oder
+künftig zustehen, Eigentümerin der von ihr gelieferten
+Software und Hardware. Der Kunde verwahrt das
+Eigentum von Asseco unentgeltlich.
+15.2. Bei Geltendmachung des Eigentumsvorbehalts
+durch Asseco erlischt das Recht des Kunden zur
+Weiterverwendung der Software. Sämtliche von dem
+Kunden angefertigten Programmkopien müssen an Asseco
+übergeben oder vollständig gelöscht werden.
+15.3. Der Kunde darf Kennzeichnungen, Copyright-
+Vermerke und Eigentumsangaben von Asseco an der
+Software in keiner Form verändern oder entfernen.
+§ 16 Gewährleistung
+16.1. Assecos Sachmängelhaftung für Leistungen im Falle
+des Software-Kaufs sowie Assecos Haftung für Mängel im
+Falle der Software-Miete richtet sich, soweit nachfolgend
+keine abweichende Regelung getroffen ist, nach den
+gesetzlichen Vorschriften. Hinsichtlich der Beschaffenheit
+der Software wird auf Ziff.13.3. verwiesen.
+16.2.Regelungen im Falle des Software-Kaufs
+16.2.1. Sachmängel der gelieferten Software
+einschließlich der Anwenderdokumentation werden von
+Asseco innerhalb der Mängelhaftungsfrist von einem Jahr
+beginnend mit der Ablieferung nach entsprechender
+Mitteilung durch den Kunden behoben. Dies geschieht
+nach Wahl von Asseco durch die Beseitigung des Mangels
+(Nachbesserung) oder die Lieferung einer mangelfreien
+Software (Ersatzlieferung).
+16.2.2. Dem Kunden ist bekannt, dass das Funktionieren
+einer Software von einer Vielzahl von Faktoren abhängt,
+da es sich um ein sehr komplexes Produkt handelt.
+Asseco übernimmt deshalb nur die Gewähr für die
+technische Brauchbarkeit der Software gemäß der dem
+Kunden überlassenen Leistungsbeschreibung.
+Insbesondere leistet Asseco keine Gewähr dafür, dass die
+Software den betrieblichen Besonderheiten des Kunden
+entspricht. Der Kunde ist selbst dafür verantwortlich, sich
+von der Tauglichkeit der bestellten Leistung für seine
+Anwendungszwecke zu überzeugen.
+16.2.3. Es gelten die Untersuchungs- und Rügeobliegenheiten
+des § 377 HGB. Der Kunde ist verpflichtet, die
+Software unmittelbar nach Übergabe und vor deren Einsatz
+gründlich auf Mangelfreiheit und insbesondere auf
+Verwendbarkeit in der bestehenden Hard- und Softwarekonfiguration
+zu testen. Die bei der Untersuchung
+erkennbaren Mängel hat der Kunde Asseco unverzüglich,
+sonstige Mängel unverzüglich nach deren Entdeckung,
+jeweils unter beschreibender Bezeichnung des Mangels
+und dem Zeitpunkt der Entdeckung schriftlich anzuzeigen.
+Kommt der Kunde dieser Anzeigepflicht nicht
+ordnungsgemäß und rechtzeitig nach, gilt die Lieferung
+und Leistung als vom Kunden genehmigt.
+16.2.4. Soweit die Leistung nachbesserungsfähig ist, kann
+der Kunde bei Vorliegen von Mängeln zunächst nur
+Nacherfüllung gegenüber Asseco verlangen. Hierzu
+überlässt Asseco dem Kunden nach Wahl von Asseco
+einen neuen, mangelfreien Softwarestand oder beseitigt
+den Mangel; als Mangelbeseitigung gilt auch, wenn
+Asseco dem Kunden zumutbare Möglichkeiten aufzeigt,
+die Auswirkungen des Mangels zu vermeiden.
+16.2.5. Asseco ist berechtigt, die Nacherfüllung davon
+abhängig zu machen, dass der Kunde zumindest einen
+angemessenen Teil der Vergütung bezahlt hat.
+16.2.6. Schlägt die Nacherfüllung fehl (wenigstens zwei
+Nachbesserungsversuche innerhalb angemessener, vom
+Kunden schriftlich zu setzender Nachfrist), wird diese von
+Asseco verweigert oder ist sie unmöglich oder
+unzumutbar, kann der Kunde die Vergütung mindern,
+außer es liegt ein unerheblicher Mangel vor.
+16.2.7. Schadensersatz oder Ersatz vergeblicher Aufwendungen
+wegen eines Mangels leistet Asseco im
+Rahmen der in Ziff. 9. festgelegten Grenzen.
+16.2.8. Stellt sich heraus, dass kein Asseco zuzurechnender
+Mangel vorlag, so ist der Kunde verpflichtet, Asseco
+die Aufwendungen für die Überprüfung zu ersetzen. Liegt
+kein Mangel vor, so erfolgt die Beseitigung der Störung
+nur gegen gesonderte Vergütung nach den bei Asseco
+jeweils geltenden Sätzen. Zu vergüten ist außerdem der
+Mehraufwand auf Seiten von Asseco, der dadurch
+entsteht, dass der Kunde seinen Mitwirkungspflichten
+gem. Ziff. 6 nicht ordnungsgemäß nachgekommen ist.
+16.2.9. Der Kunde trägt die Beweislast dafür, dass ein
+Sachmangel vorliegt. Eine Sachmängelhaftung von Asseco
+ist insbesondere ausgeschlossen, wenn die Störung, der
+Defekt oder der Schaden darauf zurückzuführen ist, dass,
+• der Kunde die Leistung nicht für die vertraglich
+vorausgesetzte Verwendung bzw. für die gewöhnliche
+Verwendung einsetzt, diese nicht einwandfrei installiert
+oder die Leistung nicht ordnungsgemäß, unter Beachtung
+des jeweiligen Stands von Wissenschaft und Technik in
+Betrieb nimmt;
+• der Kunde selbst oder durch einen Dritten Änderungen
+an der Leistung vorgenommen oder vornehmen lassen
+hat;
+• der Kunde bestimmte mit der Leistung verbundene
+Gebrauchsvorschriften von Asseco, insbesondere solche,
+die in der Anwenderdokumentation aufgeführt sind,
+missachtet.
+16.2.10. Die Sachmängelansprüche des Kunden
+verjähren in 12 Monaten nach Lieferung oder Leistung, im
+Falle von Werkleistungen nach § 631 BGB in 12 Monaten
+nach der Abnahme. Die Frist beginnt unabhängig von der
+Kenntnis des Kunden von einem Mangel der Leistung bei
+einer Lieferung ab dem Zeitpunkt der Übergabe an den
+Kunden, bei einer Dienstleistung ab dem Zeitpunkt der
+vollständigen Leistungserbringung und bei einer
+Werkleistung ab dem Zeitpunkt der Abnahme.
+Abweichend von der in Satz 1 genannten Frist gelten für
+Schadensersatzansprüche wegen Vorsatz oder grober
+Fahrlässigkeit oder aufgrund der schuldhaften Verletzung
+des Körpers, des Lebens oder der Gesundheit oder bei der
+Haftung nach dem Produkthaftungsgesetz die
+gesetzlichen Verjährungsfristen. Die gesetzlichen
+Verjährungsregelungen des § 445b BGB bleiben ebenfalls
+unberührt.
+16.3. Regelungen im Falle einer Software-Miete
+16.3.1. Mängel der überlassenen Software, einschließlich
+der Anwenderdokumentation, werden von Asseco nach
+entsprechender Mitteilung des Mangels durch den
+Kunden innerhalb angemessener Zeit behoben. Die
+Mängelbehebung erfolgt von Asseco durch kostenfreie
+Nachbesserung oder Ersatzlieferung.
+16.3.2. Zum Zwecke der Mängelprüfung- und -beseitigung
+hat der Kunde Asseco einen ausreichenden remote-
+Zugang (z.B. mittels Netviewer) zu gewähren.
+16.3.3. Der Kunde darf eine Mietminderung nicht durch
+Abzug von der vereinbarten Miete durchsetzen.
+Entsprechende Bereicherungs- oder
+Schadensersatzansprüche bleiben unberührt.
+16.3.4. Das Kündigungsrecht des Kunden wegen
+Nichtgewährung des Gebrauchs nach
+§ 543 Abs. 2 S. 1 Nr. 1 BGB ist ausgeschlossen, sofern
+nicht die Nachbesserung oder Ersatzlieferung als
+fehlgeschlagen anzusehen ist. 
+16.3.5. Die verschuldensunabhängige Haftung von Asseco
+für bereits bei Vertragsabschluss vorhandene Fehler der
+Software nach § 536a Abs. 1 BGB wird ausdrücklich
+ausgeschlossen.
+§ 17 Rechtsmängel
+17.1. Die Regelungen dieser Ziff. 17 gelten sowohl für den
+Software-Kauf als auch für Software-Miete.
+17.2. Asseco haftet nach den nachstehenden Regeln
+dafür, dass der Nutzung des Vertragsgegenstands im vertraglichen
+Umfang durch den Kunden keine Rechte Dritter
+entgegenstehen.
+17.3. Bei Rechtsmängeln leistet Asseco zunächst Gewähr
+durch Nacherfüllung. Hierzu verschafft er nach seiner
+Wahl dem Kunden eine rechtlich einwandfreie Benutzungsmöglichkeit
+an den gelieferten
+Vertragsgegenständen oder an ausgetauschten oder
+geänderten gleichwertigen Vertragsgegenständen.
+17.4. Machen Dritte Ansprüche geltend, die den Kunden
+hindern, die ihm vertraglich eingeräumten
+Nutzungsbefugnisse wahrzunehmen, unterrichtet der
+Kunde Asseco unverzüglich schriftlich und umfassend.
+Ferner ermächtigt der Kunde Asseco hiermit, die
+Auseinandersetzung mit dem Dritten gerichtlich und
+außergerichtlich allein zu führen.
+17.5. Asseco wird solche Ansprüche Dritter auf eigene
+Kosten abwehren und den Kunden von allen mit der Anspruchsabwehr
+verbundenen Kosten und Schäden
+freistellen, soweit diese nicht auf dessen pflichtwidrigem
+Verhalten beruhen.
+17.6. Für die Verjährung von Rechtsmängeln gilt
+Ziff. 16.2.10. entsprechend.
+17.7. Schadensersatz oder Ersatz vergeblicher Aufwendungen
+wegen eines Mangels leistet Asseco im
+Rahmen der in Ziff. 8 und 9 festgelegten Grenzen.
+§ 18 Besondere Vergütungsregelung;
+Mietzeit; Deinstallations- und
+Löschungspflicht bei Softwaremiete
+18.1. Ziff. 4.7. gilt mit folgender Abweichung
+entsprechend: Eine unterjährige Zahlungsweise ist
+lediglich vierteljährlich mit einem Aufschlag in Höhe von
+6% auf den jeweiligen Teilbetrag möglich.
+18.2. Die Software-Miete läuft auf unbestimmte Zeit bei
+einer Mindestvertragslaufzeit, die im Software-
+Mietvertrag vereinbart ist. Der Vertrag kann von beiden
+Parteien mit einer Frist von 3 Monaten erstmals auf das
+Ende der vereinbarten Mindestvertragslaufzeit gekündigt
+werden. Erfolgt keine fristgerechte Kündigung auf das
+Ende der vereinbarten Mindestvertragslaufzeit,
+verlängert sich dieser Vertrag um jeweils weitere
+12 Monate und kann von beiden Parteien mit einer Frist
+von 3 Monaten auf das Ende des jeweiligen
+Verlängerungszeitraums gekündigt werden.
+18.3. Das Recht zur außerordentlichen Kündigung aus
+wichtigem Grund bleibt unberührt. Wichtiger Grund ist
+jeder Umstand, der der kündigenden Partei nach Treu und
+Glauben die Fortsetzung des Vertragsverhältnisses bis
+zum Ende der Mindestvertragslaufzeit oder bis zum Ablauf
+der Frist zur ordentlichen Kündigung unzumutbar macht.
+18.4. Die Kündigung muss schriftlich (Textform wie mittels
+E-Mail oder Online-Formular genügt) erfolgen und der
+empfangenden Vertragspartei spätestens am dritten
+Werktag des ersten Monats der Kündigungsfrist zugehen
+18.5. Der Kunde wird ausdrücklich darauf hingewiesen,
+dass er nach Beendigung des Vertragsverhältnisses bzw.
+der aus dem Angebot ersichtlichen Mietzeit (zeitlich
+befristetes Nutzungsrecht an der Software), die Software
+nicht weiterbenutzen darf und von dem Kunden zu
+deinstallieren ist.
+18.6. Ein Anspruch auf Wartungs- und Pflegeleistungen,
+sofern Vertragsgegenstand, besteht nach Beendigung des
+Vertragsverhältnisses bzw. der Mietzeit nicht mehr.
+18.7. Sämtliche gegebenenfalls vorhandenen Kopien sind
+vollständig und endgültig zu löschen. Die Nichtbeachtung
+kann das Urheberrecht von Asseco bzw. der Drittanbieter
+(Rechteinhaber) verletzen und u.a. die Geltendmachung
+von Ansprüchen, u.a. auf Schadensersatz, zur Folge
+haben.
+III. Besondere Bedingungen für
+die Erbringung von Projektleistungen
+§ 19 Governance
+19.1. Jede der Parteien benennt für die Dauer des
+Projekts einen Projektleiter. Die Realisierung des
+Projektes wird zwischen den Projektleitern abgestimmt.
+Die Projektleiter überprüfen regelmäßig gemeinsam den
+Projektfortschritt.
+19.2. Soweit Entscheidungen nicht auf der Ebene der
+Projektleiter gefällt werden können, werden sie in dem
+Projektlenkungsausschuss getroffen. Dem
+Projektlenkungsausschuss gehört ein Mitglied der
+Geschäftsleitung beider Parteien oder ein für dieses Verfahren
+entscheidungsbefugter sonstiger Mitarbeiter der
+jeweiligen Partei an. Der Projektlenkungsausschuss tritt
+jederzeit auf Wunsch eines der Projektleiter zusammen.
+Abstimmungen können auch telefonisch erfolgen. Alle
+Beschlüsse sollen schriftlich festgehalten und von allen
+Mitgliedern des Projektlenkungsausschusses
+unterzeichnet werden.
+§ 20 Abnahme
+20.1. Soweit eine Abnahme vereinbart ist oder aufgrund
+der Natur der Leistungen erforderlich ist, ist der Kunde
+verpflichtet, diese innerhalb angemessener Zeit, sofern
+keine abweichende Vereinbarung getroffen wurde
+innerhalb von einer Woche nach Zurverfügungstellung
+durch Asseco, durchzuführen. Zur Abnahme der Leistung
+ist der Kunde auch dann verpflichtet, wenn unwesentliche,
+den Gebrauch nicht besonders hindernde Mängel
+vorhanden sind.
+20.2. Art, Umfang und Dauer der Abnahmeprüfung
+werden von den Projektleitern vor Durchführung
+festgelegt.
+20.3. Für den Fall, dass der Kunde aus Gründen, die er zu
+vertreten hat, die vertraglichen Leistungen nicht abnimmt
+und innerhalb von zehn Tagen nach Inanspruchnahme
+keine wesentlichen Mängel rügt, gelten die vertraglichen
+Leistungen als abgenommen.
+§ 21 Projektvergütung und Laufzeit
+21.1. Bei Vereinbarung einer Projektmanagementpauschale
+wird diese ab Vertragsunterzeichnung
+abgerechnet und endet mit der Abnahme.
+21.2. Das ordentliche Kündigungsrecht des Kunden gemäß
+§ 648 BGB wird ausgeschlossen.
+IV. Besondere Bedingungen für
+die Erbringung von Wartungs- und
+Pflegeleistungen
+§ 22 Wartungs- und Pflegeleistungen
+22.1. Bei einem Software-Kauf sind Wartungs-und
+Pflegeleistungen gemäß der folgenden Bedingungen
+zwingend zusätzlich zu vereinbaren. Bestehende
+Mängelansprüche werden durch den Wartungs- und
+Pflegevertrag nicht berührt.
+22.2. Im Falle der Software-Miete sind Wartungs- und
+Pflegeleistungen bereits enthalten; die Vereinbarung
+zusätzlicher Wartungs- und Pflegeleistungen ist deshalb
+nicht erforderlich.
+22.3. Die Wartung und Pflege beginnt mit der Lieferung
+der Software.
+22.4. Die Vergütungspauschale bei Wartung und Pflege
+der Standardsoftware gegen pauschale Vergütung
+(„Vergütungspauschale“) umfasst:
+• die Eingrenzung der Fehlerursache, die Fehlerdiagnose
+sowie Leistungen, die auf die Behebung des Fehlers
+gerichtet sind (insbes. Patches und Workarounds); die
+konkreten Ausführungen der Fehlerbehandlung stehen im
+Ermessen von Asseco;
+• die telefonische Auskunft an Werktagen zu den
+üblichen Geschäftszeiten;
+• Zugriff auf das Internet-Supportangebot von Asseco;
+• die Bereitstellung seitens Asseco weiterentwickelter
+Standardversionen der Programme, nicht aber von Erweiterungen
+oder Modulen, die Asseco als gesonderte
+Positionen in das Angebot aufnimmt.
+22.5. Die Pflicht zur Fehlerbehandlung bezieht sich auf
+die jeweils neueste freigegebene Version der Software.
+Der Kunde wird diese übernehmen, es sei denn, dass das
+mit unzumutbaren Nachteilen verbunden ist. Ein solcher
+Nachteil liegt z. B. vor, wenn der Einsatz der neuen
+Version, auch bei einer Aufrüstung der Hardware durch
+den Kunden, technisch nicht möglich ist. Bei Unzumutbarkeit
+wird Asseco die Pflege gegen Vergütung ihres
+Aufwands fortführen.
+22.6. Asseco wird eine Fehlermeldung des Kunden in
+einem Ticketsystem dokumentieren.
+22.7. Asseco ist berechtigt, Maßnahmen zur
+Fehlerbehandlung im Wege der Fernwartung zu
+erbringen, sofern dies für den Kunden nicht nachteilig ist.
+22.8. Stellt sich heraus, dass ein von dem Kunden
+gemeldeter Fehler tatsächlich nicht besteht
+(„Scheinfehler“), so trägt der Kunde die im Zuge der
+Fehleranalyse bei Asseco entstandenen Kosten, es sei
+denn, der Kunde konnte das Vorliegen des Scheinfehlers
+bei Prüfung mit der erforderlichen Sorgfalt und
+Anstrengung nicht erkennen.
+22.9. Die Pflege umfasst keine Behandlung von Fehlern
+der Standardsoftware, angepasster Software oder
+Individualsoftware,
+- die darauf beruhen, dass die jeweilige Software in einer
+Hardware- und Softwareumgebung eingesetzt wird, die
+den jeweiligen Systemvoraussetzungen und sonstigen
+technischen Anforderungen nicht entspricht;
+- falls der Kunde oder ein Dritter Veränderungen an der
+jeweiligen Software vorgenommen hat, ohne hierzu (i)
+kraft Gesetzes, (ii) aufgrund einer vertraglichen
+Verpflichtung oder (iii) aufgrund einer vorherigen
+ausdrücklichen schriftlichen Zustimmung von Asseco
+berechtigt zu sein;
+- der Kunde oder ein Dritter eine Fehlbedienung
+vorgenommen oder Systemparameter falsch gesetzt
+haben.
+22.10. Die Vergütungspauschale deckt den Aufwand ab,
+der per Telefon, Datenträgeraustausch oder Schriftverkehr
+sowie bei Wartungs- und Pflegearbeiten in den
+Räumen von Asseco während der üblichen Arbeitszeit
+entsteht. Einsätze beim Kunden werden nach Aufwand
+vergütet.
+22.11. Die Wartung und Pflege von angepasster Standardsoftware
+oder Individualsoftware erfolgt gegen
+gesonderte Vergütung nach Aufwand. Dies gilt
+entsprechend für die Wartung und Pflege von Standardsoftware,
+die durch den Kunden geändert wurde.
+22.12. Alle weiteren Leistungen werden gesondert
+vergütet, insbesondere die Installation neuer Versionen,
+die Wiederherstellung zerstörter Dateien und die
+Reorganisation von Speichermedien.
+22.13. Im Rahmen der Wartungs- und Pflegeleistungen
+werden nachfolgende Fehlerklassen unterschieden:
+Fehlerklasse 1: produktiver Einsatz der Software ist nicht
+oder nur erheblich eingeschränkt möglich. Reaktionszeit
+(Asseco meldet sich beim Kunden) beträgt 4 h innerhalb
+der Servicezeit.
+Fehlerklasse 2: Kernfunktionalität ist gewährleistet, in
+einem Teilmodul treten aber ein / mehrere
+arbeitsverhindernde Fehler auf. Reaktionszeit (Asseco
+meldet sich beim Kunden) beträgt 4 h innerhalb der
+Servicezeit.
+Fehlerklasse 3: Die Fehler im Teilmodul sind nicht
+arbeitsverhindernd. Reaktionszeit (Asseco meldet sich
+beim Kunden) beträgt 2 Werktage innerhalb der
+Servicezeit.
+Fehlerklasse 4: die Fehler beeinträchtigen die
+Funktionalität der Software nur unwesentlich (Bsp.:
+Rechtschreibfehler auf Maske).
+§ 23 Besondere Vergütungsregelung
+23.1. Abweichend von Ziff. 4.1. können für die Wartung
+und Pflege von Drittanbieter-Software gegebenenfalls die
+Sätze der jeweiligen Drittanbieter gelten.
+23.2. Wird die Software oder ihre Nutzung erweitert,
+fallen diese Erweiterungen automatisch unter die
+Wartungs- bzw. Pflegeverpflichtung. Die Vergütung für die
+jeweilige Erweiterung sowie die Wartungs- und
+Pflegeleistungen richtet sich nach dem der jeweiligen
+Erweiterung zugrundeliegenden Angebot.
+§ 24 Rechte an Softwareerweiterungen
+Asseco räumt dem Kunden hinsichtlich gelieferter Softwareerweiterungen
+und -änderungen sowie den durch die
+Anpassungsprogrammierung geschaffenen Arbeitsergebnissen
+dieselben Nutzungsrechte ein, die
+hinsichtlich der Software bestehen.
+§ 25 Kündigung des Wartungs- und
+Pflegevertrags
+Der Wartungs- und Pflegevertrag kann von jeder Partei
+mit einer Frist von 3 Monaten zum Ende eines Kalenderjahres
+gekündigt werden. Eine Kündigung kann nur
+insgesamt für den gesamten Lizenzbestand erfolgen.
+V. Besondere Bedingungen für
+Cloud-Services
+§ 26 Leistungsgegenstand und Vergütung
+26.1. Sofern die Parteien eine Vereinbarung über die
+Erbringung von Cloud-Services getroffen haben, richtet
+sich der von Asseco zu erbringende Leistungsumfang und
+die von dem Kunden an Asseco zu zahlende Vergütung
+nach dem jeweiligen Cloud-Service Angebot sowie den
+jeweiligen Anlagen zur Bestellung (Verfügbarkeit – Service
+Level Agreement, Leistungs- und Produktbeschreibung
+des Cloud-Services, Vereinbarung über die
+Datenverarbeitung im Auftrag).
+26.2. Die Leistungen von Asseco bei der Erbringung der
+Cloud-Services beschränken sich allein auf die
+Datenkommunikation zwischen dem von Asseco
+betriebenen Übergabepunkt des eigenen Datennetzwerks
+und dem IT-System des Kunden. Asseco übernimmt keine
+Verantwortung für den Erfolg der Erreichbarkeit aus dem
+Internet, da Asseco eine Einflussnahme auf den
+weltweiten Datenverkehr außerhalb des eigenen
+Datennetzwerks nicht möglich ist.
+§ 27 Besondere Vergütungsregelung
+27.1. Die Vergütung nebst Umsatzsteuer ist monatlich im
+Voraus jeweils am 1. Werktag des Monats mit
+Rechnungszugang zur Zahlung fällig und innerhalb von
+14 Tagen zu bezahlen.
+27.2. Der Kunde hat Einwendungen gegen die Abrechnung
+der von Asseco erbrachten Leistungen innerhalb von
+2 Wochen nach Zugang der Rechnung zumindest in
+Textform zu erheben. Nach Ablauf der vorgenannten Frist
+gilt die Abrechnung als von dem Kunden genehmigt.
+§ 28 Nutzungsrechte
+28.1. Asseco räumt dem Kunden bei der Erbringung von
+Cloud-Services ein einfaches, nicht übertragbares, zeitlich
+auf die Laufzeit der jeweiligen Cloud-Service Bestellung
+beschränktes Recht zur bestimmungsgemäßen Nutzung
+der Standardsoftware sowie der
+Anwenderdokumentation ein. Einzelheiten werden durch
+die jeweilige Cloud-Service Bestellung bestimmt (z.B.
+Named User Modell).
+28.2. Bei einer Mehrnutzung ohne vorherige schriftliche
+Zustimmung von Asseco (insbesondere beim
+gleichzeitigen Einsatz einer größeren Zahl von Nutzern als
+vereinbart) ist Asseco berechtigt, den für die
+weitergehende Nutzung anfallenden Betrag gemäß des
+Angebots von Asseco bzw. des Lizenzgebers betroffener
+Fremdsoftware in Rechnung zu stellen, soweit der Kunde
+nicht einen wesentlich niedrigeren Schaden von Asseco
+bzw. des Lizenzgebers betroffener Fremdsoftware
+nachweist. Weitergehende und außervertragliche
+Schadensersatzansprüche bleiben unberührt.
+28.3. Der Kunde wird gewährleisten, dass ggf. ein
+abgespaltenes oder übernehmendes Unternehmen die
+vereinbarten Nutzungsbedingungen einhalten wird. Der
+Kunde wird der Vertragspartner von Asseco bleiben,
+sofern nicht eine abweichende Vereinbarung mit Asseco
+und mit dem abgespaltenen oder übernehmenden
+Unternehmen getroffen wird.
+28.4. An sämtlichen Datenbeständen, einschließlich ggfs.
+im Rahmen der Cloud-Services replizierten Datensätze,
+steht Asseco das Recht zur Speicherung und Auswertung
+der pseudonymisierten Nutzerdaten zu, um die Cloud-
+Services zu verbessern.
+§ 29 Mitwirkungspflichten des Kunden für
+Cloud-Services
+29.1. Der Kunde wird die Cloud-Services stets nur im
+Rahmen der gesetzlichen Bestimmungen nutzen. Der
+Kunde wird in seiner Verantwortungssphäre alle
+Voraussetzungen für Compliance und
+Gesetzeskonformität schaffen und aufrechterhalten.
+29.2. Der Kunde speichert im Zusammenhang mit den
+Cloud-Services keine Inhalte, deren Bereitstellung,
+Veröffentlichung und Nutzung gegen Strafrecht,
+Urheberrechte, Marken- und sonstige
+Kennzeichnungsrechte oder Persönlichkeitsrechte
+verstößt oder anderweitig rechtswidrig ist.
+29.3. Verstößt der Kunde gegen diese Pflichten, ist er zur
+Unterlassung des weiteren Verstoßes, bei schuldhaftem
+Verstoß auch zum Ersatz des Asseco entstandenen
+Schadens sowie zur Freihaltung und Freistellung von
+Asseco von Schadensersatz- und
+Aufwendungsersatzansprüchen Dritter, die durch den
+Verstoß verursacht wurden, verpflichtet. Die
+Freistellungsverpflichtung umfasst auch die
+Verpflichtung, Asseco von Rechtsverteidigungskosten
+(Gerichts- und Anwaltskosten auf Basis des RVG)
+vollständig freizustellen. Sonstige Ansprüche von Asseco,
+insbesondere zur Sperrung der Inhalte und zur
+außerordentlichen Kündigung, bleiben unberührt.
+29.4. Sollte für die Einrichtung des Cloud-Services ein
+Einführungsprojekt / Set-up erforderlich sein, wird der
+Kunde die für das Einführungsprojekt / Set-up
+erforderlichen Ressourcen, Zugänge, Schnittstellen und
+Drittsoftware (z.B. Microsoft Azure Active Directory)
+bereitstellen.
+29.5. Der Kunde erkennt an, dass es ihm obliegt, eine
+hinreichende Datenleitung (Internet-Verbindung)
+vorzuhalten, um auf den Cloud-Service zugreifen zu
+können. Hierzu ist als Mindestanforderung Standard
+DS1/T1 erforderlich. Wird dieser nicht erreicht,
+übernimmt Asseco keine Gewähr für die vertragsgemäße
+Funktionsfähigkeit des Service.
+29.6. Der Kunde hat sicherzustellen, dass die
+Schnittstellen bis zum vertraglich definierten
+Übergabepunkt an Asseco während der gesamten
+Vertragslaufzeit die reibungslose Zusammenarbeit
+zwischen Asseco-Systemen und der Software gewähren
+sowie dass die spezifizierten Datenformate und
+Datenmengen von der Software und den Schnittstellen
+verarbeitet werden, so dass die vertragsgemäße
+Erbringung der Cloud-Services gewährleistet ist.
+29.7. Der Kunde ist im Rahmen der Cloud-Services für
+eine regelmäßige tägliche vollständige Sicherung der auf
+dem IT-System gespeicherten Daten verantwortlich,
+solange diese nicht Asseco übernimmt.
+§ 30 Laufzeit und Kündigung
+30.1. Der Cloud-Service läuft auf unbestimmte Zeit bei
+einer Mindestvertragslaufzeit, die in der Cloud-Service
+Bestellung vereinbart wird. Der Vertrag kann von beiden
+Parteien mit einer Frist von 3 Monaten erstmals auf das
+Ende der vereinbarten Mindestvertragslaufzeit gekündigt
+werden. Erfolgt keine fristgerechte Kündigung auf das
+Ende der vereinbarten Mindestvertragslaufzeit,
+verlängert sich dieser Vertrag um jeweils weitere
+12 Monate und kann von beiden Parteien mit einer Frist
+von 3 Monaten auf das Ende des jeweiligen
+Verlängerungszeitraums gekündigt werden. Im Übrigen
+gelten Ziff. 18.3. und 18.4. entsprechend.
+30.2. Mit Beendigung des Cloud-Services ist Asseco
+berechtigt, den Zugang zu dem Cloud-Service zu sperren;
+der Kunde ist verpflichtet, seine Anwendungsdaten
+rechtzeitig vor Vertragsende zu sichern. Ein Anspruch auf
+Herausgabe der Anwendungsdaten gegen Asseco besteht
+nicht.
+30.3. Der Kunde ist verpflichtet, bei Vertragsende den
+Cloud-Service und deren Bestandteile (z.B. App) von allen
+seinen Systemen zu entfernen und dies Asseco gegenüber
+auf Verlangen nachzuweisen.
+§ 31 Mängelansprüche und Kündigungsrechte
+31.1. Die Mängelhaftung für Leistungen von Asseco
+richtet sich, soweit nachfolgend keine abweichende
+Regelung getroffen ist, nach den gesetzlichen
+Vorschriften.
+31.2. Dem Kunden ist bekannt, dass das Funktionieren
+des Cloud-Services von einer Vielzahl von Faktoren
+abhängt, da es sich um ein sehr komplexes Produkt
+handelt. Asseco übernimmt deshalb nur die Gewähr für
+die technische Brauchbarkeit des Cloud-Services gemäß
+der dem Kunde überlassenen Leistungsbeschreibung.
+Insbesondere leistet Asseco keine Gewähr dafür, dass der
+Cloud-Service den betrieblichen Besonderheiten des
+Kunden entspricht. Der Kunde ist selbst dafür
+verantwortlich, sich von der Tauglichkeit der bestellten
+Leistung für seine Anwendungszwecke zu überzeugen.
+31.3. Asseco gewährleistet den vertragsgemäßen
+Zustand der Cloud Infrastruktur sowie die vertragsgemäße
+Erbringung der Cloud-Services während des vertraglich
+vereinbarten Leistungszeitraums.
+31.4. Bei einer nur unerheblichen Minderung der
+Tauglichkeit zum vertragsgemäßen Gebrauch bestehen
+keine Ansprüche wegen Mängeln der Cloud-Services.
+Ebenso sind Ansprüche wegen solcher Mängel
+ausgeschlossen, soweit die Abweichung von der
+vertragsgemäßen Beschaffenheit auf unsachgemäßer
+Nutzung oder der Verwendung der Cloud-Services unter
+nicht vereinbarten Einsatzbedingungen oder einer nicht
+vereinbarten Systemumgebung beruhen. Das gleiche gilt
+für solche Abweichungen, die auf Grund besonderer
+äußerer Einflüsse entstehen, die vertraglich nicht
+vorausgesetzt sind.
+31.5. Ziff. 16.3.5. gilt entsprechend.
+31.6. Gerät Asseco mit der betriebsfähigen Bereitstellung
+der Cloud-Services in Verzug, so richtet sich die Haftung
+nach den allgemeinen Bestimmungen dieser AGB. Der
+Kunde ist zur Kündigung berechtigt, wenn Asseco eine von
+dem Kunden gesetzte angemessene, mindestens
+vierwöchige, Nachfrist nicht einhält, das heißt innerhalb
+dieser Nachfrist die Cloud-Services nicht wie vereinbart
+zur Verfügung stellt. Kommt Asseco seinen vereinbarten
+Verpflichtungen ganz oder teilweise nicht nach, so
+verringert sich die vertraglich vereinbarte Vergütung
+anteilig für die Zeit, in der die Cloud-Services dem Kunden
+nicht in dem vereinbarten Umfang zur Verfügung standen.
+31.7. Der Kunde hat darzulegen, dass Asseco den Grund
+für eine nicht vereinbarungsgemäße Erbringung der
+Cloud-Services zu vertreten hat. Hat der Kunde eine
+mangelhafte Leistung Asseco nicht angezeigt, so hat der
+Kunde im Bestreitensfall zu beweisen, dass Asseco
+anderweitig Kenntnis hiervon erlangt hat.
+31.8. Soweit Asseco aufgrund dieser Bedingungen
+Einrichtungs- und sonstige Beratungsleistungen erbringt,
+so handelt es sich bestimmungsgemäß um
+Dienstleistungen, die keiner Abnahme bedürfen.

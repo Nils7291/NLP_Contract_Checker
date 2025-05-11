@@ -1,0 +1,187 @@
+Allgemeine Vertragsbedingungen für den Verkauf von Standardsoftware der
+DELTA BARTH Systemhaus GmbH
+Ludwig-Richter-Str. 3
+09212 Limbach-Oberfrohna
+Das Angebot der DELTA BARTH Systemhaus GmbH (DBS-GmbH) richtet sich nicht an Verbraucher, sondern nur an Unternehmen.
+
+§ 1 Geltung der Vertragsbedingungen
+(1) Für den Verkauf von Standardsoftware, für im Rahmen des Kaufvertrages vereinbarte Dienstleistungen und für vorvertragliche Schuldverhältnisse gelten im unternehmerischen Verkehr ausschließlich diese Allgemeinen Vertragsbedingungen, soweit nichts anderes vereinbart ist. Andere Vertragsbedingungen der Vertragspartner werden nicht Vertragsinhalt, auch wenn die DBS-GmbH ihnen nicht ausdrücklich widerspricht.
+
+(2) Auch, wenn beim Abschluss gleichartiger Verträge hierauf nicht nochmals hingewiesen wird, gelten ausschließlich die Allgemeinen Vertragsbedingungen der DBS-GmbH in ihrer bei Abgabe der Erklärung des Bestellers unter https://www.delta-barth.de/agb abrufbaren Fassung, es sei denn, die Vertragspartner vereinbaren schriftlich etwas anderes.
+
+(3) Für die Lieferung der Standardsoftware gelten ergänzend die §§ 433 ff. BGB. Für ergänzende Dienstleistungen (z.B. Installation, Parametrisierung, Schulung) gelten ergänzend die §§ 611 ff. BGB.
+
+§ 2 Vertragsschluss
+(1) Angebote der DBS-GmbH sind freibleibend und unverbindlich, es sei denn, das Angebot ist schriftlich als bindend bezeichnet. Eine rechtliche Bindung kommt nur durch beiderseits unterzeichneten Vertrag oder durch schriftliche Auftragsbestätigung der DBS-GmbH zustande, außerdem dadurch, dass die DBS-GmbH nach der Bestellung mit der Leistungserbringung beginnt. Die DBS-GmbH kann schriftliche Bestätigungen mündlicher Vertragserklärungen des Bestellers verlangen.
+
+(2) Der Besteller hält sich vier Wochen an seine Erklärungen zum Abschluss von Verträgen gebunden.
+
+(3) Für Lieferungen und Leistungen anderer Art (z.B. Hardwarelieferung, Softwarepflege, Installation und Parametrisierung der Software, Schulung, Application Software Providing, Webhosting) sind gesonderte Verträge zu schließen.
+
+§ 3 Vertragsgegenstand, Leistungsumfang
+(1) Gegenstand dieser Vertragsbedingungen ist nur die Lieferung von Standardsoftware und die Einräumung der Nutzungsrechte nach § 4, außerdem die beim Kauf mitbestellten Dienstleistungen, z.B. die Schulung nach § 15.
+
+(2) Der Besteller hat vor Vertragsabschluss überprüft, dass die Spezifikation der Software seinen Wünschen und Bedürfnissen entspricht. Ihm sind die wesentlichen Funktionsmerkmale und -bedingungen der Software bekannt.
+
+(3) Maßgebend für Umfang, Art und Qualität der Lieferungen und Leistungen ist der beiderseits unterzeichnete Vertrag oder die Auftragsbestätigung der DBS-GmbH, sonst das Angebot der DBS-GmbH. Sonstige Angaben oder Anforderungen werden nur Vertragsbestandteil, wenn die Vertragspartner dies schriftlich vereinbaren oder die DBS-GmbH sie schriftlich bestätigt hat. Nachträgliche Änderungen des Leistungsumfangs bedürfen der schriftlichen Vereinbarung oder der schriftlichen Bestätigung durch die DBS-GmbH.
+
+(4) Produktbeschreibungen, Darstellungen, Testprogramme usw. sind Leistungsbeschreibungen, jedoch keine Garantien. Eine Garantie bedarf der schriftlichen Erklärung durch die Geschäftsleitung der DBS-GmbH.
+
+(5) Der Besteller erhält die Software bestehend aus dem Programm und dem Benutzerhandbuch. Die Technik der Auslieferung der Software richtet sich nach den
+Vereinbarungen; mangels anderer Vereinbarung werden Programm und Handbuch im HTML-Format innerhalb der Installation ausgeliefert. Der Besteller hat keinen Anspruch auf Überlassung des Quellprogramms (Quellcode).
+
+(6) Die DBS-GmbH erbringt alle Lieferungen und Leistungen nach dem Stand der Technik und den Grundsätzen der Wirtschaftlichkeit.
+
+§ 4 Rechte des Bestellers an der Software
+(1) Die Software (Programm und Benutzerhandbuch) ist rechtlich geschützt. Das Urheberrecht, Patentrechte, Markenrechte und alle sonstigen Leistungsschutzrechte an der Software sowie an sonstigen Gegenständen, die die DBS-GmbH dem Besteller im Rahmen der
+Vertragsanbahnung und -durchführung überlässt oder zugänglich macht, stehen im Verhältnis der Vertragspartner ausschließlich der DBS-GmbH zu. Soweit die Rechte Dritten zustehen, hat die DBS-GmbH entsprechende Verwertungsrechte.
+
+(2) Der Besteller ist nur berechtigt, mit dem Programm eigene Daten selbst im eigenen Betrieb für eigene Zwecke zu verarbeiten. Alle Datenverarbeitungsgeräte (z.B. Festplatten und Zentraleinheiten), auf die die Programme ganz oder teilweise, kurzzeitig oder auf Dauer kopiert oder übernommen werden, müssen sich in Räumen des Bestellers befinden und in seinem unmittelbaren Besitz stehen. Weitere vertragliche Nutzungsregeln (z.B. die
+Beschränkung auf eine Anzahl von Arbeitsplätzen oder Personen) sind technisch einzurichten und praktisch einzuhalten. Die DBS-GmbH räumt dem Besteller hiermit die für diese Nutzung notwendigen Befugnisse als einfaches Nutzungsrecht ein, einschließlich des Rechts zur Fehlerbeseitigung. Für die Dauer des Nutzungsrechts gilt § 13.
+
+(3) Der Besteller darf die für einen sicheren Betrieb erforderlichen Sicherungskopien der Programme erstellen. Die Sicherungskopien müssen sicher verwahrt werden und, soweit technisch möglich, mit dem Urheberrechtsvermerk des Original-Datenträgers versehen werden. Urheberrechtsvermerke, Warenzeichen und Produktkennzeichnungen dürfen nicht gelöscht, geändert oder unterdrückt werden. Nicht mehr benötigte Kopien sind zu löschen oder zu vernichten. Das Benutzerhandbuch und andere von der DBS-GmbH überlassene Unterlagen dürfen nur für betriebsinterne Zwecke kopiert/ausgedruckt/vervielfältigt und zugänglich gemacht werden.
+
+(4) Die DBS-GmbH bietet dem Besteller und jedem künftigen Erwerber und Inhaber der Software an, dass zwischen der DBS-GmbH und allen künftigen Inhabern und Erwerbern der Software die folgenden Regeln gelten. Die Annahme des Angebots setzt entsprechende schriftliche Erklärungen des jeweiligen Inhabers und des jeweiligen Erwerbers voraus:
+
+a) Die Weitergabe an den Dritten erfolgt durch Veräußerung auf Dauer und ohne Rückgabeanspruch oder Rückerwerbsoption.
+
+b) Der Dritte gibt gegenüber der DBS-GmbH folgende schriftliche Erklärung ab: „Wir wollen von … (Firma und Adresse des Bestellers) die Software … (genaue
+Bezeichnung einschließlich Benennung des Lizenzvolumens und des Versionsstandes) erwerben. Uns liegen in Kopie die Dokumente vor, aus welchen sich ergibt, mit welchen Nutzungsrechten und welchen Pflichten der Vorerwerber die Software erworben hat.
+Wir verpflichten uns Ihnen gegenüber, diese Nutzungsregeln einzuhalten. Dies gilt insbesondere in Bezug auf § 4, § 13 Abs. 2 und 3, § 14 und § 16 der damals
+vereinbarten Allgemeinen Vertragsbedingungen. Unser Nutzungsrecht beginnt frühestens, wenn der Vorerwerber Ihnen schriftlich mitgeteilt hat, dass er, soweit möglich und zumutbar, die Software gelöscht hat und dass er mit Beginn unseres Nutzungsrechts kein Recht auf Nutzung der Software mehr hat. Wir verpflichten uns, im Fall einer Veräußerung der Software durch uns dieselben Regeln einzuhalten, wie sie insofern unserem Rechtsvorleger Ihnen gegenüber obliegen.“
+
+c) Der Besteller hat dafür zu sorgen, dass der Dritte erst dann die Software nutzen darf, wenn der Besteller den Löschungsvorgang der Software durchgeführt hat und wenn er der DBS-GmbH die vom Dritten unterschriebene Erklärung nach (b) zugeschickt hat.
+
+d) Das Recht zur Weiterveräußerung bezieht sich auf den jeweiligen Stand der Weitergabe des aktuellen Stands des Computerprogramms, wie es dem Besteller zum Zeitpunkt der Weitergabe an den Dritten vorliegt.
+
+d) Das Recht zur Weiterveräußerung bezieht sich auf den jeweiligen Stand der Weitergabe des aktuellen Stands des Computerprogramms, wie es dem Besteller zum Zeitpunkt der Weitergabe an den Dritten vorliegt.
+
+e) Im Falle eines Verstoßes des Bestellers gegen diese Regeln schuldet der Besteller der DBS-GmbH eine Vertragsstrafe in Höhe des Betrages, den der Dritte nach der dann aktuellen Preisliste für die Software bei der DBS-GmbH hätte zahlen müssen, zumindest in Höhe des heute vereinbarten Kaufpreises.
+
+(5) Die Regeln nach Abs. 2 und Abs. 3 gelten auch, wenn der Besteller eine Fehlerbeseitigung oder (soweit zulässig) eine sonstige Bearbeitung der Programme durchführt oder die Software zu Schulungszwecken einsetzt.
+
+(6) Der Besteller darf die Schnittstelleninformationen der Programme nur in den Schranken des § 69 e UrhG dekompilieren und erst dann, wenn er schriftlich die DBS-GmbH von seinem Vorhaben unterrichtet und mit einer Frist von zumindest zwei Wochen um Überlassung der erforderlichen Schnittstelleninformationen gebeten hat. Für alle Kenntnisse und Informationen, die der Besteller über die Software im Rahmen des Dekompilierens bekommt, gilt § 14. Vor jeder Einschaltung von Dritten verschafft er der DBS-GmbH eine schriftliche Erklärung des Dritten, dass dieser sich unmittelbar der DBS-GmbH gegenüber zur Einhaltung der in §§ 4 und 14 festgelegten Regeln verpflichtet.
+
+(7) Alle anderen Verwertungshandlungen, insbesondere die Vermietung, der Verleih und die Verbreitung in körperlicher oder unkörperlicher Form, der Gebrauch der Software durch und für Dritte (z.B. durch Outsourcing, Rechenzentrumstätigkeiten, Application Service Providing) sind ohne vorherige schriftliche Zustimmung der DBS-GmbH nicht erlaubt.
+
+(8) Vertragsgegenstände, Unterlagen, Vorschläge, Testprogramme usw. der DBS-GmbH, die dem Besteller vor oder nach Vertragsabschluss zugänglich werden, gelten als geistiges Eigentum und als Geschäfts- und Betriebsgeheimnis der DBS-GmbH. Sie dürfen ohne schriftliche Gestattung der DBS-GmbH nicht in gleich welcher Weise genutzt werden und sind nach § 14 geheim zu halten.
+
+(9) An geänderter, erweiterter oder neu erstellter Software erwirbt der Besteller dieselben Rechte wie an der Standardsoftware.
+
+§ 5 Leistungszeit, Verzögerungen, Leistungsort
+(1) Angaben zu Liefer- und Leistungszeitpunkten sind unverbindlich, es sei denn, sie sind seitens der DBS-GmbH schriftlich als verbindlich bezeichnet. Die DBS-GmbH kann Teilleistungen erbringen, soweit die gelieferten Teile für den Besteller sinnvoll nutzbar sind.
+
+(2) Liefer- und Leistungsfristen verlängern sich um den Zeitraum, in welchem sich der Besteller in Zahlungsverzug aus dem Vertrag befindet, und um den Zeitraum, in dem die DBS-GmbH durch Umstände, die sie nicht zu vertreten hat, an der Lieferung oder Leistung gehindert ist, und um eine angemessene Anlaufzeit nach Ende des Hinderungsgrundes. Zu diesen Umständen zählen auch höhere Gewalt und Arbeitskampf. Fristen gelten auch um den Zeitraum als verlängert, in welchem der Besteller vertragswidrig eine Mitwirkungsleistung nicht erbringt, z.B. eine Information nicht gibt, einen Zugang nicht schafft, eine Beistellung nicht liefert oder Mitarbeiter nicht zur Verfügung stellt.
+
+(3) Vereinbaren die Vertragspartner nachträglich andere oder zusätzliche Leistungen, die sich auf vereinbarte Fristen auswirken, so verlängern sich diese Fristen um einen angemessenen Zeitraum.
+
+(4) Mahnungen und Fristsetzungen des Bestellers bedürfen zur Wirksamkeit der Schriftform. Eine Nachfrist muss angemessen sein. Eine Frist von weniger als zwei Wochen ist nur bei besonderer Eilbedürftigkeit angemessen.
+
+(5) Leistungsort von Dienstleistungen ist der Ort, an dem die Dienstleistung zu erbringen ist. Im Übrigen ist für alle Leistungen aus und im Zusammenhang mit diesem Vertrag der Sitz der DBS-GmbH der Leistungsort.
+
+§ 6 Vertragsbindung und Vertragsbeendigung
+(1) Jede Beendigung des weiteren Leistungsaustausches (z.B. bei Rücktritt, Minderung, Kündigung aus wichtigem Grund, Schadensersatz statt der Leistung) muss stets unter Benennung des Grundes und mit angemessener Fristsetzung zur Beseitigung (üblicherweise zumindest zwei Wochen) angedroht werden und kann nur binnen zwei Wochen nach Fristablauf erklärt werden. In den gesetzlich angeordneten Fällen (vgl. § 323 Abs. 2 BGB) kann die Fristsetzung entfallen. Wer die Störung ganz oder überwiegend zu vertreten hat, kann die Rückabwicklung nicht verlangen.
+
+(2) Alle Erklärungen in diesem Zusammenhang bedürfen zur Wirksamkeit der Schriftform.
+
+§ 7 Vergütung, Zahlung
+(1) Die vereinbarte Vergütung ist nach Ablieferung und Installation der Software (für Schulungen nach Durchführung der Schulung) und Eingang der Rechnung beim Besteller ohne Abzug fällig und innerhalb von 14 Tagen zahlbar.
+
+(2) Fahrtkosten, Spesen, Zubehör, Versandkosten und Telekommunikationskosten sind zusätzlich nach Aufwand zu vergüten. Zusätzliche vom Besteller verlangte Leistungen (z.B. Beratung und Unterstützung bei der Programminstallation) werden individuell vereinbart.
+
+(3) Zu allen Preisen kommt die Umsatzsteuer hinzu.
+
+(4) Der Besteller kann nur mit von der DBS-GmbH unbestrittenen oder rechtskräftig festgestellten Forderungen aufrechnen. Außer im Bereich des § 354a HGB kann der Besteller Ansprüche aus diesem Vertrag nur mit vorheriger schriftlicher Zustimmung der DBS-GmbH an Dritte abtreten. Ein Zurückbehaltungsrecht oder die Einrede des nicht erfüllten Vertrages stehen dem Besteller nur innerhalb dieses Vertragsverhältnisses zu.
+
+§ 8 Pflichten des Bestellers
+(1) Der Besteller ist verpflichtet, alle Liefergegenstände der DBS-GmbH unverzüglich ab Lieferung oder ab Zugänglichmachung entsprechend den handelsrechtlichen Regelungen (§ 377 HGB) fachkundig zu untersuchen und erkannte Mängel schriftlich unter genauer Beschreibung des Fehlers zu rügen. Der Besteller testet gründlich jedes Modul auf Verwendbarkeit in der konkreten Situation, bevor er mit der produktiven Nutzung beginnt. Dies gilt auch für Programme, die der Besteller im Rahmen der Gewährleistung und eines Pflegevertrages bekommt.
+
+(2) Der Besteller trifft angemessene Vorkehrungen für den Fall, dass das Programm ganz oder teilweise nicht ordnungsgemäß arbeitet (z.B. durch Datensicherung, Dokumentation der Softwarenutzung, Störungsdiagnose, regelmäßige Prüfung der Ergebnisse, Notfallplanung). Es liegt in seiner Verantwortung, die Funktionsfähigkeit der Arbeitsumgebung des Programms sicherzustellen.
+
+§ 9 Sachmängel
+(1) Die Software hat die vereinbarte Beschaffenheit und eignet sich für die vertraglich vorausgesetzte, bei fehlender Vereinbarung für die gewöhnliche Verwendung. Sie genügt dem Kriterium praktischer Tauglichkeit und hat die bei Software dieser Art übliche Qualität; sie ist jedoch nicht fehlerfrei. Eine Funktionsbeeinträchtigung des Programms, die aus Hardwaremängeln, Umgebungsbedingungen, Fehlbedienung o.ä. resultiert, ist kein Mangel. Eine unerhebliche Minderung der Qualität bleibt unberücksichtigt.
+
+(2) Bei Sachmängeln kann die DBS-GmbH zunächst nacherfüllen. Die Nacherfüllung erfolgt nach Wahl der DBS-GmbH durch Beseitigung des Mangels, durch Lieferung von Software, die den Mangel nicht hat, oder dadurch, dass die DBS-GmbH Möglichkeiten aufzeigt, die Auswirkungen des Mangels zu vermeiden. Wegen eines Mangels sind zumindest drei Nachbesserungsversuche hinzunehmen. Eine gleichwertige neue Programmversion oder die gleichwertige vorhergehende Programmversion ohne den Fehler ist vom Besteller zu übernehmen, wenn dies für ihn zumutbar ist. Die Installation von Software (Patches oder neue Versionen) ist Aufgabe des Bestellers.
+
+(3) Der Besteller unterstützt die DBS-GmbH bei der Fehleranalyse und Mängelbeseitigung, indem er insbesondere auftretende Probleme konkret beschreibt, die DBS-GmbH umfassend informiert und ihr die für die Mängelbeseitigung erforderliche Zeit und Gelegenheit gewährt. Die DBS-GmbH kann die Mängelbeseitigung nach ihrer Wahl vor Ort oder in ihren Geschäftsräumen durchführen. Die DBS-GmbH kann Leistungen auch durch Fernwartung erbringen. Der Besteller hat auf eigene Kosten für die erforderlichen technischen Voraussetzungen zu sorgen und der DBS-GmbH nach entsprechender vorheriger Ankündigung elektronischen Zugang zur Software zu gewähren.
+
+(4) Die Vertragspartner vereinbaren folgende Fehlerklassen und Reaktionszeiten:
+
+a) Fehlerklasse 1: Betriebsverhindernde Mängel: Der Fehler verhindert den Geschäftsbetrieb beim Besteller; eine Umgehungslösung liegt nicht vor: Die
+DBS-GmbH beginnt unverzüglich, spätestens innerhalb von vier Stunden nach Fehlermeldung innerhalb der üblichen Arbeitszeit mit der Fehlerbeseitigung und setztsie mit Nachdruck bis zur Beseitigung des Fehlers fort, soweit zumutbar auch außerhalb der üblichen Arbeitszeit (Montag bis Freitag 9.00 Uhr bis 16.00 Uhr).
+
+b) Fehlerklasse 2: Betriebsbehindernde Mängel: Der Fehler behindert den Geschäftsbetrieb beim Besteller erheblich; die Nutzung der Software ist jedoch mit
+Umgehungslösungen oder mit temporär akzeptablen Einschränkungen oder Erschwernissen möglich: Die DBS-GmbH beginnt bei Fehlermeldung vor 10.00 Uhr mit der Fehlerbeseitigung am selben Tag innerhalb der üblichen Arbeitszeit (Montag bis Freitag 9.00 Uhr bis 16.00 Uhr), bei späterer Fehlermeldung zu Beginn des nächsten Arbeitstages und setzt sie bis zur Beseitigung des Fehlers innerhalb der üblichen Arbeitszeit fort (Montag bis Freitag 9.00 Uhr bis 16.00 Uhr). Die DBS-GmbH kann zunächst eine Umgehungslösung aufzeigen und den Fehler später beseitigen, wenn dies für den Besteller zumutbar ist.
+
+c) Fehlerklasse 3: Sonstige Mängel: Die DBS-GmbH beginnt mit der Analyse innerhalb einer Woche. Sie beseitigt den Fehler erst mit dem nächsten Upgrade, wenn dies für den Besteller zumutbar ist.
+
+(5) Die Fristen nach Abs. 4 beginnen mit einer Fehlermeldung nach § 8 Abs. 1. Für die Fristberechnung gilt § 5 Abs. 2, 3. Bei Meinungsverschiedenheit über die Zuordnung eines Fehlers in die Klassen nach Abs. 4 kann der Besteller die Einstufung in eine höhere Fehlerklasse verlangen. Er erstattet der DBS-GmbH den Zusatzaufwand, wenn er nicht nachweist, dass seine Einstufung richtig war.
+
+(6) Die DBS-GmbH kann Mehrkosten daraus verlangen, dass die Software verändert, außerhalb der vorgegebenen Umgebung eingesetzt oder falsch bedient wurde. Sie kann Aufwendungsersatz verlangen, wenn kein Mangel gefunden wird und der Besteller die Mangelrüge nicht ohne Fahrlässigkeit erhoben hatte. Die Beweislast liegt beim Besteller. § 254 BGB gilt entsprechend.
+
+(7) Wenn die DBS-GmbH die Nacherfüllung endgültig verweigert oder diese endgültig fehlschlägt oder dem Besteller nicht zumutbar ist, kann der Besteller im Rahmen des § 6 entweder vom Vertrag zurücktreten oder die Vergütung angemessen herabsetzen und zusätzlich nach § 11 Schadensersatz oder Aufwendungsersatz verlangen. Die Ansprüche verjähren nach § 12.
+
+§ 10 Rechtsmängel
+(1) Die DBS-GmbH gewährleistet, dass der vertragsgemäßen Nutzung der Software durch den Besteller keine Rechte Dritter entgegenstehen. Bei Rechtsmängeln leistet die DBS-GmbH dadurch Gewähr, dass sie dem Besteller nach ihrer Wahl eine rechtlich einwandfreie Nutzungsmöglichkeit an der Software oder an gleichwertiger Software verschafft.
+
+(2) Der Besteller unterrichtet die DBS-GmbH unverzüglich schriftlich, falls Dritte Schutzrechte (z.B. Urheber- oder Patentrechte) an der Software geltend machen. Die DBS-GmbH unterstützt den Besteller bei dessen Verteidigung gegen die Angriffe des Dritten durch Beratung und Information.
+
+(3) § 9 Abs. 2, 6, 7 gelten entsprechend.
+
+§ 11 Haftung
+(1) Die DBS-GmbH leistet Schadenersatz oder Ersatz vergeblicher Aufwendungen, gleich aus welchem Rechtsgrund (z.B. aus rechtsgeschäftlichen und rechtsgeschäftsähnlichen Schuldverhältnissen, Sach- und Rechtsmängeln, Pflichtverletzung und unerlaubter Handlung), nur in folgendem Umfang:
+
+a) Die Haftung bei Vorsatz und aus Garantie ist unbeschränkt.
+
+b) Bei grober Fahrlässigkeit haftet die DBS-GmbH in Höhe des typischen und bei Vertragsabschluss vorhersehbaren Schadens.
+
+c) Bei einfach fahrlässiger Verletzung einer Kardinalpflicht (Pflicht, deren Erfüllung die ordnungsgemäße Durchführung des Vertrages überhaupt erst ermöglicht, auf deren Einhaltung der Vertragspartner regelmäßig vertraut und vertrauen darf und deren Verletzung die Erreichung des Vertragszwecks gefährdet) haftet die DBS-GmbH in Höhe des typischen und bei Vertragsabschluss vorhersehbaren Schadens, höchstens jedoch mit EUR 5.000 je Schadensfall und EUR 25.000 für alle Schadensfälle aus und im Zusammenhang mit dem Vertrag insgesamt.
+
+(2) Der DBS-GmbH bleibt der Einwand des Mitverschuldens offen. Der Besteller hat insbesondere die Pflicht zur Datensicherung und zur Abwehr von Schadsoftware jeweils nach dem aktuellen Stand der Technik.
+
+(3) Bei Verletzung von Leben, Körper und Gesundheit und bei Ansprüchen aus dem Produkthaftungsgesetz gelten die gesetzlichen Regelungen ohne Beschränkungen.
+
+§ 12 Verjährung
+(1) Die Verjährungsfrist beträgt
+
+a) bei Sachmängeln für Ansprüche auf Kaufpreisrückzahlung aus Rücktritt oder Minderung ein Jahr ab Ablieferung der Software, jedoch für ordnungsgemäß gerügte Mängel nicht weniger als drei Monate ab Abgabe der wirksamen Rücktritts- oder Minderungserklärung;
+
+b) bei anderen Ansprüchen aus Sachmängeln ein Jahr;
+
+c) bei Ansprüchen aus Rechtsmängeln zwei Jahre, wenn der Rechtsmangel nicht in einem Recht eines Dritten liegt, auf Grund dessen der Dritte die in § 3 Abs. 5
+genannten Gegenstände herausverlangen oder die Unterlassung ihrer Nutzung verlangen kann;
+
+d) bei nicht auf Sach- oder Rechtsmängeln beruhenden Ansprüchen auf Schadensersatz oder Ersatz vergeblicher Aufwendungen zwei Jahre; die Frist beginnt mit dem Zeitpunkt, in dem der Besteller von den anspruchsbegründenden Umständen Kenntnis erlangt hat oder ohne grobe Fahrlässigkeit erlangen musste.
+
+d) bei nicht auf Sach- oder Rechtsmängeln beruhenden Ansprüchen auf Schadensersatz oder Ersatz vergeblicher Aufwendungen zwei Jahre; die Frist beginnt mit dem Zeitpunkt, in dem der Besteller von den anspruchsbegründenden Umständen Kenntnis erlangt hat oder ohne grobe Fahrlässigkeit erlangen musste.
+
+(2) Die Verjährung tritt spätestens mit Ablauf der in § 109 BGB bestimmten Höchstfristen ein. Bei Schadens- und Aufwendungsersatz aus Vorsatz, grober Fahrlässigkeit, Garantie, Arglist und in den in § 11 Abs. 3 genannten Fällen gelten jedoch stets die gesetzlichen Verjährungsregeln.
+
+§ 13 Beginn und Ende der Rechte des Bestellers
+(1) Das Eigentum an gelieferten Sachen und die Rechte nach § 4 gehen erst mit vollständiger Bezahlung der vertragsgemäßen Vergütung auf den Besteller über. Zuvor hat er nur ein vorläufiges, nur schuldrechtliches und nach Abs. 2 widerrufbares Nutzungsrecht.
+
+(2) Die DBS-GmbH kann die Rechte nach § 4 aus wichtigem Grund unter den Voraussetzungen des § 6 beenden. Ein wichtiger Grund liegt vor, wenn der DBS-GmbH unter Berücksichtigung aller Umstände des Einzelfalls und unter Abwägung der beiderseitigen Interessen der dauerhafte Verbleib der Software beim Besteller nicht zuzumuten ist, insbesondere wenn der Besteller in erheblicher Weise gegen § 4 verstößt.
+
+(3) Wenn die Rechte nach § 4 nicht entstehen oder wenn sie enden, kann die DBS-GmbH vom Besteller die Rückgabe der überlassenen Gegenstände verlangen oder die schriftliche Versicherung, dass sie vernichtet sind, außerdem die Löschung oder Vernichtung aller Kopien der Gegenstände und die schriftliche Versicherung, dass dies geschehen ist.
+
+§ 14 Geheimhaltung und Datenschutz
+(1) Die Vertragspartner verpflichten sich, alle ihnen vor oder bei der Vertragsdurchführung von dem jeweils anderen Vertragspartner zugehenden oder bekannt werdenden Gegenstände (z.B. Software, Unterlagen, Informationen), die rechtlich geschützt sind oder Geschäfts- oder Betriebsgeheimnisse enthalten oder als vertraulich bezeichnet sind, auch über das Vertragsende hinaus vertraulich zu behandeln, es sei denn, sie sind ohne Verstoß gegen die Geheimhaltungspflicht öffentlich bekannt. Die Vertragspartner verwahren und sichern diese Gegenstände so, dass ein Zugang durch Dritte ausgeschlossen ist.
+
+(2) Der Besteller macht die Vertragsgegenstände nur den Mitarbeitern und sonstigen Dritten zugänglich, die den Zugang zur Ausübung ihrer Dienstaufgaben benötigen. Er belehrt diese Personen über die Geheimhaltungsbedürftigkeit der Gegenstände.
+
+(3) Die DBS-GmbH verarbeitet die zur Geschäftsabwicklung erforderlichen Daten des Bestellers unter Beachtung der datenschutzrechtlichen Vorschriften. Die DBS-GmbH darf den Besteller nach erfolgreichem Abschluss der Leistungen als Referenzkunden benennen.
+
+(4) Die Mitarbeiter des Softwarehauses werden auf das Datengeheimnis verpflichtet. Es ist ihnen demnach untersagt, personenbezogene Daten außerhalb der rechtmäßigen Aufgabenerfüllung zu verarbeiten oder zu benutzen. Dies gilt auch, soweit es sich um Daten handelt, die dem Mitarbeiter auf Grund seiner Tätigkeit für Kunden oder Lieferanten zur Kenntnis gelangen. Diese Verpflichtung bleibt auch im Falle der Aufgabenänderung oder nach Beendigung des Arbeitsverhältnisses bestehen.
+
+§ 15 Schulung
+(1) Schulungen erfolgen bei der DBS-GmbH. Der Besteller kann die Schulung in seinen Räumen durchführen lassen, wenn er technische Ausrüstung stellt. Er hat dann entsprechend der jeweils aktuellen Preisliste der DBS-GmbH für die Fahrzeiten und Fahrtkosten aufzukommen.
+
+(2) Die DBS-GmbH kann einen Schulungstermin aus wichtigem Grund absagen. Die DBS-GmbH wird dem Besteller die Absage eines Termins rechtzeitig mitteilen und Ersatztermine anbieten.
+
+§ 16 Schluss
+(1) Änderungen und Ergänzungen des Vertrages bedürfen zu ihrer Wirksamkeit der Schriftform. Das Schriftformerfordernis kann nur schriftlich aufgehoben werden. Zur Wahrung der Schriftform genügt auch eine Übermittlung in Textform, insbesondere mittels Telefax oder E-Mail.
+
+(2) Es gilt das Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts. Erfüllungsort und Gerichtsstand für alle Streitigkeiten aus und im Zusammenhang mit diesem Vertrag ist bei Verträgen mit Kaufleuten der Sitz der DBS-GmbH.
+
+(3) Die Vertragspartner vereinbaren, bei allen Meinungsverschiedenheiten aus oder im Zusammenhang mit diesem Vertrag,
+Vertragserweiterungen oder -ergänzungen, die sie nicht untereinander bereinigen können, die Schlichtungsstelle der Deutschen Gesellschaft für Recht und Informatik (www.dgri.de), anzurufen, um den Streit nach deren dann gültiger Schlichtungsordnung in der zum Zeitpunkt der Einleitung eines Schlichtungsverfahrens gültigen Fassung ganz oder teilweise, vorläufig oder endgültig zu bereinigen. Die Verjährung für alle Ansprüche aus dem streitigen Lebenssachverhalt ist ab dem Schlichtungsantrag bis zum Ende des Schlichtungsverfahrens gehemmt; § 203 BGB gilt entsprechend.

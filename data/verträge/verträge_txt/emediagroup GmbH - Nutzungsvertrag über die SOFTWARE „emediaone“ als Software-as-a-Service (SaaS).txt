@@ -1,0 +1,262 @@
+Nutzungsvertrag über die SOFTWARE „emediaone“ als Software-as-a-Service (SaaS)
+1. Geltungsbereich
+1.1. Die nachfolgenden Bedingungen gelten für sämtliche - auch künftigen - Leistungen der
+EMEDIAGROUP GmbH (im Folgenden „EMEDIAGROUP" genannt) gegenüber Ihren
+Kunden (im Folgenden "Nutzer" genannt) im Zusammenhang mit der Bereitstellung
+und Erbringung von SaaS-Lösungen und dem damit zusammenhängenden Service.
+1.2. Die Mitarbeiter der EMEDIAGROUP sind nicht berechtigt, von diesen Bedingungen abweichende
+Vereinbarungen, Nebenabreden, individuelle Garantiezusagen oder Zusicherungen
+zu treffen, es sei denn, sie sind hierzu ausdrücklich bevollmächtigt oder
+kraft ihrer Organstellung, Prokura oder allgemeiner Handlungsvollmacht berechtigt.
+1.3. Soweit EMEDIAGROUP dem Nutzer nach den vertraglichen Bestimmungen Leistungen
+eines Dritten verschafft, gelten hinsichtlich dieser Leistungen ergänzend die Geschäftsbedingungen
+des Dritten, sofern sich der Nutzer von diesen vor Vertragsschluss in zumutbarer
+Weise Kenntnis verschaffen konnte.
+1.4. Das Waren- und Dienstleistungsangebot der EMEDIAGROUP nach diesen Bestimmungen
+richtet sich ausschließlich an Unternehmer im Sinne von § 14 BGB, d.h. natürliche
+oder juristische Personen oder rechtsfähige Personengesellschaften, die bei der Bestellung
+in Ausübung einer gewerblichen oder selbstständigen Tätigkeit handeln. Nur
+diese sind Nutzer im Sinne dieser Geschäftsbedingungen. Die EMEDIAGROUP lehnt insoweit
+unter Geltung dieser Bestimmungen den Vertragsschluss mit einem Verbraucher
+ab. Der Nutzer erklärt bei Abschluss des Vertrags, dass er den Vertrag zu Zwecken
+abschließt, die überwiegend seiner gewerblichen oder selbständigen beruflichen Tätigkeit
+zugerechnet werden können.
+1.5. Einkaufs- oder Geschäftsbedingungen des Nutzers haben nur Gültigkeit, sofern EMEDIAGROUP
+diese gesondert schriftlich anerkannt hat. Jedenfalls gilt unter den einzelnen
+Vereinbarungen folgende Hierarchie der Festlegungen:
+- Änderungen entsprechend Ziffer 1.2.
+- diese Bedingungen
+- Einkaufs- oder Geschäftsbedingungen des Nutzers
+Die zuerst genannten Bestimmungen haben bei Widersprüchen oder Unklarheiten
+stets Vorrang vor den nachfolgend genannten Bestimmungen.
+2. Leistungen
+2.1. Leistungsgegenstand ist das Computerprogramm „emediaone“ (im Folgenden
+„Dienst“ oder „SOFTWARE“ genannt). Der Dienst wird als ASP-Service zur Nutzung über
+das Internet angeboten.
+2.2. Maßgebend für Umfang, Art und Qualität der Leistungen der EMEDIAGROUP sind die
+Leistungsbeschreibung der EMEDIAGROUP auf der Webseite www.emediaone.de, das
+Angebot von EMEDIAGROUP und diese Vertragsbedingungen.
+2.3. Produktbeschreibungen, Darstellungen, Dokumentationen und vergleichbare Unterlagen
+sind Leistungsbeschreibungen, jedoch keine Garantien. Eine Garantie bedarf der
+schriftlichen Erklärung der EMEDIAGROUP.
+2.4. Der Nutzer hat vor Vertragsabschluss überprüft, ob die Spezifikationen des Dienstes
+seinen Wünschen und Bedürfnissen entsprechen. Ihm sind die wesentlichen Funktionsmerkmale
+und -bedingungen bekannt.
+2.5. Die Leistungen von EMEDIAGROUP bei der Übermittlung von Daten beschränken sich
+allein auf die Datenkommunikation zwischen dem von EMEDIAGROUP betriebenen
+Übergabepunkt des eigenen Datenkommunikationsnetzes an das Internet und dem für
+den Nutzer bereitgestellten Server. Eine Einflussnahme auf den Datenverkehr außerhalb
+des eigenen Kommunikationsnetzes ist EMEDIAGROUP nicht möglich. Eine erfolgreiche
+Weiterleitung von Informationen von oder zu einem die Inhalte abfragenden
+Rechner ist daher nicht geschuldet. Die Internetverbindung selbst ist nicht Leistungsgegenstand
+von EMEDIAGROUP. Der Nutzer kann den Dienst nur nutzen, wenn er über
+eine ausreichend leistungsfähige Internetverbindung verfügt. Die erforderliche Bandbreite
+hängt von der Intensität der Nutzung und der Datenmenge des Nutzers ab.
+2.6. Der Nutzer hat die Möglichkeit, die SOFTWARE selbst zu konfigurieren. Er erhält selbst
+aber keinen unmittelbaren Zugriff auf den Server.
+2.7. EMEDIAGROUP erbringt die in den Ziffern 2.1. bis 2.6. genannten Leistungen mit einer
+Gesamtverfügbarkeit von 99 % im Jahresmittel. Die Verfügbarkeit berechnet sich auf
+der Grundlage der auf ein Jahr entfallenden Zeit abzüglich der nachfolgend definierten
+Wartungszeiten (Ziffern 2.7.1.) und abzüglich der nachfolgend definierten Zeiten der
+Störung des Geschäftsbetriebs (Ziffern 2.7.2.).
+2.7.1. EMEDIAGROUP ist berechtigt, für 4 Stunden im Quartal in der Zeit von 24.00 –2.00 Uhr
+(MEZ / MESZ) Wartungsarbeiten durchzuführen. Während der Wartungsarbeiten stehen
+die vorgenannten Leistungen nicht zur Verfügung.
+2.7.2. Als Störungen des Geschäftsbetriebs gelten die folgenden Umstände:
+- Unterbrechungen der Erreichbarkeit durch Störungen im Bereich Dritter, auf
+die EMEDIAGROUP keinen Einfluss hat
+- Unterbrechungen durch höhere Gewalt
+- kurzfristige Unterbrechungen des Betriebes, die erforderlich sind, um konkrete
+Gefährdungen durch einen möglichen Missbrauch durch Dritte (sog. Exploits)
+vorzubeugen oder zu verhindern (z.B. durch Updates)
+2.8. Die Inhalte des für den Nutzer bestimmten Speicherplatzes (Nutzer-Datenbank) werden
+von EMEDIAGROUP zweimal täglich gesichert (ein nächtliches Vollback-up und
+eine zusätzliche abendliche Sicherung der Datenbank). Die Datensicherung erfolgt rollierend
+in der Weise, dass die für einen Wochentag gesicherten Daten nach 2 Monaten
+überschrieben werden. Nach Ablauf der 2 Monate werden die Sicherungen vom 01.
+und vom 15. Tag des Monats weitere 2 Jahre aufbewahrt. Die Sicherung erfolgt stets
+für die gesamte Datenbank des Nutzers. Der Nutzer hat nach Ende der Geschäftsbeziehung
+einen Anspruch auf Herausgabe der letzten Sicherung. Im laufenden Betrieb besteht
+die kostenpflichtige Möglichkeit der Rückübertragung der gesicherten Inhalte auf
+den Server.
+2.9. Als Dokumentation liefert EMEDIAGROUP eine Online-Hilfe, die es erlaubt, Erläuterungen
+zu den Funktionalitäten während des Betriebs der Software abzurufen und auszudrucken.
+Darüber hinaus kann auf Wunsch des Nutzers ein Handbuch bereitgestellt
+werden. Über laufende Änderungen der SOFTWARE informiert die Online-Versionseinsicht
+mit den Release-Notes. Eine weitergehende Dokumentation schuldet EMEDIAGROUP
+nicht.
+2.10. Änderungen, Ergänzungen und Einschränkungen des Bestands der SOFTWARE, insbesondere
+die Abkündigung einzelner Teile der SOFTWARE, sind bei neuen Programmversionen
+im Rahmen einer allgemeinen Produktpolitik von EMEDIA-GROUP erlaubt.
+Ist mit den Änderungen, Ergänzungen und Einschränkungen des Bestands der SOFTWARE
+auch eine Abweichung von der Leistungsbeschreibung verbunden, so gilt Ziffer
+10 entsprechend.
+3. Nutzungsrechte
+3.1. Der Nutzer erwirbt mit Vertragsschluss an der SOFTWARE ein zeitlich auf die Dauer des
+Vertrags beschränktes Nutzungsrecht, wobei sich dies Recht allein darauf beschränkt,
+die SOFTWARE als Application-Service (SAAS) über das Internet auf dem von EMEDIAGROUP
+zur Verfügung gestellten Servern zu nutzen.
+3.2. Durch Eintragung und Aktivierung personengebundener Zugänge kann die Software
+genutzt werden. Jeder aktive Zugang entspricht einer Nutzungslizenz.
+3.3. EMEDIAGROUP wird neue Programmversionen der SOFTWARE für den Nutzer auf dem
+Server bereitstellen und diese neuen Programmversionen dann dem Nutzer zur Nutzung
+überlassen. Eine Bereitstellung der neuen Programmversion erfolgt durch EMEDIAGROUP.
+3.4. Ein Recht des Nutzers auf Einsichtnahme in den Quelltext der SOFTWARE besteht nicht.
+EMEDIAGROUP kann insbesondere auch die Einsichtnahme durch Dritte, z.B. Sachverständige
+im Rahmen eines gerichtlichen Verfahrens, verwehren, wenn die Gefahr besteht,
+dass hierdurch berechtigte Interessen von EMEDIA-GROUP verletzt werden, insoweit
+insbesondere die Verletzung von Betriebs- und Geschäftsgeheimnissen droht.
+4. Sach- und Rechtsmängelhaftung
+4.1. Technische Daten, Spezifikationen und Leistungsangaben in öffentlichen Äußerungen,
+insbesondere in Werbemitteln sind keine Beschaffenheitsangaben. Die Funktionalität
+der SOFTWARE richtet sich nach der Beschreibung auf der Produkt-Webseite
+www.emediaone.de.
+4.2. EMEDIAGROUP wird die SOFTWARE in einem zum vertragsgemäßen Gebrauch geeigneten
+Zustand zur Verfügung stellen und sie in diesem Zustand erhalten. Die Pflicht zur
+Erhaltung beinhaltet nicht die Anpassung der SOFTWARE an veränderte Einsatzbedingungen
+und technische und funktionale Entwicklungen, wie etwa die Anpassung an
+den Funktionsumfang konkurrierender Produkte oder die Herstellung der Kompatibilität
+zu neuen Datenformaten.
+5. Support
+5.1. Supportleistungen vor Ort, d.h. am Sitz des Nutzers, sind nicht Bestandteil dieses Vertrages.
+5.2. Der Basis-Support von EMEDIAGROUP erfolgt montags bis freitags von 9.00 Uhr bis
+17.00 Uhr mit einer Mittagspause von 13.00 – 14.00 Uhr, ausgenommen an Feiertagen
+in Baden-Württemberg (im Folgenden "Dienstzeit" genannt). Eine Zusatzvereinbarung
+über erweiterte Supportzeiten und -leistungen kann zwischen den Vertragsparteien zu
+besonderen Konditionen über Support-Pakete vereinbart werden.
+5.3. Nicht erfasst vom Basis-Support von EMEDIAGROUP werden dabei Softwareprobleme,
+die durch eine der folgenden Handlungen des Nutzers oder eines von ihm eingeschalteten
+Dritten verursacht werden:
+- Fehlerhafte Konfiguration der SOFTWARE,
+- Veränderung oder Beschädigung der SOFTWARE,
+- Veränderung der SOFTWARE durch sich selbst vervielfältigende Programme
+(Viren),
+- Gebrauch der SOFTWARE zu anderen Zwecken als den in der Softwarebeschreibung
+vorgesehenen,
+- Nichtbeachtung der in der Programmdokumentation vorgegebenen Anweisungen
+zur Bedienung der SOFTWARE
+5.4. Sofern EMEDIAGROUP Support leistet und sich im Nachhinein herausstellt, dass die
+Softwareprobleme durch die unter Ziffer 5.3. dieses Vertrages aufgeführten Handlungen
+des Nutzers oder eines Dritten, dessen Verhalten sich der Nutzer zurechnen lassen
+muss, verursacht wurden, ist EMEDIAGROUP berechtigt, diese Leistungen nach den jeweils
+gültigen Stundensätzen abzurechnen.
+6. Fehlerbeseitigung
+6.1. EMEDIAGROUP wird mit der Behebung von Fehlern der SOFTWARE binnen der Reaktionszeit
+(Zeitspanne während der Dienstzeit ab der Mängelrüge, bis zu deren Ablauf
+EMEDIAGROUP dem Nutzer den Beginn der Beseitigungstätigkeiten berichtet haben
+muss) beginnen und die Fehler binnen der Beseitigungszeit (Zeitspanne während der
+Dienstzeit ab der Mängelrüge, bis zu deren Ablauf EMEDIA-GROUP den Mangel behoben
+haben muss) beheben. Die Reaktions- und Beseitigungszeiten bemessen sich für
+jeden Fehler getrennt.
+6.2. Bei betriebsverhindernden Fehlern (Fehlerklasse 1: Der Fehler verhindert die Nutzung
+des Vertragsgegenstands oder wesentlicher Teile des Vertragsgegenstands) wird EMEDIAGROUP
+binnen 12 Stunden innerhalb der Dienstzeit mit der Beseitigung beginnen
+und den Fehler in angemessener Zeit beheben.
+6.3. Bei betriebsbehindernden Fehlern (Fehlerklasse 2: Der Fehler behindert die Nutzung
+des Vertragsgegenstands schwerwiegend, d.h. die Nutzung des Vertragsgegenstands
+ist nur mit erheblichem Aufwand möglich oder die Nutzung des Vertragsgegenstands
+stellt ein nicht zumutbares Risiko für die ordnungsgemäße Funktion anderer Systeme
+des Lizenznehmers da) wird EMEDIAGROUP binnen 24 Stunden innerhalb der Dienstzeit
+mit der Beseitigung beginnen und den Fehler in angemessener Zeit beheben.
+6.4. Bei Sonstigen Fehlern (Fehlerklasse 3: Die Nutzung ist nicht wesentlich beeinträchtigt)
+wird EMEDIAGROUP binnen angemessener Frist mit deren Beseitigung beginnen und
+diese beheben, sobald interne Prozesse bei EMEDIAGROUP (z.B. das nächste Release
+der EMEDIAGROUP-SOFTWARE) eine effiziente Beseitigung ermöglichen.
+6.5. Ein Fehler kann nach teilweiser Nachbesserung oder nach Aufzeigen einer Umgehungslösung
+von EMEDIAGROUP in eine niedrigere Kategorie eingeordnet werden.
+6.6. Die Mängelrüge des Nutzers kann zunächst auch (fern-)mündlich erfolgen. Sie ist jedoch
+spätestens am nächsten Werktag in Textform zu wiederholen und hat den als
+Fehler gerügten Tatbestand so detailliert wie möglich und auch möglichst reproduzierbar
+zu beschreiben (Fehlermeldung). EMEDIAGROUP kann den Nutzer verpflichten, für
+die Mängelrüge eine von EMEDIAGROUP vorgegebene Kundensupportsoftware zu
+nutzen.
+6.7. Der Nutzer hat EMEDIAGROUP bei der Mängelbeseitigung zu unterstützen (z.B. durch
+das Abschalten einzelner Maschine bzw. deren Trennung von der SOFTWARE) und Vorkehrungen
+für den Fall zu treffen, wenn die Mängelbeseitigung nicht bzw. nicht fristgerecht
+durchgeführt werden kann.
+7. Vertragslaufzeit / Folgen der Vertragsbeendigung
+7.1. Der Vertrag kann von beiden Seiten mit einer Kündigungsfrist von 3 Monaten zum Jahresende
+gekündigt werden. Maßgeblich für die Rechtzeitigkeit der Kündigung ist der
+Zugang der Erklärung bei dem Vertragspartner.
+7.2. Die Kündigung bedarf der Textform.
+7.3. Bei Ablauf des Vertrags ist EMEDIAGROUP berechtigt, die Einstellungen des Nutzers
+und auch alle Backups unwiderruflich zu löschen.
+8. Untervermietung
+8.1. Eine Untervermietung ist nicht gestattet.
+8.2. Zulässig ist jedoch die Überlassung an Dritte, denen kein selbstständiges Gebrauchsrecht
+eingeräumt wird und die sich hinsichtlich der Art und Weise der Benutzung dem
+Willen des Nutzers beugen müssen. Dies ist insbesondere bei Angestellten des Nutzers
+in der Regel der Fall.
+9. Entgelt/Übertragbarkeit/Fälligkeit/Zahlungsverzug
+9.1. Der Nutzer zahlt an EMEDIAGROUP eine monatliche Pauschalvergütung entsprechend
+dem Angebot von EMEDIAGROUP.
+9.2. Die Vergütung ist, sofern nichts anderes vereinbart wurde, monatlich jeweils zum Ersten
+im Voraus zu zahlen.
+9.3. Alle Preise verstehen sich netto in Euro zzgl. der gesetzlichen USt.
+9.4. Erteilte Aufträge oder Bestellungen des Nutzers sind nicht übertragbar und können nur
+vom intendierten Leistungsempfänger innerhalb des Auftragszeitraums genutzt werden.
+Der intendierte Leistungsempfänger ist der Nutzer bzw. das Unternehmen, der
+die Bestellung tätigt. Soll ein abweichender Leistungsempfänger bestimmt werden, so
+kann dies mit dem Auftrag entsprechend vermerkt werden.
+9.5. Geldforderungen des Nutzers gegen EMEDIAGROUP kann der Nutzer an Dritte nur abtreten,
+soweit das jeweils zugrunde liegende Rechtsgeschäft für beide Teile ein Handelsgeschäft
+ist.
+10. Änderung der AGB
+10.1. EMEDIAGROUP ist berechtigt, die hier vereinbarten Preise anzupassen und/oder die
+Bedingungen diese Vertragsverhältnisses zu verändern, wenn
+- die Änderungen erst zwei Monate nach Zugang einer entsprechenden Erklärung
+beim Nutzer wirksam werden sollen,
+- EMEDIAGROUP die Änderungen dem Nutzer in Textform unter Hinweis auf
+die Möglichkeit eines Widerspruchs sowie unter Hinweis auf eine einmonatige
+Frist des Widerspruchs nach Zugang der entsprechenden Erklärung mitteilt
+und
+- der Nutzer nicht binnen eines Monats nach Zugang der entsprechenden Erklärung
+widerspricht.
+10.2. Erfolgt ein Widerspruch nach Ziffer 10.1., wird der Vertrag unverändert fortgesetzt.
+Das Recht der Vertragspartner zur Kündigung des Vertrages bleibt hiervon unberührt.
+11. Haftung von EMEDIAGROUP
+11.1. EMEDIAGROUP haftet gegenüber dem Nutzer nur für vorsätzlich oder grob fahrlässig
+verursachte Schäden. Dies gilt nicht, soweit wesentliche Pflichten des Vertrags durch
+EMEDIAGROUP verletzt werden. Wesentlichen Vertragspflichten sind solche, deren Erfüllung
+die ordnungsgemäße Durchführung des Vertrags überhaupt erst ermöglichen
+und auf deren Einhaltung der Vertragspartner regelmäßig vertraut und vertrauen darf.
+11.2. Im Falle leichter Fahrlässigkeit ist eine Haftung von EMEDIAGROUP bei Vermögensschäden
+hinsichtlich mittelbarer Schäden, insbesondere Mangelfolgeschäden, unvorhersehbarer
+Schäden oder untypischer Schäden sowie entgangenen Gewinns ausgeschlossen.
+11.3. Eine gesetzlich vorgeschriebene verschuldensunabhängige Haftung von EMEDIAGROUP
+- insbesondere eine Haftung nach Produkthaftungsgesetz sowie eine gesetzliche
+Garantiehaftung - bleibt von den vorstehenden Haftungsein-schränkungen unberührt.
+Gleiches gilt für die Haftung von EMEDIAGROUP bei schuldhafter Verletzung von
+Leben, Körper oder Gesundheit.
+11.4. Die Haftungsbeschränkungen bzw. -ausschlüsse nach Ziffern 11.1. bis 11.3. gelten auch
+für persönliche Haftung der Arbeitnehmer, Angestellten, Vertreter, Organe und Erfüllungsgehilfen
+von EMEDIAGROUP, soweit diese unmittelbar in Anspruch genommen
+werden.
+11.5. Die verschuldensunabhängige Haftung der EMEDIAGROUP für bereits bei Vertragsabschluss
+vorhandene Fehler nach § 536 a Absatz 1 des Bürgerlichen Gesetzbuchs wird
+ausdrücklich ausgeschlossen.
+12. Pflichten des Nutzers
+12.1. Der Nutzer darf den Dienst nur im Einklang mit den vertraglichen Vereinbarungen und den gesetzlichen Bestimmungen nutzen.
+12.2. Die Nutzung des Dienstes durch den Nutzer, insbesondere die Inhalte, die der Nutzer einstellt, verlinkt, einbettet oder auf andere Weise zugänglich macht, liegt im alleini-gen Verantwortungsbereich des Nutzers. Der Nutzer gewährleistet, dass alle von ihm eingestellten Inhalte („Inhalte des Nutzers“) nicht gegen die einschlägigen inländischen und ausländischen gesetzlichen Regelungen, insbesondere des Verbraucherschutz-rechts, des Urheberrechts, des Wettbewerbsrechts und des Datenschutzrechts, die gu-ten Sitten oder Rechte Dritter verstoßen. Die Einstellung von Inhalten des Nutzers, die
+a) diskriminierender, rassistischer, gewaltverherrlichender oder menschenver-achtender Art sind,
+b) zu Straftaten aufrufen oder diese gut heißen,
+c) Pornographie beinhalten oder gegen das Jugendschutzrecht verstoßen oder
+d) Persönlichkeitsrechte Dritter verletzen,
+ist unzulässig.
+12.3. Der Nutzer darf keine Software oder andere technische Einrichtungen verwenden, die das Funktionieren des Dienstes ändern, erweitern oder gefährden. Insbesondere darf der Nutzer nicht versuchen, mit anderen als den vorgesehenen technischen Mitteln auf den Dienst zuzugreifen.
+12.4. Der Nutzer behandelt Zugangsdaten zu dem Dienst streng vertraulich. Er darf Zugangs-daten nur denjenigen eigenen Mitarbeitern zugänglich machen, die den Dienst im Rah-men ihrer Dienstaufgaben gemäß den vereinbarten Beschränkungen nutzen dürfen.
+12.5. Hat der Nutzer den Verdacht, dass seine Zugangsdaten einem Dritten bekannt gewor-den sind oder dass ein Dritter unbefugt den Zugang des Nutzers zu dem Dienst nutzt, so ist der Nutzer verpflichtet, EMEDIAGROUP unverzüglich hierüber zu informieren.
+12.6. Hat EMEDIAGROUP konkrete Anhaltspunkte dafür, dass der Nutzer den Dienst entge-gen den Bestimmungen dieses Vertrags oder den sonstigen vertraglichen Vereinbarun-gen der Vertragspartner nutzt oder ein unberechtigter Dritter mit den Zugangsdaten des Nutzers unbefugt auf den Dienst zugreift, so ist EMEDIA-GROUP berechtigt, den Zugang des Nutzers zu dem Dienst bis zur Klärung der Angelegenheit zu sperren. Außer bei Gefahr im Verzug wird EMEDIAGROUP dem Nutzer vor einer solchen Maß-nahme Gelegenheit zur Stellungnahme geben. Der Nutzer bleibt während der Zeit der Sperrung zur Zahlung der vereinbarten Vergütung verpflichtet, es sei denn, er hatte die Umstände, die zu der Sperrung geführt haben, nicht zu vertreten.
+12.7. Der Nutzer stellt EMEDIAGROUP von allen Ansprüchen Dritter frei und ersetzt EMEDI-AGROUP alle Schäden, die EMEDIAGROUP durch eine rechts- oder vertragswidrige Nutzung des Dienstes entstehen, es sei denn, der Nutzer weist nach, dass er die jewei-lige Rechtsverletzung nicht zu vertreten hat. Zu den erstattungsfähigen Schäden zählen auch die angemessenen Kosten einer Rechtsverteidigung, die EMEDIAGROUP bei der Abwehr von Ansprüchen Dritter entstehen sollten. EMEDIAGROUP wird den Nutzer je-doch unverzüglich von vorzunehmenden Maßnahmen der Rechtsverteidigung infor-mieren. EMEDIAGROUP darf bei solchen Auseinandersetzungen mit Dritten Vergleiche nur nach Rücksprache mit dem Nutzer schließen. Andernfalls trägt EMEDIAGROUP sämtliche Kosten der Auseinandersetzung selbst.
+13. Geheimhaltung, Datenschutz
+13.1. Die Vertragspartner verpflichten sich, alle ihnen bei der Vertragsdurchführung von dem jeweils anderen Vertragspartner bekanntwerdenden Betriebsgeheimnisse des anderen Vertragspartners vertraulich zu behandeln. Auch vereinbaren die Parteien, über den Inhalt dieses Vertrags Stillschweigen zu bewahren.
+13.2. Die Vertragspartner beachten die datenschutzrechtlichen Vorschriften. Die Vertrags-partner werden eine den Vorschriften des Art. 28 DSGVO entsprechende Zusatzverein-barung abschließen, wobei diesbezüglich EMEDIAGROUP das Vorschlagsrecht für eine Vereinbarung hat.
+14. Leistung und Fakturierung durch Dritte
+14.1. EMEDIAGROUP ist berechtigt, die vertraglich geschuldeten Leistungen durch Dritte, insbesondere durch mit ihm verbundene Unternehmen, zu erbringen.
+14.2. EMEDIAGROUP ist berechtigt, jegliche Ansprüche aus diesem Vertrag an Dritte, insbe-sondere an verbundene Unternehmen, abzutreten oder Dritte zur Geltendmachung im eigenen Namen zu ermächtigen.
+14.3. Der Nutzer darf nur mit unbestrittenen oder rechtskräftig festgestellten Forderungen aufrechnen. Der Nutzer kann ein Zurückbehaltungsrecht nur in den Fällen unbestritte-ner oder rechtskräftig festgestellter Ansprüche geltend machen. Ein Zurückbehal-tungsrecht oder die Einrede des nicht erfüllten Vertrages stehen dem Nutzer nur in-nerhalb dieses Vertragsverhältnisses zu.
+15. Allgemeines
+15.1. Änderungen, Kündigungen und Ergänzungen dieses Vertrags bedürfen der Textform (z.B. Fax, E-Mail); dies gilt auch für eine Aufhebung dieses Textformerfordernisses.
+15.2. Für das Vertragsverhältnis gilt das Recht der Bundesrepublik Deutschland unter Aus-schluss des UN-Kaufrechts.
+15.3. Sofern der Nutzer, der seinen Sitz in Deutschland hat, Kaufmann, juristische Person des öffentlichen Rechts oder Träger eines öffentlich-rechtlichen Sondervermögens im Sinne des § 38 ZPO ist oder der Nutzer nach Vertragsschluss seinen Wohnsitz, gewöhn-lichen Aufenthaltsort oder Firmensitz ins Ausland verlegt oder dieser nicht bekannt ist, ist ausschließlicher Gerichtsstand Karlsruhe.
+15.4. Die Nichtigkeit oder Unwirksamkeit einzelner Bestimmungen dieses Vertrags berührt die Gültigkeit der übrigen Bestimmungen nicht.
