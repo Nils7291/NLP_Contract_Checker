@@ -1,5 +1,5 @@
 pandas 
-numpy>=1.21,<1.25
+numpy<1.24
 notebook>=7.0,<8.0
 ipykernel
 beautifulsoup4
@@ -8,9 +8,9 @@ python-docx
 requests
 openpyxl
 python-dotenv
-gensim>=4.3.3
+gensim==4.3.3
 transformers
 sentence-transformers
-bertviz
+git+https://github.com/jessevig/bertviz.git
 wordcloud
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
