@@ -20,3 +20,16 @@ Neue Python-Pakete installieren und zur requirements.txt hinzufügen:
         uv pip compile requirements.in > requirements.txt
     - umgebung syncronisieren: 
         uv pip sync requirements.txt
+
+## Cleaning
+- Aktuell: def clean_paragraph_text(text):
+    - 1. remove paragraph marker z. B. '§ 1' oder '1.'
+    - 2. remove punctation
+    - 3. remove double whitespaces
+    - 4. remove whitespace beginning and end
+    
+## Models:
+- Aktuelle models: BERT, SBERT, GBERT, JInai
+"jinaai/jina-embeddings-v3"
+"bert-base-cased"
+"deepset/gbert-base"
