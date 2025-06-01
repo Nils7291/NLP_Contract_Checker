@@ -266,6 +266,70 @@ Androhung/Ankündigung von GFOS vorgenommen
 werden, um die von GFOS mit der
 Sperrung verfolgten berechtigten Interessen
 zu wahren, soweit eine vorherige
+Androhung/Ankündigung nicht gesetzlich
+oder aus anderen rechtlichen Gründen erforderlich ist. Die Sperrung des Zugangs gilt
+nicht zugleich als Kündigung des SaaS-Vertrages. Die Zugangssperrung ohne Kündigung
+kann GFOS nur für eine angemessene Frist,
+bei Vertragsverletzungen des Kunden maximal drei (3) Monate, aufrechterhalten. Der Anspruch von GFOS auf Zahlung der Vergütung
+für die SaaS-Services bleibt während der
+Sperrung unberührt bestehen. Der Kunde hat
+im Fall von Vertragsverletzungen einen Anspruch auf Wiedereinräumung des Zugangs,
+nachdem er nachgewiesen hat, dass er die
+vertragswidrige Nutzung eingestellt und eine
+zukünftige vertragswidrige Nutzung unterbunden hat.
+§ 5 Zulässiger Nutzungsumfang, Recht Dritter
+5.1 Die SaaS-Services dürfen nur durch den Kunden und nur zu den im SaaS-Vertrag vereinbarten Zwecken verwendet werden. Der
+Kunde darf während der Laufzeit des SaaSVertrages auf die jeweiligen SaaS-Services
+zugreifen und die vereinbarten Funktionalitäten vertragsgemäß nutzen. Darüber hinausgehende Rechte, insbesondere an der GFOS
+Software, den zugehörigen IT-Services oder
+den ggf. bereitgestellten Infrastrukturleistungen in der GFOS knownCloud erhält der
+Kunde nicht. Jede weitergehende Nutzung
+der SaaS-Services bedarf der vorherigen
+schriftlichen Zustimmung von GFOS. GFOS
+behält sich alle Rechte an Arbeitsergebnissen,
+Marken, Know-how und sonstigen gewerblichen Schutzrechten vor, die für die jeweiligen
+SaaS-Services bestehen bzw. die im Zusammenhang mit der Nutzung der SaaS-Services
+entstehen.
+5.2 Der Kunde darf die SaaS-Services insbesondere nicht über den vereinbarten Nutzungsumfang hinaus in Anspruch nehmen oder von
+Dritten nutzen lassen oder Dritten zugänglich
+machen. Insbesondere ist es dem Kunden
+nicht gestattet, die SaaS-Service oder Teile
+davon zu vervielfältigen oder die SaaS-Services zu veräußern, zeitlich begrenzt zu überlassen, zu vermieten oder zu verleihen. GFOS
+ist berechtigt, angemessene technische Maßnahmen zum Schutz vor einer nicht vertragsgemäßen Nutzung zu treffen.
+5.3 Soweit der SaaS-Service Bestandteile von
+Drittsoftware enthält, für die gesonderte Lizenzbedingungen gelten, ist dies in der Produktbeschreibung geregelt. Der SaaS-Service
+enthält möglicherweise Bestandteile von Open Source Software, für die dann gesonderte Lizenzbedingungen der jeweiligen
+Rechteinhaber gelten. Die jeweiligen Lizenzbedingungen der Rechteinhaber sind gegenüber den Nutzungsrechten dieser AGB-Cloud
+vorrangig; dies gilt auch für Gewährleistungsund Haftungsausschlüsse der Open Source
+Software Lizenzbedingungen. Open Source
+Software und die für diese gesondert geltenden Lizenzbedingungen werden, soweit erforderlich, in der jeweiligen Produktbeschreibungen angezeigt und/oder in dem der gfos
+Software beigefügten readme.txt, notices.txt
+bzw. licenses.txt aufgeführt und/oder dem
+Kunden anderweitig zur Verfügung gestellt.
+Der Source Code der Open Source Software
+ist gegebenenfalls unter dem dort jeweils angegebenen Link bzw. auf Anfrage verfügbar.
+Soweit die Lizenzbedingungen einer Open
+Source Software ein Recht zur Bearbeitung
+für eigene Zwecke des Kunden und damit
+verbunden zum Reverse Engineering für die
+Zwecke der Fehlerbehebung einer auf diese
+Open Source Software zugreifenden Software erfordern, räumt GFOS dies hiermit dem
+Kunden ein; widersprechende Regelungen im
+jeweiligen SaaS-Vertrag entfalten insoweit
+keine Geltung.
+5.4 Sofern ein Dritter wegen der Verletzung von
+Urheberrechten, Patenten oder sonstigen gewerblichen Schutzrechten durch GFOS oder
+durch die von GFOS erbrachten, vom Kunden
+vertragsgemäß genutzten SaaS-Services gegen den Kunden berechtigte Ansprüche erhebt, und die Nutzung der SaaS-Services
+dem Kunden ganz oder teilweise rechtskräftig untersagt wird, haftet GFOS gegenüber
+dem Kunden wie folgt, wenn und soweit
+GFOS diesbezüglich ein Verschulden vorzuwerfen ist:
+5.5 GFOS wird nach eigener Wahl und auf eigene
+Kosten (i) dem Kunden die Möglichkeit zur
+Nutzung der SaaS-Services verschaffen, oder
+(ii) die SaaS-Services so ändern, dass das
+Schutzrecht des Dritten nicht verletzt wird,
+die SaaS-Services aber im Wesentlichen der 
 vereinbarten Beschaffenheit entsprechen,
 oder (iii) die entrichtete Vergütung für den
 SaaS-Services für den Zeitraum zurückerstatten,
