@@ -17,4 +17,8 @@ matplotlib
 wordcloud
 huggingface-hub==0.14.1
 seaborn
-https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
+stopwords
+nltk
+certifi
+ipywidgets
+#https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
