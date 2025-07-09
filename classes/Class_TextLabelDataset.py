@@ -1,3 +1,5 @@
+from torch.utils.data import Dataset
+
 class TextLabelDataset(Dataset):
     def __init__(self, texts, labels):
         self.texts = texts

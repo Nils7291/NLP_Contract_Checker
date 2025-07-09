@@ -1,5 +1,8 @@
+from functions.functions_preprocessing import (
+    extract_paragraphs_and_sections,
+    clean_sections_and_paragraphs)
 
-
+import pandas as pd
 
 class SectionTopicPredictor:
     def __init__(self, model, catalogue_clean):

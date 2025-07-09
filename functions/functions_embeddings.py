@@ -1,3 +1,10 @@
+
+import pandas as pd
+import torch
+from tqdm import tqdm
+
+
+
 def add_embed_text_column(df, text_column, model, target_column, batch_size=16):
     """
     Computes SentenceTransformer embeddings column-wise in batches, optimized for CPU performance.

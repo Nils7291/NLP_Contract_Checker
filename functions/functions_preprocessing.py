@@ -1,3 +1,16 @@
+
+import re
+import pandas as pd
+from gensim.parsing.preprocessing import (
+    STOPWORDS,
+    strip_tags, strip_numeric, strip_punctuation,
+    strip_multiple_whitespaces, remove_stopwords,
+    strip_short, stem_text
+)
+
+
+
+
 def extract_paragraphs_and_sections(row, col='content', contract_col='contract', print_steps = False):
     import re
 

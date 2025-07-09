@@ -1,10 +1,23 @@
+import torch
+from torch import nn
+from transformers import AutoTokenizer, AutoModel, AutoConfig
+import pandas as pd 
+
+from functions.functions_preprocessing import( 
+    extract_paragraphs_and_sections
+    , extract_title_fixed
+    , clean_sections_and_paragraphs
+)
+
+
+
 class CosineMapper(nn.Module):
     def __init__(
         self,
-        model_name= best_model["model_url"],
-        label_embeddings = label_embeddings,
-        pooling= best_model["pooling_strategy"],
-        threshold= best_model["optimal_threshold"]
+        model_name,# = best_model["model_url"],
+        label_embeddings,# = label_embeddings,
+        pooling,#= best_model["pooling_strategy"],
+        threshold,#= best_model["optimal_threshold"]
     ):
         super().__init__()
         self.tokenizer = AutoTokenizer.from_pretrained(model_name)
