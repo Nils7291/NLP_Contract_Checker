@@ -5,14 +5,14 @@ from functions.functions_preprocessing import (
 import pandas as pd
 
 class SectionTopicPredictor:
-    def __init__(self, model, catalogue_clean):
+    def __init__(self, cosinemapper, topics):
         """
         Parameters:
         - model: dein CosineMapper mit predict()-Methode
         - catalogue_clean: DataFrame mit Spalte 'section_topic'
         """
-        self.model = model
-        self.catalogue_clean = catalogue_clean
+        self.model = cosinemapper
+        self.catalogue_clean = topics
 
     def _preprocess_contract(self, text):
         """
@@ -56,7 +56,7 @@ class SectionTopicPredictor:
                 index = int(label) - 1
                 score = None
 
-            topic = self.catalogue_clean["section_topic"].iloc[index]
+            topic = self.topics.iloc[index]
 
             record = {**section, "predicted_topic": topic}
             if return_topic_score:
