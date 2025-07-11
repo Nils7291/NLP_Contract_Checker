@@ -3,7 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 
 
-# 1. Scraper für Standard-HTML-Verträge
+
 def scrape_html_standard(url):
     try:
         headers = {
