@@ -12,7 +12,7 @@ class SectionTopicPredictor:
         - catalogue_clean: DataFrame mit Spalte 'section_topic'
         """
         self.model = cosinemapper
-        self.catalogue_clean = topics
+        self.topics= topics
 
     def _preprocess_contract(self, text):
         """
