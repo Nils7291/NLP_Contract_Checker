@@ -1,0 +1,14 @@
+{
+    "cSpell.language": "en,de-de",
+"cSpell.enableFiletypes": [
+    "python",
+    "markdown",
+    "notebook"
+],
+"cSpell.userWords": [
+    "yfinance",
+    "DataFrame",
+    "Groq"
+]
+
+}
