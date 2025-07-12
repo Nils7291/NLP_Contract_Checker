@@ -3,8 +3,16 @@ import requests
 from bs4 import BeautifulSoup
 
 
-
 def scrape_html_standard(url):
+    """
+    Scrapes and cleans HTML content from a standard website.
+
+    Parameters:
+    - url: URL of the website to scrape
+
+    Returns:
+    - Cleaned and extracted main text content as a string
+    """
     try:
         headers = {
             "User-Agent": (
@@ -47,8 +55,16 @@ def scrape_html_standard(url):
         return ""
 
 
-# 2. Scraper für CommonPaper-Verträge
 def scrape_html_commonpaper(url):
+    """
+    Scrapes and processes HTML content from CommonPaper contract pages.
+
+    Parameters:
+    - url: URL of the CommonPaper contract
+
+    Returns:
+    - Structured contract content as a string with numbered sections
+    """
     try:
         response = requests.get(url)
         response.raise_for_status()
@@ -56,7 +72,7 @@ def scrape_html_commonpaper(url):
         soup = BeautifulSoup(response.text, "html.parser")
         content = soup.find("div", class_="entry-content")
         if not content:
-            print(f"⚠️ CommonPaper: Kein Hauptbereich gefunden – {url}")
+            print(f"⚠️ CommonPaper: No main content found – {url}")
             return ""
 
         result = []
@@ -79,17 +95,25 @@ def scrape_html_commonpaper(url):
         if top_ol:
             walk_list(top_ol)
         else:
-            print("⚠️ Keine <ol> gefunden!")
+            print("⚠️ No <ol> found!")
 
         return "\n".join(result)
 
     except Exception as e:
-        print(f"Fehler beim Scrapen CommonPaper: {e}")
+        print(f"Error scraping CommonPaper: {e}")
         return ""
 
 
-# 3. Scraper für Fakturia-Verträge
 def scrape_html_fakturia(url):
+    """
+    Scrapes and processes HTML content from Fakturia contract pages.
+
+    Parameters:
+    - url: URL of the Fakturia contract
+
+    Returns:
+    - Structured and cleaned text content with sections and paragraphs
+    """
     try:
         headers = {
             "User-Agent": (
@@ -104,7 +128,7 @@ def scrape_html_fakturia(url):
         soup = BeautifulSoup(response.text, "html.parser")
         content = soup.find("div", class_="entry-content-wrapper")
         if not content:
-            print("⚠️ Fakturia: Kein Hauptbereich gefunden.")
+            print("⚠️ Fakturia: No main content found.")
             return ""
 
         result = []
@@ -134,12 +158,20 @@ def scrape_html_fakturia(url):
         return "\n\n".join(result)
 
     except Exception as e:
-        print(f"Fehler beim Scrapen Fakturia: {e}")
+        print(f"Error scraping Fakturia: {e}")
         return ""
 
 
-# 4. Scraper für Mitratech-Verträge
 def scrape_html_mitratech(url):
+    """
+    Scrapes and processes HTML content from Mitratech or Alyne contract pages.
+
+    Parameters:
+    - url: URL of the Mitratech or Alyne contract
+
+    Returns:
+    - Cleaned and structured text content starting from main sections
+    """
     try:
         headers = {
             "User-Agent": (
@@ -178,13 +210,20 @@ def scrape_html_mitratech(url):
         return "\n\n".join(blocks).strip()
 
     except Exception as e:
-        print(f"Fehler beim Scrapen Mitratech: {e}")
+        print(f"Error scraping Mitratech: {e}")
         return ""
 
 
-# Automatische Auswahl je nach URL
 def scrape_contract_auto(url):
-    
+    """
+    Automatically selects and uses the appropriate scraping function based on the URL.
+
+    Parameters:
+    - url: The URL of the contract
+
+    Returns:
+    - Scraped and processed contract text as a string
+    """
     url_lc = url.lower()
     if "commonpaper.com" in url_lc:
         return scrape_html_commonpaper(url)
@@ -194,14 +233,22 @@ def scrape_contract_auto(url):
         return scrape_html_mitratech(url)
     else:
         return scrape_html_standard(url)
-    
 
-#Funktion zum einlesen von .txt files
+
 def read_txt_file(file_path):
+    """
+    Reads the content of a .txt file.
+
+    Parameters:
+    - file_path: Path to the .txt file
+
+    Returns:
+    - File content as a string, or an empty string if an error occurs
+    """
     try:
         with open(file_path, "r", encoding="utf-8") as file:
             content = file.read()
         return content
     except Exception as e:
-        print(f"Fehler beim Einlesen der Datei: {e}")
+        print(f"Error reading file: {e}")
         return ""
